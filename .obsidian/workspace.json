@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "诊断学/实验诊断.md",
+                "file": "诊断学/症状.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "实验诊断"
+              "title": "症状"
             }
           }
         ],
@@ -107,7 +107,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "7d38cd1fdadcd175",
@@ -231,7 +232,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -249,13 +251,13 @@
   },
   "active": "3fc8d56f88135a2a",
   "lastOpenFiles": [
+    "诊断学/体征.md",
+    "诊断学/实验诊断.md",
     "诊断学/attachments/Pasted image 20260605150333.png",
     "诊断学/attachments",
     "base-all.base",
     "诊断学/症状.md",
     "未命名.canvas",
-    "诊断学/实验诊断.md",
-    "诊断学/体征.md",
     "copilot/copilot-custom-prompts/Generate table of contents.md",
     "copilot/copilot-custom-prompts/Make longer.md",
     "copilot/copilot-custom-prompts/Make shorter.md",
