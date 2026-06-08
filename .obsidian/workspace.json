@@ -4,24 +4,38 @@
     "type": "split",
     "children": [
       {
-        "id": "52ae1dd2b9c1ab80",
+        "id": "3fb25479f6ab62aa",
         "type": "tabs",
         "children": [
           {
-            "id": "6134d5abe52e37df",
+            "id": "666d5449a252e85e",
+            "type": "leaf",
+            "state": {
+              "type": "bases",
+              "state": {
+                "file": "base-all.base",
+                "viewName": "表格"
+              },
+              "icon": "lucide-table",
+              "title": "base-all"
+            }
+          },
+          {
+            "id": "1da050203cb08d94",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "diary/NOTES/2026-06-08. . 一.md",
+                "file": "diary/Templates/test.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-06-08. . 一"
+              "title": "test"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -198,12 +212,11 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -221,12 +234,19 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6134d5abe52e37df",
+  "active": "23c48133e67d81df",
   "lastOpenFiles": [
-    "diary/NOTES/2026-06-08 周一.md",
-    "diary/NOTES/2026-06-08. . 一.md",
+    "diary/Templates/test.md",
     "Untitled.md",
+    "base-all.base",
+    "diary/Templates/Concept.md",
+    "Untitled",
     "diary/Templates/Daily.md",
+    "2026-06-08 Mon.md",
+    "diary/Templates/Daily debug.md",
+    "diary/NOTES/2026-06-08 Mon.md",
+    "diary/NOTES/2026-06-08. . 一.md",
+    "diary/NOTES/2026-06-08 周一.md",
     "diary/Templates/Scripts/CookieCutter.js",
     "diary/Templates/Quarter.md",
     "diary/Templates/Scripts",
@@ -240,7 +260,6 @@
     "diary/Templates/Generic Note link.md",
     "diary/Templates/Generic Note.md",
     "diary/Templates/Experiment.md",
-    "diary/Templates/Concept.md",
     "diary/Templates/Experiment link.md",
     "diary/Templates",
     "diary/README.md",
@@ -251,15 +270,9 @@
     "diary/Dashboard.md",
     "diary/Cheatsheet.md",
     "diary",
-    "2026-06-08.md",
-    "诊断学/症状.md",
-    "诊断学/体征.md",
-    "诊断学/实验诊断.md",
     "诊断学/attachments/Pasted image 20260605150333.png",
     "诊断学/attachments",
-    "base-all.base",
     "未命名.canvas",
-    "诊断学",
-    "中医学"
+    "诊断学"
   ]
 }

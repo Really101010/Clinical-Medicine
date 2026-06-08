@@ -7,15 +7,15 @@
       ""
     ]
   ],
-  "trigger_on_file_creation": false,
+  "trigger_on_file_creation": true,
   "auto_jump_to_cursor": false,
   "enable_system_commands": false,
   "shell_path": "",
   "user_scripts_folder": "",
-  "enable_folder_templates": true,
+  "enable_folder_templates": false,
   "folder_templates": [
     {
-      "folder": "",
+      "folder": "diary",
       "template": ""
     }
   ],
@@ -37,7 +37,10 @@
   "intellisense_render": 1,
   "ignore_folders_on_creation": [
     {
-      "folder": ""
+      "folder": "中医学"
+    },
+    {
+      "folder": "诊断学"
     }
   ]
 }
