@@ -1,0 +1,19 @@
+{
+  "conversations": [
+    {
+      "id": "1780882378591",
+      "title": "New Conversation",
+      "messages": [],
+      "createdAt": 1780882378591,
+      "updatedAt": 1780882378591,
+      "model": {
+        "label": "GPT-5.2",
+        "value": "gpt-5.2",
+        "multiplier": "1x",
+        "tier": "Medium",
+        "supportsReasoningEffort": true
+      }
+    }
+  ],
+  "activeConversationId": "1780882378591"
+}

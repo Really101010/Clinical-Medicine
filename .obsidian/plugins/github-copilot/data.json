@@ -2,7 +2,7 @@
   "nodePath": "F:\\Node.js\\node.exe",
   "nodePathUpdatedToNode20": true,
   "nodePathUpdatedToNode22": true,
-  "enabled": false,
+  "enabled": true,
   "hotkeys": {
     "accept": "Tab",
     "cancel": "Escape",
