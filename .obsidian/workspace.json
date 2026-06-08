@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "3fb25479f6ab62aa",
+        "id": "d7cebf858a62a004",
         "type": "tabs",
         "children": [
           {
-            "id": "666d5449a252e85e",
+            "id": "588974621c3a58a8",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -202,7 +202,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -220,26 +221,34 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "666d5449a252e85e",
+  "active": "588974621c3a58a8",
   "lastOpenFiles": [
+    "diary/NOTES/2026-06-08 Mon.md",
+    "Untitled 1.md",
+    "Diary/DailyNote/0001/Q1.md",
+    "diary/DailyNote/0001/Q1.md",
+    "diary/DailyNote/0001",
+    "diary/DailyNote",
+    "Diary/DailyNote/0001",
+    "Diary/DailyNote",
+    "Untitled.md",
+    "diary/Templates/Concept.md",
+    "diary/Templates/Daily debug.md",
+    "diary/Templates/Daily.md",
+    "diary/Templates/Project Summary.md",
+    "diary/Templates/Quarter.md",
+    "诊断学/症状.md",
     "诊断学/体征.md",
     "诊断学/实验诊断.md",
     "diary/Templates/test.md",
-    "Untitled.md",
     "base-all.base",
-    "diary/Templates/Concept.md",
     "Untitled",
-    "diary/Templates/Daily.md",
     "2026-06-08 Mon.md",
-    "diary/Templates/Daily debug.md",
-    "diary/NOTES/2026-06-08 Mon.md",
     "diary/NOTES/2026-06-08. . 一.md",
     "diary/NOTES/2026-06-08 周一.md",
     "diary/Templates/Scripts/CookieCutter.js",
-    "diary/Templates/Quarter.md",
     "diary/Templates/Scripts",
     "diary/People/ExamplePerson.md",
-    "diary/Templates/Project Summary.md",
     "diary/Templates/Person.md",
     "diary/Templates/Project Phase.md",
     "diary/Templates/Project diary entry.md",
@@ -248,17 +257,9 @@
     "diary/Templates/Generic Note link.md",
     "diary/Templates/Generic Note.md",
     "diary/Templates/Experiment.md",
-    "diary/Templates/Experiment link.md",
     "diary/Templates",
-    "diary/README.md",
-    "diary/Project ideas.md",
     "diary/People",
-    "diary/NOTES",
-    "diary/Manuscripts.md",
-    "diary",
     "诊断学/attachments/Pasted image 20260605150333.png",
-    "诊断学/attachments",
-    "未命名.canvas",
-    "诊断学"
+    "未命名.canvas"
   ]
 }
