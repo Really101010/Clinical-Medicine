@@ -1,4 +1,13 @@
+formulas:
+  todo: ""
 views:
+  - type: cards
+    name: Cards1
+    order:
+      - file.name
+      - file.ctime
+      - file.tags
+    cardSize: 170
   - type: table
     name: 表格
     order:
@@ -6,6 +15,3 @@ views:
     sort:
       - property: file.mtime
         direction: DESC
-  - type: cards
-    name: Cards1
-    cardSize: 170

@@ -4,38 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "d7cebf858a62a004",
+        "id": "80fde456864684f8",
         "type": "tabs",
         "children": [
           {
-            "id": "39235193a69cf348",
+            "id": "26b9df583abd3707",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "diary/README.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "README"
-            }
-          },
-          {
-            "id": "1b0ba70cb04512b2",
-            "type": "leaf",
-            "state": {
-              "type": "bases",
-              "state": {
-                "file": "base-all.base",
-                "viewName": "Cards1"
-              },
-              "icon": "lucide-layout-grid",
-              "title": "base-all"
+              "title": "New tab"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -235,17 +217,25 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1b0ba70cb04512b2",
+  "active": "26b9df583abd3707",
   "lastOpenFiles": [
+    "藏象学说（包括气血津液）.md",
+    "base-all.base",
     "中医复习scale.md",
+    "中医学大纲.md",
+    "针灸基础知识.md",
+    "中医学发展简史和特点.md",
+    "阴阳五行学说.md",
     "中毒性呼吸困难.md",
     "症状纲要.md",
-    "实验诊断.md",
+    "胸痛.md",
     "心源性呼吸困难.md",
-    "咳嗽咳痰.md",
     "体征.md",
+    "咳嗽咳痰.md",
+    "实验诊断.md",
+    "咯血.md",
+    "肺源性呼吸困难.md",
     "Pasted image 20260605150333.png",
-    "base-all.base",
     "Untitled 1.md",
     "Untitled.md",
     "中医学/藏象学说.md",
@@ -256,15 +246,7 @@
     "diary/Templates/Person.md",
     "diary/Templates/Generic Note.md",
     "diary/Templates/Experiment.md",
-    "diary/Templates/Daily.md",
-    "diary/Templates/Concept.md",
-    "diary/NOTES/2026-06-08 Mon.md",
-    "肺源性呼吸困难.md",
-    "胸痛.md",
-    "咯血.md",
     "诊断学/症状",
-    "Diary/DailyNote/0001/Q1.md",
-    "diary/DailyNote/0001/Q1.md",
     "diary/DailyNote/0001",
     "diary/DailyNote",
     "Diary/DailyNote/0001",
