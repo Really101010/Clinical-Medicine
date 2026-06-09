@@ -6,3 +6,6 @@ views:
     sort:
       - property: file.mtime
         direction: DESC
+  - type: cards
+    name: Cards1
+    cardSize: 170

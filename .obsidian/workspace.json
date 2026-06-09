@@ -28,9 +28,9 @@
               "type": "bases",
               "state": {
                 "file": "base-all.base",
-                "viewName": "表格"
+                "viewName": "Cards1"
               },
-              "icon": "lucide-table",
+              "icon": "lucide-layout-grid",
               "title": "base-all"
             }
           }
