@@ -13,15 +13,29 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "diary/NOTES/2026-06-08 Mon.md",
+                "file": "diary/README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-06-08 Mon"
+              "title": "README"
+            }
+          },
+          {
+            "id": "1b0ba70cb04512b2",
+            "type": "leaf",
+            "state": {
+              "type": "bases",
+              "state": {
+                "file": "base-all.base",
+                "viewName": "表格"
+              },
+              "icon": "lucide-table",
+              "title": "base-all"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -221,9 +235,24 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "39235193a69cf348",
+  "active": "1b0ba70cb04512b2",
   "lastOpenFiles": [
+    "Untitled 1.md",
+    "base-all.base",
+    "Untitled.md",
     "诊断学/症状/症状纲要.md",
+    "中医学/复习scale.md",
+    "中医学/藏象学说.md",
+    "diary/README.md",
+    "diary/Templates/Project Summary.md",
+    "diary/Templates/Project Phase.md",
+    "diary/Templates/Project diary entry.md",
+    "diary/Templates/Person.md",
+    "diary/Templates/Generic Note.md",
+    "diary/Templates/Experiment.md",
+    "diary/Templates/Daily.md",
+    "diary/Templates/Concept.md",
+    "diary/NOTES/2026-06-08 Mon.md",
     "中毒性呼吸困难.md",
     "心源性呼吸困难.md",
     "肺源性呼吸困难.md",
@@ -231,32 +260,16 @@
     "诊断学/症状/咯血.md",
     "咳嗽咳痰.md",
     "诊断学/症状",
-    "diary/NOTES/2026-06-08 Mon.md",
-    "Untitled 1.md",
     "Diary/DailyNote/0001/Q1.md",
     "diary/DailyNote/0001/Q1.md",
     "diary/DailyNote/0001",
     "diary/DailyNote",
     "Diary/DailyNote/0001",
     "Diary/DailyNote",
-    "Untitled.md",
-    "diary/Templates/Concept.md",
     "diary/Templates/Daily debug.md",
-    "diary/Templates/Daily.md",
-    "diary/Templates/Project Summary.md",
     "diary/Templates/Quarter.md",
-    "诊断学/体征.md",
-    "诊断学/实验诊断.md",
-    "diary/Templates/test.md",
-    "base-all.base",
-    "2026-06-08 Mon.md",
-    "diary/NOTES/2026-06-08. . 一.md",
-    "diary/NOTES/2026-06-08 周一.md",
     "diary/Templates/Scripts/CookieCutter.js",
     "diary/Templates/Scripts",
-    "diary/People/ExamplePerson.md",
-    "diary/Templates/Person.md",
-    "diary/Templates/Project Phase.md",
     "diary/Templates",
     "diary/People",
     "诊断学/attachments/Pasted image 20260605150333.png",
