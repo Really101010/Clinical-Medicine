@@ -63,17 +63,22 @@
     {
       "name": "Blue Highlight",
       "css": "background-color: #3F4B5E; color: white",
-      "contextMenu": false
+      "contextMenu": true
     },
     {
       "name": "Large Green",
       "css": "font-size: 20px; color: #D5E0A0",
-      "contextMenu": false
+      "contextMenu": true
     },
     {
       "name": "Large Pink",
       "css": "font-size: 20px; color: #FFDEDE",
-      "contextMenu": false
+      "contextMenu": true
+    },
+    {
+      "name": "underline",
+      "css": ".underline {   text-decoration: underline; }",
+      "contextMenu": true
     }
   ]
 }
