@@ -36,17 +36,17 @@
             }
           },
           {
-            "id": "db1a5d10a7aa62a5",
+            "id": "193fbe0b9695a8f7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "皮肤.md",
+                "file": "颈部检查.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "皮肤"
+              "title": "颈部检查"
             }
           }
         ],
@@ -251,13 +251,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "db1a5d10a7aa62a5",
+  "active": "193fbe0b9695a8f7",
   "lastOpenFiles": [
-    "皮肤.md",
+    "颈部检查.md",
     "一般检查.md",
+    "皮肤.md",
+    "头部检查.md",
     "全身状态检查.md",
-    "黄疸.md",
     "体征.md",
+    "黄疸.md",
     "症状纲要.md",
     "意识障碍.md",
     "颅内高压.md",
@@ -280,8 +282,6 @@
     "浸润性乳头癌.md",
     "子宫颈疾病.md",
     "乳腺癌.md",
-    "化生性癌.md",
-    "浸润性小叶癌.md",
     "base-all.base",
     "Pasted image 20260605150333.png",
     "诊断学/症状",
