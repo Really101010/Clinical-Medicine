@@ -2,52 +2,52 @@
   "styles": [
     {
       "name": "Super Big",
-      "css": "font-size: 28px;",
+      "css": "font-size: 24px;",
       "contextMenu": false
     },
     {
-      "name": "Super Big Yellow Highlight",
-      "css": "font-size: 28px; background-color: #fff88f; color: black",
+      "name": "Big Yellow Highlight",
+      "css": "font-size: 20px; background-color: #705A16; color: white",
       "contextMenu": false
     },
     {
       "name": "Big",
-      "css": "font-size: 24px",
-      "contextMenu": true
-    },
-    {
-      "name": "Big Green Highlight",
-      "css": "font-size: 24px; background-color: #1EFF00; color: black",
-      "contextMenu": true
-    },
-    {
-      "name": "Large",
       "css": "font-size: 20px",
       "contextMenu": true
     },
     {
+      "name": "Big Green Highlight",
+      "css": "font-size: 20px; background-color: #1A4F10; color: white",
+      "contextMenu": true
+    },
+    {
+      "name": "Large",
+      "css": "font-size: 18px",
+      "contextMenu": true
+    },
+    {
       "name": "Large Yellow",
-      "css": "font-size: 20px; color: yellow",
+      "css": "font-size: 18px; color: #FAF9C6",
       "contextMenu": true
     },
     {
       "name": "Large Orange",
-      "css": "font-size: 20px; color: orange",
+      "css": "font-size: 18px; color: #FAD9AA",
       "contextMenu": true
     },
     {
       "name": "Large Red",
-      "css": "font-size: 20px; color: red",
+      "css": "font-size: 18px; color: #FF0000",
       "contextMenu": true
     },
     {
       "name": "Green Highlight",
-      "css": "background-color: #1EFF00; color: black",
+      "css": "background-color: #1A4F10; color: white",
       "contextMenu": true
     },
     {
       "name": "Yellow Highlight",
-      "css": "background-color: #FFFBD4; color: black",
+      "css": "background-color: #705A16; color: white",
       "contextMenu": true
     },
     {
@@ -59,6 +59,21 @@
       "name": "Small-supplemental",
       "css": "font-size: 16px; color: grey",
       "contextMenu": true
+    },
+    {
+      "name": "Blue Highlight",
+      "css": "background-color: f#14525E; color: white",
+      "contextMenu": false
+    },
+    {
+      "name": "Large Green",
+      "css": "font-size: 20px; color: #D5E0A0",
+      "contextMenu": false
+    },
+    {
+      "name": "Large Pink",
+      "css": "font-size: 20px; color: #FFDEDE",
+      "contextMenu": false
     }
   ]
 }

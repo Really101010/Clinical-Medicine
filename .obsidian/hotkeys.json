@@ -16,15 +16,6 @@
       "key": "D"
     }
   ],
-  "style-text:style13": [
-    {
-      "modifiers": [
-        "Mod",
-        "Shift"
-      ],
-      "key": ","
-    }
-  ],
   "style-text:style12": [
     {
       "modifiers": [
@@ -37,9 +28,28 @@
   "style-text:style10": [
     {
       "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "G"
+    }
+  ],
+  "style-text:style11": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "Y"
+    }
+  ],
+  "style-text:style13": [
+    {
+      "modifiers": [
+        "Alt",
         "Mod"
       ],
-      "key": "R"
+      "key": "Y"
     }
   ]
 }
