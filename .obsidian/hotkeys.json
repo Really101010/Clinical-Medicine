@@ -106,14 +106,6 @@
       "key": "Y"
     }
   ],
-  "style-text:style17": [
-    {
-      "modifiers": [
-        "Mod"
-      ],
-      "key": "U"
-    }
-  ],
   "style-text:style16": [
     {
       "modifiers": [
@@ -129,6 +121,24 @@
         "Meta"
       ],
       "key": "B"
+    }
+  ],
+  "style-text:style17": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "U"
+    }
+  ],
+  "app:reload": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod"
+      ],
+      "key": "N"
     }
   ]
 }
