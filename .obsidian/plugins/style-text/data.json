@@ -47,7 +47,7 @@
     },
     {
       "name": "Yellow Highlight",
-      "css": "background-color: #fff88f; color: black",
+      "css": "background-color: #FFFBD4; color: black",
       "contextMenu": true
     },
     {
@@ -57,7 +57,7 @@
     },
     {
       "name": "Small-supplemental",
-      "css": "font-size: 16px; color: white",
+      "css": "font-size: 16px; color: grey",
       "contextMenu": true
     }
   ]
