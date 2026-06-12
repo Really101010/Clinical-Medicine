@@ -74,12 +74,12 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "7d38cd1fdadcd175",
@@ -199,11 +199,12 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 7
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -221,8 +222,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "04b666b21309cdcf",
+  "active": "f17ed1ed49e37ab6",
   "lastOpenFiles": [
+    "copilot/copilot-conversations/Jaundice_Itching_Causes_Explained@20260612_150214.md",
+    "copilot/copilot-conversations",
     "diary/NOTES/2026-06-12 Fri.md",
     "黄疸.md",
     "Untitled.md",
@@ -248,7 +251,6 @@
     "导管内癌.md",
     "症状纲要.md",
     "腹痛.md",
-    "呼吸困难.md",
     "base-all.base",
     "Pasted image 20260605150333.png",
     "诊断学/症状",
@@ -259,7 +261,6 @@
     "diary/Templates/Scripts/CookieCutter.js",
     "diary/Templates/Scripts",
     "diary/Templates",
-    "diary/People",
     "未命名.canvas"
   ]
 }
