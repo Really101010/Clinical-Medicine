@@ -43,13 +43,58 @@
       "key": "Y"
     }
   ],
-  "style-text:style13": [
+  "style-text:style6": [
     {
       "modifiers": [
         "Alt",
         "Mod"
       ],
       "key": "Y"
+    }
+  ],
+  "style-text:style8": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod"
+      ],
+      "key": "R"
+    }
+  ],
+  "style-text:style15": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod"
+      ],
+      "key": "P"
+    }
+  ],
+  "style-text:style7": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod"
+      ],
+      "key": "O"
+    }
+  ],
+  "style-text:style14": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod"
+      ],
+      "key": "G"
+    }
+  ],
+  "style-text:style5": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "."
     }
   ]
 }
