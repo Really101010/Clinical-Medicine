@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "36e05f8bad6251c2",
+        "id": "77fd820481e769dc",
         "type": "tabs",
         "children": [
           {
-            "id": "a81d5486843b8d48",
+            "id": "f17ed1ed49e37ab6",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -61,7 +61,7 @@
                 "sortOrder": "alphabetical"
               },
               "icon": "lucide-search",
-              "title": "搜索"
+              "title": "Search"
             }
           },
           {
@@ -71,10 +71,11 @@
               "type": "bookmarks",
               "state": {},
               "icon": "lucide-bookmark",
-              "title": "书签"
+              "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -113,12 +114,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "欢迎.md",
+                "file": "黄疸.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "欢迎 的出链列表"
+              "title": "Outgoing links from 黄疸"
             }
           },
           {
@@ -133,7 +134,7 @@
                 "searchQuery": ""
               },
               "icon": "lucide-tags",
-              "title": "标签"
+              "title": "Tags"
             }
           },
           {
@@ -147,7 +148,7 @@
                 "searchQuery": ""
               },
               "icon": "lucide-archive",
-              "title": "添加笔记属性"
+              "title": "All properties"
             }
           },
           {
@@ -156,13 +157,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "欢迎.md",
+                "file": "黄疸.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "欢迎 的大纲"
+              "title": "Outline of 黄疸"
             }
           },
           {
@@ -171,10 +172,10 @@
             "state": {
               "type": "footnotes",
               "state": {
-                "file": "创建链接.md"
+                "file": "黄疸.md"
               },
               "icon": "lucide-file-signature",
-              "title": "脚注"
+              "title": "Footnotes"
             }
           },
           {
@@ -198,12 +199,11 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -221,11 +221,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a81d5486843b8d48",
+  "active": "04b666b21309cdcf",
   "lastOpenFiles": [
+    "diary/NOTES/2026-06-12 Fri.md",
+    "黄疸.md",
+    "Untitled.md",
     "总论与心理学基础.md",
     "医学心理学大纲.md",
-    "黄疸.md",
     "中医学发展简史和特点.md",
     "中医学大纲.md",
     "针灸基础知识.md",
@@ -247,8 +249,6 @@
     "症状纲要.md",
     "腹痛.md",
     "呼吸困难.md",
-    "肺源性呼吸困难.md",
-    "发热.md",
     "base-all.base",
     "Pasted image 20260605150333.png",
     "诊断学/症状",
