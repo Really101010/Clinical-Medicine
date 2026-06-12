@@ -79,6 +79,11 @@
       "name": "underline",
       "css": "text-decoration: underline;",
       "contextMenu": true
+    },
+    {
+      "name": "U+B",
+      "css": "font-weight: bold; text-decoration: underline;",
+      "contextMenu": true
     }
   ]
 }

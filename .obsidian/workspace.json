@@ -36,7 +36,7 @@
             }
           },
           {
-            "id": "fc738db9f463123d",
+            "id": "6d5437f872a87e48",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -82,7 +82,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "体征",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -104,7 +104,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -252,10 +252,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "fc738db9f463123d",
+  "active": "6d5437f872a87e48",
   "lastOpenFiles": [
-    "全身状态检查.md",
     "一般检查.md",
+    "黄疸.md",
+    "全身状态检查.md",
     "体征.md",
     "症状纲要.md",
     "意识障碍.md",
@@ -264,7 +265,6 @@
     "胡桃夹综合征.md",
     "attachments/Pasted image 20260612153326.png",
     "attachments",
-    "黄疸.md",
     "copilot/copilot-conversations/Jaundice_Itching_Causes_Explained@20260612_150214.md",
     "copilot/copilot-conversations",
     "diary/NOTES/2026-06-12 Fri.md",

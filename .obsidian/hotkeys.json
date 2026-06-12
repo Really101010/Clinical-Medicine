@@ -121,5 +121,14 @@
       ],
       "key": "U"
     }
+  ],
+  "style-text:style18": [
+    {
+      "modifiers": [
+        "Mod",
+        "Meta"
+      ],
+      "key": "B"
+    }
   ]
 }
