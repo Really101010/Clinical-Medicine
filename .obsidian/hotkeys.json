@@ -15,5 +15,23 @@
       ],
       "key": "D"
     }
+  ],
+  "style-text:style13": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": ","
+    }
+  ],
+  "style-text:style12": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "8"
+    }
   ]
 }
