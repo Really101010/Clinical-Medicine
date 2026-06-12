@@ -77,7 +77,7 @@
     },
     {
       "name": "underline",
-      "css": ".underline {   text-decoration: underline; }",
+      "css": "text-decoration: underline;",
       "contextMenu": true
     }
   ]
