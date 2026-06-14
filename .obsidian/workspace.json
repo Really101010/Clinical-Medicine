@@ -27,20 +27,6 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "临床血液学检查.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "临床血液学检查"
-            }
-          },
-          {
-            "id": "4d218544cd29e3cb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
                 "file": "血常规.md",
                 "mode": "source",
                 "source": false
@@ -50,7 +36,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -69,7 +55,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical",
+                "sortOrder": "byCreatedTime",
                 "autoReveal": true
               },
               "icon": "lucide-folder-closed",
@@ -82,7 +68,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "诊断",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -103,7 +89,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -251,10 +238,27 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4d218544cd29e3cb",
+  "active": "efef2a85896219bf",
   "lastOpenFiles": [
+    "多发性骨髓瘤.md",
     "血常规.md",
+    "腹部检查.md",
+    "骨髓纤维化.md",
     "临床血液学检查.md",
+    "贫血.md",
+    "地中海贫血.md",
+    "巨幼细胞性贫血.md",
+    "急性失血性贫血.md",
+    "溶血性贫血.md",
+    "低色素性[[贫血.md",
+    "缺铁性贫血.md",
+    "肿瘤.md",
+    "妊娠.md",
+    "尿崩症.md",
+    "卵巢癌.md",
+    "肝癌.md",
+    "肝细胞癌.md",
+    "肾癌.md",
     "实验诊断.md",
     "体液与排泄物检查.md",
     "临床生物化学.md",
@@ -262,24 +266,7 @@
     "诊断学大纲.md",
     "体征.md",
     "一般检查.md",
-    "神经系统检查.md",
-    "蛛网膜下腔出血.md",
-    "脑膜炎.md",
     "attachments/Pasted image 20260614105522.png",
-    "Meniere 病.md",
-    "脊髓空洞症.md",
-    "小脑病变.md",
-    "尿毒症.md",
-    "肺性脑病.md",
-    "肝性脑病.md",
-    "脊柱与四肢检查.md",
-    "呼吸困难.md",
-    "贫血.md",
-    "缺铁性贫血.md",
-    "感染性心内膜炎.md",
-    "肝硬化.md",
-    "肺脓肿.md",
-    "肺癌.md",
     "attachments/Pasted image 20260614095538.png",
     "attachments/Pasted image 20260612153326.png",
     "attachments",
