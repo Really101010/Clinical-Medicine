@@ -4,38 +4,39 @@
     "type": "split",
     "children": [
       {
-        "id": "d4eaf9ba0c83d106",
+        "id": "224926e799ecc949",
         "type": "tabs",
         "children": [
           {
-            "id": "6b78e1ae74479d5e",
+            "id": "ff94420c9a28e012",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "卵巢疾病.md",
+                "file": "尿常规.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "卵巢疾病"
+              "title": "尿常规"
             }
           },
           {
-            "id": "731ba8c91d697972",
+            "id": "cb0962d1f569d5d5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "乳腺病变.md",
+                "file": "尿蛋白.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "乳腺病变"
+              "title": "尿蛋白"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -237,11 +238,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6b78e1ae74479d5e",
+  "active": "cb0962d1f569d5d5",
   "lastOpenFiles": [
+    "尿蛋白.md",
+    "尿常规.md",
     "乳腺病变.md",
-    "甲状腺乳头状腺癌.md",
     "卵巢疾病.md",
+    "甲状腺乳头状腺癌.md",
     "卵巢癌.md",
     "子宫体疾病.md",
     "乳腺癌.md",
@@ -250,7 +253,6 @@
     "子宫内膜增生症.md",
     "子宫颈疾病.md",
     "体液与排泄物检查.md",
-    "尿常规.md",
     "糖尿病.md",
     "痛风.md",
     "膀胱炎.md",
@@ -264,7 +266,6 @@
     "血常规.md",
     "猩红热.md",
     "发热.md",
-    "白血病.md",
     "attachments/Pasted image 20260614105522.png",
     "attachments/Pasted image 20260614095538.png",
     "attachments/Pasted image 20260612153326.png",
