@@ -4,39 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "d2e7bcf3f4c5280f",
+        "id": "f06fc90a9c7ac859",
         "type": "tabs",
         "children": [
           {
-            "id": "ceb2aedce9c15eb7",
+            "id": "ff82e00c1a09b6cc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "体液与排泄物检查.md",
+                "file": "子宫颈疾病.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "体液与排泄物检查"
-            }
-          },
-          {
-            "id": "fc004a1ccea2af44",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "尿常规.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "尿常规"
+              "title": "子宫颈疾病"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -68,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "子宫",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -238,16 +223,17 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "fc004a1ccea2af44",
+  "active": "ff82e00c1a09b6cc",
   "lastOpenFiles": [
-    "糖尿病.md",
+    "乳腺癌.md",
+    "体液与排泄物检查.md",
     "尿常规.md",
+    "糖尿病.md",
     "痛风.md",
     "膀胱炎.md",
     "肾盂肾炎.md",
     "挤压综合症.md",
     "蚕豆病.md",
-    "体液与排泄物检查.md",
     "实验诊断.md",
     "临床生物化学.md",
     "临床血液学检查.md",
@@ -265,7 +251,6 @@
     "地中海贫血.md",
     "巨幼细胞性贫血.md",
     "急性失血性贫血.md",
-    "溶血性贫血.md",
     "attachments/Pasted image 20260614105522.png",
     "attachments/Pasted image 20260614095538.png",
     "attachments/Pasted image 20260612153326.png",
