@@ -35,7 +35,8 @@
               "title": "乳腺病变"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -237,10 +238,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6b78e1ae74479d5e",
+  "active": "731ba8c91d697972",
   "lastOpenFiles": [
-    "乳腺病变.md",
     "卵巢疾病.md",
+    "乳腺病变.md",
     "卵巢癌.md",
     "子宫体疾病.md",
     "乳腺癌.md",
