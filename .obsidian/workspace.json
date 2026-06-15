@@ -8,21 +8,21 @@
         "type": "tabs",
         "children": [
           {
-            "id": "7d3c305efcaf30c4",
+            "id": "6b78e1ae74479d5e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "乳腺癌.md",
+                "file": "卵巢疾病.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "乳腺癌"
+              "title": "卵巢疾病"
             }
           },
           {
-            "id": "6b78e1ae74479d5e",
+            "id": "731ba8c91d697972",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -35,8 +35,7 @@
               "title": "乳腺病变"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -68,7 +67,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "乳腺",
+                "query": "卵巢",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -89,7 +88,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -239,10 +239,11 @@
   },
   "active": "6b78e1ae74479d5e",
   "lastOpenFiles": [
-    "乳腺癌.md",
     "乳腺病变.md",
     "卵巢疾病.md",
+    "卵巢癌.md",
     "子宫体疾病.md",
+    "乳腺癌.md",
     "内分泌系统疾病.md",
     "子宫内膜异位症.md",
     "子宫内膜增生症.md",
@@ -264,7 +265,6 @@
     "发热.md",
     "白血病.md",
     "血小板.md",
-    "红细胞.md",
     "attachments/Pasted image 20260614105522.png",
     "attachments/Pasted image 20260614095538.png",
     "attachments/Pasted image 20260612153326.png",
