@@ -26,18 +26,18 @@
       "contextMenu": true
     },
     {
-      "name": "Large Yellow",
-      "css": "font-size: 18px; color: #FAF9C6",
+      "name": "Yellow",
+      "css": "font-size: 16px; color: #FAF9C6",
       "contextMenu": true
     },
     {
-      "name": "Large Orange",
-      "css": "font-size: 18px; color: #FAD9AA",
+      "name": "Orange",
+      "css": "font-size: 16px; color: #FAD9AA",
       "contextMenu": true
     },
     {
-      "name": "Large Red",
-      "css": "font-size: 18px; color: #FF0000",
+      "name": "Red",
+      "css": "font-size: 16px; color: #FF0000",
       "contextMenu": true
     },
     {
@@ -66,13 +66,13 @@
       "contextMenu": true
     },
     {
-      "name": "Large Green",
-      "css": "font-size: 20px; color: #D5E0A0",
+      "name": "Green",
+      "css": "font-size: 16px; color: #D5E0A0",
       "contextMenu": true
     },
     {
-      "name": "Large Pink",
-      "css": "font-size: 20px; color: #FFDEDE",
+      "name": "Pink",
+      "css": "font-size: 16px; color: #FFDEDE",
       "contextMenu": true
     },
     {

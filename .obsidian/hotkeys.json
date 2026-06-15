@@ -140,5 +140,14 @@
       ],
       "key": "N"
     }
+  ],
+  "style-text:style13": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "B"
+    }
   ]
 }
