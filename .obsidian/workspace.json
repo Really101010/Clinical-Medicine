@@ -4,39 +4,53 @@
     "type": "split",
     "children": [
       {
-        "id": "4538eb89b7ad7819",
+        "id": "0465aaff96bb6887",
         "type": "tabs",
         "children": [
           {
-            "id": "2ce26e0e1f8f5b2d",
+            "id": "4dfc6ffaff66a1a8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "临床生物化学.md",
+                "file": "中医复习scale.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "临床生物化学"
+              "title": "中医复习scale"
             }
           },
           {
-            "id": "0a7ed7ee84e62ba6",
+            "id": "7a3be3e17d6cabec",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "血气分析.md",
+                "file": "中医学大纲.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "血气分析"
+              "title": "中医学大纲"
+            }
+          },
+          {
+            "id": "7f136b276d7d6715",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "防治原则与方法.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "防治原则与方法"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -238,10 +252,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0a7ed7ee84e62ba6",
+  "active": "7f136b276d7d6715",
   "lastOpenFiles": [
-    "血气分析.md",
+    "中医复习scale.md",
+    "防治原则与方法.md",
+    "中医学大纲.md",
     "临床生物化学.md",
+    "血气分析.md",
     "肾功能检查.md",
     "实验诊断.md",
     "黄疸.md",
@@ -267,9 +284,6 @@
     "感染.md",
     "肾病综合征.md",
     "尿三胆.md",
-    "尿糖.md",
-    "肾炎.md",
-    "妊娠期糖尿.md",
     "attachments/Pasted image 20260614105522.png",
     "attachments/Pasted image 20260614095538.png",
     "attachments/Pasted image 20260612153326.png",
