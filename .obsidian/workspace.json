@@ -22,17 +22,17 @@
             }
           },
           {
-            "id": "94dd01c091f9d440",
+            "id": "3b832f2202b1f83e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "甲状腺炎.md",
+                "file": "甲状腺肿瘤.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "甲状腺炎"
+              "title": "甲状腺肿瘤"
             }
           },
           {
@@ -252,11 +252,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "94dd01c091f9d440",
+  "active": "3b832f2202b1f83e",
   "lastOpenFiles": [
+    "卵巢疾病.md",
+    "甲状腺肿瘤.md",
     "内分泌系统疾病.md",
-    "甲状腺炎.md",
     "病理复习scale.md",
+    "肿瘤.md",
+    "甲状腺炎.md",
     "肉芽肿.md",
     "炎症.md",
     "甲状腺功能低下.md",
@@ -278,9 +281,6 @@
     "乳腺病变.md",
     "子宫颈疾病.md",
     "attachments/Pasted image 20260616140624.png",
-    "心理复习scale.md",
-    "总论与心理学基础.md",
-    "诊断复习scale.md",
     "attachments/Pasted image 20260615213710.png",
     "attachments/Pasted image 20260615211132.png",
     "attachments/Pasted image 20260615211051.png",
