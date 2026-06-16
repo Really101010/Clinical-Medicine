@@ -48,9 +48,23 @@
               "icon": "lucide-file",
               "title": "防治原则与方法"
             }
+          },
+          {
+            "id": "7489697b9ea25a7b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "阴阳治则.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "阴阳治则"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -252,10 +266,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7f136b276d7d6715",
+  "active": "7489697b9ea25a7b",
   "lastOpenFiles": [
-    "中医复习scale.md",
+    "标本治则.md",
     "防治原则与方法.md",
+    "反治.md",
+    "阴阳治则.md",
+    "正治.md",
+    "治病求本.md",
+    "中医复习scale.md",
     "中医学大纲.md",
     "临床生物化学.md",
     "血气分析.md",
@@ -279,11 +298,6 @@
     "阿米巴.md",
     "便常规.md",
     "克罗恩病.md",
-    "尿常规.md",
-    "尿沉渣.md",
-    "感染.md",
-    "肾病综合征.md",
-    "尿三胆.md",
     "attachments/Pasted image 20260614105522.png",
     "attachments/Pasted image 20260614095538.png",
     "attachments/Pasted image 20260612153326.png",
