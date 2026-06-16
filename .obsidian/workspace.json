@@ -110,7 +110,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "scale",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -292,6 +292,7 @@
   },
   "active": "f8d07be735416fab",
   "lastOpenFiles": [
+    "attachments/Pasted image 20260616213932.png",
     "肾炎.md",
     "泌尿系统疾病.md",
     "肾病综合征.md",
@@ -317,7 +318,6 @@
     "甲亢.md",
     "克汀病.md",
     "垂体腺瘤.md",
-    "弥漫性非毒性甲状腺肿.md",
     "attachments/Pasted image 20260616140624.png",
     "attachments/Pasted image 20260615213710.png",
     "attachments/Pasted image 20260615211132.png",
