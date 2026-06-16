@@ -158,12 +158,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "黄疸.md",
+                "file": "肾小球肾炎.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 黄疸"
+              "title": "Outgoing links from 肾小球肾炎"
             }
           },
           {
@@ -201,13 +201,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "黄疸.md",
+                "file": "肾小球肾炎.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 黄疸"
+              "title": "Outline of 肾小球肾炎"
             }
           },
           {
@@ -216,7 +216,7 @@
             "state": {
               "type": "footnotes",
               "state": {
-                "file": "黄疸.md"
+                "file": "肾小球肾炎.md"
               },
               "icon": "lucide-file-signature",
               "title": "Footnotes"
@@ -243,7 +243,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
