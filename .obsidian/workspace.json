@@ -4,67 +4,39 @@
     "type": "split",
     "children": [
       {
-        "id": "3f3e34fb0b18efdc",
+        "id": "a32ecf688a24ca20",
         "type": "tabs",
         "children": [
           {
-            "id": "88d3db5817bc8ed0",
+            "id": "a60ffa1fce8f47c7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "病理复习scale.md",
+                "file": "生殖和乳腺疾病.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "病理复习scale"
+              "title": "生殖和乳腺疾病"
             }
           },
           {
-            "id": "bccddd601e562f66",
+            "id": "1e81babc96261feb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "肿瘤.md",
+                "file": "子宫颈疾病.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "肿瘤"
-            }
-          },
-          {
-            "id": "789853384006b331",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "卵巢疾病.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "卵巢疾病"
-            }
-          },
-          {
-            "id": "d309430f58a2cbec",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "畸胎瘤.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "畸胎瘤"
+              "title": "子宫颈疾病"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -96,7 +68,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "畸胎瘤",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -139,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "畸胎瘤.md",
+                "file": "子宫颈疾病.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +121,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 畸胎瘤"
+              "title": "Backlinks for 子宫颈疾病"
             }
           },
           {
@@ -158,12 +130,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "畸胎瘤.md",
+                "file": "子宫颈疾病.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 畸胎瘤"
+              "title": "Outgoing links from 子宫颈疾病"
             }
           },
           {
@@ -275,35 +247,35 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d309430f58a2cbec",
+  "active": "1e81babc96261feb",
   "lastOpenFiles": [
-    "卵巢疾病.md",
-    "畸胎瘤.md",
-    "肿瘤.md",
-    "病理复习scale.md",
-    "甲状腺肿瘤.md",
-    "甲状腺乳头状腺癌.md",
     "生殖和乳腺疾病.md",
+    "发热.md",
+    "痛风.md",
+    "子宫颈疾病.md",
     "乳腺病变.md",
     "乳腺癌.md",
-    "前列腺疾病.md",
-    "前列腺癌.md",
-    "血尿.md",
+    "髓样癌.md",
+    "非特殊性浸润性癌.md",
     "子宫体疾病.md",
-    "子宫颈疾病.md",
-    "卵巢肿瘤.md",
+    "子宫内膜增生症.md",
     "雌激素.md",
+    "前列腺癌.md",
+    "病理复习scale.md",
+    "肿瘤.md",
+    "卵巢疾病.md",
+    "卵巢肿瘤.md",
+    "畸胎瘤.md",
+    "甲状腺肿瘤.md",
+    "甲状腺乳头状腺癌.md",
+    "前列腺疾病.md",
+    "血尿.md",
     "基因重组.md",
     "泌尿系统疾病.md",
     "肾盂肾炎.md",
     "肾癌.md",
     "膀胱刺激征.md",
     "attachments/Pasted image 20260616222652.png",
-    "肾炎.md",
-    "间质性肾炎.md",
-    "败血症.md",
-    "肾病综合征.md",
-    "肾小球肾炎.md",
     "attachments/Pasted image 20260616213932.png",
     "attachments/Pasted image 20260616140624.png",
     "attachments/Pasted image 20260615213710.png",
