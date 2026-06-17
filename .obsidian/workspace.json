@@ -4,53 +4,95 @@
     "type": "split",
     "children": [
       {
-        "id": "a32ecf688a24ca20",
+        "id": "25066256f47975f8",
         "type": "tabs",
         "children": [
           {
-            "id": "a60ffa1fce8f47c7",
+            "id": "5b5c3d7167c24721",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "泌尿系统疾病.md",
+                "file": "病理复习scale.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "泌尿系统疾病"
+              "title": "病理复习scale"
             }
           },
           {
-            "id": "221b787d461fc9ac",
+            "id": "ecff4344409879e3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "肾炎.md",
+                "file": "肿瘤.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "肾炎"
+              "title": "肿瘤"
             }
           },
           {
-            "id": "d872a8a76c39fdf6",
+            "id": "07de0141112859ea",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "肾小球肾炎.md",
+                "file": "乳腺癌.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "肾小球肾炎"
+              "title": "乳腺癌"
+            }
+          },
+          {
+            "id": "9fc56c4ebc5db074",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "非特殊性浸润性癌.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "非特殊性浸润性癌"
+            }
+          },
+          {
+            "id": "da8d4fc3b1633905",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "嗜铬细胞瘤.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "嗜铬细胞瘤"
+            }
+          },
+          {
+            "id": "6b3fdc873972547b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "生殖系统肿瘤.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "生殖系统肿瘤"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -82,7 +124,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "硬癌",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -108,8 +150,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "7d38cd1fdadcd175",
@@ -125,7 +166,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "肾小球肾炎.md",
+                "file": "非特殊性浸润性癌.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +176,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 肾小球肾炎"
+              "title": "Backlinks for 非特殊性浸润性癌"
             }
           },
           {
@@ -260,34 +301,34 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d872a8a76c39fdf6",
+  "active": "04b666b21309cdcf",
   "lastOpenFiles": [
-    "肾炎.md",
-    "泌尿系统疾病.md",
+    "乳腺癌.md",
+    "嗜铬细胞瘤.md",
+    "非特殊性浸润性癌.md",
+    "小叶原位癌.md",
+    "浸润性乳头癌.md",
+    "肿瘤.md",
+    "生殖系统肿瘤.md",
+    "皮肤基底细胞癌.md",
     "病理复习scale.md",
-    "生殖和乳腺疾病.md",
+    "类癌综合征.md",
+    "肾癌.md",
+    "卵巢疾病.md",
+    "乳腺病变.md",
     "子宫颈疾病.md",
+    "生殖和乳腺疾病.md",
+    "子宫内膜增生症.md",
+    "子宫体疾病.md",
+    "肾小球肾炎.md",
+    "肾病综合征.md",
+    "腹部检查.md",
+    "颈部检查.md",
+    "黄疸.md",
+    "泌尿系统疾病.md",
+    "肾炎.md",
     "发热.md",
     "痛风.md",
-    "乳腺病变.md",
-    "乳腺癌.md",
-    "髓样癌.md",
-    "非特殊性浸润性癌.md",
-    "子宫体疾病.md",
-    "子宫内膜增生症.md",
-    "雌激素.md",
-    "前列腺癌.md",
-    "肿瘤.md",
-    "卵巢疾病.md",
-    "卵巢肿瘤.md",
-    "畸胎瘤.md",
-    "甲状腺肿瘤.md",
-    "甲状腺乳头状腺癌.md",
-    "前列腺疾病.md",
-    "血尿.md",
-    "基因重组.md",
-    "肾盂肾炎.md",
-    "肾癌.md",
     "attachments/Pasted image 20260616222652.png",
     "attachments/Pasted image 20260616213932.png",
     "attachments/Pasted image 20260616140624.png",
