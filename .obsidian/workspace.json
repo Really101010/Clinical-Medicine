@@ -22,7 +22,7 @@
             }
           },
           {
-            "id": "ecff4344409879e3",
+            "id": "14a77f47fe408e35",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -36,49 +36,7 @@
             }
           },
           {
-            "id": "07de0141112859ea",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "乳腺癌.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "乳腺癌"
-            }
-          },
-          {
-            "id": "9fc56c4ebc5db074",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "非特殊性浸润性癌.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "非特殊性浸润性癌"
-            }
-          },
-          {
-            "id": "da8d4fc3b1633905",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "嗜铬细胞瘤.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "嗜铬细胞瘤"
-            }
-          },
-          {
-            "id": "6b3fdc873972547b",
+            "id": "61011d374b3d9fcb",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -89,6 +47,20 @@
               },
               "icon": "lucide-file",
               "title": "生殖系统肿瘤"
+            }
+          },
+          {
+            "id": "ca83fedb950638f7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "卵巢疾病.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "卵巢疾病"
             }
           }
         ],
@@ -124,7 +96,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "硬癌",
+                "query": "子宫",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -166,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "非特殊性浸润性癌.md",
+                "file": "卵巢疾病.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -176,7 +148,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 非特殊性浸润性癌"
+              "title": "Backlinks for 卵巢疾病"
             }
           },
           {
@@ -301,34 +273,34 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "04b666b21309cdcf",
+  "active": "ca83fedb950638f7",
   "lastOpenFiles": [
+    "生殖系统肿瘤.md",
+    "肿瘤.md",
+    "喉癌.md",
+    "鼻咽癌.md",
+    "病理复习scale.md",
+    "生殖和乳腺疾病.md",
+    "子宫体疾病.md",
+    "子宫体癌.md",
     "乳腺癌.md",
+    "子宫颈疾病.md",
+    "子宫颈癌.md",
     "嗜铬细胞瘤.md",
     "非特殊性浸润性癌.md",
     "小叶原位癌.md",
     "浸润性乳头癌.md",
-    "肿瘤.md",
-    "生殖系统肿瘤.md",
     "皮肤基底细胞癌.md",
-    "病理复习scale.md",
     "类癌综合征.md",
     "肾癌.md",
     "卵巢疾病.md",
     "乳腺病变.md",
-    "子宫颈疾病.md",
-    "生殖和乳腺疾病.md",
     "子宫内膜增生症.md",
-    "子宫体疾病.md",
     "肾小球肾炎.md",
     "肾病综合征.md",
     "腹部检查.md",
     "颈部检查.md",
     "黄疸.md",
-    "泌尿系统疾病.md",
-    "肾炎.md",
-    "发热.md",
-    "痛风.md",
     "attachments/Pasted image 20260616222652.png",
     "attachments/Pasted image 20260616213932.png",
     "attachments/Pasted image 20260616140624.png",
