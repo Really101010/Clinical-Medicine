@@ -4,67 +4,39 @@
     "type": "split",
     "children": [
       {
-        "id": "25066256f47975f8",
+        "id": "2ab11aba1ab29121",
         "type": "tabs",
         "children": [
           {
-            "id": "5b5c3d7167c24721",
+            "id": "b50f162fecb62935",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "病理复习scale.md",
+                "file": "中医学大纲.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "病理复习scale"
+              "title": "中医学大纲"
             }
           },
           {
-            "id": "14a77f47fe408e35",
+            "id": "03c11737dec6d2d6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "肿瘤.md",
+                "file": "阴阳五行学说.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "肿瘤"
-            }
-          },
-          {
-            "id": "61011d374b3d9fcb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "生殖系统肿瘤.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "生殖系统肿瘤"
-            }
-          },
-          {
-            "id": "ca83fedb950638f7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "卵巢疾病.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "卵巢疾病"
+              "title": "阴阳五行学说"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -96,7 +68,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "子宫",
+                "query": "中医",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -122,7 +94,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "7d38cd1fdadcd175",
@@ -138,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "卵巢疾病.md",
+                "file": "阴阳五行学说.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,7 +121,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 卵巢疾病"
+              "title": "Backlinks for 阴阳五行学说"
             }
           },
           {
@@ -255,7 +228,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 396.5
+    "width": 396.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -273,13 +247,18 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ca83fedb950638f7",
+  "active": "03c11737dec6d2d6",
   "lastOpenFiles": [
-    "生殖系统肿瘤.md",
+    "中医学大纲.md",
+    "藏象学说（包括气血津液）.md",
+    "阴阳五行学说.md",
+    "中医复习scale.md",
+    "病理复习scale.md",
     "肿瘤.md",
+    "生殖系统肿瘤.md",
+    "卵巢疾病.md",
     "喉癌.md",
     "鼻咽癌.md",
-    "病理复习scale.md",
     "生殖和乳腺疾病.md",
     "子宫体疾病.md",
     "子宫体癌.md",
@@ -293,14 +272,9 @@
     "皮肤基底细胞癌.md",
     "类癌综合征.md",
     "肾癌.md",
-    "卵巢疾病.md",
     "乳腺病变.md",
     "子宫内膜增生症.md",
     "肾小球肾炎.md",
-    "肾病综合征.md",
-    "腹部检查.md",
-    "颈部检查.md",
-    "黄疸.md",
     "attachments/Pasted image 20260616222652.png",
     "attachments/Pasted image 20260616213932.png",
     "attachments/Pasted image 20260616140624.png",
