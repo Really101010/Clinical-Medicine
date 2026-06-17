@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "血.md",
+                "file": "子宫体疾病.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "血"
+              "title": "子宫体疾病"
             }
           }
         ],
@@ -68,7 +68,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "中医",
+                "query": "葡萄胎",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -94,8 +94,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "7d38cd1fdadcd175",
@@ -111,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "血.md",
+                "file": "子宫体疾病.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +120,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 血"
+              "title": "Backlinks for 子宫体疾病"
             }
           },
           {
@@ -230,10 +229,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "血.md"
+                "file": "子宫体疾病.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for 血"
+              "title": "File properties for 子宫体疾病"
             }
           }
         ]
@@ -261,8 +260,9 @@
   },
   "active": "07a7cc78a7691242",
   "lastOpenFiles": [
-    "藏象学说（包括气血津液）.md",
+    "基因重组.md",
     "血.md",
+    "藏象学说（包括气血津液）.md",
     "气机.md",
     "气.md",
     "精.md",
@@ -286,7 +286,6 @@
     "肿瘤.md",
     "生殖系统肿瘤.md",
     "卵巢疾病.md",
-    "喉癌.md",
     "attachments/Pasted image 20260616222652.png",
     "attachments/Pasted image 20260616213932.png",
     "attachments/Pasted image 20260616140624.png",
