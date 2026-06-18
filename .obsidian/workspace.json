@@ -13,44 +13,44 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "病理复习scale.md",
+                "file": "中医学大纲.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "病理复习scale"
+              "title": "中医学大纲"
             }
           },
           {
-            "id": "e97655c415cb26d7",
+            "id": "88ce43582ff77015",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "神经系统疾病.md",
+                "file": "四诊.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "神经系统疾病"
+              "title": "四诊"
             }
           },
           {
-            "id": "8cd5b9ce7a4e59b0",
+            "id": "437efd9fddda7a62",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "乙脑.md",
+                "file": "望诊.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "乙脑"
+              "title": "望诊"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -144,12 +144,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "乙脑.md",
+                "file": "四诊.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 乙脑"
+              "title": "Outgoing links from 四诊"
             }
           },
           {
@@ -255,7 +255,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 396.5
+    "width": 396.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -273,16 +274,20 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8cd5b9ce7a4e59b0",
+  "active": "88ce43582ff77015",
   "lastOpenFiles": [
-    "流脑.md",
-    "神经系统检查.md",
+    "望诊.md",
+    "四诊.md",
+    "中医学大纲.md",
+    "辨证.md",
+    "病理复习scale.md",
     "神经系统疾病.md",
     "乙脑.md",
+    "流脑.md",
+    "神经系统检查.md",
     "全身状态检查.md",
     "脑膜炎.md",
     "脑脓肿.md",
-    "病理复习scale.md",
     "内分泌系统疾病.md",
     "甲状腺炎.md",
     "甲状腺癌.md",
@@ -297,10 +302,6 @@
     "肾病综合征.md",
     "子宫体疾病.md",
     "子宫颈疾病.md",
-    "生殖和乳腺疾病.md",
-    "肿瘤.md",
-    "神经系统肿瘤.md",
-    "皮肤.md",
     "attachments/Pasted image 20260618102020.png",
     "attachments/Pasted image 20260618094200.png",
     "attachments/Pasted image 20260616222652.png",
