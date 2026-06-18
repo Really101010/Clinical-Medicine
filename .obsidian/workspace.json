@@ -22,45 +22,31 @@
             }
           },
           {
-            "id": "ffb73859c7978cb0",
+            "id": "e97655c415cb26d7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "内分泌系统疾病.md",
+                "file": "神经系统疾病.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "内分泌系统疾病"
+              "title": "神经系统疾病"
             }
           },
           {
-            "id": "994ad06df6f273bb",
+            "id": "8cd5b9ce7a4e59b0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "甲状腺炎.md",
+                "file": "乙脑.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "甲状腺炎"
-            }
-          },
-          {
-            "id": "87a1f3807d76a758",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "甲状腺癌.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "甲状腺癌"
+              "title": "乙脑"
             }
           }
         ],
@@ -96,7 +82,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "scale",
+                "query": "脑膜刺激征",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -139,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "甲状腺炎.md",
+                "file": "乙脑.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +135,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 甲状腺炎"
+              "title": "Backlinks for 乙脑"
             }
           },
           {
@@ -158,12 +144,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "子宫颈疾病.md",
+                "file": "乙脑.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 子宫颈疾病"
+              "title": "Outgoing links from 乙脑"
             }
           },
           {
@@ -264,12 +250,12 @@
               "title": "File properties for 中医学大纲"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 396.5,
-    "collapsed": true
+    "width": 396.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -287,15 +273,23 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "994ad06df6f273bb",
+  "active": "8cd5b9ce7a4e59b0",
   "lastOpenFiles": [
+    "流脑.md",
+    "神经系统检查.md",
+    "神经系统疾病.md",
+    "乙脑.md",
+    "全身状态检查.md",
+    "脑膜炎.md",
+    "脑脓肿.md",
+    "病理复习scale.md",
     "内分泌系统疾病.md",
+    "甲状腺炎.md",
     "甲状腺癌.md",
     "甲状腺肿瘤.md",
     "弥漫性毒性甲状腺肿.md",
     "弥漫性非毒性甲状腺肿.md",
     "垂体腺瘤.md",
-    "病理复习scale.md",
     "尿常规.md",
     "泌尿系统疾病.md",
     "肾小球肾炎.md",
@@ -307,14 +301,6 @@
     "肿瘤.md",
     "神经系统肿瘤.md",
     "皮肤.md",
-    "喉癌.md",
-    "鼻咽癌.md",
-    "消化系统肿瘤.md",
-    "胰腺癌.md",
-    "纤维瘤.md",
-    "畸胎瘤.md",
-    "脂肪瘤.md",
-    "脂肪肉瘤.md",
     "attachments/Pasted image 20260618102020.png",
     "attachments/Pasted image 20260618094200.png",
     "attachments/Pasted image 20260616222652.png",
