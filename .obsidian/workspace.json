@@ -50,7 +50,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -125,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "内分泌系统疾病.md",
+                "file": "甲状腺肿瘤.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +135,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 内分泌系统疾病"
+              "title": "Backlinks for 甲状腺肿瘤"
             }
           },
           {
@@ -273,11 +273,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ffb73859c7978cb0",
+  "active": "87a1f3807d76a758",
   "lastOpenFiles": [
+    "内分泌系统疾病.md",
     "甲状腺肿瘤.md",
     "弥漫性毒性甲状腺肿.md",
-    "内分泌系统疾病.md",
     "弥漫性非毒性甲状腺肿.md",
     "垂体腺瘤.md",
     "病理复习scale.md",
