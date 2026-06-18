@@ -50,7 +50,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -144,12 +144,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "四诊.md",
+                "file": "望诊.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 四诊"
+              "title": "Outgoing links from 望诊"
             }
           },
           {
@@ -274,10 +274,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "88ce43582ff77015",
+  "active": "dcab3d5265c6e820",
   "lastOpenFiles": [
-    "望诊.md",
     "五色主病.md",
+    "望诊.md",
     "四诊.md",
     "中医学大纲.md",
     "辨证.md",
