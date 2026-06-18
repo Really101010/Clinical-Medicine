@@ -27,16 +27,44 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "肾病综合征.md",
+                "file": "泌尿系统疾病.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "肾病综合征"
+              "title": "泌尿系统疾病"
+            }
+          },
+          {
+            "id": "fe4e986ff7768b39",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "肾炎.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "肾炎"
+            }
+          },
+          {
+            "id": "6eef31669c4987f2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "肾小球肾炎.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "肾小球肾炎"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -111,7 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "肾病综合征.md",
+                "file": "肾小球肾炎.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +149,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 肾病综合征"
+              "title": "Backlinks for 肾小球肾炎"
             }
           },
           {
@@ -258,10 +286,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8a7775d58f914f9b",
+  "active": "6eef31669c4987f2",
   "lastOpenFiles": [
-    "泌尿系统疾病.md",
     "肾炎.md",
+    "泌尿系统疾病.md",
+    "肾病综合征.md",
     "肾小球肾炎.md",
     "尿常规.md",
     "子宫体疾病.md",
@@ -285,7 +314,6 @@
     "软骨瘤.md",
     "生殖系统肿瘤.md",
     "平滑肌瘤.md",
-    "雌激素.md",
     "attachments/Pasted image 20260618102020.png",
     "attachments/Pasted image 20260618094200.png",
     "attachments/Pasted image 20260616222652.png",
