@@ -20,23 +20,8 @@
               "icon": "lucide-file",
               "title": "中医学大纲"
             }
-          },
-          {
-            "id": "43f1d5324745a2dd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "四诊.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "四诊"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -94,8 +79,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "7d38cd1fdadcd175",
@@ -111,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "四诊.md",
+                "file": "中医学大纲.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +105,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 四诊"
+              "title": "Backlinks for 中医学大纲"
             }
           },
           {
@@ -230,10 +214,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "四诊.md"
+                "file": "中医学大纲.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for 四诊"
+              "title": "File properties for 中医学大纲"
             }
           }
         ]
@@ -259,12 +243,19 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "43f1d5324745a2dd",
+  "active": "b50f162fecb62935",
   "lastOpenFiles": [
+    "腧穴学.md",
     "中医学大纲.md",
-    "中药概述.md",
-    "病因病机.md",
+    "针灸基础知识.md",
+    "经络学说.md",
     "四诊.md",
+    "证治方药的综合运用.md",
+    "方剂基础知识.md",
+    "中药概述.md",
+    "防治原则与方法.md",
+    "辨证.md",
+    "病因病机.md",
     "病机.md",
     "藏象学说（包括气血津液）.md",
     "阴阳五行学说.md",
@@ -280,13 +271,6 @@
     "血.md",
     "子宫体疾病.md",
     "基因重组.md",
-    "气.md",
-    "精.md",
-    "肾.md",
-    "胃.md",
-    "女子胞.md",
-    "脑.md",
-    "三焦.md",
     "attachments/Pasted image 20260616222652.png",
     "attachments/Pasted image 20260616213932.png",
     "attachments/Pasted image 20260616140624.png",
