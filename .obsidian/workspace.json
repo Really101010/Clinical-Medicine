@@ -11,60 +11,13 @@
             "id": "2988f903a6c88908",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "病理复习scale.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "病理复习scale"
-            }
-          },
-          {
-            "id": "2fc08bab9f285f89",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "感染性疾病.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "感染性疾病"
-            }
-          },
-          {
-            "id": "c6d982c765351578",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "肝功能检查.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "肝功能检查"
-            }
-          },
-          {
-            "id": "be3c3ebee3caaa99",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "传染病与寄生虫病.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "传染病与寄生虫病"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -96,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "黄疸",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -117,8 +70,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -139,7 +91,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "肝功能检查.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +100,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 肝功能检查"
+              "title": "Backlinks"
             }
           },
           {
@@ -158,12 +109,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "肝功能检查.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 肝功能检查"
+              "title": "Outgoing links"
             }
           },
           {
@@ -287,35 +237,36 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c6d982c765351578",
+  "active": "2988f903a6c88908",
   "lastOpenFiles": [
-    "黄疸.md",
-    "结核.md",
+    "病理复习scale.md",
+    "消化系统疾病.md",
+    "消化道溃疡.md",
+    "克罗恩病.md",
     "传染病与寄生虫病.md",
     "感染性疾病.md",
-    "病理复习scale.md",
+    "血吸虫病.md",
+    "阿米巴.md",
+    "attachments/Pasted image 20260619142658.png",
+    "细菌性痢疾.md",
+    "性传播性疾病.md",
+    "伤寒.md",
+    "麻风.md",
+    "结核.md",
+    "肝功能检查.md",
+    "肺结核.md",
+    "血源性结核病.md",
+    "结核性胸膜炎.md",
+    "胸部检查.md",
+    "胸痛.md",
+    "黄疸.md",
     "神经系统疾病.md",
     "脑血管病.md",
     "脑出血.md",
     "脑梗死.md",
     "海绵状脑病.md",
     "流脑.md",
-    "脑积水.md",
-    "乙脑.md",
-    "脑水肿.md",
-    "Parkinson 病.md",
-    "神经系统变性疾病.md",
-    "Alzheimer病.md",
-    "神经元.md",
-    "神经胶质细胞.md",
-    "神经系统肿瘤.md",
-    "狂犬病.md",
     "attachments/Pasted image 20260619113752.png",
-    "发热.md",
-    "糖尿病.md",
-    "内分泌系统疾病.md",
-    "肾上腺肿瘤.md",
-    "嗜铬细胞瘤.md",
     "attachments/Pasted image 20260618102020.png",
     "attachments/Pasted image 20260618094200.png",
     "attachments/Pasted image 20260616222652.png",
@@ -324,7 +275,6 @@
     "attachments/Pasted image 20260615213710.png",
     "attachments/Pasted image 20260615211132.png",
     "attachments/Pasted image 20260615211051.png",
-    "attachments/Pasted image 20260615184448.png",
     "attachments",
     "copilot/copilot-conversations",
     "base-all.base",
