@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "结核.md",
+                "file": "肝功能检查.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "结核"
+              "title": "肝功能检查"
             }
           },
           {
@@ -96,7 +96,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "脑积水",
+                "query": "黄疸",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -139,7 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "结核.md",
+                "file": "肝功能检查.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +149,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 结核"
+              "title": "Backlinks for 肝功能检查"
             }
           },
           {
@@ -158,12 +158,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "结核.md",
+                "file": "肝功能检查.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 结核"
+              "title": "Outgoing links from 肝功能检查"
             }
           },
           {
@@ -289,8 +289,9 @@
   },
   "active": "c6d982c765351578",
   "lastOpenFiles": [
-    "传染病与寄生虫病.md",
+    "黄疸.md",
     "结核.md",
+    "传染病与寄生虫病.md",
     "感染性疾病.md",
     "病理复习scale.md",
     "神经系统疾病.md",
@@ -315,7 +316,6 @@
     "内分泌系统疾病.md",
     "肾上腺肿瘤.md",
     "嗜铬细胞瘤.md",
-    "甲状腺癌.md",
     "attachments/Pasted image 20260618102020.png",
     "attachments/Pasted image 20260618094200.png",
     "attachments/Pasted image 20260616222652.png",
