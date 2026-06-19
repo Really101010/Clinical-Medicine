@@ -36,31 +36,31 @@
             }
           },
           {
-            "id": "d4347b3a13f3f408",
+            "id": "f38b7bee0c899165",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "神经系统疾病.md",
+                "file": "脑血管病.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "神经系统疾病"
+              "title": "脑血管病"
             }
           },
           {
-            "id": "de2a47c6cc16682a",
+            "id": "6ef5318b2d6b0cb1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Parkinson 病.md",
+                "file": "脑出血.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Parkinson 病"
+              "title": "脑出血"
             }
           }
         ],
@@ -96,7 +96,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "菊",
+                "query": "脑积水",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -139,7 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Parkinson 病.md",
+                "file": "脑出血.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +149,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Parkinson 病"
+              "title": "Backlinks for 脑出血"
             }
           },
           {
@@ -158,12 +158,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Parkinson 病.md",
+                "file": "脑出血.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Parkinson 病"
+              "title": "Outgoing links from 脑出血"
             }
           },
           {
@@ -287,17 +287,22 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "de2a47c6cc16682a",
+  "active": "6ef5318b2d6b0cb1",
   "lastOpenFiles": [
-    "神经系统变性疾病.md",
+    "脑血管病.md",
+    "脑梗死.md",
+    "神经系统疾病.md",
+    "海绵状脑病.md",
+    "流脑.md",
+    "脑积水.md",
+    "乙脑.md",
+    "脑水肿.md",
     "Parkinson 病.md",
+    "神经系统变性疾病.md",
     "Alzheimer病.md",
     "神经元.md",
-    "神经系统疾病.md",
     "神经胶质细胞.md",
     "神经系统肿瘤.md",
-    "流脑.md",
-    "乙脑.md",
     "狂犬病.md",
     "attachments/Pasted image 20260619113752.png",
     "发热.md",
@@ -311,11 +316,6 @@
     "病理复习scale.md",
     "中医学大纲.md",
     "四诊.md",
-    "脉诊.md",
-    "失眠.md",
-    "食欲食量.md",
-    "热型及临床意义.md",
-    "望诊.md",
     "attachments/Pasted image 20260618102020.png",
     "attachments/Pasted image 20260618094200.png",
     "attachments/Pasted image 20260616222652.png",
