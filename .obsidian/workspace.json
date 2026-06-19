@@ -82,7 +82,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "诊断复习",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -276,12 +276,14 @@
   },
   "active": "fe2821bcf39c4bc5",
   "lastOpenFiles": [
+    "定向力.md",
+    "神经系统检查.md",
+    "意识障碍.md",
     "一般检查.md",
     "体征.md",
     "诊断复习scale.md",
     "精神检查.md",
     "脊柱与四肢检查.md",
-    "神经系统检查.md",
     "copilot/copilot-conversations/缺失体征诊断要点@20260619_210024.md",
     "男性生殖系统检查.md",
     "女性生殖系统检查.md",
@@ -300,8 +302,6 @@
     "胸部检查.md",
     "临床生物化学.md",
     "血常规.md",
-    "红细胞.md",
-    "甲状腺功能低下.md",
     "attachments/Pasted image 20260619142658.png",
     "attachments/Pasted image 20260619113752.png",
     "attachments/Pasted image 20260618102020.png",
