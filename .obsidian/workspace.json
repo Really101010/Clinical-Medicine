@@ -4,39 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "be8f3dc9d1c757a9",
+        "id": "1f4ee556f8c63705",
         "type": "tabs",
         "children": [
           {
-            "id": "faa14f8ddc5f54f4",
+            "id": "4abf3c3377fd2cca",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "骨髓检查.md",
+                "file": "肝功能检查.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "骨髓检查"
-            }
-          },
-          {
-            "id": "a65f6b62b7dea88a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "骨髓检查.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "骨髓检查"
+              "title": "肝功能检查"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -68,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "粒细胞缺乏",
+                "query": "shen功能",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -110,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "骨髓检查.md",
+                "file": "肝功能检查.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +105,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 骨髓检查"
+              "title": "Backlinks for 肝功能检查"
             }
           },
           {
@@ -257,35 +242,35 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a65f6b62b7dea88a",
+  "active": "04b666b21309cdcf",
   "lastOpenFiles": [
-    "粒细胞缺乏症.md",
-    "骨髓检查.md",
-    "贫血.md",
+    "过敏性紫癜.md",
     "血小板.md",
+    "特发性血小板减少性紫癜.md",
+    "呕血.md",
+    "尿常规.md",
+    "骨髓检查.md",
+    "血尿.md",
+    "再生障碍性贫血.md",
+    "贫血.md",
+    "地中海贫血.md",
+    "针灸基础知识.md",
+    "瘀血.md",
+    "意识障碍.md",
+    "肾小球肾炎.md",
+    "望诊.md",
+    "水肿.md",
+    "肾盂肾炎.md",
+    "全身状态检查.md",
+    "皮肤.md",
+    "肾功能检查.md",
+    "尿沉渣.md",
+    "肿瘤.md",
+    "粒细胞缺乏症.md",
     "红细胞.md",
     "血常规.md",
     "溶血性贫血.md",
-    "地中海贫血.md",
-    "肾小球肾炎.md",
-    "黄疸.md",
-    "氯丙嗪.md",
-    "病理复习scale.md",
-    "消化系统疾病.md",
-    "消化道溃疡.md",
-    "克罗恩病.md",
-    "传染病与寄生虫病.md",
-    "感染性疾病.md",
-    "血吸虫病.md",
-    "阿米巴.md",
     "attachments/Pasted image 20260619142658.png",
-    "细菌性痢疾.md",
-    "性传播性疾病.md",
-    "伤寒.md",
-    "麻风.md",
-    "结核.md",
-    "肝功能检查.md",
-    "肺结核.md",
     "attachments/Pasted image 20260619113752.png",
     "attachments/Pasted image 20260618102020.png",
     "attachments/Pasted image 20260618094200.png",
