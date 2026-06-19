@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "a9234a42689e33d2",
+        "id": "be8f3dc9d1c757a9",
         "type": "tabs",
         "children": [
           {
-            "id": "2988f903a6c88908",
+            "id": "faa14f8ddc5f54f4",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "黄疸.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "黄疸"
+              "title": "New tab"
             }
           }
         ]
@@ -53,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "pin'x",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,12 +70,12 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "7d38cd1fdadcd175",
@@ -95,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "黄疸.md",
+                "file": "肝癌.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +101,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 黄疸"
+              "title": "Backlinks for 肝癌"
             }
           },
           {
@@ -114,12 +110,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "黄疸.md",
+                "file": "肝癌.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 黄疸"
+              "title": "Outgoing links from 肝癌"
             }
           },
           {
@@ -243,10 +239,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2988f903a6c88908",
+  "active": "04b666b21309cdcf",
   "lastOpenFiles": [
-    "氯丙嗪.md",
+    "肾小球肾炎.md",
     "黄疸.md",
+    "氯丙嗪.md",
     "病理复习scale.md",
     "消化系统疾病.md",
     "消化道溃疡.md",
@@ -271,7 +268,6 @@
     "脑血管病.md",
     "脑出血.md",
     "脑梗死.md",
-    "海绵状脑病.md",
     "attachments/Pasted image 20260619113752.png",
     "attachments/Pasted image 20260618102020.png",
     "attachments/Pasted image 20260618094200.png",
