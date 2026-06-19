@@ -11,10 +11,14 @@
             "id": "2988f903a6c88908",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "黄疸.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "黄疸"
             }
           }
         ]
@@ -36,7 +40,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "byCreatedTime",
+                "sortOrder": "byModifiedTime",
                 "autoReveal": true
               },
               "icon": "lucide-folder-closed",
@@ -91,6 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "黄疸.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +105,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for 黄疸"
             }
           },
           {
@@ -109,11 +114,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "黄疸.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from 黄疸"
             }
           },
           {
@@ -239,6 +245,8 @@
   },
   "active": "2988f903a6c88908",
   "lastOpenFiles": [
+    "氯丙嗪.md",
+    "黄疸.md",
     "病理复习scale.md",
     "消化系统疾病.md",
     "消化道溃疡.md",
@@ -259,13 +267,11 @@
     "结核性胸膜炎.md",
     "胸部检查.md",
     "胸痛.md",
-    "黄疸.md",
     "神经系统疾病.md",
     "脑血管病.md",
     "脑出血.md",
     "脑梗死.md",
     "海绵状脑病.md",
-    "流脑.md",
     "attachments/Pasted image 20260619113752.png",
     "attachments/Pasted image 20260618102020.png",
     "attachments/Pasted image 20260618094200.png",
