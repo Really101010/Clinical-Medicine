@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "心脏检查.md",
+                "file": "类风湿.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "心脏检查"
+              "title": "类风湿"
             }
           },
           {
@@ -67,7 +67,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Beck三联征",
+                "query": "类风湿",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -259,9 +259,9 @@
   },
   "active": "bf091007a0bee985",
   "lastOpenFiles": [
+    "心脏检查.md",
     "损伤修复.md",
     "压缩性心包炎.md",
-    "心脏检查.md",
     "颈部检查.md",
     "病理复习scale.md",
     "损伤.md",
