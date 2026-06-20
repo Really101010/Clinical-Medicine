@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "腹部检查.md",
+                "file": "心脏检查.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "腹部检查"
+              "title": "心脏检查"
             }
           },
           {
@@ -67,7 +67,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "揉面",
+                "query": "杂音",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -259,6 +259,8 @@
   },
   "active": "bf091007a0bee985",
   "lastOpenFiles": [
+    "全身状态检查.md",
+    "腹部检查.md",
     "肾小球肾炎.md",
     "肾病综合征.md",
     "肾盂肾炎.md",
@@ -283,8 +285,6 @@
     "肝功能检查.md",
     "坏死.md",
     "消化道溃疡.md",
-    "胃溃疡.md",
-    "呕血.md",
     "attachments/Pasted image 20260620154240.png",
     "attachments/Pasted image 20260619233244.png",
     "attachments/Pasted image 20260619142658.png",
