@@ -67,7 +67,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "杂音",
+                "query": "主动脉瓣狭窄",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -260,12 +260,12 @@
   "active": "bf091007a0bee985",
   "lastOpenFiles": [
     "全身状态检查.md",
+    "心脏检查.md",
     "腹部检查.md",
     "肾小球肾炎.md",
     "肾病综合征.md",
     "肾盂肾炎.md",
     "类风湿.md",
-    "心脏检查.md",
     "损伤修复.md",
     "压缩性心包炎.md",
     "颈部检查.md",
