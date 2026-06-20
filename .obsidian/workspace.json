@@ -13,26 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "胸部检查.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "胸部检查"
-            }
-          },
-          {
-            "id": "19f57585d3cc62a5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
                 "file": "腹部检查.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
               "title": "腹部检查"
+            }
+          },
+          {
+            "id": "24fd86e24d655a5a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "白细胞.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "白细胞"
             }
           }
         ],
@@ -68,7 +68,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "白细胞",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "腹部检查.md",
+                "file": "白细胞.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +120,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 腹部检查"
+              "title": "Backlinks for 白细胞"
             }
           },
           {
@@ -258,10 +258,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "19f57585d3cc62a5",
+  "active": "24fd86e24d655a5a",
   "lastOpenFiles": [
-    "肺源性呼吸困难.md",
+    "急性阑尾炎.md",
     "腹部检查.md",
+    "血尿.md",
+    "一般检查.md",
+    "胸部检查.md",
+    "腹痛.md",
+    "肺源性呼吸困难.md",
     "四诊.md",
     "尿常规.md",
     "感染.md",
@@ -270,22 +275,17 @@
     "主动脉瓣关闭不全.md",
     "咯血.md",
     "支气管扩张.md",
-    "腹痛.md",
     "幽门梗阻.md",
     "二尖瓣狭窄.md",
     "心电图.md",
     "McBurney 点.md",
     "问诊.md",
     "流脑.md",
-    "胸部检查.md",
-    "一般检查.md",
     "心脏检查.md",
     "呕吐.md",
     "颅内高压.md",
     "儿科检查.md",
     "诊断复习scale.md",
-    "二尖瓣关闭不全.md",
-    "病理复习scale.md",
     "attachments/Pasted image 20260619233244.png",
     "attachments/Pasted image 20260619142658.png",
     "attachments/Pasted image 20260619113752.png",
