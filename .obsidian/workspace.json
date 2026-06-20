@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "实验诊断.md",
+                "file": "儿科检查.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "实验诊断"
+              "title": "儿科检查"
             }
           }
         ],
@@ -68,7 +68,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "肠",
+                "query": "儿科",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -261,6 +261,7 @@
   },
   "active": "bfa82bc81cdb2981",
   "lastOpenFiles": [
+    "实验诊断.md",
     "临床生物化学.md",
     "伤寒.md",
     "肝功能检查.md",
@@ -282,7 +283,6 @@
     "反治.md",
     "便常规.md",
     "腹泻.md",
-    "实验诊断.md",
     "诊断复习scale.md",
     "体征.md",
     "神经系统检查.md",
