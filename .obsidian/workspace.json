@@ -22,31 +22,31 @@
             }
           },
           {
-            "id": "3321f520e8d0860a",
+            "id": "39e9323674cc17e8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "心脏检查.md",
+                "file": "胸部检查.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "心脏检查"
+              "title": "胸部检查"
             }
           },
           {
-            "id": "9eadfcb0e4c7a4b3",
+            "id": "5e011d6b858a994c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "神经系统检查.md",
+                "file": "颈部检查.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "神经系统检查"
+              "title": "颈部检查"
             }
           },
           {
@@ -55,12 +55,40 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "腹部检查.md",
+                "file": "糖尿病.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "腹部检查"
+              "title": "糖尿病"
+            }
+          },
+          {
+            "id": "88a2a619b5465af6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "肝功能检查.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "肝功能检查"
+            }
+          },
+          {
+            "id": "9f8c917ecd3051c4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "意识障碍.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "意识障碍"
             }
           }
         ],
@@ -96,7 +124,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "肌张力",
+                "query": "糖尿病",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -122,7 +150,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "7d38cd1fdadcd175",
@@ -138,7 +167,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "腹部检查.md",
+                "file": "糖尿病.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,7 +177,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 腹部检查"
+              "title": "Backlinks for 糖尿病"
             }
           },
           {
@@ -288,32 +317,32 @@
   },
   "active": "c8f27881a50f6246",
   "lastOpenFiles": [
-    "神经系统检查.md",
-    "皮肤.md",
-    "瘀血.md",
-    "意识障碍.md",
-    "血尿.md",
-    "血管瘤.md",
-    "水肿.md",
-    "肾小球肾炎.md",
-    "伤寒.md",
-    "玫瑰疹.md",
-    "全身状态检查.md",
-    "皮肤乳头状瘤.md",
-    "女性生殖系统检查.md",
-    "男性生殖系统检查.md",
-    "麻风.md",
-    "颅神经.md",
-    "流脑.md",
-    "类癌综合征.md",
-    "甲状腺功能低下.md",
-    "黄疸.md",
-    "坏死.md",
-    "非特殊性浸润性癌.md",
+    "肠梗阻.md",
+    "消化系统疾病.md",
+    "肝功能检查.md",
+    "血源性结核病.md",
+    "腹痛.md",
     "儿科检查.md",
-    "病因病机.md",
-    "变性.md",
-    "白细胞.md",
+    "水肿.md",
+    "醛固酮.md",
+    "泌尿系统疾病.md",
+    "坏死.md",
+    "心电图.md",
+    "心脏检查.md",
+    "意识障碍.md",
+    "胃癌.md",
+    "消化系统肿瘤.md",
+    "腹部检查.md",
+    "消化系统炎症.md",
+    "急性糜烂出血性胃炎.md",
+    "神经系统检查.md",
+    "诊断复习scale.md",
+    "胸部检查.md",
+    "颈部检查.md",
+    "一般检查.md",
+    "体征.md",
+    "系统性红斑狼疮.md",
+    "皮肤.md",
     "attachments/Pasted image 20260620225455.png",
     "attachments/Pasted image 20260620154240.png",
     "attachments/Pasted image 20260619233244.png",
