@@ -4,95 +4,137 @@
     "type": "split",
     "children": [
       {
-        "id": "67234749903fe66f",
-        "type": "tabs",
+        "id": "935427ee64b3df1e",
+        "type": "split",
         "children": [
           {
-            "id": "62d7ec8cd6bda736",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "诊断复习scale.md",
-                "mode": "source",
-                "source": false
+            "id": "67234749903fe66f",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "62d7ec8cd6bda736",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "诊断复习scale.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "诊断复习scale"
+                }
               },
-              "icon": "lucide-file",
-              "title": "诊断复习scale"
-            }
+              {
+                "id": "e2b3aef6f927d364",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "消化系统疾病.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "消化系统疾病"
+                }
+              },
+              {
+                "id": "3906e5b08530149a",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "消化系统炎症.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "消化系统炎症"
+                }
+              },
+              {
+                "id": "3dabe6d3a44114e0",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "感染.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "感染"
+                }
+              },
+              {
+                "id": "bf0ca4683c7704c7",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "再生障碍性贫血.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "再生障碍性贫血"
+                }
+              },
+              {
+                "id": "9c8ebc11bde1c5ff",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "腹部检查.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "腹部检查"
+                }
+              }
+            ],
+            "currentTab": 4
           },
           {
-            "id": "39e9323674cc17e8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "胸部检查.md",
-                "mode": "source",
-                "source": false
+            "id": "e607f31f3ddc396a",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "ddb175dcc89f40eb",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "病理复习scale.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "病理复习scale"
+                }
               },
-              "icon": "lucide-file",
-              "title": "胸部检查"
-            }
-          },
-          {
-            "id": "5e011d6b858a994c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "颈部检查.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "颈部检查"
-            }
-          },
-          {
-            "id": "c8f27881a50f6246",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "糖尿病.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "糖尿病"
-            }
-          },
-          {
-            "id": "88a2a619b5465af6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "肝功能检查.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "肝功能检查"
-            }
-          },
-          {
-            "id": "9f8c917ecd3051c4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "意识障碍.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "意识障碍"
-            }
+              {
+                "id": "8a82438d966116e5",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "消化道溃疡.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "消化道溃疡"
+                }
+              }
+            ],
+            "currentTab": 1
           }
         ],
-        "currentTab": 3
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -124,7 +166,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "糖尿病",
+                "query": "网织红细胞",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -150,8 +192,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "7d38cd1fdadcd175",
@@ -167,7 +208,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "糖尿病.md",
+                "file": "再生障碍性贫血.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -177,7 +218,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 糖尿病"
+              "title": "Backlinks for 再生障碍性贫血"
             }
           },
           {
@@ -186,12 +227,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "肝癌.md",
+                "file": "再生障碍性贫血.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 肝癌"
+              "title": "Outgoing links from 再生障碍性贫血"
             }
           },
           {
@@ -296,8 +337,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 396.5,
-    "collapsed": true
+    "width": 396.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -315,34 +355,34 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c8f27881a50f6246",
+  "active": "5cbeac4edc168c37",
   "lastOpenFiles": [
-    "肠梗阻.md",
-    "消化系统疾病.md",
-    "肝功能检查.md",
-    "血源性结核病.md",
-    "腹痛.md",
-    "儿科检查.md",
-    "水肿.md",
-    "醛固酮.md",
-    "泌尿系统疾病.md",
-    "坏死.md",
-    "心电图.md",
-    "心脏检查.md",
-    "意识障碍.md",
-    "胃癌.md",
-    "消化系统肿瘤.md",
-    "腹部检查.md",
+    "问诊.md",
+    "感染.md",
+    "咽峡炎.md",
     "消化系统炎症.md",
-    "急性糜烂出血性胃炎.md",
-    "神经系统检查.md",
-    "诊断复习scale.md",
-    "胸部检查.md",
-    "颈部检查.md",
-    "一般检查.md",
-    "体征.md",
-    "系统性红斑狼疮.md",
-    "皮肤.md",
+    "消化系统疾病.md",
+    "腹部检查.md",
+    "阿米巴.md",
+    "胃炎.md",
+    "十二指肠炎.md",
+    "呕血.md",
+    "copilot/copilot-conversations/阑尾炎组成与特点@20260621_092907.md",
+    "腹痛.md",
+    "胰腺炎.md",
+    "消化道溃疡.md",
+    "克罗恩病.md",
+    "Barrett 食管.md",
+    "消化系统肿瘤.md",
+    "阑尾炎.md",
+    "急性腹膜炎.md",
+    "病理复习scale.md",
+    "肺炎.md",
+    "炎症.md",
+    "心包炎.md",
+    "腹膜炎.md",
+    "胸膜炎.md",
+    "急性阑尾炎.md",
     "attachments/Pasted image 20260620225455.png",
     "attachments/Pasted image 20260620154240.png",
     "attachments/Pasted image 20260619233244.png",
