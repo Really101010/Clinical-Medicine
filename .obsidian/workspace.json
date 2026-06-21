@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "心电图.md",
+                "file": "坏死.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "心电图"
+              "title": "坏死"
             }
           },
           {
@@ -67,7 +67,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "心电图",
+                "query": "坏疽",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "心电图.md",
+                "file": "坏死.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +119,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 心电图"
+              "title": "Backlinks for 坏死"
             }
           },
           {
@@ -128,12 +128,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "心电图.md",
+                "file": "坏死.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 心电图"
+              "title": "Outgoing links from 坏死"
             }
           },
           {
@@ -259,12 +259,12 @@
   },
   "active": "62d7ec8cd6bda736",
   "lastOpenFiles": [
+    "心电图.md",
     "佝偻病.md",
     "贫血.md",
     "巨幼细胞性贫血.md",
     "骨髓检查.md",
     "诊断复习scale.md",
-    "心电图.md",
     "肠易激综合征.md",
     "结核性腹膜炎.md",
     "肠结核.md",
