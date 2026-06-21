@@ -20,8 +20,37 @@
               "icon": "lucide-file",
               "title": "急性炎症"
             }
+          },
+          {
+            "id": "f781813ff070cb62",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "伤寒.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "伤寒"
+            }
+          },
+          {
+            "id": "b582067d1f896fab",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "慢性炎症.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "慢性炎症"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -244,10 +273,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "563ea3d2c9618493",
+  "active": "f781813ff070cb62",
   "lastOpenFiles": [
-    "炎症.md",
     "急性炎症.md",
+    "炎症.md",
+    "慢性炎症.md",
+    "消化系统炎症.md",
+    "慢性胆囊炎.md",
+    "胆囊炎.md",
     "甲状腺炎.md",
     "病理复习scale.md",
     "水肿.md",
@@ -269,13 +302,9 @@
     "腹水.md",
     "泌尿系统疾病.md",
     "Untitled.md",
-    "流脑.md",
-    "变性.md",
     "attachments/Pasted image 20260621160504.png",
-    "便血.md",
     "attachments/Pasted image 20260621154705.png",
     "attachments/Pasted image 20260621154623.png",
-    "肺栓塞.md",
     "attachments/Pasted image 20260621153648.png",
     "attachments/Pasted image 20260621153448.png",
     "attachments/Pasted image 20260621151917.png",
