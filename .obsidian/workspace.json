@@ -4,80 +4,38 @@
     "type": "split",
     "children": [
       {
-        "id": "935427ee64b3df1e",
-        "type": "split",
+        "id": "67234749903fe66f",
+        "type": "tabs",
         "children": [
           {
-            "id": "67234749903fe66f",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "62d7ec8cd6bda736",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "诊断复习scale.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "诊断复习scale"
-                }
+            "id": "62d7ec8cd6bda736",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "心电图.md",
+                "mode": "source",
+                "source": false
               },
-              {
-                "id": "e2b3aef6f927d364",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "消化系统疾病.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "消化系统疾病"
-                }
-              },
-              {
-                "id": "20fee733342e4ca1",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "红细胞.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "红细胞"
-                }
-              }
-            ],
-            "currentTab": 2
+              "icon": "lucide-file",
+              "title": "心电图"
+            }
           },
           {
-            "id": "e607f31f3ddc396a",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "ddb175dcc89f40eb",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "病理复习scale.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "病理复习scale"
-                }
-              }
-            ]
+            "id": "284b32fe02ace835",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "巨幼细胞性贫血.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "巨幼细胞性贫血"
+            }
           }
-        ],
-        "direction": "horizontal"
+        ]
       }
     ],
     "direction": "vertical"
@@ -109,7 +67,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "红细胞",
+                "query": "心电图",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -151,17 +109,17 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "红细胞.md",
+                "file": "心电图.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
-                "backlinkCollapsed": true,
+                "backlinkCollapsed": false,
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 红细胞"
+              "title": "Backlinks for 心电图"
             }
           },
           {
@@ -170,12 +128,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "红细胞.md",
+                "file": "心电图.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 红细胞"
+              "title": "Outgoing links from 心电图"
             }
           },
           {
@@ -276,7 +234,8 @@
               "title": "File properties for 中医学大纲"
             }
           }
-        ]
+        ],
+        "currentTab": 7
       }
     ],
     "direction": "horizontal",
@@ -298,34 +257,34 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "20fee733342e4ca1",
+  "active": "62d7ec8cd6bda736",
   "lastOpenFiles": [
-    "变性.md",
-    "红细胞.md",
-    "血小板.md",
-    "消化系统疾病.md",
-    "消化系统炎症.md",
-    "感染.md",
+    "佝偻病.md",
     "贫血.md",
-    "慢性失血性贫血.md",
-    "腹部检查.md",
-    "缺铁性贫血.md",
-    "溶血性贫血.md",
-    "胸部检查.md",
+    "巨幼细胞性贫血.md",
     "骨髓检查.md",
-    "再生障碍性贫血.md",
-    "问诊.md",
-    "咽峡炎.md",
-    "阿米巴.md",
-    "胃炎.md",
-    "十二指肠炎.md",
-    "呕血.md",
-    "copilot/copilot-conversations/阑尾炎组成与特点@20260621_092907.md",
-    "腹痛.md",
-    "胰腺炎.md",
-    "消化道溃疡.md",
-    "克罗恩病.md",
-    "Barrett 食管.md",
+    "诊断复习scale.md",
+    "心电图.md",
+    "肠易激综合征.md",
+    "结核性腹膜炎.md",
+    "肠结核.md",
+    "便常规.md",
+    "意识障碍.md",
+    "咯血.md",
+    "肺栓塞.md",
+    "儿科检查.md",
+    "精神检查.md",
+    "腹部检查.md",
+    "炎症.md",
+    "鼻窦炎.md",
+    "一般检查.md",
+    "体征.md",
+    "超声检查.md",
+    "病理复习scale.md",
+    "肿瘤.md",
+    "胆囊癌.md",
+    "急性胆囊炎.md",
+    "腹膜转移癌.md",
     "attachments/Pasted image 20260620225455.png",
     "attachments/Pasted image 20260620154240.png",
     "attachments/Pasted image 20260619233244.png",
