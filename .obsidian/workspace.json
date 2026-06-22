@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "中药概述.md",
+                "file": "听声音.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "中药概述"
+              "title": "听声音"
             }
           }
         ]
@@ -247,9 +247,13 @@
   },
   "active": "64c2e7dd55a1b173",
   "lastOpenFiles": [
-    "中医学大纲.md",
-    "防治原则与方法.md",
     "四诊.md",
+    "望诊.md",
+    "望排出物.md",
+    "二便.md",
+    "中医学大纲.md",
+    "中药概述.md",
+    "防治原则与方法.md",
     "藏象学说（包括气血津液）.md",
     "辨证.md",
     "脉象.md",
@@ -262,8 +266,6 @@
     "嗅气味.md",
     "听声音.md",
     "问诊.md",
-    "二便.md",
-    "望排出物.md",
     "呕吐.md",
     "中医复习scale.md",
     "病理复习scale.md",
@@ -271,8 +273,6 @@
     "肿瘤.md",
     "细菌性痢疾.md",
     "copilot/copilot-conversations/肠道病变常见部位总结@20260622_093842.md",
-    "感染性疾病.md",
-    "肺结核.md",
     "attachments/Pasted image 20260622081343.png",
     "attachments/Pasted image 20260622081256.png",
     "attachments/Pasted image 20260621224524.png",
