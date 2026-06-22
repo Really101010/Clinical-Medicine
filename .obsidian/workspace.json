@@ -12,45 +12,17 @@
             "type": "tabs",
             "children": [
               {
-                "id": "276d74f4aec32357",
+                "id": "668543fff354d9f5",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "急性炎症.md",
+                    "file": "细菌性痢疾.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "急性炎症"
-                }
-              },
-              {
-                "id": "be9d54ba72b21f84",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "肺结核.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "肺结核"
-                }
-              },
-              {
-                "id": "de8cec22ce5ede9e",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "结核.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "结核"
+                  "title": "细菌性痢疾"
                 }
               }
             ]
@@ -65,15 +37,30 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "炎症.md",
+                    "file": "病理复习scale.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "炎症"
+                  "title": "病理复习scale"
+                }
+              },
+              {
+                "id": "dc49c6e37722a998",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "肿瘤.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "肿瘤"
                 }
               }
-            ]
+            ],
+            "currentTab": 1
           }
         ],
         "direction": "horizontal"
@@ -108,7 +95,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "原发综合征",
+                "query": "lang",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -151,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "四诊.md",
+                "file": "细菌性痢疾.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,7 +148,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 四诊"
+              "title": "Backlinks for 细菌性痢疾"
             }
           },
           {
@@ -276,7 +263,8 @@
               "title": "File properties for 中医学大纲"
             }
           }
-        ]
+        ],
+        "currentTab": 7
       }
     ],
     "direction": "horizontal",
@@ -299,17 +287,29 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "276d74f4aec32357",
+  "active": "668543fff354d9f5",
   "lastOpenFiles": [
-    "肺结核.md",
-    "急性炎症.md",
-    "炎症.md",
-    "结核.md",
+    "copilot/copilot-conversations/肠道病变常见部位总结@20260622_093842.md",
     "感染性疾病.md",
     "病理复习scale.md",
+    "肿瘤.md",
+    "肺结核.md",
+    "伤寒.md",
+    "坏死.md",
+    "急性炎症.md",
+    "慢性炎症.md",
+    "结核.md",
+    "肠结核.md",
+    "淋巴结结核.md",
+    "血源性结核病.md",
+    "炎症.md",
+    "流脑.md",
+    "脑膜炎.md",
+    "损伤修复.md",
+    "不完全再生.md",
+    "完全再生.md",
     "attachments/Pasted image 20260622081343.png",
     "attachments/Pasted image 20260622081256.png",
-    "伤寒.md",
     "中医学大纲.md",
     "四诊.md",
     "辨证.md",
@@ -319,19 +319,7 @@
     "表里.md",
     "attachments/Pasted image 20260621224524.png",
     "attachments/Pasted image 20260621224518.png",
-    "中医复习scale.md",
-    "炎性假瘤.md",
-    "慢性炎症.md",
-    "慢性胆囊炎.md",
     "attachments/Pasted image 20260621202622.png",
-    "超声检查.md",
-    "消化系统炎症.md",
-    "胆囊炎.md",
-    "甲状腺炎.md",
-    "水肿.md",
-    "脑水肿.md",
-    "肺水肿.md",
-    "局部血液循环障碍.md",
     "attachments/Pasted image 20260621164458.png",
     "attachments/Pasted image 20260621160504.png",
     "attachments/Pasted image 20260621154705.png",
