@@ -36,6 +36,20 @@
             }
           },
           {
+            "id": "ad80157b8babfdd5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "完全再生.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "完全再生"
+            }
+          },
+          {
             "id": "35fe583a3ef55c1c",
             "type": "leaf",
             "state": {
@@ -78,7 +92,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -153,7 +167,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "炎症.md",
+                "file": "肿瘤.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +177,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 炎症"
+              "title": "Backlinks for 肿瘤"
             }
           },
           {
@@ -230,7 +244,7 @@
             "state": {
               "type": "footnotes",
               "state": {
-                "file": "炎症.md"
+                "file": "肿瘤.md"
               },
               "icon": "lucide-file-signature",
               "title": "Footnotes"
@@ -301,15 +315,21 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "cc0a131adb378091",
+  "active": "348fa13207f4694e",
   "lastOpenFiles": [
+    "完全再生.md",
+    "急性糜烂出血性胃炎.md",
+    "凋亡.md",
+    "损伤修复.md",
+    "肿瘤.md",
     "病理学标本.md",
-    "系统性红斑狼疮.md",
+    "血吸虫病.md",
     "类癌综合征.md",
+    "结核.md",
+    "炎症.md",
+    "系统性红斑狼疮.md",
     "风湿.md",
     "肉芽肿.md",
-    "肿瘤.md",
-    "血吸虫病.md",
     "坏死.md",
     "梅毒.md",
     "神经内分泌肿瘤.md",
@@ -322,13 +342,7 @@
     "神经系统肿瘤.md",
     "血管瘤.md",
     "淋巴造血系统肿瘤.md",
-    "炎症.md",
     "急性炎症.md",
-    "心肌病.md",
-    "变性.md",
-    "慢性炎症.md",
-    "类风湿.md",
-    "copilot/copilot-conversations/肠道病变常见部位总结@20260622_093842.md",
     "attachments/思维导图.tif",
     "attachments/思维导图(2).tif",
     "attachments/Pasted image 20260623192412.png",
