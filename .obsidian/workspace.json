@@ -96,7 +96,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "神经内分泌",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -288,12 +288,13 @@
   },
   "active": "08d94eb315acd860",
   "lastOpenFiles": [
+    "类癌综合征.md",
+    "神经内分泌肿瘤.md",
+    "胃泌素瘤.md",
     "内分泌系统肿瘤.md",
     "嗜铬细胞瘤.md",
     "肿瘤.md",
     "神经系统肿瘤.md",
-    "神经内分泌肿瘤.md",
-    "类癌综合征.md",
     "血管瘤.md",
     "淋巴造血系统肿瘤.md",
     "病理学标本.md",
@@ -313,7 +314,6 @@
     "体液与排泄物检查.md",
     "腹部检查.md",
     "心电图.md",
-    "呕吐.md",
     "attachments/思维导图.tif",
     "attachments/思维导图(2).tif",
     "attachments/Pasted image 20260623192412.png",
