@@ -187,7 +187,7 @@
             "state": {
               "type": "footnotes",
               "state": {
-                "file": "病理复习scale.md"
+                "file": "局部血液循环障碍.md"
               },
               "icon": "lucide-file-signature",
               "title": "Footnotes"
@@ -235,11 +235,12 @@
               "title": "File properties for 中医学大纲"
             }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 396.5
+    "width": 439.5
   },
   "left-ribbon": {
     "hiddenItems": {
