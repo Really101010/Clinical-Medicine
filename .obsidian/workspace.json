@@ -22,6 +22,34 @@
             }
           },
           {
+            "id": "ef98d557a52f560c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "内分泌系统肿瘤.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "内分泌系统肿瘤"
+            }
+          },
+          {
+            "id": "64cd6cf5ec0cff99",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "肿瘤.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "肿瘤"
+            }
+          },
+          {
             "id": "8c7151e3eac4514a",
             "type": "leaf",
             "state": {
@@ -64,20 +92,6 @@
             }
           },
           {
-            "id": "348fa13207f4694e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "肿瘤.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "肿瘤"
-            }
-          },
-          {
             "id": "08d94eb315acd860",
             "type": "leaf",
             "state": {
@@ -92,7 +106,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -292,8 +306,7 @@
               "title": "File properties for 中医学大纲"
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "horizontal",
@@ -315,34 +328,35 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "348fa13207f4694e",
+  "active": "64cd6cf5ec0cff99",
   "lastOpenFiles": [
-    "畸胎瘤.md",
+    "病理学标本.md",
+    "内分泌系统肿瘤.md",
     "肿瘤.md",
-    "attachments/f7baf8275e3ba7be4eddce715bf50c27.jpg",
+    "畸胎瘤.md",
+    "卵巢疾病.md",
+    "黑色素瘤.md",
+    "类癌综合征.md",
+    "神经系统肿瘤.md",
+    "骨肉瘤.md",
+    "血管瘤.md",
+    "神经内分泌肿瘤.md",
+    "横纹肌肉瘤.md",
+    "横纹肌瘤.md",
+    "平滑肌肉瘤.md",
+    "脂肪肉瘤.md",
+    "脂肪瘤.md",
     "炎症.md",
+    "皮肤基底细胞癌.md",
+    "皮肤.md",
+    "皮下出血.md",
+    "attachments/f7baf8275e3ba7be4eddce715bf50c27.jpg",
     "完全再生.md",
     "急性糜烂出血性胃炎.md",
     "凋亡.md",
     "损伤修复.md",
-    "病理学标本.md",
     "血吸虫病.md",
-    "类癌综合征.md",
     "结核.md",
-    "系统性红斑狼疮.md",
-    "风湿.md",
-    "肉芽肿.md",
-    "坏死.md",
-    "梅毒.md",
-    "神经内分泌肿瘤.md",
-    "胃癌.md",
-    "乳腺癌.md",
-    "髓样癌.md",
-    "胃泌素瘤.md",
-    "内分泌系统肿瘤.md",
-    "嗜铬细胞瘤.md",
-    "神经系统肿瘤.md",
-    "血管瘤.md",
     "attachments/思维导图.tif",
     "attachments/思维导图(2).tif",
     "attachments/Pasted image 20260623192412.png",
