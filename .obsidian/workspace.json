@@ -64,7 +64,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -139,7 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "神经内分泌肿瘤.md",
+                "file": "肿瘤.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +149,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 神经内分泌肿瘤"
+              "title": "Backlinks for 肿瘤"
             }
           },
           {
@@ -268,7 +268,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 560.5
+    "width": 560.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -286,10 +287,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "08d94eb315acd860",
+  "active": "348fa13207f4694e",
   "lastOpenFiles": [
-    "类癌综合征.md",
     "神经内分泌肿瘤.md",
+    "类癌综合征.md",
     "胃泌素瘤.md",
     "内分泌系统肿瘤.md",
     "嗜铬细胞瘤.md",
