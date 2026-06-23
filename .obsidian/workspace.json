@@ -144,12 +144,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "坏死.md",
+                "file": "慢性炎症.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 坏死"
+              "title": "Outgoing links from 慢性炎症"
             }
           },
           {
@@ -250,8 +250,7 @@
               "title": "File properties for 中医学大纲"
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "horizontal",
@@ -273,7 +272,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7f71fc970b4bef31",
+  "active": "5cbeac4edc168c37",
   "lastOpenFiles": [
     "急性炎症.md",
     "炎症.md",
