@@ -4,38 +4,53 @@
     "type": "split",
     "children": [
       {
-        "id": "317b0d481baa3309",
+        "id": "b7a944e83e168f74",
         "type": "tabs",
         "children": [
           {
-            "id": "673af8126edcb81c",
+            "id": "5aeab9f9feb0c7e0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "局部血液循环障碍.md",
+                "file": "炎症.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "局部血液循环障碍"
+              "title": "炎症"
             }
           },
           {
-            "id": "c0670f8fe2093191",
+            "id": "9bda5462141b5b5e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "水肿.md",
+                "file": "急性炎症.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "水肿"
+              "title": "急性炎症"
+            }
+          },
+          {
+            "id": "7f71fc970b4bef31",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "慢性炎症.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "慢性炎症"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -67,7 +82,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "痰",
+                "query": "麻风",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -110,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "局部血液循环障碍.md",
+                "file": "慢性炎症.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +135,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 局部血液循环障碍"
+              "title": "Backlinks for 慢性炎症"
             }
           },
           {
@@ -187,7 +202,7 @@
             "state": {
               "type": "footnotes",
               "state": {
-                "file": "局部血液循环障碍.md"
+                "file": "慢性炎症.md"
               },
               "icon": "lucide-file-signature",
               "title": "Footnotes"
@@ -258,9 +273,21 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "673af8126edcb81c",
+  "active": "7f71fc970b4bef31",
   "lastOpenFiles": [
+    "急性炎症.md",
+    "炎症.md",
+    "慢性炎症.md",
+    "结核.md",
+    "血源性结核病.md",
+    "发热.md",
+    "类白血病反应.md",
+    "局部血液循环障碍.md",
+    "坏死.md",
     "水肿.md",
+    "麻风.md",
+    "肺淤血.md",
+    "问诊.md",
     "出血.md",
     "主动脉瘤.md",
     "动脉瘤.md",
@@ -274,18 +301,6 @@
     "脑膜炎.md",
     "真菌病.md",
     "血吸虫病.md",
-    "copilot/copilot-conversations/肠道病变常见部位总结@20260622_093842.md",
-    "十二指肠炎.md",
-    "消化道溃疡.md",
-    "胃溃疡.md",
-    "局部血液循环障碍.md",
-    "丑角综合征.md",
-    "病理复习scale.md",
-    "损伤修复.md",
-    "感染性疾病.md",
-    "性传播性疾病.md",
-    "淋病.md",
-    "HIV.md",
     "attachments/Pasted image 20260622081343.png",
     "attachments/Pasted image 20260622081256.png",
     "attachments/Pasted image 20260621224524.png",
