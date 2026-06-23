@@ -4,21 +4,49 @@
     "type": "split",
     "children": [
       {
-        "id": "a973d3f127e27006",
+        "id": "317b0d481baa3309",
         "type": "tabs",
         "children": [
           {
-            "id": "9bfd49abc7807f7b",
+            "id": "673af8126edcb81c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "脏腑.md",
+                "file": "局部血液循环障碍.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "脏腑"
+              "title": "局部血液循环障碍"
+            }
+          },
+          {
+            "id": "207748ca0558849f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "真菌病.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "真菌病"
+            }
+          },
+          {
+            "id": "dabd14fc82a81f5a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "脑膜炎.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "脑膜炎"
             }
           }
         ]
@@ -53,7 +81,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "阴阳",
+                "query": "病理",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -245,34 +273,34 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9bfd49abc7807f7b",
+  "active": "673af8126edcb81c",
   "lastOpenFiles": [
-    "脏腑.md",
+    "真菌病.md",
+    "局部血液循环障碍.md",
+    "丑角综合征.md",
+    "病理复习scale.md",
+    "损伤修复.md",
+    "脑膜炎.md",
+    "感染性疾病.md",
+    "性传播性疾病.md",
+    "淋病.md",
+    "HIV.md",
+    "病原体免疫检测.md",
+    "梅毒.md",
+    "创伤性神经瘤.md",
+    "完全再生.md",
+    "损伤.md",
+    "凋亡.md",
+    "老化.md",
+    "病理学标本.md",
     "辨证.md",
+    "脏腑.md",
     "阴阳.md",
     "虚实.md",
     "寒热.md",
     "表里.md",
     "问诊.md",
     "系统性红斑狼疮.md",
-    "脉象.md",
-    "脉诊.md",
-    "切诊.md",
-    "疼痛.md",
-    "四诊.md",
-    "食欲食量.md",
-    "听声音.md",
-    "望诊.md",
-    "望排出物.md",
-    "二便.md",
-    "中医学大纲.md",
-    "中药概述.md",
-    "防治原则与方法.md",
-    "藏象学说（包括气血津液）.md",
-    "病机.md",
-    "嗅气味.md",
-    "呕吐.md",
-    "中医复习scale.md",
     "attachments/Pasted image 20260622081343.png",
     "attachments/Pasted image 20260622081256.png",
     "attachments/Pasted image 20260621224524.png",
