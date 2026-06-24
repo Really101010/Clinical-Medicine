@@ -36,31 +36,59 @@
             }
           },
           {
-            "id": "a22a8cd2bad13ca0",
+            "id": "3b6856ff4ab4578e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "心血管系统疾病.md",
+                "file": "慢性阻塞性肺气肿.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "心血管系统疾病"
+              "title": "慢性阻塞性肺气肿"
             }
           },
           {
-            "id": "1f06a5ff4dd23fa8",
+            "id": "e344caf4ac269f52",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "感染性心内膜炎.md",
+                "file": "胸部检查.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "感染性心内膜炎"
+              "title": "胸部检查"
+            }
+          },
+          {
+            "id": "e8fd8deb1d1e2ab1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "咳嗽咳痰.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "咳嗽咳痰"
+            }
+          },
+          {
+            "id": "9d7d8e8a5930004d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "肺气肿.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "肺气肿"
             }
           }
         ],
@@ -96,7 +124,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "艾森门格综合征",
+                "query": "慢阻肺",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -139,7 +167,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "感染性心内膜炎.md",
+                "file": "胸部检查.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +177,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 感染性心内膜炎"
+              "title": "Backlinks for 胸部检查"
             }
           },
           {
@@ -216,7 +244,7 @@
             "state": {
               "type": "footnotes",
               "state": {
-                "file": "感染性心内膜炎.md"
+                "file": "胸部检查.md"
               },
               "icon": "lucide-file-signature",
               "title": "Footnotes"
@@ -264,12 +292,12 @@
               "title": "File properties for 中医学大纲"
             }
           }
-        ]
+        ],
+        "currentTab": 7
       }
     ],
     "direction": "horizontal",
-    "width": 577.5,
-    "collapsed": true
+    "width": 577.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -287,34 +315,35 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1f06a5ff4dd23fa8",
+  "active": "e344caf4ac269f52",
   "lastOpenFiles": [
-    "心血管系统疾病.md",
+    "慢阻肺.md",
+    "慢性阻塞性肺气肿.md",
+    "咳嗽咳痰.md",
+    "copilot/copilot-conversations/慢阻肺诊断修正@20260624_203028.md",
+    "肺气肿.md",
     "脏腑.md",
+    "肺炎.md",
+    "呼吸系统疾病.md",
+    "包涵体.md",
+    "大叶性肺炎.md",
+    "麻疹.md",
+    "支气管肺炎.md",
+    "支气管炎.md",
+    "慢性支气管炎.md",
+    "痰液.md",
+    "心源性呼吸困难.md",
+    "神经内分泌肿瘤.md",
+    "呼吸困难.md",
+    "支气管扩张.md",
+    "肺源性呼吸困难.md",
+    "白细胞.md",
+    "病理学标本.md",
+    "伤寒.md",
     "心肌病.md",
-    "先心病.md",
-    "attachments/Pasted image 20260624190115.png",
-    "动脉导管未闭.md",
-    "辨证.md",
-    "心脏检查.md",
-    "房间隔缺损.md",
-    "室间隔缺损.md",
-    "法洛四联症.md",
-    "克山病.md",
     "心肌炎.md",
-    "心包炎.md",
     "扩张型心肌病.md",
-    "炎症.md",
-    "结节性多动脉炎.md",
-    "心电图.md",
-    "瓣膜病.md",
-    "二尖瓣狭窄.md",
-    "左心衰竭.md",
-    "主动脉瓣狭窄.md",
-    "房扑.md",
-    "房颤.md",
-    "风湿.md",
-    "主动脉瓣关闭不全.md",
+    "attachments/Pasted image 20260624190115.png",
     "attachments/Pasted image 20260624133132.png",
     "attachments/9e9fa69f4206e9da4c7d9b8de136c162.jpg",
     "attachments/f7baf8275e3ba7be4eddce715bf50c27.jpg",
