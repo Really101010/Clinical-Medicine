@@ -13,26 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "诊断复习scale.md",
+                "file": "瓣膜病.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "诊断复习scale"
+              "title": "瓣膜病"
             }
           },
           {
-            "id": "4be7c132b07c4a2d",
+            "id": "80a991315ac16f74",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "感染性心内膜炎.md",
+                "file": "心电图.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "感染性心内膜炎"
+              "title": "心电图"
             }
           }
         ],
@@ -68,7 +68,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "法洛",
+                "query": "Osler",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -236,8 +236,7 @@
               "title": "File properties for 中医学大纲"
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "horizontal",
@@ -260,17 +259,27 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4be7c132b07c4a2d",
+  "active": "80a991315ac16f74",
   "lastOpenFiles": [
+    "风湿.md",
+    "瓣膜病.md",
+    "主动脉瓣狭窄.md",
+    "心脏检查.md",
+    "二尖瓣狭窄.md",
+    "主动脉瓣关闭不全.md",
+    "心肌炎.md",
+    "心肌病.md",
+    "二尖瓣关闭不全.md",
+    "attachments/Pasted image 20260624133132.png",
     "心血管系统疾病.md",
     "病理复习scale.md",
     "诊断复习scale.md",
+    "感染性心内膜炎.md",
+    "热型及临床意义.md",
+    "发热.md",
     "肝功能检查.md",
     "腹部检查.md",
     "病理学标本.md",
-    "风湿.md",
-    "瓣膜病.md",
-    "心脏检查.md",
     "先心病.md",
     "儿科检查.md",
     "法洛四联症.md",
@@ -279,15 +288,6 @@
     "自身免疫性疾病.md",
     "高血压.md",
     "坏死.md",
-    "动脉瘤.md",
-    "颅内高压.md",
-    "颅内压增高.md",
-    "胸部检查.md",
-    "肥大.md",
-    "变性.md",
-    "胰岛素.md",
-    "冠心病.md",
-    "急性心肌梗死.md",
     "attachments/9e9fa69f4206e9da4c7d9b8de136c162.jpg",
     "attachments/f7baf8275e3ba7be4eddce715bf50c27.jpg",
     "attachments/思维导图.tif",
@@ -299,7 +299,6 @@
     "attachments/Pasted image 20260623174940.png",
     "attachments/Pasted image 20260622081343.png",
     "attachments/Pasted image 20260622081256.png",
-    "attachments/Pasted image 20260621224524.png",
     "attachments",
     "copilot/copilot-conversations",
     "base-all.base",
