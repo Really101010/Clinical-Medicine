@@ -48,9 +48,51 @@
               "icon": "lucide-file",
               "title": "证治方药的综合运用"
             }
+          },
+          {
+            "id": "75db4adb27aa2efb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "结核.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "结核"
+            }
+          },
+          {
+            "id": "2ea2da8ba98fadac",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "性传播性疾病.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "性传播性疾病"
+            }
+          },
+          {
+            "id": "bf0ed5ecbdad8a0c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "病理学标本.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "病理学标本"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -82,7 +124,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "结核球",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -108,8 +150,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "7d38cd1fdadcd175",
@@ -125,7 +166,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "证治方药的综合运用.md",
+                "file": "结核.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +176,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 证治方药的综合运用"
+              "title": "Backlinks for 结核"
             }
           },
           {
@@ -273,34 +314,34 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "63d5e2d16f65fb93",
+  "active": "75db4adb27aa2efb",
   "lastOpenFiles": [
-    "病理学标本.md",
+    "性传播性疾病.md",
+    "梅毒.md",
     "神经系统肿瘤.md",
-    "脑膜刺激征.md",
-    "脑脓肿.md",
-    "神经系统疾病.md",
-    "神经元.md",
-    "神经系统变性疾病.md",
-    "Alzheimer病.md",
-    "脑膜炎.md",
-    "脑水肿.md",
-    "砂粒体.md",
-    "狂犬病.md",
+    "弥漫性毒性甲状腺肿.md",
+    "结核.md",
+    "病理学标本.md",
+    "肺结核.md",
+    "神经胶质细胞.md",
+    "乙脑.md",
+    "满天星.md",
+    "卫星.md",
+    "脑脊液.md",
+    "血源性结核病.md",
     "菊形团.md",
-    "肺癌.md",
-    "畸胎瘤.md",
-    "内分泌系统疾病.md",
-    "嗜铬细胞瘤.md",
-    "支气管扩张.md",
-    "栅栏状排列.md",
-    "copilot/copilot-conversations/肠道病变常见部位总结@20260622_093842.md",
     "肉芽肿.md",
-    "copilot/copilot-conversations/Palisading_Arrangement_Causes_Lesions@20260625_095354.md",
-    "平滑肌瘤.md",
-    "类风湿.md",
+    "Alzheimer病.md",
+    "海绵状脑病.md",
+    "甲状腺肿瘤.md",
+    "结节性甲状腺肿.md",
+    "弥漫性非毒性甲状腺肿.md",
+    "嗜铬细胞瘤.md",
+    "砂粒体.md",
+    "神经系统疾病.md",
+    "脑脓肿.md",
+    "支气管肺炎.md",
     "流脑.md",
-    "局部血液循环障碍.md",
     "attachments/Pasted image 20260624211230.png",
     "attachments/Pasted image 20260624210743.png",
     "attachments/Pasted image 20260624190115.png",
