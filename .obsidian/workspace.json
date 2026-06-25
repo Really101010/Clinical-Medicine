@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "弥漫性毒性甲状腺肿.md",
+                "file": "内分泌系统疾病.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "弥漫性毒性甲状腺肿"
+              "title": "内分泌系统疾病"
             }
           },
           {
@@ -167,7 +167,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "弥漫性毒性甲状腺肿.md",
+                "file": "内分泌系统疾病.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -177,7 +177,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 弥漫性毒性甲状腺肿"
+              "title": "Backlinks for 内分泌系统疾病"
             }
           },
           {
@@ -317,6 +317,7 @@
   },
   "active": "75db4adb27aa2efb",
   "lastOpenFiles": [
+    "弥漫性毒性甲状腺肿.md",
     "内分泌系统疾病.md",
     "弥漫性非毒性甲状腺肿.md",
     "垂体腺瘤.md",
@@ -325,7 +326,6 @@
     "性传播性疾病.md",
     "梅毒.md",
     "神经系统肿瘤.md",
-    "弥漫性毒性甲状腺肿.md",
     "病理学标本.md",
     "神经胶质细胞.md",
     "乙脑.md",
