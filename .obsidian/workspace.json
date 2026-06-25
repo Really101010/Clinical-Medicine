@@ -69,16 +69,44 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "病理复习scale.md",
+                "file": "内分泌系统疾病.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "病理复习scale"
+              "title": "内分泌系统疾病"
+            }
+          },
+          {
+            "id": "8f5f8091bcc240c5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "包涵体.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "包涵体"
+            }
+          },
+          {
+            "id": "28391b623e7fcc22",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "神经元.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "神经元"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -110,7 +138,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "蜂窝",
+                "query": "Wall",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -153,7 +181,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "病理复习scale.md",
+                "file": "包涵体.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +191,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 病理复习scale"
+              "title": "Backlinks for 包涵体"
             }
           },
           {
@@ -301,8 +329,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4c8351bb9990c5a6",
+  "active": "8f5f8091bcc240c5",
   "lastOpenFiles": [
+    "内分泌系统疾病.md",
+    "病理复习scale.md",
+    "神经系统疾病.md",
+    "神经元.md",
+    "包涵体.md",
     "中药概述.md",
     "证治方药的综合运用.md",
     "中医学大纲.md",
@@ -324,11 +357,6 @@
     "急性呼吸窘迫综合征.md",
     "diary/NOTES/2026-06-24 Wed.md",
     "腧穴学.md",
-    "Untitled.md",
-    "硅肺.md",
-    "肺纤维化.md",
-    "石棉肺.md",
-    "慢性阻塞性肺气肿.md",
     "attachments/Pasted image 20260624211230.png",
     "attachments/Pasted image 20260624210743.png",
     "attachments/Pasted image 20260624190115.png",
