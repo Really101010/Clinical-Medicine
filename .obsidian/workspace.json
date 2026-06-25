@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "脏腑.md",
+                "file": "辨证.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "脏腑"
+              "title": "辨证"
             }
           },
           {
@@ -135,7 +135,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "7d38cd1fdadcd175",
@@ -301,16 +302,19 @@
   },
   "active": "807da0b2e523b61a",
   "lastOpenFiles": [
-    "方剂.md",
+    "寒热.md",
+    "辨证.md",
+    "虚实.md",
+    "阴阳.md",
     "脏腑.md",
+    "表里.md",
+    "方剂.md",
     "证治方药的综合运用.md",
     "四诊.md",
     "望诊.md",
-    "辨证.md",
     "中医学大纲.md",
     "中药概述.md",
     "表证.md",
-    "表里.md",
     "甲状腺肿瘤.md",
     "肺结核.md",
     "病理学标本.md",
@@ -324,9 +328,6 @@
     "结核.md",
     "内分泌系统疾病.md",
     "肿瘤.md",
-    "甲状腺癌.md",
-    "肠结核.md",
-    "细菌性痢疾.md",
     "attachments/Pasted image 20260624211230.png",
     "attachments/Pasted image 20260624210743.png",
     "attachments/Pasted image 20260624190115.png",
