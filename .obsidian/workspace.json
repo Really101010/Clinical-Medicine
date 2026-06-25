@@ -48,51 +48,9 @@
               "icon": "lucide-file",
               "title": "证治方药的综合运用"
             }
-          },
-          {
-            "id": "8a5ee24521325a44",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "中药概述.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "中药概述"
-            }
-          },
-          {
-            "id": "4c8351bb9990c5a6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "内分泌系统疾病.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "内分泌系统疾病"
-            }
-          },
-          {
-            "id": "28391b623e7fcc22",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "神经元.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "神经元"
-            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -124,7 +82,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Wall",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -167,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "神经元.md",
+                "file": "证治方药的综合运用.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -177,7 +135,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 神经元"
+              "title": "Backlinks for 证治方药的综合运用"
             }
           },
           {
@@ -315,34 +273,34 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "28391b623e7fcc22",
+  "active": "63d5e2d16f65fb93",
   "lastOpenFiles": [
-    "包涵体.md",
-    "内分泌系统疾病.md",
-    "病理复习scale.md",
+    "病理学标本.md",
+    "神经系统肿瘤.md",
+    "脑膜刺激征.md",
+    "脑脓肿.md",
     "神经系统疾病.md",
     "神经元.md",
-    "中药概述.md",
-    "证治方药的综合运用.md",
-    "中医学大纲.md",
-    "方剂基础知识.md",
-    "防治原则与方法.md",
-    "辨证.md",
-    "脏腑.md",
-    "呼吸系统疾病.md",
-    "支气管哮喘.md",
-    "鼻咽癌.md",
-    "颅神经.md",
-    "支气管扩张.md",
-    "慢阻肺.md",
+    "神经系统变性疾病.md",
+    "Alzheimer病.md",
+    "脑膜炎.md",
+    "脑水肿.md",
+    "砂粒体.md",
+    "狂犬病.md",
+    "菊形团.md",
     "肺癌.md",
-    "类癌综合征.md",
-    "副肿瘤综合征.md",
-    "上腔静脉综合征.md",
-    "喉癌.md",
-    "急性呼吸窘迫综合征.md",
-    "diary/NOTES/2026-06-24 Wed.md",
-    "腧穴学.md",
+    "畸胎瘤.md",
+    "内分泌系统疾病.md",
+    "嗜铬细胞瘤.md",
+    "支气管扩张.md",
+    "栅栏状排列.md",
+    "copilot/copilot-conversations/肠道病变常见部位总结@20260622_093842.md",
+    "肉芽肿.md",
+    "copilot/copilot-conversations/Palisading_Arrangement_Causes_Lesions@20260625_095354.md",
+    "平滑肌瘤.md",
+    "类风湿.md",
+    "流脑.md",
+    "局部血液循环障碍.md",
     "attachments/Pasted image 20260624211230.png",
     "attachments/Pasted image 20260624210743.png",
     "attachments/Pasted image 20260624190115.png",
