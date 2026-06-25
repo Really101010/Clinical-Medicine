@@ -64,7 +64,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -139,7 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "表证.md",
+                "file": "证治方药的综合运用.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +149,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 表证"
+              "title": "Backlinks for 证治方药的综合运用"
             }
           },
           {
@@ -287,11 +287,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3aee531ae23b5657",
+  "active": "63d5e2d16f65fb93",
   "lastOpenFiles": [
+    "表证.md",
     "证治方药的综合运用.md",
     "表里.md",
-    "表证.md",
     "甲状腺肿瘤.md",
     "肺结核.md",
     "病理学标本.md",
