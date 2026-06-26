@@ -32,12 +32,12 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "配伍.md",
+                    "file": "中医学大纲.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "配伍"
+                  "title": "中医学大纲"
                 }
               },
               {
@@ -55,7 +55,7 @@
                 }
               }
             ],
-            "currentTab": 1
+            "currentTab": 2
           },
           {
             "id": "d503162a443d0d52",
@@ -317,16 +317,17 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "df46acee385c14e4",
+  "active": "eddd0e16bba31eb3",
   "lastOpenFiles": [
-    "证治方药的综合运用.md",
-    "配伍.md",
-    "十九畏.md",
-    "十八反.md",
-    "中药概述.md",
     "中医学大纲.md",
+    "中药概述.md",
+    "配伍.md",
     "方剂基础知识.md",
     "方剂.md",
+    "用药禁忌.md",
+    "十八反.md",
+    "十九畏.md",
+    "证治方药的综合运用.md",
     "毒性.md",
     "归经.md",
     "升降浮沉.md",
@@ -344,7 +345,6 @@
     "寒热.md",
     "四诊.md",
     "五色主病.md",
-    "脉象.md",
     "attachments/Pasted image 20260624211230.png",
     "attachments/Pasted image 20260624210743.png",
     "attachments/Pasted image 20260624190115.png",
