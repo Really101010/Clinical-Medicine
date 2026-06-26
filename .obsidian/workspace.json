@@ -31,12 +31,12 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "防治原则与方法.md",
+                    "file": "阴阳治则.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "防治原则与方法"
+                  "title": "阴阳治则"
                 }
               },
               {
@@ -180,7 +180,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "防治原则与方法.md",
+                "file": "阴阳治则.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -190,7 +190,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 防治原则与方法"
+              "title": "Backlinks for 阴阳治则"
             }
           },
           {
@@ -330,8 +330,8 @@
   },
   "active": "807da0b2e523b61a",
   "lastOpenFiles": [
-    "虚实治则.md",
     "防治原则与方法.md",
+    "虚实治则.md",
     "三因制宜.md",
     "反治.md",
     "正治.md",
