@@ -146,12 +146,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "望诊.md",
+                "file": "五色主病.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "望诊"
+              "title": "五色主病"
+            }
+          },
+          {
+            "id": "5b34121986b70ed5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "四诊.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "四诊"
             }
           },
           {
@@ -169,7 +183,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -201,7 +215,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "口渴",
+                "query": "小儿指纹",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -244,7 +258,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "脉象.md",
+                "file": "四诊.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -254,7 +268,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 脉象"
+              "title": "Backlinks for 四诊"
             }
           },
           {
@@ -392,8 +406,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "99e858522253d3e0",
+  "active": "5b34121986b70ed5",
   "lastOpenFiles": [
+    "五色主病.md",
+    "望诊.md",
+    "脉象.md",
     "脉诊.md",
     "问诊.md",
     "食欲食量.md",
@@ -407,8 +424,6 @@
     "表证.md",
     "虚实.md",
     "寒热.md",
-    "望诊.md",
-    "五色主病.md",
     "方剂.md",
     "阴阳.md",
     "表里.md",
@@ -419,7 +434,6 @@
     "病理学标本.md",
     "性传播性疾病.md",
     "Barrett 食管.md",
-    "消化道溃疡.md",
     "attachments/Pasted image 20260624211230.png",
     "attachments/Pasted image 20260624210743.png",
     "attachments/Pasted image 20260624190115.png",
