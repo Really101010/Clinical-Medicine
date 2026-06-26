@@ -32,12 +32,40 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "升降浮沉.md",
+                    "file": "中药概述.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "升降浮沉"
+                  "title": "中药概述"
+                }
+              },
+              {
+                "id": "feddec1df224d98f",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "归经.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "归经"
+                }
+              },
+              {
+                "id": "76704acd96288468",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "毒性.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "毒性"
                 }
               },
               {
@@ -55,7 +83,7 @@
                 }
               }
             ],
-            "currentTab": 1
+            "currentTab": 2
           },
           {
             "id": "d503162a443d0d52",
@@ -154,7 +182,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "升降浮沉.md",
+                "file": "归经.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -164,7 +192,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 升降浮沉"
+              "title": "Backlinks for 归经"
             }
           },
           {
@@ -302,14 +330,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "807da0b2e523b61a",
+  "active": "feddec1df224d98f",
   "lastOpenFiles": [
     "中药概述.md",
+    "毒性.md",
     "升降浮沉.md",
+    "证治方药的综合运用.md",
+    "归经.md",
     "方剂.md",
     "四气.md",
     "五味.md",
-    "证治方药的综合运用.md",
     "中医学大纲.md",
     "中医复习scale.md",
     "辨证.md",
@@ -328,8 +358,6 @@
     "食欲食量.md",
     "口渴.md",
     "虚实.md",
-    "阴阳.md",
-    "表里.md",
     "attachments/Pasted image 20260624211230.png",
     "attachments/Pasted image 20260624210743.png",
     "attachments/Pasted image 20260624190115.png",
