@@ -31,12 +31,12 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "六淫.md",
+                    "file": "防治原则与方法.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "六淫"
+                  "title": "防治原则与方法"
                 }
               },
               {
@@ -59,12 +59,12 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "十九畏.md",
+                    "file": "方药.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "十九畏"
+                  "title": "方药"
                 }
               },
               {
@@ -180,7 +180,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "六淫.md",
+                "file": "防治原则与方法.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -190,7 +190,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 六淫"
+              "title": "Backlinks for 防治原则与方法"
             }
           },
           {
@@ -330,32 +330,32 @@
   },
   "active": "807da0b2e523b61a",
   "lastOpenFiles": [
+    "虚实治则.md",
+    "防治原则与方法.md",
+    "三因制宜.md",
+    "反治.md",
+    "正治.md",
+    "中医学大纲.md",
     "病因病机.md",
+    "痰饮.md",
+    "瘀血.md",
+    "疼痛.md",
     "七情内伤.md",
     "六淫.md",
-    "中医学大纲.md",
+    "方药.md",
+    "配伍.md",
+    "十九畏.md",
+    "方剂.md",
+    "方剂组成变化.md",
     "腧穴学.md",
     "方剂基础知识.md",
-    "十九畏.md",
     "copilot/copilot-conversations/肠道病变常见部位总结@20260622_093842.md",
-    "方剂组成变化.md",
     "剂型.md",
-    "方剂.md",
-    "配伍.md",
     "十八反.md",
     "腹痛.md",
     "组方原则.md",
     "经络学说.md",
     "copilot/copilot-conversations/脐周痛腹泻@20260626_141057.md",
-    "证治方药的综合运用.md",
-    "方药.md",
-    "四诊.md",
-    "望诊.md",
-    "中药概述.md",
-    "用药禁忌.md",
-    "毒性.md",
-    "归经.md",
-    "升降浮沉.md",
     "attachments/Pasted image 20260624211230.png",
     "attachments/Pasted image 20260624210743.png",
     "attachments/Pasted image 20260624190115.png",
