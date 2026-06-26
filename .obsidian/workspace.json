@@ -73,12 +73,12 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "配伍.md",
+                    "file": "十九畏.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "配伍"
+                  "title": "十九畏"
                 }
               },
               {
@@ -96,7 +96,7 @@
                 }
               }
             ],
-            "currentTab": 1
+            "currentTab": 4
           },
           {
             "id": "8b26bf04620b05a8",
@@ -194,7 +194,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "方剂组成变化.md",
+                "file": "十九畏.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -204,7 +204,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 方剂组成变化"
+              "title": "Backlinks for 十九畏"
             }
           },
           {
@@ -342,10 +342,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "afd7d630af74475a",
+  "active": "ed1833d1e18c2a3d",
   "lastOpenFiles": [
-    "方剂基础知识.md",
+    "配伍.md",
+    "十八反.md",
     "方剂组成变化.md",
+    "方剂基础知识.md",
     "腹痛.md",
     "组方原则.md",
     "中医学大纲.md",
@@ -358,8 +360,6 @@
     "四诊.md",
     "望诊.md",
     "中药概述.md",
-    "配伍.md",
-    "十八反.md",
     "用药禁忌.md",
     "十九畏.md",
     "毒性.md",
