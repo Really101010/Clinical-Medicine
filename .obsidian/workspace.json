@@ -78,7 +78,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -300,10 +300,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "807da0b2e523b61a",
+  "active": "eddd0e16bba31eb3",
   "lastOpenFiles": [
-    "寒热.md",
     "辨证.md",
+    "寒热.md",
     "虚实.md",
     "阴阳.md",
     "脏腑.md",
