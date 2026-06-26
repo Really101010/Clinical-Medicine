@@ -132,12 +132,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "脉诊.md",
+                "file": "脉象.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "脉诊"
+              "title": "脉象"
             }
           },
           {
@@ -244,7 +244,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "问诊.md",
+                "file": "脉象.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -254,7 +254,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 问诊"
+              "title": "Backlinks for 脉象"
             }
           },
           {
@@ -392,10 +392,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2a54bd6d129821b9",
+  "active": "99e858522253d3e0",
   "lastOpenFiles": [
-    "食欲食量.md",
+    "脉诊.md",
     "问诊.md",
+    "食欲食量.md",
     "四诊.md",
     "中医学大纲.md",
     "藏象学说（包括气血津液）.md",
@@ -408,7 +409,6 @@
     "寒热.md",
     "望诊.md",
     "五色主病.md",
-    "脉诊.md",
     "方剂.md",
     "阴阳.md",
     "表里.md",
