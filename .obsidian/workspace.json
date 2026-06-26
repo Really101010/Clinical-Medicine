@@ -4,125 +4,81 @@
     "type": "split",
     "children": [
       {
-        "id": "75746369890075dc",
-        "type": "split",
+        "id": "83076578075ba9fe",
+        "type": "tabs",
         "children": [
           {
-            "id": "83076578075ba9fe",
-            "type": "tabs",
-            "dimension": 54.920212765957444,
-            "children": [
-              {
-                "id": "80a991315ac16f74",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "心电图.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "心电图"
-                }
+            "id": "80a991315ac16f74",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "心电图.md",
+                "mode": "source",
+                "source": false
               },
-              {
-                "id": "807da0b2e523b61a",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "经络学说.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "经络学说"
-                }
-              },
-              {
-                "id": "ed1833d1e18c2a3d",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "配伍.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "配伍"
-                }
-              },
-              {
-                "id": "eddd0e16bba31eb3",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "方剂.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "方剂"
-                }
-              }
-            ],
-            "currentTab": 1
+              "icon": "lucide-file",
+              "title": "心电图"
+            }
           },
           {
-            "id": "d503162a443d0d52",
-            "type": "tabs",
-            "dimension": 45.079787234042556,
-            "children": [
-              {
-                "id": "63d5e2d16f65fb93",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "证治方药的综合运用.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "证治方药的综合运用"
-                }
+            "id": "807da0b2e523b61a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "经络学说.md",
+                "mode": "source",
+                "source": false
               },
-              {
-                "id": "42a3bd8cbeefb8a9",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "方药.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "方药"
-                }
+              "icon": "lucide-file",
+              "title": "经络学说"
+            }
+          },
+          {
+            "id": "d2dfbd530e66625f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "腹痛.md",
+                "mode": "source",
+                "source": false
               },
-              {
-                "id": "df46acee385c14e4",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "方剂.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "方剂"
-                }
-              }
-            ],
-            "currentTab": 2
+              "icon": "lucide-file",
+              "title": "腹痛"
+            }
+          },
+          {
+            "id": "ed1833d1e18c2a3d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "配伍.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "配伍"
+            }
+          },
+          {
+            "id": "eddd0e16bba31eb3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "方剂.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "方剂"
+            }
           }
         ],
-        "direction": "horizontal"
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -197,7 +153,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "方剂.md",
+                "file": "腹痛.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -207,7 +163,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 方剂"
+              "title": "Backlinks for 腹痛"
             }
           },
           {
@@ -322,12 +278,12 @@
               "title": "File properties for 中医学大纲"
             }
           }
-        ]
+        ],
+        "currentTab": 7
       }
     ],
     "direction": "horizontal",
-    "width": 577.5,
-    "collapsed": true
+    "width": 577.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -345,12 +301,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "df46acee385c14e4",
+  "active": "d2dfbd530e66625f",
   "lastOpenFiles": [
+    "copilot/copilot-conversations/脐周痛腹泻@20260626_141057.md",
+    "经络学说.md",
+    "证治方药的综合运用.md",
     "方药.md",
     "方剂.md",
-    "证治方药的综合运用.md",
-    "经络学说.md",
     "中医学大纲.md",
     "四诊.md",
     "望诊.md",
@@ -372,7 +329,6 @@
     "藏象学说（包括气血津液）.md",
     "肝.md",
     "问诊.md",
-    "表证.md",
     "attachments/Pasted image 20260624211230.png",
     "attachments/Pasted image 20260624210743.png",
     "attachments/Pasted image 20260624190115.png",
