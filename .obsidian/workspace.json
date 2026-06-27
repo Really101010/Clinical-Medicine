@@ -8,17 +8,31 @@
         "type": "tabs",
         "children": [
           {
-            "id": "80a991315ac16f74",
+            "id": "a1f3f262c71dea15",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "copilot/copilot-conversations/肿瘤形态分类整理@20260618_082940.md",
+                "file": "晕厥.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "肿瘤形态分类整理@20260618_082940"
+              "title": "晕厥"
+            }
+          },
+          {
+            "id": "270d0ef243bd9f6e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "胸部检查.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "胸部检查"
             }
           }
         ]
@@ -96,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "copilot/copilot-conversations/肿瘤形态分类整理@20260618_082940.md",
+                "file": "晕厥.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +120,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 肿瘤形态分类整理@20260618_082940"
+              "title": "Backlinks for 晕厥"
             }
           },
           {
@@ -244,10 +258,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "80a991315ac16f74",
+  "active": "a1f3f262c71dea15",
   "lastOpenFiles": [
-    "皮肤基底细胞癌.md",
+    "胸部检查.md",
+    "腹部检查.md",
+    "晕厥.md",
+    "脊髓空洞症.md",
+    "希恩综合征.md",
     "copilot/copilot-conversations/肿瘤形态分类整理@20260618_082940.md",
+    "皮肤基底细胞癌.md",
     "心电图.md",
     "水肿.md",
     "超声检查.md",
@@ -267,11 +286,6 @@
     "红细胞.md",
     "贫血.md",
     "白细胞.md",
-    "血小板.md",
-    "伤寒.md",
-    "诊断复习scale.md",
-    "病历书写.md",
-    "症状纲要.md",
     "attachments/Pasted image 20260624211230.png",
     "attachments/Pasted image 20260624210743.png",
     "attachments/Pasted image 20260624190115.png",
