@@ -120,7 +120,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -343,11 +343,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9dec841a9b7df774",
+  "active": "bff5214ec37f02a2",
   "lastOpenFiles": [
+    "支气管扩张.md",
     "高血压.md",
     "肺气肿.md",
-    "支气管扩张.md",
     "热型及临床意义.md",
     "风湿.md",
     "尿沉渣.md",
