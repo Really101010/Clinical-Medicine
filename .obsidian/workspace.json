@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "换气过度",
+                "query": "间接叩诊",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -79,8 +79,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "7d38cd1fdadcd175",
@@ -246,7 +245,14 @@
   },
   "active": "270d0ef243bd9f6e",
   "lastOpenFiles": [
+    "肋间定位.md",
     "胸部检查.md",
+    "嗅气味.md",
+    "体征.md",
+    "叩诊.md",
+    "脊柱与四肢检查.md",
+    "腹部检查.md",
+    "听声音.md",
     "焦虑.md",
     "精神检查.md",
     "意识障碍.md",
@@ -263,16 +269,9 @@
     "假性脑膜炎.md",
     "无脉症.md",
     "自身免疫性疾病.md",
-    "腹部检查.md",
     "脊髓空洞症.md",
     "希恩综合征.md",
     "copilot/copilot-conversations/肿瘤形态分类整理@20260618_082940.md",
-    "皮肤基底细胞癌.md",
-    "心电图.md",
-    "水肿.md",
-    "超声检查.md",
-    "胆石症.md",
-    "血糖.md",
     "attachments/Pasted image 20260624211230.png",
     "attachments/Pasted image 20260624210743.png",
     "attachments/Pasted image 20260624190115.png",
