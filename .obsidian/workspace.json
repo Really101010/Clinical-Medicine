@@ -36,31 +36,17 @@
             }
           },
           {
-            "id": "b86653e4f402254b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "皮下出血.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "皮下出血"
-            }
-          },
-          {
             "id": "c81d37b6f5f59b6b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "呕血.md",
+                "file": "头部检查.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "呕血"
+              "title": "头部检查"
             }
           },
           {
@@ -78,49 +64,21 @@
             }
           },
           {
-            "id": "8c7390a2370ccba3",
+            "id": "9a2a3ce6f6d87897",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "发热.md",
+                "file": "类白血病反应.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "发热"
-            }
-          },
-          {
-            "id": "46d4dd38233ed900",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "骨关节疾病.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "骨关节疾病"
-            }
-          },
-          {
-            "id": "7a0357fa8effd7fb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "肝淤血.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "肝淤血"
+              "title": "类白血病反应"
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -152,7 +110,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "对比",
+                "query": "头围",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -195,7 +153,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "骨关节疾病.md",
+                "file": "头部检查.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -205,7 +163,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 骨关节疾病"
+              "title": "Backlinks for 头部检查"
             }
           },
           {
@@ -272,7 +230,7 @@
             "state": {
               "type": "footnotes",
               "state": {
-                "file": "骨关节疾病.md"
+                "file": "头部检查.md"
               },
               "icon": "lucide-file-signature",
               "title": "Footnotes"
@@ -343,34 +301,34 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "46d4dd38233ed900",
+  "active": "c81d37b6f5f59b6b",
   "lastOpenFiles": [
-    "骨肿瘤.md",
-    "骨关节疾病.md",
-    "类风湿.md",
-    "骨关节炎.md",
-    "骨肉瘤.md",
-    "肝淤血.md",
-    "胸背痛.md",
-    "佝偻病.md",
-    "感染性心内膜炎.md",
-    "风湿.md",
-    "肠易激综合征.md",
-    "热型及临床意义.md",
-    "白血病.md",
-    "银屑病.md",
-    "发热.md",
+    "体征.md",
+    "皮肤.md",
+    "头部检查.md",
+    "马方综合征（Marfan syndrome）.md",
     "血尿.md",
-    "便血.md",
-    "传单.md",
-    "便常规.md",
-    "呕血.md",
-    "门脉高压.md",
-    "血吸虫病.md",
-    "霍奇金病.md",
+    "一般检查.md",
+    "诊断复习scale.md",
+    "症状纲要.md",
+    "关节疼痛.md",
+    "水肿.md",
+    "胡桃夹综合征.md",
+    "黄疸.md",
+    "肝功能检查.md",
     "血清蛋白.md",
-    "淋巴造血系统肿瘤.md",
-    "变性.md",
+    "骨肿瘤.md",
+    "呕吐.md",
+    "心悸.md",
+    "胸痛.md",
+    "心脏检查.md",
+    "发绀.md",
+    "呕血.md",
+    "系统性红斑狼疮.md",
+    "溶血性贫血.md",
+    "蛛网膜下腔出血.md",
+    "心电图.md",
+    "干燥综合征.md",
     "attachments/Pasted image 20260624211230.png",
     "attachments/Pasted image 20260624210743.png",
     "attachments/Pasted image 20260624190115.png",
