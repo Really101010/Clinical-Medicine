@@ -20,23 +20,8 @@
               "icon": "lucide-file",
               "title": "胸部检查"
             }
-          },
-          {
-            "id": "ace451100e6286e7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "意识障碍.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "意识障碍"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -111,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "意识障碍.md",
+                "file": "胸部检查.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +106,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 意识障碍"
+              "title": "Backlinks for 胸部检查"
             }
           },
           {
@@ -259,11 +244,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ace451100e6286e7",
+  "active": "270d0ef243bd9f6e",
   "lastOpenFiles": [
-    "颅内高压.md",
-    "意识障碍.md",
     "胸部检查.md",
+    "焦虑.md",
+    "精神检查.md",
+    "意识障碍.md",
+    "颅内高压.md",
     "抽搐.md",
     "癔症.md",
     "惊厥.md",
@@ -286,8 +273,6 @@
     "超声检查.md",
     "胆石症.md",
     "血糖.md",
-    "糖尿病.md",
-    "急性心肌梗死.md",
     "attachments/Pasted image 20260624211230.png",
     "attachments/Pasted image 20260624210743.png",
     "attachments/Pasted image 20260624190115.png",
