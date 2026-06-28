@@ -36,31 +36,17 @@
             }
           },
           {
-            "id": "0a2a4373db8c61bf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "肺梗死.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "肺梗死"
-            }
-          },
-          {
             "id": "0afce1f2132edf7c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "大叶性肺炎.md",
+                "file": "脑.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "大叶性肺炎"
+              "title": "脑"
             }
           },
           {
@@ -167,7 +153,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "肺梗死.md",
+                "file": "脑.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -177,7 +163,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 肺梗死"
+              "title": "Backlinks for 脑"
             }
           },
           {
@@ -244,7 +230,7 @@
             "state": {
               "type": "footnotes",
               "state": {
-                "file": "肺梗死.md"
+                "file": "脑.md"
               },
               "icon": "lucide-file-signature",
               "title": "Footnotes"
@@ -292,12 +278,12 @@
               "title": "File properties for 中医学大纲"
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 577.5
+    "width": 577.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -315,34 +301,35 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0a2a4373db8c61bf",
+  "active": "0afce1f2132edf7c",
   "lastOpenFiles": [
-    "attachments/Pasted image 20260628094220.png",
+    "假性脑膜炎.md",
+    "脑.md",
+    "多发性硬化.md",
+    "脑肿瘤.md",
+    "肺心病.md",
+    "神经系统肿瘤.md",
+    "小脑肿瘤.md",
+    "小脑病变.md",
+    "大叶性肺炎.md",
     "肺梗死.md",
     "肺淤血.md",
+    "血源性结核病.md",
+    "脑血管病.md",
+    "脑出血.md",
+    "脑血管畸形.md",
+    "抽搐.md",
+    "脑膜炎.md",
+    "attachments/Pasted image 20260628094220.png",
     "胸部检查.md",
-    "大叶性肺炎.md",
     "乙脑.md",
     "脂肪瘤.md",
-    "肺心病.md",
     "肺性脑病.md",
     "皮下气肿.md",
     "肋间定位.md",
     "嗅气味.md",
     "体征.md",
     "叩诊.md",
-    "脊柱与四肢检查.md",
-    "腹部检查.md",
-    "听声音.md",
-    "焦虑.md",
-    "精神检查.md",
-    "意识障碍.md",
-    "颅内高压.md",
-    "抽搐.md",
-    "癔症.md",
-    "惊厥.md",
-    "脑膜炎.md",
-    "晕厥.md",
     "attachments/917a82f68bc72c3b8b4de19ae80b0fe9.jpg",
     "attachments/Pasted image 20260624211230.png",
     "attachments/Pasted image 20260624210743.png",
@@ -354,7 +341,6 @@
     "attachments/思维导图(2).tif",
     "attachments/Pasted image 20260623192412.png",
     "attachments/Pasted image 20260623192023.png",
-    "attachments/Pasted image 20260623191531.png",
     "attachments",
     "copilot/copilot-conversations",
     "base-all.base",
