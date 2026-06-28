@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "发热.md",
+                "file": "皮下出血.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "发热"
+              "title": "皮下出血"
             }
           },
           {
@@ -124,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "发热.md",
+                "file": "皮下出血.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +134,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 发热"
+              "title": "Backlinks for 皮下出血"
             }
           },
           {
@@ -201,7 +201,7 @@
             "state": {
               "type": "footnotes",
               "state": {
-                "file": "发热.md"
+                "file": "皮下出血.md"
               },
               "icon": "lucide-file-signature",
               "title": "Footnotes"
@@ -274,12 +274,17 @@
   },
   "active": "2c00fc58e86b64e7",
   "lastOpenFiles": [
-    "疟疾.md",
+    "原发性血小板减少性紫癜.md",
+    "皮下出血.md",
+    "症状纲要.md",
     "发热.md",
+    "血友病.md",
+    "过敏性紫癜.md",
+    "意识障碍.md",
+    "疟疾.md",
     "痛风.md",
     "热型及临床意义.md",
     "血清病.md",
-    "症状纲要.md",
     "诊断复习scale.md",
     "问诊.md",
     "心脏检查.md",
@@ -296,12 +301,7 @@
     "慢性胆囊炎.md",
     "急性胆囊炎.md",
     "肺癌.md",
-    "腹痛.md",
-    "胆石症.md",
-    "病毒性肝炎.md",
-    "肝硬化.md",
     "attachments/Pasted image 20260628154948.png",
-    "门脉高压.md",
     "attachments/Pasted image 20260628154915.png",
     "attachments/Pasted image 20260628153746.png",
     "attachments/Pasted image 20260628153736.png",
