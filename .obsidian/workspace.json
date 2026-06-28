@@ -13,43 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "皮下出血.md",
+                "file": "发绀.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "皮下出血"
+              "title": "发绀"
             }
           },
           {
-            "id": "fd45a2a91912ad05",
+            "id": "3cb4abf18ffd1166",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "血清病.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "血清病"
-            }
-          },
-          {
-            "id": "172782449b544956",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "心脏检查.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "心脏检查"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -81,7 +64,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "布-加综合征",
+                "query": "杵状指",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -124,7 +107,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "皮下出血.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +116,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 皮下出血"
+              "title": "Backlinks"
             }
           },
           {
@@ -201,7 +183,7 @@
             "state": {
               "type": "footnotes",
               "state": {
-                "file": "皮下出血.md"
+                "file": "胸部检查.md"
               },
               "icon": "lucide-file-signature",
               "title": "Footnotes"
@@ -249,12 +231,12 @@
               "title": "File properties for 中医学大纲"
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 520
+    "width": 520,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -272,35 +254,35 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2c00fc58e86b64e7",
+  "active": "3cb4abf18ffd1166",
   "lastOpenFiles": [
-    "原发性血小板减少性紫癜.md",
-    "皮下出血.md",
+    "胸部检查.md",
+    "发绀.md",
+    "雷诺现象.md",
+    "雷诺病.md",
+    "先心病.md",
     "症状纲要.md",
+    "咳嗽咳痰.md",
+    "咯血.md",
+    "颅内高压.md",
+    "脑疝.md",
+    "脑水肿.md",
+    "脑出血.md",
+    "乙脑.md",
+    "头部检查.md",
+    "体液与排泄物检查.md",
+    "流脑.md",
+    "高血压.md",
+    "肺梗死.md",
+    "杵状指.md",
+    "水肿.md",
+    "系统性红斑狼疮.md",
+    "皮下出血.md",
+    "原发性血小板减少性紫癜.md",
     "发热.md",
     "血友病.md",
     "过敏性紫癜.md",
-    "意识障碍.md",
-    "疟疾.md",
-    "痛风.md",
-    "热型及临床意义.md",
-    "血清病.md",
-    "诊断复习scale.md",
-    "问诊.md",
-    "心脏检查.md",
-    "室间隔缺损.md",
-    "房间隔缺损.md",
-    "消化系统炎症.md",
-    "胃癌.md",
-    "消化系统肿瘤.md",
-    "食管癌.md",
-    "Barrett 食管.md",
     "attachments/Pasted image 20260628161108.png",
-    "消化系统疾病.md",
-    "胆囊炎.md",
-    "慢性胆囊炎.md",
-    "急性胆囊炎.md",
-    "肺癌.md",
     "attachments/Pasted image 20260628154948.png",
     "attachments/Pasted image 20260628154915.png",
     "attachments/Pasted image 20260628153746.png",
