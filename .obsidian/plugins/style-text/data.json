@@ -84,6 +84,11 @@
       "name": "U+B",
       "css": "font-weight: bold; text-decoration: underline;",
       "contextMenu": true
+    },
+    {
+      "name": "bold Pink",
+      "css": "font-size: 18px; color: #FFDEDE; font-weight: bold",
+      "contextMenu": false
     }
   ]
 }
