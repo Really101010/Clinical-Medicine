@@ -50,31 +50,31 @@
             }
           },
           {
-            "id": "99655e44e7748960",
+            "id": "550fedfa6486f44d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "弥漫性非毒性甲状腺肿.md",
+                "file": "生殖系统肿瘤.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "弥漫性非毒性甲状腺肿"
+              "title": "生殖系统肿瘤"
             }
           },
           {
-            "id": "51c3acb60c9effdd",
+            "id": "192141a7a8218e51",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "弥漫性毒性甲状腺肿.md",
+                "file": "子宫体疾病.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "弥漫性毒性甲状腺肿"
+              "title": "子宫体疾病"
             }
           },
           {
@@ -124,7 +124,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "单纯疱疹病毒",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -167,7 +167,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "弥漫性毒性甲状腺肿.md",
+                "file": "子宫体疾病.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -177,7 +177,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 弥漫性毒性甲状腺肿"
+              "title": "Backlinks for 子宫体疾病"
             }
           },
           {
@@ -244,7 +244,7 @@
             "state": {
               "type": "footnotes",
               "state": {
-                "file": "弥漫性毒性甲状腺肿.md"
+                "file": "子宫体疾病.md"
               },
               "icon": "lucide-file-signature",
               "title": "Footnotes"
@@ -315,8 +315,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "51c3acb60c9effdd",
+  "active": "192141a7a8218e51",
   "lastOpenFiles": [
+    "生殖系统肿瘤.md",
+    "子宫体癌.md",
+    "子宫平滑肌瘤.md",
+    "卵巢疾病.md",
+    "畸胎瘤.md",
+    "子宫颈癌.md",
+    "弥漫性毒性甲状腺肿.md",
     "attachments/Pasted image 20260628111244.png",
     "attachments/Pasted image 20260628111230.png",
     "弥漫性非毒性甲状腺肿.md",
@@ -343,16 +350,9 @@
     "乙脑.md",
     "神经系统变性疾病.md",
     "神经系统疾病.md",
-    "包涵体.md",
-    "血源性结核病.md",
-    "脑膜炎.md",
-    "蛛网膜下腔出血.md",
-    "脑梗死.md",
-    "脑血管病.md",
     "attachments/Pasted image 20260628094220.png",
     "attachments/917a82f68bc72c3b8b4de19ae80b0fe9.jpg",
     "attachments/Pasted image 20260624211230.png",
-    "attachments/Pasted image 20260624210743.png",
     "attachments/思维导图.tif",
     "attachments/思维导图(2).tif",
     "attachments",
