@@ -50,6 +50,20 @@
             }
           },
           {
+            "id": "99655e44e7748960",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "心肌病.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "心肌病"
+            }
+          },
+          {
             "id": "ad26466b476f4d66",
             "type": "leaf",
             "state": {
@@ -78,7 +92,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -110,7 +124,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "单纯疱疹病毒",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -153,7 +167,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "脑.md",
+                "file": "心肌病.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +177,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 脑"
+              "title": "Backlinks for 心肌病"
             }
           },
           {
@@ -230,7 +244,7 @@
             "state": {
               "type": "footnotes",
               "state": {
-                "file": "脑.md"
+                "file": "心肌病.md"
               },
               "icon": "lucide-file-signature",
               "title": "Footnotes"
@@ -301,35 +315,35 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0afce1f2132edf7c",
+  "active": "99655e44e7748960",
   "lastOpenFiles": [
-    "假性脑膜炎.md",
+    "肥大.md",
     "脑.md",
-    "多发性硬化.md",
     "脑肿瘤.md",
-    "肺心病.md",
     "神经系统肿瘤.md",
-    "小脑肿瘤.md",
-    "小脑病变.md",
-    "大叶性肺炎.md",
-    "肺梗死.md",
-    "肺淤血.md",
-    "血源性结核病.md",
-    "脑血管病.md",
-    "脑出血.md",
-    "脑血管畸形.md",
-    "抽搐.md",
-    "脑膜炎.md",
-    "attachments/Pasted image 20260628094220.png",
-    "胸部检查.md",
+    "肺心病.md",
+    "流脑.md",
+    "性传播性疾病.md",
+    "HSV.md",
+    "癫痫.md",
+    "Parkinson 病.md",
+    "Alzheimer病.md",
+    "脑脓肿.md",
+    "海绵状脑病.md",
     "乙脑.md",
-    "脂肪瘤.md",
-    "肺性脑病.md",
-    "皮下气肿.md",
-    "肋间定位.md",
-    "嗅气味.md",
-    "体征.md",
-    "叩诊.md",
+    "神经系统变性疾病.md",
+    "神经系统疾病.md",
+    "包涵体.md",
+    "血源性结核病.md",
+    "脑膜炎.md",
+    "蛛网膜下腔出血.md",
+    "脑梗死.md",
+    "脑血管病.md",
+    "高血压.md",
+    "假性脑膜炎.md",
+    "多发性硬化.md",
+    "小脑肿瘤.md",
+    "attachments/Pasted image 20260628094220.png",
     "attachments/917a82f68bc72c3b8b4de19ae80b0fe9.jpg",
     "attachments/Pasted image 20260624211230.png",
     "attachments/Pasted image 20260624210743.png",
