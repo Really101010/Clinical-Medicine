@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "肿瘤.md",
+                "file": "动脉粥样硬化.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "肿瘤"
+              "title": "动脉粥样硬化"
             }
           },
           {
@@ -153,7 +153,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "肿瘤.md",
+                "file": "动脉粥样硬化.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +163,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 肿瘤"
+              "title": "Backlinks for 动脉粥样硬化"
             }
           },
           {
@@ -230,7 +230,7 @@
             "state": {
               "type": "footnotes",
               "state": {
-                "file": "肿瘤.md"
+                "file": "动脉粥样硬化.md"
               },
               "icon": "lucide-file-signature",
               "title": "Footnotes"
@@ -303,6 +303,8 @@
   },
   "active": "192141a7a8218e51",
   "lastOpenFiles": [
+    "attachments/Pasted image 20260628115404.png",
+    "肿瘤.md",
     "左心室肥大.md",
     "右心室肥大.md",
     "变性.md",
@@ -314,7 +316,6 @@
     "卵巢黏液性囊腺瘤.md",
     "attachments/Pasted image 20260628113302.png",
     "生殖系统肿瘤.md",
-    "肿瘤.md",
     "子宫体疾病.md",
     "子宫体癌.md",
     "子宫平滑肌瘤.md",
@@ -338,7 +339,6 @@
     "性传播性疾病.md",
     "HSV.md",
     "癫痫.md",
-    "Parkinson 病.md",
     "attachments/思维导图.tif",
     "attachments/思维导图(2).tif",
     "attachments",
