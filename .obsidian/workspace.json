@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "一点癌",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -225,7 +225,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 520
+    "width": 520,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -243,11 +244,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5cbeac4edc168c37",
+  "active": "4dcc3772af92c7da",
   "lastOpenFiles": [
+    "结直肠癌.md",
+    "结肠癌.md",
+    "遗传性肿瘤.md",
     "消化系统肿瘤.md",
     "胃癌.md",
-    "结肠癌.md",
     "腹痛.md",
     "胃溃疡.md",
     "淋巴结检查.md",
@@ -269,9 +272,7 @@
     "尿常规.md",
     "肝.md",
     "症状纲要.md",
-    "吞咽困难.md",
     "attachments/Pasted image 20260629120208.png",
-    "贲门失弛缓症.md",
     "attachments/296d5f4d4927780834e4cc308b9ff313.jpg",
     "attachments/Pasted image 20260628161108.png",
     "attachments/Pasted image 20260628154948.png",
