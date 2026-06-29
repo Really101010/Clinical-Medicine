@@ -120,7 +120,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -195,7 +195,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "心脏检查.md",
+                "file": "胸部检查.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -205,7 +205,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 心脏检查"
+              "title": "Backlinks for 胸部检查"
             }
           },
           {
@@ -272,7 +272,7 @@
             "state": {
               "type": "footnotes",
               "state": {
-                "file": "心脏检查.md"
+                "file": "胸部检查.md"
               },
               "icon": "lucide-file-signature",
               "title": "Footnotes"
@@ -343,12 +343,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3b68fcd667b15841",
+  "active": "ce1874bbce9d4d94",
   "lastOpenFiles": [
+    "心脏检查.md",
     "颈部检查.md",
     "儿科检查.md",
     "腹部检查.md",
-    "心脏检查.md",
     "关节疼痛.md",
     "心电图.md",
     "瘫痪.md",
