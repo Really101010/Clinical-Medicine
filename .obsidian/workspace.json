@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "结肠多发腺瘤",
+                "query": "肺硬化",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -246,8 +246,11 @@
   },
   "active": "4dcc3772af92c7da",
   "lastOpenFiles": [
-    "腹膜炎.md",
+    "肺淤血.md",
+    "肺纤维化.md",
+    "颈部检查.md",
     "胰腺炎.md",
+    "腹膜炎.md",
     "食管癌.md",
     "消化系统炎症.md",
     "消化系统疾病.md",
@@ -270,9 +273,6 @@
     "血吸虫病.md",
     "伤寒.md",
     "病理学标本.md",
-    "阑尾炎.md",
-    "遗传性肿瘤.md",
-    "腹痛.md",
     "attachments/Pasted image 20260629120208.png",
     "attachments/296d5f4d4927780834e4cc308b9ff313.jpg",
     "attachments/Pasted image 20260628161108.png",
