@@ -4,123 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "d5b6a086fd6718f9",
+        "id": "d39dfa553460eb02",
         "type": "tabs",
         "children": [
           {
-            "id": "f60353b760b82a22",
+            "id": "4dcc3772af92c7da",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "淋巴结检查.md",
+                "file": "结肠癌.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "淋巴结检查"
-            }
-          },
-          {
-            "id": "ce1874bbce9d4d94",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "胸部检查.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "胸部检查"
-            }
-          },
-          {
-            "id": "3b68fcd667b15841",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "心脏检查.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "心脏检查"
-            }
-          },
-          {
-            "id": "4fed3b0ce163a351",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "颈部检查.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "颈部检查"
-            }
-          },
-          {
-            "id": "0b035beee05852b9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "呕血.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "呕血"
-            }
-          },
-          {
-            "id": "e05210b24c6d44c8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "腹泻.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "腹泻"
-            }
-          },
-          {
-            "id": "cfb61cdc314f0dc9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "瘫痪.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "瘫痪"
-            }
-          },
-          {
-            "id": "2cb06ef1123ef9be",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "关节疼痛.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "关节疼痛"
+              "title": "结肠癌"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -152,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "痛风",
+                "query": "一点癌",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -195,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "胸部检查.md",
+                "file": "结肠癌.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -205,7 +106,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 胸部检查"
+              "title": "Backlinks for 结肠癌"
             }
           },
           {
@@ -214,12 +115,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "呕吐.md",
+                "file": "结肠癌.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 呕吐"
+              "title": "Outgoing links from 结肠癌"
             }
           },
           {
@@ -272,7 +173,7 @@
             "state": {
               "type": "footnotes",
               "state": {
-                "file": "胸部检查.md"
+                "file": "结肠癌.md"
               },
               "icon": "lucide-file-signature",
               "title": "Footnotes"
@@ -324,8 +225,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 520,
-    "collapsed": true
+    "width": 520
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -343,22 +243,27 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ce1874bbce9d4d94",
+  "active": "5cbeac4edc168c37",
   "lastOpenFiles": [
-    "心脏检查.md",
-    "颈部检查.md",
-    "儿科检查.md",
-    "腹部检查.md",
+    "消化系统肿瘤.md",
+    "胃癌.md",
+    "结肠癌.md",
+    "腹痛.md",
+    "胃溃疡.md",
+    "淋巴结检查.md",
     "关节疼痛.md",
-    "心电图.md",
     "瘫痪.md",
     "腹泻.md",
+    "呕血.md",
+    "颈部检查.md",
+    "心脏检查.md",
+    "胸部检查.md",
+    "儿科检查.md",
+    "腹部检查.md",
+    "心电图.md",
     "脑疝.md",
-    "腹痛.md",
     "copilot/copilot-conversations/肠道病变常见部位总结@20260622_093842.md",
     "便常规.md",
-    "胸部检查.md",
-    "呕血.md",
     "便血.md",
     "肾功能检查.md",
     "尿常规.md",
@@ -367,11 +272,6 @@
     "吞咽困难.md",
     "attachments/Pasted image 20260629120208.png",
     "贲门失弛缓症.md",
-    "呕吐.md",
-    "Austin-Flint杂音.md",
-    "Grahan Steell 杂音.md",
-    "Austin Flint 杂音 1.md",
-    "Grahan Steell 杂音 1.md",
     "attachments/296d5f4d4927780834e4cc308b9ff313.jpg",
     "attachments/Pasted image 20260628161108.png",
     "attachments/Pasted image 20260628154948.png",
