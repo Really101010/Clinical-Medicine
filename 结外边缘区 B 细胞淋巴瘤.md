@@ -2,6 +2,7 @@
 aliases:
   - 结外边缘区黏膜相关淋巴组织淋巴瘤
   - 黏膜相关淋巴组织淋巴瘤
+  - MALT淋巴瘤
 tags:
   - pathology
 ---

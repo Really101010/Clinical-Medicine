@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "895d8872830930ee",
+        "id": "f9eee75e59b0ee81",
         "type": "tabs",
         "children": [
           {
@@ -19,6 +19,62 @@
               },
               "icon": "lucide-file",
               "title": "淋巴瘤"
+            }
+          },
+          {
+            "id": "5f1792cae01254f7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "结外边缘区 B 细胞淋巴瘤.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "结外边缘区 B 细胞淋巴瘤"
+            }
+          },
+          {
+            "id": "ba308eb983b71892",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "套细胞淋巴瘤.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "套细胞淋巴瘤"
+            }
+          },
+          {
+            "id": "cc333be75de7c4ee",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "蕈样霉菌病.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "蕈样霉菌病"
+            }
+          },
+          {
+            "id": "2677348b830b4fc0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "间变性大细胞淋巴瘤.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "间变性大细胞淋巴瘤"
             }
           }
         ]
@@ -246,34 +302,35 @@
   },
   "active": "7057dba5e3f2971e",
   "lastOpenFiles": [
-    "多发性骨髓瘤.md",
-    "急性淋巴母细胞白血病.md",
-    "肾衰竭.md",
+    "结外边缘区 B 细胞淋巴瘤.md",
+    "霍奇金病.md",
     "淋巴瘤.md",
+    "慢性淋巴细胞白血病.md",
+    "滤泡性淋巴瘤.md",
+    "套细胞淋巴瘤.md",
+    "急性淋巴母细胞白血病.md",
+    "蕈样霉菌病.md",
+    "外周 T 细胞淋巴瘤.md",
+    "间变性大细胞淋巴瘤.md",
+    "外周 T 细胞淋巴瘤非特殊类型.md",
+    "NK及T细胞淋巴瘤.md",
+    "放疗.md",
+    "鼻腔.md",
+    "NK/T细胞淋巴瘤.md",
+    "NK",
+    "Burkitt 淋巴瘤.md",
+    "急性白血病.md",
+    "急性髓系白血病.md",
+    "多发性骨髓瘤.md",
+    "肾衰竭.md",
     "前体B/T细胞淋巴瘤.md",
     "前体B",
-    "结外边缘区 B 细胞淋巴瘤.md",
     "猫抓病.md",
     "栅栏状排列.md",
     "淋巴造血系统疾病.md",
-    "滤泡性淋巴瘤.md",
     "肉芽肿.md",
     "淋巴造血系统肿瘤.md",
-    "反应性增生滤泡.md",
-    "Burkitt 淋巴瘤.md",
-    "弥漫性大 B 细胞淋巴瘤.md",
-    "霍奇金病.md",
-    "慢性淋巴细胞白血病.md",
-    "Castleman 病.md",
-    "AI skill 0.md",
     "Untitled.js",
-    "病理复习scale.md",
-    "生殖和乳腺疾病.md",
-    "泌尿系统疾病.md",
-    "消化系统疾病.md",
-    "消化系统肿瘤.md",
-    "胃癌.md",
-    "消化系统炎症.md",
     "attachments/Pasted image 20260629165926.png",
     "attachments/Pasted image 20260629120208.png",
     "attachments/296d5f4d4927780834e4cc308b9ff313.jpg",
@@ -291,7 +348,6 @@
     "base-all.base",
     "诊断学/症状",
     "diary/DailyNote/0001",
-    "diary/DailyNote",
     "未命名.canvas"
   ]
 }
