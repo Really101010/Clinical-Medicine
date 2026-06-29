@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "心脏检查.md",
+                "file": "呕血.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "心脏检查"
+              "title": "呕血"
             }
           }
         ],
@@ -139,7 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "心脏检查.md",
+                "file": "呕血.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +149,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 心脏检查"
+              "title": "Backlinks for 呕血"
             }
           },
           {
@@ -216,7 +216,7 @@
             "state": {
               "type": "footnotes",
               "state": {
-                "file": "心脏检查.md"
+                "file": "呕血.md"
               },
               "icon": "lucide-file-signature",
               "title": "Footnotes"
@@ -289,10 +289,17 @@
   },
   "active": "0b035beee05852b9",
   "lastOpenFiles": [
-    "Austin-Flint杂音.md",
-    "心脏检查.md",
-    "Grahan Steell 杂音.md",
     "颈部检查.md",
+    "肝.md",
+    "呕血.md",
+    "症状纲要.md",
+    "吞咽困难.md",
+    "attachments/Pasted image 20260629120208.png",
+    "贲门失弛缓症.md",
+    "呕吐.md",
+    "心脏检查.md",
+    "Austin-Flint杂音.md",
+    "Grahan Steell 杂音.md",
     "Austin Flint 杂音 1.md",
     "Grahan Steell 杂音 1.md",
     "Grahan Steell 杂音 2.md",
@@ -309,12 +316,6 @@
     "弥漫性非毒性甲状腺肿.md",
     "淋巴结检查.md",
     "头部检查.md",
-    "梅毒.md",
-    "维生素.md",
-    "糙皮病.md",
-    "皮肤.md",
-    "肝硬化.md",
-    "风湿.md",
     "attachments/296d5f4d4927780834e4cc308b9ff313.jpg",
     "attachments/Pasted image 20260628161108.png",
     "attachments/Pasted image 20260628154948.png",
@@ -324,7 +325,6 @@
     "attachments/Pasted image 20260628153312.png",
     "attachments/Pasted image 20260628153305.png",
     "attachments/Pasted image 20260628153109.png",
-    "attachments/Pasted image 20260628152855.png",
     "attachments/思维导图.tif",
     "attachments/思维导图(2).tif",
     "attachments",
