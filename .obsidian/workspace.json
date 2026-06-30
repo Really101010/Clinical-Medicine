@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "肉芽肿.md",
+                "file": "炎症.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "肉芽肿"
+              "title": "炎症"
             }
           },
           {
@@ -124,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "肉芽肿.md",
+                "file": "炎症.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +134,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 肉芽肿"
+              "title": "Backlinks for 炎症"
             }
           },
           {
@@ -201,7 +201,7 @@
             "state": {
               "type": "footnotes",
               "state": {
-                "file": "肉芽肿.md"
+                "file": "炎症.md"
               },
               "icon": "lucide-file-signature",
               "title": "Footnotes"
@@ -276,6 +276,7 @@
   "active": "7057dba5e3f2971e",
   "lastOpenFiles": [
     "慢性炎症.md",
+    "肉芽肿.md",
     "炎症.md",
     "急性炎症.md",
     "肝豆状核变性.md",
@@ -308,7 +309,6 @@
     "神经胶质细胞.md",
     "完全再生.md",
     "坏死.md",
-    "心肌病.md",
     "attachments/Pasted image 20260630121201.png",
     "attachments/Pasted image 20260629233632.png",
     "NK",
