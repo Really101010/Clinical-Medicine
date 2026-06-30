@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "损伤修复.md",
+                "file": "局部血液循环障碍.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "损伤修复"
+              "title": "局部血液循环障碍"
             }
           }
         ]
@@ -96,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "损伤修复.md",
+                "file": "局部血液循环障碍.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +106,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 损伤修复"
+              "title": "Backlinks for 局部血液循环障碍"
             }
           },
           {
@@ -173,7 +173,7 @@
             "state": {
               "type": "footnotes",
               "state": {
-                "file": "损伤修复.md"
+                "file": "局部血液循环障碍.md"
               },
               "icon": "lucide-file-signature",
               "title": "Footnotes"
@@ -247,7 +247,12 @@
   },
   "active": "7057dba5e3f2971e",
   "lastOpenFiles": [
+    "出血.md",
+    "局部血液循环障碍.md",
+    "肝淤血.md",
+    "肺淤血.md",
     "病理复习scale.md",
+    "损伤修复.md",
     "损伤.md",
     "老化.md",
     "凋亡.md",
@@ -261,7 +266,6 @@
     "骨肿瘤.md",
     "Addison病.md",
     "霍奇金病.md",
-    "肝淤血.md",
     "适应.md",
     "Burkitt 淋巴瘤.md",
     "淋巴瘤.md",
@@ -270,12 +274,8 @@
     "慢性淋巴细胞白血病.md",
     "淋巴造血系统肿瘤.md",
     "慢性粒细胞白血病.md",
-    "急性髓系白血病.md",
-    "白血病.md",
     "attachments/Pasted image 20260629233632.png",
     "attachments/Pasted image 20260629232012.png",
-    "套细胞淋巴瘤.md",
-    "急性淋巴母细胞白血病.md",
     "NK",
     "前体B",
     "Untitled.js",
