@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "高血压.md",
+                "file": "风湿.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "高血压"
+              "title": "风湿"
             }
           }
         ]
@@ -96,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "高血压.md",
+                "file": "风湿.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +106,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 高血压"
+              "title": "Backlinks for 风湿"
             }
           },
           {
@@ -173,7 +173,7 @@
             "state": {
               "type": "footnotes",
               "state": {
-                "file": "高血压.md"
+                "file": "风湿.md"
               },
               "icon": "lucide-file-signature",
               "title": "Footnotes"
@@ -246,9 +246,13 @@
   },
   "active": "7057dba5e3f2971e",
   "lastOpenFiles": [
-    "颅内高压.md",
-    "高血压.md",
     "心血管系统疾病.md",
+    "动脉瘤.md",
+    "主动脉瘤.md",
+    "腹主动脉瘤.md",
+    "马方综合征（Marfan syndrome）.md",
+    "高血压.md",
+    "颅内高压.md",
     "动脉粥样硬化.md",
     "尿沉渣.md",
     "肝硬化.md",
@@ -270,14 +274,10 @@
     "前列腺癌.md",
     "鼻咽癌.md",
     "慢性支气管炎.md",
-    "肺炎.md",
     "attachments/Pasted image 20260630201630.png",
     "attachments/Pasted image 20260630200239.png",
     "attachments/Pasted image 20260630200223.png",
-    "阑尾炎.md",
     "attachments/Pasted image 20260630200049.png",
-    "泌尿系统疾病.md",
-    "结直肠癌.md",
     "attachments/Pasted image 20260630193833.png",
     "attachments/Pasted image 20260630193702.png",
     "attachments/Pasted image 20260630173401.png",
