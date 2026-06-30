@@ -27,30 +27,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "遗传性肿瘤.md",
+                "file": "肿瘤.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "遗传性肿瘤"
+              "title": "肿瘤"
             }
           },
           {
-            "id": "3d9c5e7d601762f8",
+            "id": "5a0ce1c275eda6fc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "肾病综合征.md",
+                "file": "神经元.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "肾病综合征"
+              "title": "神经元"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -82,7 +82,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "透明膜",
+                "query": "鬼影",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -125,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "遗传性肿瘤.md",
+                "file": "神经元.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +135,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 遗传性肿瘤"
+              "title": "Backlinks for 神经元"
             }
           },
           {
@@ -202,7 +202,7 @@
             "state": {
               "type": "footnotes",
               "state": {
-                "file": "遗传性肿瘤.md"
+                "file": "神经元.md"
               },
               "icon": "lucide-file-signature",
               "title": "Footnotes"
@@ -273,9 +273,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "06bbb77ef09177c7",
+  "active": "5a0ce1c275eda6fc",
   "lastOpenFiles": [
+    "attachments/Pasted image 20260630210028.png",
     "肿瘤.md",
+    "肾病综合征.md",
+    "横纹肌肉瘤.md",
+    "attachments/Pasted image 20260630205842.png",
+    "遗传性肿瘤.md",
     "乳腺癌.md",
     "淋巴造血系统肿瘤.md",
     "淋巴瘤.md",
@@ -283,7 +288,6 @@
     "支气管扩张.md",
     "骨肉瘤.md",
     "前列腺癌.md",
-    "肾病综合征.md",
     "鼻咽癌.md",
     "慢性支气管炎.md",
     "肺炎.md",
@@ -296,7 +300,6 @@
     "泌尿系统疾病.md",
     "结直肠癌.md",
     "滋养层细胞肿瘤.md",
-    "横纹肌肉瘤.md",
     "子宫体疾病.md",
     "子宫体癌.md",
     "变性.md",
@@ -305,12 +308,9 @@
     "生殖系统肿瘤.md",
     "子宫平滑肌瘤.md",
     "卵巢疾病.md",
-    "畸胎瘤.md",
-    "子宫颈癌.md",
     "attachments/Pasted image 20260630173401.png",
     "attachments/Pasted image 20260630171232.png",
     "attachments/Pasted image 20260630171200.png",
-    "attachments/Pasted image 20260630170958.png",
     "NK",
     "前体B",
     "Untitled.js",
