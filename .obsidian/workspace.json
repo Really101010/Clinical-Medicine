@@ -254,8 +254,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 428.5,
-    "collapsed": true
+    "width": 698.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -273,7 +272,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7057dba5e3f2971e",
+  "active": "cc0a131adb378091",
   "lastOpenFiles": [
     "慢性炎症.md",
     "肉芽肿.md",
