@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "坏死.md",
+                "file": "损伤修复.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "坏死"
+              "title": "损伤修复"
             }
           },
           {
@@ -125,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "坏死.md",
+                "file": "损伤修复.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +135,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 坏死"
+              "title": "Backlinks for 损伤修复"
             }
           },
           {
@@ -202,7 +202,7 @@
             "state": {
               "type": "footnotes",
               "state": {
-                "file": "坏死.md"
+                "file": "损伤修复.md"
               },
               "icon": "lucide-file-signature",
               "title": "Footnotes"
@@ -276,19 +276,20 @@
   },
   "active": "b1468b0887f1562f",
   "lastOpenFiles": [
+    "完全再生.md",
+    "损伤修复.md",
     "变性.md",
+    "坏死.md",
     "心肌病.md",
     "急性炎症.md",
     "炎症.md",
     "病理复习scale.md",
     "局部血液循环障碍.md",
     "出血.md",
-    "坏死.md",
     "肾病综合征.md",
     "包涵体.md",
     "肝淤血.md",
     "肺淤血.md",
-    "损伤修复.md",
     "损伤.md",
     "老化.md",
     "凋亡.md",
@@ -302,7 +303,6 @@
     "霍奇金病.md",
     "适应.md",
     "Burkitt 淋巴瘤.md",
-    "淋巴瘤.md",
     "attachments/Pasted image 20260629233632.png",
     "attachments/Pasted image 20260629232012.png",
     "NK",
