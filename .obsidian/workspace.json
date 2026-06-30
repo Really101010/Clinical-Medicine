@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "风湿.md",
+                "file": "心肌炎.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "风湿"
+              "title": "心肌炎"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "鬼影",
+                "query": "Osler 小结",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -96,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "风湿.md",
+                "file": "心肌炎.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +106,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 风湿"
+              "title": "Backlinks for 心肌炎"
             }
           },
           {
@@ -173,7 +173,7 @@
             "state": {
               "type": "footnotes",
               "state": {
-                "file": "风湿.md"
+                "file": "心肌炎.md"
               },
               "icon": "lucide-file-signature",
               "title": "Footnotes"
@@ -246,10 +246,15 @@
   },
   "active": "7057dba5e3f2971e",
   "lastOpenFiles": [
-    "类风湿.md",
-    "风湿.md",
-    "变性.md",
     "心血管系统疾病.md",
+    "瓣膜病.md",
+    "主动脉瓣关闭不全.md",
+    "心肌病.md",
+    "肥厚型心肌病.md",
+    "感染性心内膜炎.md",
+    "风湿.md",
+    "类风湿.md",
+    "变性.md",
     "动脉瘤.md",
     "主动脉瘤.md",
     "腹主动脉瘤.md",
@@ -269,11 +274,6 @@
     "attachments/Pasted image 20260630205842.png",
     "遗传性肿瘤.md",
     "乳腺癌.md",
-    "淋巴造血系统肿瘤.md",
-    "淋巴瘤.md",
-    "菊形团.md",
-    "支气管扩张.md",
-    "骨肉瘤.md",
     "attachments/Pasted image 20260630201630.png",
     "attachments/Pasted image 20260630200239.png",
     "attachments/Pasted image 20260630200223.png",
