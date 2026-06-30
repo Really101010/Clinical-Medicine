@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "炎症.md",
+                "file": "急性炎症.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "炎症"
+              "title": "急性炎症"
             }
           },
           {
@@ -124,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "炎症.md",
+                "file": "急性炎症.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +134,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 炎症"
+              "title": "Backlinks for 急性炎症"
             }
           },
           {
@@ -201,7 +201,7 @@
             "state": {
               "type": "footnotes",
               "state": {
-                "file": "炎症.md"
+                "file": "急性炎症.md"
               },
               "icon": "lucide-file-signature",
               "title": "Footnotes"
@@ -254,7 +254,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 428.5
+    "width": 428.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -272,8 +273,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "cc0a131adb378091",
+  "active": "7057dba5e3f2971e",
   "lastOpenFiles": [
+    "炎症.md",
     "急性炎症.md",
     "肝豆状核变性.md",
     "局部血液循环障碍.md",
@@ -306,7 +308,6 @@
     "完全再生.md",
     "坏死.md",
     "心肌病.md",
-    "炎症.md",
     "病理复习scale.md",
     "attachments/Pasted image 20260630121201.png",
     "attachments/Pasted image 20260629233632.png",
