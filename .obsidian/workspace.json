@@ -4,109 +4,53 @@
     "type": "split",
     "children": [
       {
-        "id": "3d590cc29d8dc174",
-        "type": "split",
+        "id": "f9eee75e59b0ee81",
+        "type": "tabs",
         "children": [
           {
-            "id": "f9eee75e59b0ee81",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "7057dba5e3f2971e",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "病理复习scale.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "病理复习scale"
-                }
+            "id": "7057dba5e3f2971e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "病理复习scale.md",
+                "mode": "source",
+                "source": false
               },
-              {
-                "id": "06bbb77ef09177c7",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "支气管扩张.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "支气管扩张"
-                }
-              },
-              {
-                "id": "d9aae5f3cb44a2fa",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "鼻咽癌.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "鼻咽癌"
-                }
-              },
-              {
-                "id": "3d9c5e7d601762f8",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "肾病综合征.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "肾病综合征"
-                }
-              }
-            ],
-            "currentTab": 2
+              "icon": "lucide-file",
+              "title": "病理复习scale"
+            }
           },
           {
-            "id": "8b8cd0797bcb34d7",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "d15de8b48c50eb00",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "慢性支气管炎.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "慢性支气管炎"
-                }
+            "id": "06bbb77ef09177c7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "遗传性肿瘤.md",
+                "mode": "source",
+                "source": false
               },
-              {
-                "id": "81c5153d4af713b7",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "肺炎.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "肺炎"
-                }
-              }
-            ],
-            "currentTab": 1
+              "icon": "lucide-file",
+              "title": "遗传性肿瘤"
+            }
+          },
+          {
+            "id": "3d9c5e7d601762f8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "肾病综合征.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "肾病综合征"
+            }
           }
         ],
-        "direction": "horizontal"
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -181,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "肺炎.md",
+                "file": "遗传性肿瘤.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -191,7 +135,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 肺炎"
+              "title": "Backlinks for 遗传性肿瘤"
             }
           },
           {
@@ -258,7 +202,7 @@
             "state": {
               "type": "footnotes",
               "state": {
-                "file": "肺炎.md"
+                "file": "遗传性肿瘤.md"
               },
               "icon": "lucide-file-signature",
               "title": "Footnotes"
@@ -329,26 +273,32 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "81c5153d4af713b7",
+  "active": "06bbb77ef09177c7",
   "lastOpenFiles": [
-    "attachments/Pasted image 20260630201630.png",
-    "慢性支气管炎.md",
-    "支气管扩张.md",
+    "肿瘤.md",
+    "乳腺癌.md",
+    "淋巴造血系统肿瘤.md",
+    "淋巴瘤.md",
     "菊形团.md",
+    "支气管扩张.md",
+    "骨肉瘤.md",
+    "前列腺癌.md",
+    "肾病综合征.md",
+    "鼻咽癌.md",
+    "慢性支气管炎.md",
+    "肺炎.md",
+    "attachments/Pasted image 20260630201630.png",
     "attachments/Pasted image 20260630200239.png",
     "attachments/Pasted image 20260630200223.png",
     "阑尾炎.md",
     "attachments/Pasted image 20260630200049.png",
     "病理复习scale.md",
-    "肿瘤.md",
     "泌尿系统疾病.md",
-    "鼻咽癌.md",
     "结直肠癌.md",
     "滋养层细胞肿瘤.md",
     "横纹肌肉瘤.md",
     "子宫体疾病.md",
     "子宫体癌.md",
-    "肾病综合征.md",
     "变性.md",
     "attachments/Pasted image 20260630193833.png",
     "attachments/Pasted image 20260630193702.png",
@@ -357,16 +307,10 @@
     "卵巢疾病.md",
     "畸胎瘤.md",
     "子宫颈癌.md",
-    "脂肪肉瘤.md",
-    "尤文肉瘤.md",
-    "横纹肌瘤.md",
-    "脂肪瘤.md",
-    "肝豆状核变性.md",
     "attachments/Pasted image 20260630173401.png",
     "attachments/Pasted image 20260630171232.png",
     "attachments/Pasted image 20260630171200.png",
     "attachments/Pasted image 20260630170958.png",
-    "attachments/Pasted image 20260630170702.png",
     "NK",
     "前体B",
     "Untitled.js",
