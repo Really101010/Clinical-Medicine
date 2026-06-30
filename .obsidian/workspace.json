@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "急性炎症.md",
+                "file": "肉芽肿.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "急性炎症"
+              "title": "肉芽肿"
             }
           },
           {
@@ -81,7 +81,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "蜂窝织炎",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -124,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "急性炎症.md",
+                "file": "肉芽肿.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +134,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 急性炎症"
+              "title": "Backlinks for 肉芽肿"
             }
           },
           {
@@ -201,7 +201,7 @@
             "state": {
               "type": "footnotes",
               "state": {
-                "file": "急性炎症.md"
+                "file": "肉芽肿.md"
               },
               "icon": "lucide-file-signature",
               "title": "Footnotes"
@@ -275,6 +275,7 @@
   },
   "active": "7057dba5e3f2971e",
   "lastOpenFiles": [
+    "慢性炎症.md",
     "炎症.md",
     "急性炎症.md",
     "肝豆状核变性.md",
@@ -308,7 +309,6 @@
     "完全再生.md",
     "坏死.md",
     "心肌病.md",
-    "病理复习scale.md",
     "attachments/Pasted image 20260630121201.png",
     "attachments/Pasted image 20260629233632.png",
     "NK",
