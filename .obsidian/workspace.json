@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "变性.md",
+                "file": "动脉粥样硬化.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "变性"
+              "title": "动脉粥样硬化"
             }
           }
         ]
@@ -246,8 +246,8 @@
   },
   "active": "7057dba5e3f2971e",
   "lastOpenFiles": [
-    "损伤.md",
     "变性.md",
+    "损伤.md",
     "坏死.md",
     "甲状旁腺亢进.md",
     "骨肿瘤.md",
