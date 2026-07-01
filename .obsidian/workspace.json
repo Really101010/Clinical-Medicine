@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "肿瘤.md",
+                "file": "慢性萎缩性胃炎.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "肿瘤"
+              "title": "慢性萎缩性胃炎"
             }
           },
           {
@@ -331,11 +331,13 @@
   },
   "active": "a34d1e5753345c2a",
   "lastOpenFiles": [
+    "十二指肠溃疡.md",
+    "copilot/copilot-conversations/肠道病变常见部位总结@20260622_093842.md",
+    "肿瘤.md",
     "神经系统肿瘤.md",
     "急淋.md",
     "满天星.md",
     "急性淋巴母细胞白血病.md",
-    "肿瘤.md",
     "星形细胞瘤.md",
     "霍奇金病.md",
     "NK及T细胞淋巴瘤.md",
@@ -355,8 +357,6 @@
     "消化系统肿瘤.md",
     "结直肠癌.md",
     "胰腺癌.md",
-    "支气管扩张.md",
-    "氮质血症.md",
     "attachments/Pasted image 20260630210028.png",
     "attachments/Pasted image 20260630205842.png",
     "attachments/Pasted image 20260630201630.png",
