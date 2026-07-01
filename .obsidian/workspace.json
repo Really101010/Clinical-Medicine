@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "淋巴瘤.md",
+                "file": "淋巴造血系统肿瘤.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "淋巴瘤"
+              "title": "淋巴造血系统肿瘤"
             }
           },
           {
@@ -34,20 +34,6 @@
               },
               "icon": "lucide-file",
               "title": "非霍奇金淋巴瘤"
-            }
-          },
-          {
-            "id": "a6d77a0998534404",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "肝癌.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "肝癌"
             }
           },
           {
@@ -101,17 +87,17 @@
         "dimension": 26.156299840510368,
         "children": [
           {
-            "id": "387d4c784e28b41f",
+            "id": "081a9a1cd133742a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "急性淋巴母细胞白血病.md",
+                "file": "蕈样霉菌病.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "急性淋巴母细胞白血病"
+              "title": "蕈样霉菌病"
             }
           }
         ]
@@ -340,11 +326,11 @@
   "active": "f08bcddd43cf8581",
   "lastOpenFiles": [
     "蕈样霉菌病.md",
-    "非霍奇金淋巴瘤.md",
     "急性淋巴母细胞白血病.md",
-    "淋巴瘤.md",
-    "霍奇金病.md",
     "淋巴造血系统肿瘤.md",
+    "淋巴瘤.md",
+    "非霍奇金淋巴瘤.md",
+    "霍奇金病.md",
     "慢性粒细胞白血病.md",
     "肿瘤.md",
     "copilot/copilot-conversations/肠道病变常见部位总结@20260622_093842.md",
