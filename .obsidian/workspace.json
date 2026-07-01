@@ -6,6 +6,7 @@
       {
         "id": "f9eee75e59b0ee81",
         "type": "tabs",
+        "dimension": 73.84370015948963,
         "children": [
           {
             "id": "7057dba5e3f2971e",
@@ -19,6 +20,20 @@
               },
               "icon": "lucide-file",
               "title": "淋巴瘤"
+            }
+          },
+          {
+            "id": "f08bcddd43cf8581",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "非霍奇金淋巴瘤.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "非霍奇金淋巴瘤"
             }
           },
           {
@@ -75,6 +90,28 @@
               },
               "icon": "lucide-file",
               "title": "肿瘤"
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "b7b46de63867028e",
+        "type": "tabs",
+        "dimension": 26.156299840510368,
+        "children": [
+          {
+            "id": "387d4c784e28b41f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "急性淋巴母细胞白血病.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "急性淋巴母细胞白血病"
             }
           }
         ]
@@ -152,7 +189,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "淋巴瘤.md",
+                "file": "非霍奇金淋巴瘤.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -162,7 +199,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 淋巴瘤"
+              "title": "Backlinks for 非霍奇金淋巴瘤"
             }
           },
           {
@@ -300,8 +337,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7057dba5e3f2971e",
+  "active": "f08bcddd43cf8581",
   "lastOpenFiles": [
+    "蕈样霉菌病.md",
+    "非霍奇金淋巴瘤.md",
+    "急性淋巴母细胞白血病.md",
+    "淋巴瘤.md",
+    "霍奇金病.md",
     "淋巴造血系统肿瘤.md",
     "慢性粒细胞白血病.md",
     "肿瘤.md",
@@ -323,11 +365,6 @@
     "甲状腺癌.md",
     "限制性心肌病.md",
     "磨玻璃.md",
-    "心肌病.md",
-    "扩张型心肌病.md",
-    "肥厚型心肌病.md",
-    "急性呼吸窘迫综合征.md",
-    "毛玻璃.md",
     "attachments/Pasted image 20260630210028.png",
     "attachments/Pasted image 20260630205842.png",
     "attachments/Pasted image 20260630201630.png",
