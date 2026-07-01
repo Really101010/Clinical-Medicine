@@ -23,31 +23,31 @@
             }
           },
           {
-            "id": "4b0c0e7a0690826a",
+            "id": "3309b28e0838a6f9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "白血病.md",
+                "file": "淋巴瘤.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "白血病"
+              "title": "淋巴瘤"
             }
           },
           {
-            "id": "f08bcddd43cf8581",
+            "id": "e7cf787ed11a90f4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "非霍奇金淋巴瘤.md",
+                "file": "外周 T 细胞淋巴瘤.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "非霍奇金淋巴瘤"
+              "title": "外周 T 细胞淋巴瘤"
             }
           },
           {
@@ -189,7 +189,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "白血病.md",
+                "file": "淋巴瘤.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -199,7 +199,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 白血病"
+              "title": "Backlinks for 淋巴瘤"
             }
           },
           {
@@ -337,17 +337,20 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4b0c0e7a0690826a",
+  "active": "3309b28e0838a6f9",
   "lastOpenFiles": [
+    "胃癌.md",
+    "外周 T 细胞淋巴瘤非特殊类型.md",
+    "外周 T 细胞淋巴瘤.md",
+    "淋巴瘤.md",
+    "淋巴造血系统肿瘤.md",
     "非霍奇金淋巴瘤.md",
-    "慢性淋巴细胞白血病.md",
+    "急性淋巴母细胞白血病.md",
     "白血病.md",
+    "慢性淋巴细胞白血病.md",
     "慢性粒细胞白血病.md",
     "急性髓系白血病.md",
-    "淋巴造血系统肿瘤.md",
     "蕈样霉菌病.md",
-    "急性淋巴母细胞白血病.md",
-    "淋巴瘤.md",
     "霍奇金病.md",
     "肿瘤.md",
     "copilot/copilot-conversations/肠道病变常见部位总结@20260622_093842.md",
@@ -362,9 +365,6 @@
     "病理学形态总结.md",
     "虫蚀样.md",
     "蝴蝶.md",
-    "卷发.md",
-    "双轨征.md",
-    "胃癌.md",
     "attachments/Pasted image 20260630210028.png",
     "attachments/Pasted image 20260630205842.png",
     "attachments/Pasted image 20260630201630.png",
