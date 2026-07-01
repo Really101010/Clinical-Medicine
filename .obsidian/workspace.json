@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "肝硬化.md",
+                "file": "肺癌.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "肝硬化"
+              "title": "肺癌"
             }
           },
           {
@@ -152,7 +152,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "肝硬化.md",
+                "file": "肺癌.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -162,7 +162,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 肝硬化"
+              "title": "Backlinks for 肺癌"
             }
           },
           {
@@ -302,6 +302,10 @@
   },
   "active": "7057dba5e3f2971e",
   "lastOpenFiles": [
+    "肺心病.md",
+    "肺性脑病.md",
+    "硅肺.md",
+    "肝硬化.md",
     "门脉高压.md",
     "腹水.md",
     "消化系统疾病.md",
@@ -317,7 +321,6 @@
     "肺炎.md",
     "支气管肺炎.md",
     "慢性萎缩性胃炎.md",
-    "肺心病.md",
     "呼吸系统疾病.md",
     "子宫颈癌.md",
     "子宫内膜癌.md",
@@ -325,9 +328,6 @@
     "喉癌.md",
     "子宫体癌.md",
     "鼻咽癌.md",
-    "慢性支气管炎.md",
-    "蛛网膜下腔出血.md",
-    "脑.md",
     "attachments/Pasted image 20260630210028.png",
     "attachments/Pasted image 20260630205842.png",
     "attachments/Pasted image 20260630201630.png",
