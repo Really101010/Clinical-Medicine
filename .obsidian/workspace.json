@@ -41,20 +41,6 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "肺气肿.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "肺气肿"
-            }
-          },
-          {
-            "id": "4d1c1244db6de0fc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
                 "file": "硅肺.md",
                 "mode": "source",
                 "source": false
@@ -76,9 +62,23 @@
               "icon": "lucide-file",
               "title": "胃癌"
             }
+          },
+          {
+            "id": "6f2b2777eb41df7b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "肝硬化.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "肝硬化"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -153,7 +153,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "硅肺.md",
+                "file": "肝硬化.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +163,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 硅肺"
+              "title": "Backlinks for 肝硬化"
             }
           },
           {
@@ -300,15 +300,17 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4d1c1244db6de0fc",
+  "active": "6f2b2777eb41df7b",
   "lastOpenFiles": [
-    "肺气肿.md",
-    "慢性阻塞性肺气肿.md",
-    "慢阻肺.md",
-    "慢性支气管炎.md",
     "胃癌.md",
-    "丙肝.md",
+    "硅肺.md",
+    "慢阻肺.md",
     "肿瘤.md",
+    "肺气肿.md",
+    "肺结核.md",
+    "慢性阻塞性肺气肿.md",
+    "慢性支气管炎.md",
+    "丙肝.md",
     "畸胎瘤.md",
     "蕈样霉菌病.md",
     "食管癌.md",
@@ -326,8 +328,6 @@
     "急性重型肝炎.md",
     "亚急性重型肝炎.md",
     "心肌炎.md",
-    "心血管系统疾病.md",
-    "瓣膜病.md",
     "attachments/Pasted image 20260630210028.png",
     "attachments/Pasted image 20260630205842.png",
     "attachments/Pasted image 20260630201630.png",
