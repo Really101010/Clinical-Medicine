@@ -78,8 +78,7 @@
               "title": "肿瘤"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "b7b46de63867028e",
@@ -175,7 +174,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "非霍奇金淋巴瘤.md",
+                "file": "淋巴造血系统肿瘤.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -185,7 +184,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 非霍奇金淋巴瘤"
+              "title": "Backlinks for 淋巴造血系统肿瘤"
             }
           },
           {
@@ -323,13 +322,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f08bcddd43cf8581",
+  "active": "7057dba5e3f2971e",
   "lastOpenFiles": [
+    "非霍奇金淋巴瘤.md",
     "蕈样霉菌病.md",
     "急性淋巴母细胞白血病.md",
     "淋巴造血系统肿瘤.md",
     "淋巴瘤.md",
-    "非霍奇金淋巴瘤.md",
     "霍奇金病.md",
     "慢性粒细胞白血病.md",
     "肿瘤.md",
