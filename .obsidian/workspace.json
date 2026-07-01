@@ -22,45 +22,17 @@
             }
           },
           {
-            "id": "a34d1e5753345c2a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "慢性萎缩性胃炎.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "慢性萎缩性胃炎"
-            }
-          },
-          {
             "id": "a6d77a0998534404",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "神经系统肿瘤.md",
+                "file": "坏死.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "神经系统肿瘤"
-            }
-          },
-          {
-            "id": "e9b7ca511b48afb7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "食管癌.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "食管癌"
+              "title": "坏死"
             }
           },
           {
@@ -329,12 +301,19 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a34d1e5753345c2a",
+  "active": "a6d77a0998534404",
   "lastOpenFiles": [
+    "病毒性肝炎.md",
+    "食管癌.md",
+    "Barrett 食管.md",
+    "克罗恩病.md",
+    "腹痛.md",
+    "胃溃疡.md",
+    "神经系统肿瘤.md",
+    "慢性萎缩性胃炎.md",
     "十二指肠溃疡.md",
     "copilot/copilot-conversations/肠道病变常见部位总结@20260622_093842.md",
     "肿瘤.md",
-    "神经系统肿瘤.md",
     "急淋.md",
     "满天星.md",
     "急性淋巴母细胞白血病.md",
@@ -350,13 +329,6 @@
     "硅肺.md",
     "肝硬化.md",
     "门脉高压.md",
-    "腹水.md",
-    "消化系统疾病.md",
-    "肠梗阻.md",
-    "酒精性肝病.md",
-    "消化系统肿瘤.md",
-    "结直肠癌.md",
-    "胰腺癌.md",
     "attachments/Pasted image 20260630210028.png",
     "attachments/Pasted image 20260630205842.png",
     "attachments/Pasted image 20260630201630.png",
