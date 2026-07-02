@@ -22,17 +22,31 @@
             }
           },
           {
-            "id": "0e71ea0200b566df",
+            "id": "3390f6b475054778",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "个性特征.md",
+                "file": "应激心理反应.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "个性特征"
+              "title": "应激心理反应"
+            }
+          },
+          {
+            "id": "35fb88cabbe6c3a3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "应激生理反应.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "应激生理反应"
             }
           },
           {
@@ -50,7 +64,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -274,14 +288,17 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0e71ea0200b566df",
+  "active": "35fb88cabbe6c3a3",
   "lastOpenFiles": [
-    "个性特征.md",
+    "应激心理反应.md",
+    "应激生理反应.md",
     "心理应激.md",
+    "心理复习scale.md",
+    "五大人格理论.md",
+    "个性特征.md",
     "心理评估.md",
     "社会支持系统.md",
     "应对方式.md",
-    "心理复习scale.md",
     "心理发展与心理健康.md",
     "总论与心理学基础.md",
     "记忆.md",
@@ -300,9 +317,6 @@
     "淋巴瘤.md",
     "胃癌.md",
     "外周 T 细胞淋巴瘤非特殊类型.md",
-    "外周 T 细胞淋巴瘤.md",
-    "淋巴造血系统肿瘤.md",
-    "非霍奇金淋巴瘤.md",
     "attachments/Pasted image 20260630210028.png",
     "attachments/Pasted image 20260630205842.png",
     "attachments/Pasted image 20260630201630.png",
