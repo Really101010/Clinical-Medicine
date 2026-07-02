@@ -34,6 +34,48 @@
               "icon": "lucide-file",
               "title": "心理干预"
             }
+          },
+          {
+            "id": "85ba50f7c34478bb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "马斯洛需要层次理论.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "马斯洛需要层次理论"
+            }
+          },
+          {
+            "id": "420d6d27a316b142",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "总论与心理学基础.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "总论与心理学基础"
+            }
+          },
+          {
+            "id": "66840138ea6f508d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "总论与心理学基础.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "总论与心理学基础"
+            }
           }
         ],
         "currentTab": 1
@@ -68,7 +110,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "知觉",
+                "query": "马斯洛",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -94,8 +136,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "7d38cd1fdadcd175",
@@ -261,8 +302,15 @@
   },
   "active": "17b95af3f8e2a22f",
   "lastOpenFiles": [
+    "attachments/Pasted image 20260702205654.png",
+    "attachments/Pasted image 20260702205632.png",
+    "马斯洛需要层次理论.md",
     "心理干预.md",
     "心理复习scale.md",
+    "总论与心理学基础.md",
+    "操作性条件反射.md",
+    "经典条件反射.md",
+    "心理治疗.md",
     "异常心理.md",
     "异常心理的判断标准与行为特点分析-大纲讨论.md",
     "异常心理的临床表现.md",
@@ -272,7 +320,6 @@
     "心身疾病-病例讨论.md",
     "HPA 轴.md",
     "心理评估.md",
-    "总论与心理学基础.md",
     "冠心病.md",
     "心身障碍.md",
     "心身反应.md",
@@ -282,11 +329,6 @@
     "情绪.md",
     "应激生理反应.md",
     "五大人格理论.md",
-    "个性特征.md",
-    "社会支持系统.md",
-    "应对方式.md",
-    "心理发展与心理健康.md",
-    "记忆.md",
     "attachments/Pasted image 20260702094038.png",
     "attachments/Pasted image 20260630210028.png",
     "attachments/Pasted image 20260630205842.png",
@@ -296,7 +338,6 @@
     "attachments/Pasted image 20260630200049.png",
     "attachments/Pasted image 20260630193833.png",
     "attachments/Pasted image 20260630193702.png",
-    "attachments/Pasted image 20260630173401.png",
     "NK",
     "前体B",
     "Untitled.js",
