@@ -37,6 +37,26 @@
           }
         ],
         "currentTab": 1
+      },
+      {
+        "id": "5308e1206209cac7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0675fb4e25a85149",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "心理应激-大纲案例.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "心理应激-大纲案例"
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -260,10 +280,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9c535ee0a6699c6c",
+  "active": "0675fb4e25a85149",
   "lastOpenFiles": [
-    "心理复习scale.md",
     "心理应激.md",
+    "心理应激-大纲案例.md",
+    "心理复习scale.md",
     "应激心理反应.md",
     "总论与心理学基础.md",
     "情绪.md",
@@ -288,7 +309,6 @@
     "智力.md",
     "动脉粥样硬化.md",
     "淋巴瘤.md",
-    "胃癌.md",
     "attachments/Pasted image 20260630210028.png",
     "attachments/Pasted image 20260630205842.png",
     "attachments/Pasted image 20260630201630.png",
