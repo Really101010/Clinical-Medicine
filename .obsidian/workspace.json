@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "总论与心理学基础.md",
+                "file": "心理发展与心理健康.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "总论与心理学基础"
+              "title": "心理发展与心理健康"
             }
           },
           {
@@ -201,7 +201,7 @@
             "state": {
               "type": "footnotes",
               "state": {
-                "file": "总论与心理学基础.md"
+                "file": "心理发展与心理健康.md"
               },
               "icon": "lucide-file-signature",
               "title": "Footnotes"
@@ -276,11 +276,11 @@
   "active": "3b884a08ad8ad620",
   "lastOpenFiles": [
     "心理复习scale.md",
+    "总论与心理学基础.md",
     "心理发展与心理健康.md",
     "心理评估.md",
     "心理应激.md",
     "attachments/Pasted image 20260702094038.png",
-    "总论与心理学基础.md",
     "智力.md",
     "动脉粥样硬化.md",
     "淋巴瘤.md",
