@@ -78,7 +78,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -153,7 +153,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "总论与心理学基础.md",
+                "file": "气质.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +163,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 总论与心理学基础"
+              "title": "Backlinks for 气质"
             }
           },
           {
@@ -300,10 +300,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7e5368380b029dfa",
+  "active": "5ab1b0bc01a4e3f6",
   "lastOpenFiles": [
-    "气质.md",
     "总论与心理学基础.md",
+    "气质.md",
     "心理评估.md",
     "医患关系.md",
     "心理复习scale.md",
