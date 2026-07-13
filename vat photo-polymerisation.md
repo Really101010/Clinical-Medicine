@@ -12,4 +12,3 @@ high resolution: can make <mark style="background-color: #1A4F10; color: white">
 smooth surface finish
 clear parts possible
 ### Digital light synthesis
-
