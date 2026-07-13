@@ -22,6 +22,26 @@
             }
           }
         ]
+      },
+      {
+        "id": "31e23ad0f9e29ad0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a8ee225651819ffd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "vat photo-polymerisation.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "vat photo-polymerisation"
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -244,9 +264,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "024379573bd82337",
+  "active": "a8ee225651819ffd",
   "lastOpenFiles": [
     "diary/NOTES/3D priting.md",
+    "vat photo-polymerisation.md",
     "diary/NOTES/Notes of History of Political Ideas.md",
     "Untitled.md",
     "心理应激.md",
@@ -273,7 +294,6 @@
     "异常心理的判断标准与行为特点分析-大纲讨论.md",
     "异常心理的临床表现.md",
     "成瘾.md",
-    "人格.md",
     "attachments/Pasted image 20260702094038.png",
     "attachments/Pasted image 20260630210028.png",
     "attachments/Pasted image 20260630205842.png",
