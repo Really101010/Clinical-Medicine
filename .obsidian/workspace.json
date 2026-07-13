@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "533921a35dd80d97",
+        "id": "bfca510d0273258c",
         "type": "tabs",
         "children": [
           {
-            "id": "ca42624bdbd02552",
+            "id": "024379573bd82337",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "diary/NOTES/Notes of History of Political Ideas.md",
+                "file": "diary/NOTES/2026-07-13 Mon.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Notes of History of Political Ideas"
+              "title": "2026-07-13 Mon"
             }
           }
         ]
@@ -244,8 +244,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ca42624bdbd02552",
+  "active": "024379573bd82337",
   "lastOpenFiles": [
+    "diary/NOTES/2026-07-13 Mon.md",
     "diary/NOTES/Notes of History of Political Ideas.md",
     "Untitled.md",
     "心理应激.md",
@@ -273,7 +274,6 @@
     "异常心理的临床表现.md",
     "成瘾.md",
     "人格.md",
-    "心身疾病-病例讨论.md",
     "attachments/Pasted image 20260702094038.png",
     "attachments/Pasted image 20260630210028.png",
     "attachments/Pasted image 20260630205842.png",
