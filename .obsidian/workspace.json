@@ -49,8 +49,7 @@
               "title": "FDM"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -273,7 +272,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b57f4e485a988a43",
+  "active": "024379573bd82337",
   "lastOpenFiles": [
     "DIW.md",
     "diary/NOTES/3D Printing Process.md",
