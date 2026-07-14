@@ -3,6 +3,8 @@ tags:
   - Material
 ---
 liquid is jetted and light or heat is used to cure material.
+材料喷射（Material Jetting）使用光敏聚合物（acrylic photopolymers），通过**紫外线（UV）光**逐层固化沉积的材料
+**Trade name**: <mark style="background-color: #1A4F10; color: white">PolyJet</mark> (Stratasys).
 #### Greatness
 - <span style="font-size: 16px; color: #FAF9C6">multi colour</span>
 - multiple shore <span style="font-size: 16px; color: #FAF9C6">hardness</span>
