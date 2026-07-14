@@ -14,13 +14,21 @@ liquid is jetted and light or heat is used to cure material.
 
 #### Work Method
 1. First, the liquid resin is heated to 30 - 60℃ to achieve optimal viscosity for printing.
-2. Then the printhead travels over the build platform and hundreds of tiny droplets of photopolymer are jetted/deposited to the desired locations.
-3. A UV light source that is attached to the printhead cures the deposited material, solidifying it and creating the first layer of the part.
+2. Then the print-head travels over the build platform and hundreds of tiny droplets of photopolymer are jetted/deposited to the desired locations.
+3. A UV light source that is attached to the print-head cures the deposited material, solidifying it and creating the first layer of the part.
 4. After the layer is complete, the build platform moves downwards one layer height, and the process repeats until the whole part is complete.
 
 X-Y moving
 https://youtu.be/U7X817JESWY
 
+##### Acceptable support removal methods <mark style="background-color: #1A4F10; color: white">for PolyJet parts</mark>:
+
+|Method|Acceptable?|Remarks|
+|---|---|---|
+|**Hand tools**|✅ Yes|Use pliers, scrapers, or tweezers to mechanically break away brittle support. Suitable for both Standard and WaterWorks supports.|
+|**Water Jet**|✅ Yes|High‑pressure water effectively removes WaterWorks soluble support. Fast and clean.|
+|**Run under faucet**|✅ Yes|Works for WaterWorks support with **warm water** (≈50–60 °C). Slower than a water jet, but acceptable for small parts or light support.|
+|**Acetone bath**|❌ No|Acetone dissolves or damages PolyJet resins (acrylic‑based photopolymers). Never use it.|
 #### Main Characteristics
 | Materials              | Material Jetting                                                                               |
 | :--------------------- | :--------------------------------------------------------------------------------------------- |
@@ -41,4 +49,3 @@ The matte setting should be used when **accuracy** and **uniform surface fini
 - At the build area level, different parts can be printed in different materials or colours simultaneously, speeding up the manufacturing process.
 - At the part level, different sections of a part can be designated to be printed in different material or colour (for example creating a stiff case with flexible buttons for prototyping with haptic feedback).
 - At the material level, two or more printing resins can be mixed in different ratios before dispensing, creating a “digital material” with specific physical properties, such as hardness, stiffness or hue.
-
