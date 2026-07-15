@@ -34,9 +34,37 @@
               "icon": "lucide-file",
               "title": "喉返神经修复"
             }
+          },
+          {
+            "id": "3776a6d326f8c447",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "压电材料.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "压电材料"
+            }
+          },
+          {
+            "id": "2013f21948dd9a91",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "神经导管.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "神经导管"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -259,11 +287,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "59b91695b3b852a8",
+  "active": "3776a6d326f8c447",
   "lastOpenFiles": [
+    "神经导管.md",
+    "压电材料.md",
+    "喉返神经修复.md",
     "diary/NOTES/Subcutaneous ports for...electrode stimulation in animal.pdf",
     "diary/NOTES/文献检索.md",
-    "喉返神经修复.md",
     "diary/NOTES/3D priting.md",
     "material jetting.md",
     "diary/NOTES/3D Printing Process.md",
@@ -290,7 +320,6 @@
     "应激生理反应.md",
     "总论与心理学基础.md",
     "气质.md",
-    "马斯洛需要层次理论.md",
     "attachments/Pasted image 20260702205654.png",
     "attachments/Pasted image 20260702205632.png",
     "attachments/Pasted image 20260702094038.png",
@@ -306,7 +335,6 @@
     "attachments/思维导图(2).tif",
     "attachments",
     "copilot/copilot-conversations",
-    "base-all.base",
     "未命名.canvas"
   ]
 }
