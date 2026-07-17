@@ -50,20 +50,6 @@
             }
           },
           {
-            "id": "46eaf588ac1ede3b",
-            "type": "leaf",
-            "state": {
-              "type": "webviewer",
-              "state": {
-                "url": "https://onlinelibrary.wiley.com/doi/full/10.1002/lary.26389",
-                "title": "请稍候…",
-                "mode": "webview"
-              },
-              "icon": "globe-2",
-              "title": "请稍候…"
-            }
-          },
-          {
             "id": "1b613f0fdff78378",
             "type": "leaf",
             "state": {
@@ -78,7 +64,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -301,11 +287,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "46eaf588ac1ede3b",
+  "active": "bc2ddbf61d4ef448",
   "lastOpenFiles": [
+    "压电材料.md",
     "神经导管.md",
     "喉返神经修复.md",
-    "压电材料.md",
     "Tissue Engineering.md",
     "纤维化.md",
     "粘连.md",
