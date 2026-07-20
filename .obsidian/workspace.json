@@ -78,18 +78,6 @@
             }
           },
           {
-            "id": "ece188e5ca314a80",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "attachments/New Operative Surgical Concept of Two Fascial Layers Enveloping the Recurrent Laryngeal Nerve.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "New Operative Surgical Concept of Two Fascial Layers Enveloping the Recurrent Laryngeal Nerve"
-            }
-          },
-          {
             "id": "e2dca7e3afb85f67",
             "type": "leaf",
             "state": {
@@ -118,7 +106,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -342,15 +330,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e546e7bcf7c1958f",
+  "active": "8c15f55c1766b416",
   "lastOpenFiles": [
-    "神经损伤.md",
     "喉返神经损伤.md",
     "神经再生.md",
+    "attachments/New Operative Surgical Concept of Two Fascial Layers Enveloping the Recurrent Laryngeal Nerve.pdf",
+    "神经损伤.md",
     "喉返神经修复.md",
     "喉返神经解剖.md",
     "喉返神经.md",
-    "attachments/New Operative Surgical Concept of Two Fascial Layers Enveloping the Recurrent Laryngeal Nerve.pdf",
     "Berry 韧带.md",
     "attachments/Pasted image 20260719181246.png",
     "attachments/Pasted image 20260719181121.png",
