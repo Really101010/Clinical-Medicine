@@ -49,7 +49,8 @@
               "title": "喉返神经"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -273,12 +274,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5412b7502f849e76",
+  "active": "987b03bf017e6d00",
   "lastOpenFiles": [
+    "attachments/Pasted image 20260721171114.png",
+    "喉返神经修复.md",
     "喉返神经解剖.md",
     "attachments/Pasted image 20260721163558.png",
     "喉返神经.md",
-    "喉返神经修复.md",
     "attachments/Pasted image 20260720211812.png",
     "attachments/Pasted image 20260720211543.png",
     "attachments/Pasted image 20260720211253.png",
