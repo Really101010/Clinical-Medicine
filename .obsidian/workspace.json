@@ -20,8 +20,37 @@
               "icon": "lucide-file",
               "title": "喉返神经修复"
             }
+          },
+          {
+            "id": "987b03bf017e6d00",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "喉返神经解剖.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "喉返神经解剖"
+            }
+          },
+          {
+            "id": "c501acfa787e74aa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "喉返神经.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "喉返神经"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -245,13 +274,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5412b7502f849e76",
+  "active": "987b03bf017e6d00",
   "lastOpenFiles": [
+    "喉返神经.md",
+    "喉返神经解剖.md",
+    "喉返神经修复.md",
     "attachments/Pasted image 20260720211812.png",
     "attachments/Pasted image 20260720211543.png",
     "attachments/Pasted image 20260720211253.png",
-    "喉返神经修复.md",
-    "喉返神经.md",
     "喉返神经损伤.md",
     "压电材料.md",
     "神经元溃变.md",
@@ -262,7 +292,6 @@
     "逆行性变性.md",
     "神经元.md",
     "attachments/e57066adae4e6c009d88163233c0df1f.jpg",
-    "喉返神经解剖.md",
     "喉的中枢调控.md",
     "喉肌电图.md",
     "attachments/Pasted image 20260720143223.png",
@@ -271,7 +300,6 @@
     "attachments/6898a4da2a1c78a2e1509c15ca02d4b1.jpg",
     "attachments/Pasted image 20260720142441.png",
     "attachments/45506d13cef01d3d3d6bdbc3cdc9a72a.jpg",
-    "attachments/Pasted image 20260720134123.png",
     "attachments/New Operative Surgical Concept of Two Fascial Layers Enveloping the Recurrent Laryngeal Nerve.pdf",
     "Berry 韧带.md",
     "迷走神经.md",
