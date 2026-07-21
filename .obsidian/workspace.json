@@ -41,12 +41,40 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "喉返神经.md",
+                "file": "压电材料.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "喉返神经"
+              "title": "压电材料"
+            }
+          },
+          {
+            "id": "58aa0b9902985978",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "神经元溃变.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "神经元溃变"
+            }
+          },
+          {
+            "id": "038938c53cb1b5d7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "神经导管.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "神经导管"
             }
           },
           {
@@ -64,7 +92,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -288,22 +316,23 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "987b03bf017e6d00",
+  "active": "58aa0b9902985978",
   "lastOpenFiles": [
+    "压电材料.md",
+    "神经导管.md",
+    "喉返神经.md",
+    "diary/NOTES/2026-07-21 Tue.md",
     "diary/NOTES/attachments/Pasted image 20260721185307.png",
     "diary/NOTES/attachments",
     "无限流灵感.md",
-    "diary/NOTES/2026-07-21 Tue.md",
     "喉返神经解剖.md",
     "attachments/Pasted image 20260721171114.png",
     "喉返神经修复.md",
     "attachments/Pasted image 20260721163558.png",
-    "喉返神经.md",
     "attachments/Pasted image 20260720211812.png",
     "attachments/Pasted image 20260720211543.png",
     "attachments/Pasted image 20260720211253.png",
     "喉返神经损伤.md",
-    "压电材料.md",
     "神经元溃变.md",
     "神经再生.md",
     "神经损伤.md",
@@ -317,14 +346,12 @@
     "attachments/Pasted image 20260720143223.png",
     "attachments/314ca06412c3875975fa721380aa774e.jpg",
     "attachments/074c2bd9b3a345309e7ef9125f9bb856.jpg",
-    "attachments/6898a4da2a1c78a2e1509c15ca02d4b1.jpg",
     "attachments/New Operative Surgical Concept of Two Fascial Layers Enveloping the Recurrent Laryngeal Nerve.pdf",
     "Berry 韧带.md",
     "迷走神经.md",
     "颅神经.md",
     "喉上神经.md",
     "喉内肌解剖.md",
-    "神经导管.md",
     "Tissue Engineering.md",
     "纤维化.md",
     "粘连.md",
