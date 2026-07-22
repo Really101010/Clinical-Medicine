@@ -64,7 +64,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -201,13 +201,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SCI修复.md",
+                "file": "喉返神经修复.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of SCI修复"
+              "title": "Outline of 喉返神经修复"
             }
           },
           {
@@ -216,7 +216,7 @@
             "state": {
               "type": "footnotes",
               "state": {
-                "file": "SCI修复.md"
+                "file": "喉返神经修复.md"
               },
               "icon": "lucide-file-signature",
               "title": "Footnotes"
@@ -298,7 +298,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0c48f39fada591d9",
+  "active": "f35a266f3f9fcfb8",
   "lastOpenFiles": [
     "SCI修复.md",
     "喉返神经修复.md",
