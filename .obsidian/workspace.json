@@ -34,6 +34,20 @@
               "icon": "lucide-file",
               "title": "喉返神经修复"
             }
+          },
+          {
+            "id": "3b77bb24d5ed61b0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "神经元溃变.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "神经元溃变"
+            }
           }
         ],
         "currentTab": 1
@@ -247,7 +261,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -272,6 +286,11 @@
   },
   "active": "f35a266f3f9fcfb8",
   "lastOpenFiles": [
+    "attachments/喉返神经修复/小鼠 喉返神经修复.pdf",
+    "attachments/喉返神经修复/小鼠 喉返神经修复.pdf.crdownload",
+    "attachments/喉返神经修复/Evaluation of PRP injection after RLN injury in rats.pdf",
+    "attachments/喉返神经修复/Evaluation of PRP injection after RLN injury in rats.pdf.crdownload",
+    "神经元溃变.md",
     "喉返神经修复.md",
     "SCI修复.md",
     "attachments/喉返神经修复/1 （Biomaterials 2026）：核心主题为磁电（Magnetoelectric） 水凝胶喷雾.pdf",
@@ -298,7 +317,6 @@
     "无限流灵感.md",
     "压电材料.md",
     "喉返神经损伤.md",
-    "神经元溃变.md",
     "喉返神经.md",
     "diary/NOTES/attachments/Pasted image 20260721185307.png",
     "diary/NOTES/attachments",
@@ -314,9 +332,6 @@
     "attachments/Pasted image 20260720143223.png",
     "attachments/314ca06412c3875975fa721380aa774e.jpg",
     "attachments/New Operative Surgical Concept of Two Fascial Layers Enveloping the Recurrent Laryngeal Nerve.pdf",
-    "diary/NOTES/Subcutaneous ports for...electrode stimulation in animal.pdf",
-    "diary/NOTES/3D printing FRC.pdf",
-    "diary/NOTES/3D pinting FRC.pdf",
     "未命名.canvas"
   ]
 }
