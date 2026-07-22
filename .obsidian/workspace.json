@@ -4,95 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "bfca510d0273258c",
+        "id": "9ef48d5dfa3931b8",
         "type": "tabs",
         "children": [
           {
-            "id": "5412b7502f849e76",
+            "id": "66668e4d2b84e57e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "喉返神经修复.md",
+                "file": "diary/NOTES/2026-07-27 Mon.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "喉返神经修复"
-            }
-          },
-          {
-            "id": "987b03bf017e6d00",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "diary/NOTES/2026-07-21 Tue.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2026-07-21 Tue"
-            }
-          },
-          {
-            "id": "c501acfa787e74aa",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "压电材料.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "压电材料"
-            }
-          },
-          {
-            "id": "58aa0b9902985978",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "神经再生.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "神经再生"
-            }
-          },
-          {
-            "id": "038938c53cb1b5d7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "神经导管.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "神经导管"
-            }
-          },
-          {
-            "id": "1123ee4cde1e4158",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "无限流灵感.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "无限流灵感"
+              "title": "2026-07-27 Mon"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -244,7 +173,7 @@
             "state": {
               "type": "footnotes",
               "state": {
-                "file": "神经损伤.md"
+                "file": "diary/NOTES/2026-07-27 Mon.md"
               },
               "icon": "lucide-file-signature",
               "title": "Footnotes"
@@ -291,14 +220,23 @@
               "icon": "lucide-info",
               "title": "File properties for 中医学大纲"
             }
+          },
+          {
+            "id": "87cf4f0888c90373",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 10
       }
     ],
     "direction": "horizontal",
-    "width": 440.5,
-    "collapsed": true
+    "width": 440.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -316,19 +254,30 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "987b03bf017e6d00",
+  "active": "66668e4d2b84e57e",
   "lastOpenFiles": [
+    "diary/NOTES/2026-07-30 Thu.md",
+    "diary/NOTES/2026-07-31 Fri.md",
+    "diary/NOTES/2026-07-29 Wed.md",
+    "diary/NOTES/2026-07-28 Tue.md",
+    "diary/NOTES/2026-07-27 Mon.md",
+    "diary/NOTES/2026-07-23 Thu.md",
+    "diary/NOTES/2026-08-01 Sat.md",
+    "diary/NOTES/2026-07-26 Sun.md",
+    "diary/NOTES/2026-07-25 Sat.md",
+    "diary/NOTES/2026-07-24 Fri.md",
     "喉返神经修复.md",
     "diary/NOTES/2026-07-21 Tue.md",
-    "喉返神经损伤.md",
-    "神经再生.md",
-    "神经元溃变.md",
-    "压电材料.md",
+    "Untitled.md",
+    "无限流灵感.md",
     "神经导管.md",
+    "神经再生.md",
+    "压电材料.md",
+    "喉返神经损伤.md",
+    "神经元溃变.md",
     "喉返神经.md",
     "diary/NOTES/attachments/Pasted image 20260721185307.png",
     "diary/NOTES/attachments",
-    "无限流灵感.md",
     "喉返神经解剖.md",
     "attachments/Pasted image 20260721171114.png",
     "attachments/Pasted image 20260721163558.png",
@@ -341,20 +290,10 @@
     "逆行性变性.md",
     "神经元.md",
     "attachments/e57066adae4e6c009d88163233c0df1f.jpg",
-    "喉的中枢调控.md",
-    "喉肌电图.md",
     "attachments/Pasted image 20260720143223.png",
     "attachments/314ca06412c3875975fa721380aa774e.jpg",
     "attachments/074c2bd9b3a345309e7ef9125f9bb856.jpg",
     "attachments/New Operative Surgical Concept of Two Fascial Layers Enveloping the Recurrent Laryngeal Nerve.pdf",
-    "Berry 韧带.md",
-    "迷走神经.md",
-    "颅神经.md",
-    "喉上神经.md",
-    "喉内肌解剖.md",
-    "Tissue Engineering.md",
-    "纤维化.md",
-    "粘连.md",
     "diary/NOTES/Subcutaneous ports for...electrode stimulation in animal.pdf",
     "diary/NOTES/3D printing FRC.pdf",
     "diary/NOTES/3D pinting FRC.pdf",
