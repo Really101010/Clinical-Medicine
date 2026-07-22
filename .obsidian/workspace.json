@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "喉返神经修复.md",
+                "file": "神经导管.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "喉返神经修复"
+              "title": "神经导管"
             }
           }
         ]
@@ -158,13 +158,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "喉返神经修复.md",
+                "file": "神经导管.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 喉返神经修复"
+              "title": "Outline of 神经导管"
             }
           },
           {
@@ -173,7 +173,7 @@
             "state": {
               "type": "footnotes",
               "state": {
-                "file": "喉返神经修复.md"
+                "file": "神经导管.md"
               },
               "icon": "lucide-file-signature",
               "title": "Footnotes"
@@ -236,7 +236,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 440.5
+    "width": 440.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -256,6 +257,7 @@
   },
   "active": "aca1bf2388eea9f6",
   "lastOpenFiles": [
+    "attachments/Pasted image 20260722171732.png",
     "喉返神经修复.md",
     "diary/NOTES/腹腔防粘连材料后续安排.md",
     "diary/NOTES/2026-07-27 Mon.md",
@@ -288,7 +290,6 @@
     "神经损伤.md",
     "Waller 变性.md",
     "轴突反应.md",
-    "逆行性变性.md",
     "attachments/e57066adae4e6c009d88163233c0df1f.jpg",
     "attachments/Pasted image 20260720143223.png",
     "attachments/314ca06412c3875975fa721380aa774e.jpg",
