@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "神经元溃变.md",
+                "file": "神经再生.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "神经元溃变"
+              "title": "神经再生"
             }
           },
           {
@@ -92,7 +92,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -316,25 +316,25 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "58aa0b9902985978",
+  "active": "987b03bf017e6d00",
   "lastOpenFiles": [
+    "喉返神经修复.md",
+    "diary/NOTES/2026-07-21 Tue.md",
+    "喉返神经损伤.md",
+    "神经再生.md",
+    "神经元溃变.md",
     "压电材料.md",
     "神经导管.md",
     "喉返神经.md",
-    "diary/NOTES/2026-07-21 Tue.md",
     "diary/NOTES/attachments/Pasted image 20260721185307.png",
     "diary/NOTES/attachments",
     "无限流灵感.md",
     "喉返神经解剖.md",
     "attachments/Pasted image 20260721171114.png",
-    "喉返神经修复.md",
     "attachments/Pasted image 20260721163558.png",
     "attachments/Pasted image 20260720211812.png",
     "attachments/Pasted image 20260720211543.png",
     "attachments/Pasted image 20260720211253.png",
-    "喉返神经损伤.md",
-    "神经元溃变.md",
-    "神经再生.md",
     "神经损伤.md",
     "Waller 变性.md",
     "轴突反应.md",
