@@ -63,7 +63,8 @@
               "title": "神经再生"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -200,13 +201,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "神经导管.md",
+                "file": "喉返神经修复.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 神经导管"
+              "title": "Outline of 喉返神经修复"
             }
           },
           {
@@ -215,7 +216,7 @@
             "state": {
               "type": "footnotes",
               "state": {
-                "file": "神经导管.md"
+                "file": "喉返神经修复.md"
               },
               "icon": "lucide-file-signature",
               "title": "Footnotes"
@@ -297,10 +298,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "aca1bf2388eea9f6",
+  "active": "f35a266f3f9fcfb8",
   "lastOpenFiles": [
-    "SCI修复.md",
     "神经导管.md",
+    "SCI修复.md",
     "神经再生.md",
     "喉返神经修复.md",
     "attachments/Pasted image 20260722171732.png",
