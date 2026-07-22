@@ -63,8 +63,7 @@
               "title": "神经再生"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -201,13 +200,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SCI修复.md",
+                "file": "神经导管.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of SCI修复"
+              "title": "Outline of 神经导管"
             }
           },
           {
@@ -216,7 +215,7 @@
             "state": {
               "type": "footnotes",
               "state": {
-                "file": "SCI修复.md"
+                "file": "神经导管.md"
               },
               "icon": "lucide-file-signature",
               "title": "Footnotes"
@@ -298,12 +297,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0c48f39fada591d9",
+  "active": "aca1bf2388eea9f6",
   "lastOpenFiles": [
+    "SCI修复.md",
     "神经导管.md",
     "神经再生.md",
     "喉返神经修复.md",
-    "SCI修复.md",
     "attachments/Pasted image 20260722171732.png",
     "diary/NOTES/腹腔防粘连材料后续安排.md",
     "diary/NOTES/2026-07-27 Mon.md",
