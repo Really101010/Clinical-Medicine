@@ -36,6 +36,18 @@
             }
           },
           {
+            "id": "b0e8be9bfdf4b340",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "attachments/喉返神经修复/Evaluation of PRP injection after RLN injury in rats.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "Evaluation of PRP injection after RLN injury in rats"
+            }
+          },
+          {
             "id": "eb61b6b24c0a8376",
             "type": "leaf",
             "state": {
@@ -310,9 +322,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "eb61b6b24c0a8376",
+  "active": "b0e8be9bfdf4b340",
   "lastOpenFiles": [
     "喉返神经修复.md",
+    "喉返神经解剖.md",
     "attachments/喉返神经修复/Characteristics of Nerve Injury, Regeneration, and Vocal Fold Movement After Recurrent Laryngeal Nerve Electrocautery Injury.pdf",
     "神经导管.md",
     "神经元溃变.md",
@@ -346,7 +359,6 @@
     "喉返神经损伤.md",
     "喉返神经.md",
     "diary/NOTES/attachments/Pasted image 20260721185307.png",
-    "喉返神经解剖.md",
     "attachments/Pasted image 20260721171114.png",
     "attachments/Pasted image 20260721163558.png",
     "attachments/Pasted image 20260720211812.png",
