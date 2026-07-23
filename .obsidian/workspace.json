@@ -36,18 +36,6 @@
             }
           },
           {
-            "id": "2f522aae747c8f2c",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "attachments/喉返神经修复/Evaluation of PRP injection after RLN injury in rats.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "Evaluation of PRP injection after RLN injury in rats"
-            }
-          },
-          {
             "id": "eb61b6b24c0a8376",
             "type": "leaf",
             "state": {
@@ -88,7 +76,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -322,13 +310,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2f522aae747c8f2c",
+  "active": "f35a266f3f9fcfb8",
   "lastOpenFiles": [
+    "attachments/喉返神经修复/Evaluation of PRP injection after RLN injury in rats.pdf",
     "喉返神经修复.md",
     "Mechano-bioactive hydrogel bioelectronics for mechanical-electrical-bioenergetic conversion and glia-modulating neural regeneration.md",
     "attachments/Pasted image 20260723211551.png",
     "神经导管.md",
-    "attachments/喉返神经修复/Evaluation of PRP injection after RLN injury in rats.pdf",
     "喉返神经解剖.md",
     "attachments/喉返神经修复/Characteristics of Nerve Injury, Regeneration, and Vocal Fold Movement After Recurrent Laryngeal Nerve Electrocautery Injury.pdf",
     "神经元溃变.md",
