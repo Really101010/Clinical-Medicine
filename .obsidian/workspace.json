@@ -36,6 +36,18 @@
             }
           },
           {
+            "id": "8f322e9952bd6965",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "attachments/喉返神经修复/Characteristics of Nerve Injury, Regeneration, and Vocal Fold Movement After Recurrent Laryngeal Nerve Electrocautery Injury.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "Characteristics of Nerve Injury, Regeneration, and Vocal Fold Movement After Recurrent Laryngeal Nerve Electrocautery Injury"
+            }
+          },
+          {
             "id": "3b77bb24d5ed61b0",
             "type": "leaf",
             "state": {
@@ -286,8 +298,10 @@
   },
   "active": "f35a266f3f9fcfb8",
   "lastOpenFiles": [
-    "神经元溃变.md",
+    "attachments/喉返神经修复/Characteristics of Nerve Injury, Regeneration, and Vocal Fold Movement After Recurrent Laryngeal Nerve Electrocautery Injury.pdf",
     "喉返神经修复.md",
+    "神经导管.md",
+    "神经元溃变.md",
     "attachments/喉返神经修复/The Laryngoscope - 2016 - Chitose - Recurrent laryngeal nerve regeneration using an oriented collagen scaffold containing.pdf",
     "attachments/喉返神经修复/小鼠 喉返神经修复.pdf",
     "attachments/喉返神经修复/小鼠 喉返神经修复.pdf.crdownload",
@@ -297,10 +311,8 @@
     "attachments/喉返神经修复/1 （Biomaterials 2026）：核心主题为磁电（Magnetoelectric） 水凝胶喷雾.pdf",
     "神经再生.md",
     "attachments/喉返神经修复/魏 - 4 （Acta Biomaterialia 2026）：核心主题为压电（Piezoelectric）+ 磁-机-电级联系统.pdf",
-    "attachments/喉返神经修复/Characteristics of Nerve Injury, Regeneration, and Vocal Fold Movement After Recurrent Laryngeal Nerve Electrocautery Injury.pdf",
     "attachments/喉返神经修复",
     "attachments/新建文件夹",
-    "神经导管.md",
     "attachments/Pasted image 20260722171732.png",
     "diary/NOTES/腹腔防粘连材料后续安排.md",
     "diary/NOTES/2026-07-27 Mon.md",
