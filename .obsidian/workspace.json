@@ -36,6 +36,34 @@
             }
           },
           {
+            "id": "72d5622820f1f699",
+            "type": "leaf",
+            "state": {
+              "type": "webviewer",
+              "state": {
+                "url": "https://sjssygncjcw.tjh.com.cn/ch/reader/create_pdf.aspx?file_no=20180307&flag=1&journal_id=sjssgncj&year_id=2018#2#1",
+                "title": "sjssygncjcw.tjh.com.cn/ch/reader/create_pdf.aspx?file_no=20180307&flag=1&journal_id=sjssgncj&year_id=2018#2#1",
+                "mode": "webview"
+              },
+              "icon": "globe-2",
+              "title": "sjssygncjcw.tjh.com.cn/ch/reader/create_pdf.aspx?file_no=20180307&flag=1&journal_id=sjssgncj&year_id=2018#2#1"
+            }
+          },
+          {
+            "id": "02125ddc11e74b22",
+            "type": "leaf",
+            "state": {
+              "type": "webviewer",
+              "state": {
+                "url": "https://oss.wanfangdata.com.cn/www/%E5%A4%A7%E9%BC%A0%E5%96%89%E8%BF%94%E7%A5%9E%E7%BB%8F%E6%8C%A4%E5%8E%8B%E4%BC%A4%E5%90%8E%E5%96%89%E8%82%8C%E5%8F%8A%E7%A5%9E%E7%BB%8F%E5%8F%98%E5%8C%96%E7%9A%84%E5%88%9D%E6%AD%A5%E7%A0%94%E7%A9%B6.ashx?isread=true&type=perio&resourceId=gwyx-wlyxykf201803007&transaction=%7B%22id%22%3Anull%2C%22transferOutAccountsStatus%22%3Anull%2C%22transaction%22%3A%7B%22id%22%3A%222080286764198633472%22%2C%22status%22%3A1%2C%22createDateTime%22%3Anull%2C%22payDateTime%22%3A1784813989101%2C%22authToken%22%3A%22TGT-78393-7izGVeBClYUNwOnIyToMNddy7lEeOKnaqC3EEF7vEAPegoa16O-auth-iploginservice-6f7888fb99-mjcdl%22%2C%22user%22%3A%7B%22accountType%22%3A%22Group%22%2C%22key%22%3A%22g_scdx%22%7D%2C%22transferIn%22%3A%7B%22accountType%22%3A%22Income%22%2C%22key%22%3A%22PeriodicalFulltext%22%7D%2C%22transferOut%22%3A%7B%22GTimeLimit.g_scdx%22%3A3.0%7D%2C%22turnover%22%3A3.0%2C%22orderTurnover%22%3A3.0%2C%22productDetail%22%3A%22perio_gwyx-wlyxykf201803007%22%2C%22productTitle%22%3Anull%2C%22userIP%22%3A%22211.83.127.26%22%2C%22organName%22%3Anull%2C%22memo%22%3Anull%2C%22orderUser%22%3A%22g_scdx%22%2C%22orderChannel%22%3A%22pc%22%2C%22payTag%22%3A%22%22%2C%22webTransactionRequest%22%3Anull%2C%22signature%22%3A%22E6WFPDB93uvT2zwKupSbzj3noHWZUUQS9PgWrOMNJaK%2BycL09redlbL%2BxpX4qLMLgBLnJrX75OBB%5CnQepwlQaqPtlIa0kmjXeWkweTDecGnFmwqIVTsGmVNfGunVBkcfGKhdSiHrFTDpYAF3PpwvLknaUT%5Cnr%2FyTarpi5LnGsh1U%2F4I%3D%22%7D%2C%22isCache%22%3Afalse%7D",
+                "title": "大鼠喉返神经挤压伤后喉肌及神经变化的初步研究-万方数据知识服务平台",
+                "mode": "webview"
+              },
+              "icon": "globe-2",
+              "title": "大鼠喉返神经挤压伤后喉肌及神经变化的初步研究-万方数据知识服务平台"
+            }
+          },
+          {
             "id": "eb61b6b24c0a8376",
             "type": "leaf",
             "state": {
@@ -76,7 +104,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -310,10 +338,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f35a266f3f9fcfb8",
+  "active": "02125ddc11e74b22",
   "lastOpenFiles": [
-    "喉返神经解剖.md",
     "喉返神经修复.md",
+    "attachments/Pasted image 20260723214808.png",
+    "喉返神经解剖.md",
     "attachments/喉返神经修复/Evaluation of PRP injection after RLN injury in rats.pdf",
     "Mechano-bioactive hydrogel bioelectronics for mechanical-electrical-bioenergetic conversion and glia-modulating neural regeneration.md",
     "attachments/Pasted image 20260723211551.png",
@@ -356,7 +385,6 @@
     "attachments/Pasted image 20260720211253.png",
     "神经损伤.md",
     "attachments/e57066adae4e6c009d88163233c0df1f.jpg",
-    "attachments/Pasted image 20260720143223.png",
     "未命名.canvas"
   ]
 }
