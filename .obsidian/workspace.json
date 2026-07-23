@@ -36,7 +36,7 @@
             }
           },
           {
-            "id": "b0e8be9bfdf4b340",
+            "id": "2f522aae747c8f2c",
             "type": "leaf",
             "state": {
               "type": "pdf",
@@ -88,7 +88,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -322,13 +322,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f35a266f3f9fcfb8",
+  "active": "2f522aae747c8f2c",
   "lastOpenFiles": [
-    "attachments/喉返神经修复/Evaluation of PRP injection after RLN injury in rats.pdf",
     "喉返神经修复.md",
+    "Mechano-bioactive hydrogel bioelectronics for mechanical-electrical-bioenergetic conversion and glia-modulating neural regeneration.md",
+    "attachments/Pasted image 20260723211551.png",
+    "神经导管.md",
+    "attachments/喉返神经修复/Evaluation of PRP injection after RLN injury in rats.pdf",
     "喉返神经解剖.md",
     "attachments/喉返神经修复/Characteristics of Nerve Injury, Regeneration, and Vocal Fold Movement After Recurrent Laryngeal Nerve Electrocautery Injury.pdf",
-    "神经导管.md",
     "神经元溃变.md",
     "attachments/喉返神经修复/The Laryngoscope - 2016 - Chitose - Recurrent laryngeal nerve regeneration using an oriented collagen scaffold containing.pdf",
     "attachments/喉返神经修复/小鼠 喉返神经修复.pdf",
@@ -365,10 +367,8 @@
     "attachments/Pasted image 20260720211543.png",
     "attachments/Pasted image 20260720211253.png",
     "神经损伤.md",
-    "Waller 变性.md",
     "attachments/e57066adae4e6c009d88163233c0df1f.jpg",
     "attachments/Pasted image 20260720143223.png",
-    "attachments/314ca06412c3875975fa721380aa774e.jpg",
     "未命名.canvas"
   ]
 }
