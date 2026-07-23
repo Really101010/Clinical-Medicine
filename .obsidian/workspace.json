@@ -50,18 +50,6 @@
             }
           },
           {
-            "id": "8f322e9952bd6965",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "attachments/喉返神经修复/Characteristics of Nerve Injury, Regeneration, and Vocal Fold Movement After Recurrent Laryngeal Nerve Electrocautery Injury.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "Characteristics of Nerve Injury, Regeneration, and Vocal Fold Movement After Recurrent Laryngeal Nerve Electrocautery Injury"
-            }
-          },
-          {
             "id": "3b77bb24d5ed61b0",
             "type": "leaf",
             "state": {
@@ -76,7 +64,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -310,19 +298,20 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8f322e9952bd6965",
+  "active": "f35a266f3f9fcfb8",
   "lastOpenFiles": [
+    "attachments/Pasted image 20260723222758.png",
+    "喉返神经解剖.md",
+    "神经元溃变.md",
+    "attachments/喉返神经修复/Characteristics of Nerve Injury, Regeneration, and Vocal Fold Movement After Recurrent Laryngeal Nerve Electrocautery Injury.pdf",
     "喉返神经修复.md",
     "神经导管.md",
     "attachments/Pasted image 20260723222428.png",
-    "喉返神经解剖.md",
     "attachments/Pasted image 20260723220107.png",
     "attachments/Pasted image 20260723214808.png",
     "attachments/喉返神经修复/Evaluation of PRP injection after RLN injury in rats.pdf",
     "Mechano-bioactive hydrogel bioelectronics for mechanical-electrical-bioenergetic conversion and glia-modulating neural regeneration.md",
     "attachments/Pasted image 20260723211551.png",
-    "attachments/喉返神经修复/Characteristics of Nerve Injury, Regeneration, and Vocal Fold Movement After Recurrent Laryngeal Nerve Electrocautery Injury.pdf",
-    "神经元溃变.md",
     "attachments/喉返神经修复/The Laryngoscope - 2016 - Chitose - Recurrent laryngeal nerve regeneration using an oriented collagen scaffold containing.pdf",
     "attachments/喉返神经修复/小鼠 喉返神经修复.pdf",
     "attachments/喉返神经修复/小鼠 喉返神经修复.pdf.crdownload",
