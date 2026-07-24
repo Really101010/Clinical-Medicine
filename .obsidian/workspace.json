@@ -8,17 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "0d95f126059c47a5",
+            "id": "b4d430bbc046d7c7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "机械应力.md",
+                "file": "喉返神经修复.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "机械应力"
+              "title": "喉返神经修复"
             }
           }
         ]
@@ -255,10 +255,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0d95f126059c47a5",
+  "active": "b4d430bbc046d7c7",
   "lastOpenFiles": [
-    "Mechano-bioactive hydrogel bioelectronics for mechanical-electrical-bioenergetic conversion and glia-modulating neural regeneration.md",
     "机械应力.md",
+    "attachments/喉返神经修复/PC12-压电.pdf",
+    "Mechano-bioactive hydrogel bioelectronics for mechanical-electrical-bioenergetic conversion and glia-modulating neural regeneration.md",
     "神经导管.md",
     "纤维化.md",
     "attachments/Pasted image 20260724110624.png",
@@ -285,7 +286,6 @@
     "神经再生.md",
     "attachments/喉返神经修复/魏 - 4 （Acta Biomaterialia 2026）：核心主题为压电（Piezoelectric）+ 磁-机-电级联系统.pdf",
     "attachments/喉返神经修复",
-    "attachments/新建文件夹",
     "attachments/Pasted image 20260722171732.png",
     "diary/NOTES/腹腔防粘连材料后续安排.md",
     "diary/NOTES/2026-07-27 Mon.md",
@@ -302,7 +302,6 @@
     "Untitled.md",
     "无限流灵感.md",
     "压电材料.md",
-    "喉返神经损伤.md",
     "未命名.canvas"
   ]
 }
