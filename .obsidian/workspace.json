@@ -11,14 +11,12 @@
             "id": "b4d430bbc046d7c7",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "喉返神经修复.md",
-                "mode": "source",
-                "source": false
+                "file": "attachments/喉返神经修复/PC12-压电.pdf"
               },
-              "icon": "lucide-file",
-              "title": "喉返神经修复"
+              "icon": "lucide-file-text",
+              "title": "PC12-压电"
             }
           }
         ]
@@ -257,6 +255,7 @@
   },
   "active": "b4d430bbc046d7c7",
   "lastOpenFiles": [
+    "喉返神经修复.md",
     "机械应力.md",
     "attachments/喉返神经修复/PC12-压电.pdf",
     "Mechano-bioactive hydrogel bioelectronics for mechanical-electrical-bioenergetic conversion and glia-modulating neural regeneration.md",
@@ -266,7 +265,6 @@
     "音乐剧.md",
     "喉返神经解剖.md",
     "attachments/Pasted image 20260724095330.png",
-    "喉返神经修复.md",
     "神经元溃变.md",
     "attachments/Pasted image 20260723223706.png",
     "attachments/Pasted image 20260723223246.png",
