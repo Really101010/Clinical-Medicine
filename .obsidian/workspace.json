@@ -11,10 +11,14 @@
             "id": "0c78e6745811ece8",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "音乐剧.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "音乐剧"
             }
           }
         ]
@@ -253,6 +257,7 @@
   },
   "active": "0c78e6745811ece8",
   "lastOpenFiles": [
+    "音乐剧.md",
     "喉返神经解剖.md",
     "attachments/Pasted image 20260724095330.png",
     "喉返神经修复.md",
