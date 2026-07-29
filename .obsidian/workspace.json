@@ -22,7 +22,7 @@
             }
           },
           {
-            "id": "5d9dee58120d414d",
+            "id": "84408337abcd3a1e",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -120,7 +120,25 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
+      },
+      {
+        "id": "64358cfcd5095976",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9433c47b4de3a740",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "attachments/喉返神经修复/Characteristics of Nerve Injury, Regeneration, and Vocal Fold Movement After Recurrent Laryngeal Nerve Electrocautery Injury.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "Characteristics of Nerve Injury, Regeneration, and Vocal Fold Movement After Recurrent Laryngeal Nerve Electrocautery Injury"
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -354,13 +372,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8c08f40d3de54274",
+  "active": "45020a9552123bbf",
   "lastOpenFiles": [
-    "喉肌电图.md",
+    "attachments/喉返神经修复/Characteristics of Nerve Injury, Regeneration, and Vocal Fold Movement After Recurrent Laryngeal Nerve Electrocautery Injury.pdf",
+    "造模-兔子.md",
     "喉返神经修复.md",
     "取材-大鼠.md",
+    "喉肌电图.md",
     "造模-大鼠.md",
-    "造模-兔子.md",
     "attachments/Pasted image 20260729123018.png",
     "attachments/喉返神经修复/The Laryngoscope - 2009 - Shiotani - Modulation of Myosin Heavy Chains in Rat Laryngeal Muscle.pdf",
     "喉返神经解剖.md",
@@ -369,7 +388,6 @@
     "Berry 韧带.md",
     "喉返神经.md",
     "Mechano-bioactive hydrogel bioelectronics for mechanical-electrical-bioenergetic conversion and glia-modulating neural regeneration.md",
-    "attachments/喉返神经修复/Characteristics of Nerve Injury, Regeneration, and Vocal Fold Movement After Recurrent Laryngeal Nerve Electrocautery Injury.pdf",
     "attachments/喉返神经修复/PC12-压电.pdf",
     "机械应力.md",
     "神经导管.md",
@@ -401,7 +419,6 @@
     "diary/NOTES/2026-07-29 Wed.md",
     "diary/NOTES/2026-07-28 Tue.md",
     "diary/NOTES/2026-07-23 Thu.md",
-    "diary/NOTES/2026-08-01 Sat.md",
     "未命名.canvas"
   ]
 }
