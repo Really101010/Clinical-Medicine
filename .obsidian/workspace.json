@@ -119,25 +119,6 @@
               "title": "喉内肌解剖"
             }
           }
-        ],
-        "currentTab": 4
-      },
-      {
-        "id": "64358cfcd5095976",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "9433c47b4de3a740",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "attachments/喉返神经修复/Characteristics of Nerve Injury, Regeneration, and Vocal Fold Movement After Recurrent Laryngeal Nerve Electrocautery Injury.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "Characteristics of Nerve Injury, Regeneration, and Vocal Fold Movement After Recurrent Laryngeal Nerve Electrocautery Injury"
-            }
-          }
         ]
       }
     ],
@@ -372,10 +353,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "45020a9552123bbf",
+  "active": "b4d430bbc046d7c7",
   "lastOpenFiles": [
-    "attachments/喉返神经修复/Characteristics of Nerve Injury, Regeneration, and Vocal Fold Movement After Recurrent Laryngeal Nerve Electrocautery Injury.pdf",
     "造模-兔子.md",
+    "attachments/喉返神经修复/Characteristics of Nerve Injury, Regeneration, and Vocal Fold Movement After Recurrent Laryngeal Nerve Electrocautery Injury.pdf",
     "喉返神经修复.md",
     "取材-大鼠.md",
     "喉肌电图.md",
