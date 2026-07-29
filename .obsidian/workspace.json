@@ -62,39 +62,9 @@
               "icon": "lucide-file",
               "title": "造模-兔子"
             }
-          },
-          {
-            "id": "27e775d74afb0608",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "attachments/喉返神经修复/Characteristics of Nerve Injury, Regeneration, and Vocal Fold Movement After Recurrent Laryngeal Nerve Electrocautery Injury.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "Characteristics of Nerve Injury, Regeneration, and Vocal Fold Movement After Recurrent Laryngeal Nerve Electrocautery Injury"
-            }
           }
         ],
         "currentTab": 2
-      },
-      {
-        "id": "4bc1ebc614a41eb0",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "ff234d49b18c11d1",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "attachments/喉返神经修复/Ultrastructural and Automated Vocal Fold Tracking Study in Recurrent Laryngeal Nerve Injury Models.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "Ultrastructural and Automated Vocal Fold Tracking Study in Recurrent Laryngeal Nerve Injury Models"
-            }
-          }
-        ]
       }
     ],
     "direction": "vertical"
@@ -331,12 +301,14 @@
   "active": "8c08f40d3de54274",
   "lastOpenFiles": [
     "造模-兔子.md",
+    "attachments/喉返神经修复/Characteristics of Nerve Injury, Regeneration, and Vocal Fold Movement After Recurrent Laryngeal Nerve Electrocautery Injury.pdf",
     "造模-大鼠.md",
+    "attachments/Pasted image 20260729171814.png",
+    "attachments/喉返神经修复/局部应用地塞米松在喉返神经损伤后的作用探讨.pdf",
     "attachments/喉返神经修复/Ultrastructural and Automated Vocal Fold Tracking Study in Recurrent Laryngeal Nerve Injury Models.pdf",
     "喉返神经修复.md",
     "attachments/Pasted image 20260729164051.png",
     "attachments/Pasted image 20260729163857.png",
-    "attachments/喉返神经修复/Characteristics of Nerve Injury, Regeneration, and Vocal Fold Movement After Recurrent Laryngeal Nerve Electrocautery Injury.pdf",
     "喉内肌解剖.md",
     "喉返神经解剖.md",
     "取材-大鼠.md",
@@ -358,13 +330,11 @@
     "Berry 韧带.md",
     "喉返神经.md",
     "Mechano-bioactive hydrogel bioelectronics for mechanical-electrical-bioenergetic conversion and glia-modulating neural regeneration.md",
-    "attachments/喉返神经修复/PC12-压电.pdf",
     "机械应力.md",
     "神经导管.md",
     "纤维化.md",
     "attachments/Pasted image 20260724110624.png",
     "音乐剧.md",
-    "attachments/Pasted image 20260724095330.png",
     "神经元溃变.md",
     "SCI修复.md",
     "神经再生.md",
