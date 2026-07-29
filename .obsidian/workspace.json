@@ -22,6 +22,20 @@
             }
           },
           {
+            "id": "43b7064c730e6cf2",
+            "type": "leaf",
+            "state": {
+              "type": "webviewer",
+              "state": {
+                "url": "https://pubmed.ncbi.nlm.nih.gov/42399180/",
+                "title": "Characteristics of Nerve Injury, Regeneration, and Vocal Fold Movement After Recurrent Laryngeal Nerve Electrocautery Injury - PubMed",
+                "mode": "webview"
+              },
+              "icon": "globe-2",
+              "title": "Characteristics of Nerve Injury, Regeneration, and Vocal Fold Movement After Recurrent Laryngeal Nerve Electrocautery Injury - PubMed"
+            }
+          },
+          {
             "id": "ee188a1b2c221385",
             "type": "leaf",
             "state": {
@@ -284,11 +298,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8c08f40d3de54274",
+  "active": "ee188a1b2c221385",
   "lastOpenFiles": [
     "喉返神经修复.md",
-    "造模-大鼠.md",
     "造模-兔子.md",
+    "造模-大鼠.md",
     "attachments/喉返神经修复/The Laryngoscope - 2009 - Shiotani - Modulation of Myosin Heavy Chains in Rat Laryngeal Muscle.pdf",
     "取材-大鼠.md",
     "attachments/喉返神经修复/局部应用地塞米松在喉返神经损伤后的作用探讨.pdf",
