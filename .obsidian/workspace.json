@@ -105,8 +105,7 @@
               "title": "喉内肌解剖"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -340,11 +339,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8c08f40d3de54274",
+  "active": "b4d430bbc046d7c7",
   "lastOpenFiles": [
+    "造模-大鼠.md",
+    "attachments/Pasted image 20260729153434.png",
     "喉返神经修复.md",
     "取材-大鼠.md",
-    "造模-大鼠.md",
     "喉肌电图.md",
     "attachments/喉返神经修复/Evaluation of PRP injection after RLN injury in rats.pdf",
     "造模-兔子.md",
@@ -375,7 +375,6 @@
     "神经元溃变.md",
     "attachments/Pasted image 20260723223706.png",
     "attachments/Pasted image 20260723223246.png",
-    "attachments/Pasted image 20260723222758.png",
     "attachments/喉返神经修复/The Laryngoscope - 2016 - Chitose - Recurrent laryngeal nerve regeneration using an oriented collagen scaffold containing.pdf",
     "attachments/喉返神经修复/小鼠 喉返神经修复.pdf",
     "SCI修复.md",
