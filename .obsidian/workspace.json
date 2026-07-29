@@ -22,20 +22,6 @@
             }
           },
           {
-            "id": "84408337abcd3a1e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "喉肌电图.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "喉肌电图"
-            }
-          },
-          {
             "id": "bc9ddec5b703c227",
             "type": "leaf",
             "state": {
@@ -120,7 +106,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -354,18 +340,23 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "45020a9552123bbf",
+  "active": "8c08f40d3de54274",
   "lastOpenFiles": [
     "喉返神经修复.md",
+    "取材-大鼠.md",
+    "造模-大鼠.md",
+    "喉肌电图.md",
+    "attachments/喉返神经修复/Evaluation of PRP injection after RLN injury in rats.pdf",
     "造模-兔子.md",
+    "attachments/Pasted image 20260729145145.png",
+    "attachments/Pasted image 20260729144933.png",
+    "attachments/Pasted image 20260729144716.png",
+    "attachments/Pasted image 20260729143537.png",
     "attachments/喉返神经修复/PCL Nerve Guide Conduit Coated_translated.pdf.pdf",
     "attachments/喉返神经修复/PCL Nerve Guide Conduit Coated_translated_out.trans",
-    "造模-大鼠.md",
     "attachments/喉返神经修复/PCL Nerve Guide Conduit Coated.pdf",
     "attachments/喉返神经修复/鼠单侧喉返神经横断后喉内肌和喉返神经.pdf",
-    "取材-大鼠.md",
     "attachments/喉返神经修复/Characteristics of Nerve Injury, Regeneration, and Vocal Fold Movement After Recurrent Laryngeal Nerve Electrocautery Injury.pdf",
-    "喉肌电图.md",
     "attachments/Pasted image 20260729123018.png",
     "attachments/喉返神经修复/The Laryngoscope - 2009 - Shiotani - Modulation of Myosin Heavy Chains in Rat Laryngeal Muscle.pdf",
     "喉返神经解剖.md",
@@ -385,11 +376,6 @@
     "attachments/Pasted image 20260723223706.png",
     "attachments/Pasted image 20260723223246.png",
     "attachments/Pasted image 20260723222758.png",
-    "attachments/Pasted image 20260723222428.png",
-    "attachments/Pasted image 20260723220107.png",
-    "attachments/Pasted image 20260723214808.png",
-    "attachments/喉返神经修复/Evaluation of PRP injection after RLN injury in rats.pdf",
-    "attachments/Pasted image 20260723211551.png",
     "attachments/喉返神经修复/The Laryngoscope - 2016 - Chitose - Recurrent laryngeal nerve regeneration using an oriented collagen scaffold containing.pdf",
     "attachments/喉返神经修复/小鼠 喉返神经修复.pdf",
     "SCI修复.md",
