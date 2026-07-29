@@ -119,7 +119,8 @@
               "title": "喉内肌解剖"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -353,12 +354,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b4d430bbc046d7c7",
+  "active": "45020a9552123bbf",
   "lastOpenFiles": [
-    "attachments/喉返神经修复/鼠单侧喉返神经横断后喉内肌和喉返神经.pdf",
     "造模-大鼠.md",
-    "取材-大鼠.md",
+    "attachments/喉返神经修复/PCL Nerve Guide Conduit Coated.pdf",
     "喉返神经修复.md",
+    "attachments/喉返神经修复/鼠单侧喉返神经横断后喉内肌和喉返神经.pdf",
+    "取材-大鼠.md",
     "造模-兔子.md",
     "attachments/喉返神经修复/Characteristics of Nerve Injury, Regeneration, and Vocal Fold Movement After Recurrent Laryngeal Nerve Electrocautery Injury.pdf",
     "喉肌电图.md",
@@ -391,9 +393,7 @@
     "attachments/喉返神经修复/小鼠 喉返神经修复.pdf.crdownload",
     "attachments/喉返神经修复/Evaluation of PRP injection after RLN injury in rats.pdf.crdownload",
     "SCI修复.md",
-    "attachments/喉返神经修复/1 （Biomaterials 2026）：核心主题为磁电（Magnetoelectric） 水凝胶喷雾.pdf",
     "神经再生.md",
-    "attachments/喉返神经修复/魏 - 4 （Acta Biomaterialia 2026）：核心主题为压电（Piezoelectric）+ 磁-机-电级联系统.pdf",
     "diary/NOTES/腹腔防粘连材料后续安排.md",
     "diary/NOTES/2026-07-27 Mon.md",
     "diary/NOTES/2026-07-30 Thu.md",
