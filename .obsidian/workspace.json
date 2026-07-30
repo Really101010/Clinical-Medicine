@@ -15,8 +15,8 @@
               "state": {
                 "file": "attachments/喉返神经修复/文献分享26.7.30.pdf",
                 "page": 2,
-                "left": 4,
-                "top": 587,
+                "left": 8,
+                "top": 311,
                 "zoom": 1.6
               },
               "icon": "lucide-file-text",
@@ -57,8 +57,7 @@
               "title": "神经再生"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -297,9 +296,9 @@
   },
   "active": "8a8dd5a65711cfca",
   "lastOpenFiles": [
-    "神经再生.md",
     "周围神经修复.md",
     "attachments/喉返神经修复/文献分享26.7.30.pdf",
+    "神经再生.md",
     "神经损伤.md",
     "神经导管.md",
     "diary/NOTES/2026-08-18 Tue.md",
