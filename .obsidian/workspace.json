@@ -4,75 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "595fd56239d72360",
+        "id": "5fcb5d0dae930738",
         "type": "tabs",
         "children": [
           {
-            "id": "b4d430bbc046d7c7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "diary/NOTES/2026-07-27 Mon.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2026-07-27 Mon"
-            }
-          },
-          {
-            "id": "9ae542eb27e80690",
+            "id": "8a8dd5a65711cfca",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
-                "file": "attachments/喉返神经修复/Ultrastructural and Automated Vocal Fold Tracking Study in Recurrent Laryngeal Nerve Injury Models.pdf"
+                "file": "attachments/喉返神经修复/文献分享26.7.30.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "Ultrastructural and Automated Vocal Fold Tracking Study in Recurrent Laryngeal Nerve Injury Models"
-            }
-          },
-          {
-            "id": "d415a20e440cda7f",
-            "type": "leaf",
-            "state": {
-              "type": "webviewer",
-              "state": {
-                "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6171598/",
-                "title": "正在检查您的浏览器 - reCAPTCHA",
-                "mode": "webview"
-              },
-              "icon": "globe-2",
-              "title": "正在检查您的浏览器 - reCAPTCHA"
-            }
-          },
-          {
-            "id": "ef220456b3cdbeaf",
-            "type": "leaf",
-            "state": {
-              "type": "webviewer",
-              "state": {
-                "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9474804/#Sec2",
-                "title": "Platelet-rich plasma loaded nerve guidance conduit as implantable biocompatible materials for recurrent laryngeal nerve regeneration - PMC",
-                "mode": "webview"
-              },
-              "icon": "globe-2",
-              "title": "Platelet-rich plasma loaded nerve guidance conduit as implantable biocompatible materials for recurrent laryngeal nerve regeneration - PMC"
-            }
-          },
-          {
-            "id": "8c08f40d3de54274",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "造模-大鼠.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "造模-大鼠"
+              "title": "文献分享26.7.30"
             }
           }
         ]
@@ -133,8 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "7d38cd1fdadcd175",
@@ -290,7 +233,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 440.5
+    "width": 440.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -308,9 +252,22 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b4d430bbc046d7c7",
+  "active": "8a8dd5a65711cfca",
   "lastOpenFiles": [
+    "神经导管.md",
+    "diary/NOTES/2026-08-18 Tue.md",
+    "造模-大鼠.md",
+    "diary/NOTES/2026-08-01 Sat.md",
+    "diary/NOTES/2026-08-17 Mon.md",
+    "diary/NOTES/2026-07-31 Fri.md",
+    "diary/NOTES/2026-08-16 Sun.md",
+    "diary/NOTES/2026-07-30 Thu.md",
+    "diary/NOTES/2026-08-15 Sat.md",
+    "diary/NOTES/2026-07-29 Wed.md",
+    "diary/NOTES/2026-08-14 Fri.md",
+    "diary/NOTES/2026-07-28 Tue.md",
     "diary/NOTES/2026-08-13 Thu.md",
+    "diary/NOTES/2026-07-27 Mon.md",
     "diary/NOTES/2026-08-12 Wed.md",
     "diary/NOTES/2026-07-26 Sun.md",
     "diary/NOTES/2026-08-11 Tue.md",
@@ -321,7 +278,6 @@
     "造模-兔子.md",
     "attachments/喉返神经修复/Ultrastructural and Automated Vocal Fold Tracking Study in Recurrent Laryngeal Nerve Injury Models.pdf",
     "喉返神经修复.md",
-    "造模-大鼠.md",
     "attachments/喉返神经修复/PCL Nerve Guide Conduit Coated_translated.pdf.pdf",
     "attachments/喉返神经修复/Characteristics of Nerve Injury, Regeneration, and Vocal Fold Movement After Recurrent Laryngeal Nerve Electrocautery Injury.pdf",
     "attachments/喉返神经修复/The Laryngoscope - 2009 - Shiotani - Modulation of Myosin Heavy Chains in Rat Laryngeal Muscle.pdf",
@@ -336,7 +292,6 @@
     "attachments/喉返神经修复/喉返神经损伤后神经肌肉变化及再生特点研究_白玉.pdf",
     "attachments/喉返神经修复/鼠单侧喉返神经横断后喉内肌和喉返神经.pdf",
     "attachments/Pasted image 20260729153434.png",
-    "喉肌电图.md",
     "attachments/喉返神经修复/Evaluation of PRP injection after RLN injury in rats.pdf",
     "attachments/Pasted image 20260729145145.png",
     "attachments/Pasted image 20260729144933.png",
@@ -345,17 +300,6 @@
     "attachments/喉返神经修复/PCL Nerve Guide Conduit Coated_translated_out.trans",
     "attachments/喉返神经修复/PCL Nerve Guide Conduit Coated.pdf",
     "attachments/Pasted image 20260729123018.png",
-    "喉的中枢调控.md",
-    "Berry 韧带.md",
-    "喉返神经.md",
-    "Mechano-bioactive hydrogel bioelectronics for mechanical-electrical-bioenergetic conversion and glia-modulating neural regeneration.md",
-    "机械应力.md",
-    "神经导管.md",
-    "纤维化.md",
-    "音乐剧.md",
-    "神经元溃变.md",
-    "SCI修复.md",
-    "神经再生.md",
     "未命名.canvas"
   ]
 }
