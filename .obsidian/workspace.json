@@ -14,10 +14,10 @@
               "type": "pdf",
               "state": {
                 "file": "attachments/喉返神经修复/文献分享26.7.30.pdf",
-                "page": 1,
-                "left": -4,
-                "top": 351,
-                "zoom": 1.29
+                "page": 2,
+                "left": 4,
+                "top": 587,
+                "zoom": 1.6
               },
               "icon": "lucide-file-text",
               "title": "文献分享26.7.30"
@@ -295,11 +295,12 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "6dd94b21d42498ba",
+  "active": "8a8dd5a65711cfca",
   "lastOpenFiles": [
-    "神经损伤.md",
-    "attachments/喉返神经修复/文献分享26.7.30.pdf",
+    "神经再生.md",
     "周围神经修复.md",
+    "attachments/喉返神经修复/文献分享26.7.30.pdf",
+    "神经损伤.md",
     "神经导管.md",
     "diary/NOTES/2026-08-18 Tue.md",
     "造模-大鼠.md",
@@ -323,11 +324,9 @@
     "diary/NOTES/2026-07-21 Tue.md",
     "造模-兔子.md",
     "attachments/喉返神经修复/Ultrastructural and Automated Vocal Fold Tracking Study in Recurrent Laryngeal Nerve Injury Models.pdf",
-    "喉返神经修复.md",
     "attachments/喉返神经修复/PCL Nerve Guide Conduit Coated_translated.pdf.pdf",
     "attachments/喉返神经修复/Characteristics of Nerve Injury, Regeneration, and Vocal Fold Movement After Recurrent Laryngeal Nerve Electrocautery Injury.pdf",
     "attachments/喉返神经修复/The Laryngoscope - 2009 - Shiotani - Modulation of Myosin Heavy Chains in Rat Laryngeal Muscle.pdf",
-    "取材-大鼠.md",
     "attachments/喉返神经修复/局部应用地塞米松在喉返神经损伤后的作用探讨.pdf",
     "attachments/Pasted image 20260729173225.png",
     "attachments/Pasted image 20260729171814.png",
