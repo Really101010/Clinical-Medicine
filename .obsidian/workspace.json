@@ -13,40 +13,52 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "喉返神经修复.md",
+                "file": "diary/NOTES/2026-07-27 Mon.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "喉返神经修复"
+              "title": "2026-07-27 Mon"
             }
           },
           {
-            "id": "43b7064c730e6cf2",
+            "id": "9ae542eb27e80690",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "attachments/喉返神经修复/Ultrastructural and Automated Vocal Fold Tracking Study in Recurrent Laryngeal Nerve Injury Models.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "Ultrastructural and Automated Vocal Fold Tracking Study in Recurrent Laryngeal Nerve Injury Models"
+            }
+          },
+          {
+            "id": "d415a20e440cda7f",
             "type": "leaf",
             "state": {
               "type": "webviewer",
               "state": {
-                "url": "https://pubmed.ncbi.nlm.nih.gov/42399180/",
-                "title": "Characteristics of Nerve Injury, Regeneration, and Vocal Fold Movement After Recurrent Laryngeal Nerve Electrocautery Injury - PubMed",
+                "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6171598/",
+                "title": "正在检查您的浏览器 - reCAPTCHA",
                 "mode": "webview"
               },
               "icon": "globe-2",
-              "title": "Characteristics of Nerve Injury, Regeneration, and Vocal Fold Movement After Recurrent Laryngeal Nerve Electrocautery Injury - PubMed"
+              "title": "正在检查您的浏览器 - reCAPTCHA"
             }
           },
           {
-            "id": "ee188a1b2c221385",
+            "id": "ef220456b3cdbeaf",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "webviewer",
               "state": {
-                "file": "造模-兔子.md",
-                "mode": "source",
-                "source": false
+                "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9474804/#Sec2",
+                "title": "Platelet-rich plasma loaded nerve guidance conduit as implantable biocompatible materials for recurrent laryngeal nerve regeneration - PMC",
+                "mode": "webview"
               },
-              "icon": "lucide-file",
-              "title": "造模-兔子"
+              "icon": "globe-2",
+              "title": "Platelet-rich plasma loaded nerve guidance conduit as implantable biocompatible materials for recurrent laryngeal nerve regeneration - PMC"
             }
           },
           {
@@ -63,8 +75,7 @@
               "title": "造模-大鼠"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -275,12 +286,11 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 10
       }
     ],
     "direction": "horizontal",
-    "width": 440.5,
-    "collapsed": true
+    "width": 440.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -298,18 +308,27 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ee188a1b2c221385",
+  "active": "b4d430bbc046d7c7",
   "lastOpenFiles": [
-    "喉返神经修复.md",
+    "diary/NOTES/2026-08-13 Thu.md",
+    "diary/NOTES/2026-08-12 Wed.md",
+    "diary/NOTES/2026-07-26 Sun.md",
+    "diary/NOTES/2026-08-11 Tue.md",
+    "diary/NOTES/2026-07-25 Sat.md",
+    "diary/NOTES/2026-08-10 Mon.md",
+    "diary/NOTES/2026-07-24 Fri.md",
+    "diary/NOTES/2026-07-21 Tue.md",
     "造模-兔子.md",
+    "attachments/喉返神经修复/Ultrastructural and Automated Vocal Fold Tracking Study in Recurrent Laryngeal Nerve Injury Models.pdf",
+    "喉返神经修复.md",
     "造模-大鼠.md",
+    "attachments/喉返神经修复/PCL Nerve Guide Conduit Coated_translated.pdf.pdf",
+    "attachments/喉返神经修复/Characteristics of Nerve Injury, Regeneration, and Vocal Fold Movement After Recurrent Laryngeal Nerve Electrocautery Injury.pdf",
     "attachments/喉返神经修复/The Laryngoscope - 2009 - Shiotani - Modulation of Myosin Heavy Chains in Rat Laryngeal Muscle.pdf",
     "取材-大鼠.md",
     "attachments/喉返神经修复/局部应用地塞米松在喉返神经损伤后的作用探讨.pdf",
-    "attachments/喉返神经修复/Ultrastructural and Automated Vocal Fold Tracking Study in Recurrent Laryngeal Nerve Injury Models.pdf",
     "喉返神经解剖.md",
     "attachments/Pasted image 20260729173225.png",
-    "attachments/喉返神经修复/Characteristics of Nerve Injury, Regeneration, and Vocal Fold Movement After Recurrent Laryngeal Nerve Electrocautery Injury.pdf",
     "attachments/Pasted image 20260729171814.png",
     "attachments/Pasted image 20260729164051.png",
     "attachments/Pasted image 20260729163857.png",
@@ -323,7 +342,6 @@
     "attachments/Pasted image 20260729144933.png",
     "attachments/Pasted image 20260729144716.png",
     "attachments/Pasted image 20260729143537.png",
-    "attachments/喉返神经修复/PCL Nerve Guide Conduit Coated_translated.pdf.pdf",
     "attachments/喉返神经修复/PCL Nerve Guide Conduit Coated_translated_out.trans",
     "attachments/喉返神经修复/PCL Nerve Guide Conduit Coated.pdf",
     "attachments/Pasted image 20260729123018.png",
@@ -338,13 +356,6 @@
     "神经元溃变.md",
     "SCI修复.md",
     "神经再生.md",
-    "diary/NOTES/腹腔防粘连材料后续安排.md",
-    "diary/NOTES/2026-07-27 Mon.md",
-    "diary/NOTES/2026-07-30 Thu.md",
-    "diary/NOTES/2026-07-31 Fri.md",
-    "diary/NOTES/2026-07-29 Wed.md",
-    "diary/NOTES/2026-07-28 Tue.md",
-    "diary/NOTES/2026-07-23 Thu.md",
     "未命名.canvas"
   ]
 }
