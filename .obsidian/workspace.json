@@ -15,9 +15,9 @@
               "type": "pdf",
               "state": {
                 "file": "attachments/喉返神经修复/文献分享26.7.30.pdf",
-                "page": 5,
-                "left": 115,
-                "top": 337,
+                "page": 6,
+                "left": -1,
+                "top": 343,
                 "zoom": 1.56
               },
               "icon": "lucide-file-text",
@@ -286,6 +286,7 @@
   "lastOpenFiles": [
     "周围神经修复.md",
     "attachments/喉返神经修复/文献分享26.7.30.pdf",
+    "attachments/Pasted image 20260801175954.png",
     "压电材料.md",
     "磁电材料.md",
     "神经导管.md",
@@ -328,7 +329,6 @@
     "attachments/Pasted image 20260729144716.png",
     "attachments/Pasted image 20260729143537.png",
     "attachments/喉返神经修复/PCL Nerve Guide Conduit Coated_translated_out.trans",
-    "attachments/Pasted image 20260729123018.png",
     "未命名.canvas"
   ]
 }
