@@ -6,6 +6,7 @@
       {
         "id": "5fcb5d0dae930738",
         "type": "tabs",
+        "dimension": 52.15311004784689,
         "children": [
           {
             "id": "8a8dd5a65711cfca",
@@ -14,9 +15,9 @@
               "type": "pdf",
               "state": {
                 "file": "attachments/喉返神经修复/文献分享26.7.30.pdf",
-                "page": 3,
+                "page": 4,
                 "left": 29,
-                "top": 31,
+                "top": 530,
                 "zoom": 1.7
               },
               "icon": "lucide-file-text",
@@ -28,6 +29,7 @@
       {
         "id": "c4098bc68048f90f",
         "type": "tabs",
+        "dimension": 47.84688995215311,
         "children": [
           {
             "id": "fbb27b8228688d3c",
