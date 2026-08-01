@@ -16,8 +16,8 @@
               "state": {
                 "file": "attachments/喉返神经修复/文献分享26.7.30.pdf",
                 "page": 5,
-                "left": 112,
-                "top": 317,
+                "left": 115,
+                "top": 337,
                 "zoom": 1.56
               },
               "icon": "lucide-file-text",
@@ -282,10 +282,10 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "fbb27b8228688d3c",
+  "active": "8a8dd5a65711cfca",
   "lastOpenFiles": [
-    "attachments/喉返神经修复/文献分享26.7.30.pdf",
     "周围神经修复.md",
+    "attachments/喉返神经修复/文献分享26.7.30.pdf",
     "压电材料.md",
     "磁电材料.md",
     "神经导管.md",
