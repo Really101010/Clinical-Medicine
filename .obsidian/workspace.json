@@ -14,15 +14,21 @@
               "type": "pdf",
               "state": {
                 "file": "attachments/喉返神经修复/文献分享26.7.30.pdf",
-                "page": 12,
-                "left": -124,
-                "top": 754,
-                "zoom": 1.34
+                "page": 11,
+                "left": 18,
+                "top": 588,
+                "zoom": 1.95
               },
               "icon": "lucide-file-text",
               "title": "文献分享26.7.30"
             }
-          },
+          }
+        ]
+      },
+      {
+        "id": "391c2284593d15df",
+        "type": "tabs",
+        "children": [
           {
             "id": "fbb27b8228688d3c",
             "type": "leaf",
