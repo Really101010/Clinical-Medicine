@@ -15,8 +15,10 @@
               "type": "pdf",
               "state": {
                 "file": "attachments/喉返神经修复/文献分享26.7.30.pdf",
-                "page": 1,
-                "zoom": 1
+                "page": 6,
+                "left": 247,
+                "top": 349,
+                "zoom": 1.67
               },
               "icon": "lucide-file-text",
               "title": "文献分享26.7.30"
@@ -284,6 +286,8 @@
   "lastOpenFiles": [
     "周围神经修复.md",
     "attachments/喉返神经修复/文献分享26.7.30.pdf",
+    "attachments/Pasted image 20260802155047.png",
+    "attachments/Pasted image 20260802154521.png",
     "attachments/Pasted image 20260801175954.png",
     "压电材料.md",
     "磁电材料.md",
@@ -324,8 +328,6 @@
     "attachments/喉返神经修复/Evaluation of PRP injection after RLN injury in rats.pdf",
     "attachments/Pasted image 20260729145145.png",
     "attachments/Pasted image 20260729144933.png",
-    "attachments/Pasted image 20260729144716.png",
-    "attachments/Pasted image 20260729143537.png",
     "attachments/喉返神经修复/PCL Nerve Guide Conduit Coated_translated_out.trans",
     "未命名.canvas"
   ]
