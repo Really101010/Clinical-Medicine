@@ -34,10 +34,10 @@
               "type": "pdf",
               "state": {
                 "file": "attachments/喉返神经修复/文献分享26.7.30.pdf",
-                "page": 1,
-                "left": -13,
-                "top": 797,
-                "zoom": 0.9
+                "page": 2,
+                "left": 286,
+                "top": 349,
+                "zoom": 1.9
               },
               "icon": "lucide-file-text",
               "title": "文献分享26.7.30"
@@ -282,9 +282,10 @@
   },
   "active": "2ae6d62f20fe6ce9",
   "lastOpenFiles": [
+    "attachments/Pasted image 20260803181542.png",
     "attachments/喉返神经修复/文献分享26.7.30.pdf",
-    "attachments/喉返神经修复/Supplementary material.for 文献分享26.7.30.docx",
     "周围神经修复.md",
+    "attachments/喉返神经修复/Supplementary material.for 文献分享26.7.30.docx",
     "attachments/Pasted image 20260803093107.png",
     "attachments/Pasted image 20260803092640.png",
     "attachments/Pasted image 20260802184358.png",
@@ -327,7 +328,6 @@
     "attachments/喉返神经修复/喉返神经损伤后神经肌肉变化及再生特点研究_白玉.pdf",
     "attachments/喉返神经修复/鼠单侧喉返神经横断后喉内肌和喉返神经.pdf",
     "attachments/喉返神经修复/Evaluation of PRP injection after RLN injury in rats.pdf",
-    "attachments/喉返神经修复/PCL Nerve Guide Conduit Coated_translated_out.trans",
     "未命名.canvas"
   ]
 }
