@@ -20,13 +20,7 @@
               "icon": "lucide-file",
               "title": "周围神经修复"
             }
-          }
-        ]
-      },
-      {
-        "id": "412a6c247f1c8380",
-        "type": "tabs",
-        "children": [
+          },
           {
             "id": "486ccaecc3d830ce",
             "type": "leaf",
@@ -34,16 +28,17 @@
               "type": "pdf",
               "state": {
                 "file": "attachments/喉返神经修复/文献分享26.7.30.pdf",
-                "page": 5,
-                "left": 226,
-                "top": 9,
+                "page": 9,
+                "left": -79,
+                "top": 454,
                 "zoom": 1.5
               },
               "icon": "lucide-file-text",
               "title": "文献分享26.7.30"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
