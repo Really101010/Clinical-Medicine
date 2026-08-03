@@ -11,14 +11,14 @@
             "id": "9f4f7a1c16ee938e",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "attachments/喉返神经修复/文献分享26.7.30.pdf",
-                "page": 1,
-                "zoom": 1
+                "file": "周围神经修复.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "文献分享26.7.30"
+              "icon": "lucide-file",
+              "title": "周围神经修复"
             }
           }
         ]
@@ -260,8 +260,9 @@
   },
   "active": "9f4f7a1c16ee938e",
   "lastOpenFiles": [
-    "周围神经修复.md",
+    "attachments/Pasted image 20260803092640.png",
     "attachments/喉返神经修复/文献分享26.7.30.pdf",
+    "周围神经修复.md",
     "attachments/Pasted image 20260802184358.png",
     "attachments/Pasted image 20260802175017.png",
     "attachments/Pasted image 20260802174854.png",
