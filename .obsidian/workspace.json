@@ -34,10 +34,10 @@
               "type": "pdf",
               "state": {
                 "file": "attachments/喉返神经修复/文献分享26.7.30.pdf",
-                "page": 2,
-                "left": 286,
-                "top": 349,
-                "zoom": 1.9
+                "page": 5,
+                "left": 226,
+                "top": 9,
+                "zoom": 1.5
               },
               "icon": "lucide-file-text",
               "title": "文献分享26.7.30"
@@ -280,11 +280,11 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "2ae6d62f20fe6ce9",
+  "active": "486ccaecc3d830ce",
   "lastOpenFiles": [
-    "attachments/Pasted image 20260803181542.png",
-    "attachments/喉返神经修复/文献分享26.7.30.pdf",
     "周围神经修复.md",
+    "attachments/喉返神经修复/文献分享26.7.30.pdf",
+    "attachments/Pasted image 20260803181542.png",
     "attachments/喉返神经修复/Supplementary material.for 文献分享26.7.30.docx",
     "attachments/Pasted image 20260803093107.png",
     "attachments/Pasted image 20260803092640.png",
@@ -295,7 +295,6 @@
     "attachments/Pasted image 20260802162937.png",
     "attachments/Pasted image 20260802155047.png",
     "attachments/Pasted image 20260802154521.png",
-    "attachments/Pasted image 20260801175954.png",
     "压电材料.md",
     "磁电材料.md",
     "神经导管.md",
