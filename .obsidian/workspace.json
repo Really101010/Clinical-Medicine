@@ -11,6 +11,22 @@
             "id": "9f4f7a1c16ee938e",
             "type": "leaf",
             "state": {
+              "type": "pdf",
+              "state": {
+                "file": "attachments/喉返神经修复/文献分享26.7.30.pdf",
+                "page": 3,
+                "left": -9,
+                "top": 784,
+                "zoom": 1.8432626210362928
+              },
+              "icon": "lucide-file-text",
+              "title": "文献分享26.7.30"
+            }
+          },
+          {
+            "id": "2ae6d62f20fe6ce9",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
                 "file": "周围神经修复.md",
@@ -21,7 +37,8 @@
               "title": "周围神经修复"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -232,7 +249,7 @@
             }
           }
         ],
-        "currentTab": 10
+        "currentTab": 8
       }
     ],
     "direction": "horizontal",
@@ -258,12 +275,12 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "9f4f7a1c16ee938e",
+  "active": "2ae6d62f20fe6ce9",
   "lastOpenFiles": [
-    "attachments/Pasted image 20260803093107.png",
-    "attachments/Pasted image 20260803092640.png",
     "attachments/喉返神经修复/文献分享26.7.30.pdf",
     "周围神经修复.md",
+    "attachments/Pasted image 20260803093107.png",
+    "attachments/Pasted image 20260803092640.png",
     "attachments/Pasted image 20260802184358.png",
     "attachments/Pasted image 20260802175017.png",
     "attachments/Pasted image 20260802174854.png",
@@ -301,7 +318,6 @@
     "attachments/喉返神经修复/Characteristics of Nerve Injury, Regeneration, and Vocal Fold Movement After Recurrent Laryngeal Nerve Electrocautery Injury.pdf",
     "attachments/喉返神经修复/The Laryngoscope - 2009 - Shiotani - Modulation of Myosin Heavy Chains in Rat Laryngeal Muscle.pdf",
     "attachments/喉返神经修复/局部应用地塞米松在喉返神经损伤后的作用探讨.pdf",
-    "attachments/Pasted image 20260729173225.png",
     "attachments/喉返神经修复/喉返神经损伤后神经肌肉变化及再生特点研究_白玉.pdf",
     "attachments/喉返神经修复/鼠单侧喉返神经横断后喉内肌和喉返神经.pdf",
     "attachments/喉返神经修复/Evaluation of PRP injection after RLN injury in rats.pdf",
