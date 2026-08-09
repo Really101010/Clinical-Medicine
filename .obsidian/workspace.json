@@ -28,17 +28,16 @@
               "type": "pdf",
               "state": {
                 "file": "attachments/喉返神经修复/文献分享26.7.30.pdf",
-                "page": 9,
+                "page": 4,
                 "left": -79,
-                "top": 454,
+                "top": 52,
                 "zoom": 1.5
               },
               "icon": "lucide-file-text",
               "title": "文献分享26.7.30"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -275,10 +274,10 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "486ccaecc3d830ce",
+  "active": "2ae6d62f20fe6ce9",
   "lastOpenFiles": [
-    "周围神经修复.md",
     "attachments/喉返神经修复/文献分享26.7.30.pdf",
+    "周围神经修复.md",
     "attachments/Pasted image 20260803181542.png",
     "attachments/喉返神经修复/Supplementary material.for 文献分享26.7.30.docx",
     "attachments/Pasted image 20260803093107.png",
