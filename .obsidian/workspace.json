@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "9e73c8e49e8e61ec",
+        "id": "34c50eedce369487",
         "type": "tabs",
         "children": [
           {
-            "id": "044f9a0c6b954be6",
+            "id": "1294cc47b73a3cf1",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "教师节礼物.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "教师节礼物"
             }
           }
         ]
@@ -259,8 +263,12 @@
       "obsidian-local-images-plus:Local Images Plus  0.16.4\r\nLocalize attachments (plugin folder)": false
     }
   },
-  "active": "044f9a0c6b954be6",
+  "active": "1294cc47b73a3cf1",
   "lastOpenFiles": [
+    "教师节礼物.md",
+    "dysphagia.md",
+    "attachments/5ef761bbca63b5f01b3869139439129b_MD5.png",
+    "attachments/9b0b5485318009063aa22ccd31dd815c_MD5.png",
     "attachments/a53f3076b4e7c8e756a83ee7653ea84a_MD5.jpg",
     "腧穴学.md",
     "attachments/Pasted image 20260810095325.png",
@@ -287,16 +295,12 @@
     "6. 化疗药.md",
     "5. 内脏药物.md",
     "4. 心血管系统药.md",
-    "3. 中枢神经系统药物.md",
     "attachments/113892b6ea37067b3d57c21cb832bb0c_MD5.png",
     "attachments/7232c64fc4f01f63e09dd9066b83c3cb_MD5.png",
     "attachments/355ac0676ecaa565db8d3d3ed4894bd5_MD5.png",
     "attachments/8d1f918832268746ebacdbdcd10ce39a_MD5.png",
     "attachments/f256789ca41e70e3cc317270d7124473_MD5.png",
     "attachments/fa43f899c031239e72018c37a0508ff5_MD5.jpg",
-    "attachments/6d9f7718d14e700ba81e12e511a55080_MD5.jpg",
-    "attachments/63c42a2982463a09961d54429d20b017_MD5.jpg",
-    "attachments/679b0915163406a2ef361b354a900ad0_MD5.jpg",
     "attachments/喉返神经修复/文献分享26.7.30.pdf",
     "attachments/喉返神经修复/Supplementary material.for 文献分享26.7.30.docx",
     "attachments/喉返神经修复/Ultrastructural and Automated Vocal Fold Tracking Study in Recurrent Laryngeal Nerve Injury Models.pdf",
