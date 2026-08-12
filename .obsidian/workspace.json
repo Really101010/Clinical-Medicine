@@ -20,23 +20,8 @@
               "icon": "lucide-file",
               "title": "喉返神经修复"
             }
-          },
-          {
-            "id": "d7b6acb71fc6e3ad",
-            "type": "leaf",
-            "state": {
-              "type": "webviewer",
-              "state": {
-                "url": "https://onlinelibrary.wiley.com/doi/10.1002/lary.20293",
-                "title": "Observations of recurrent laryngeal nerve injury and recovery using a rat model - Tessema - 2009 - The Laryngoscope - Wiley Online Library",
-                "mode": "blank"
-              },
-              "icon": "globe-2",
-              "title": "Observations of recurrent laryngeal nerve injury and recovery using a rat model - Tessema - 2009 - The Laryngoscope - Wiley Online Library"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -279,7 +264,7 @@
       "obsidian-local-images-plus:Local Images Plus  0.16.4\r\nLocalize attachments (plugin folder)": false
     }
   },
-  "active": "d7b6acb71fc6e3ad",
+  "active": "1294cc47b73a3cf1",
   "lastOpenFiles": [
     "喉返神经修复.md",
     "attachments/喉返神经修复/Ultrastructural and Automated Vocal Fold Tracking Study in Recurrent Laryngeal Nerve Injury Models.pdf",
