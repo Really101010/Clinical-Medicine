@@ -14,8 +14,10 @@
               "type": "pdf",
               "state": {
                 "file": "attachments/喉返神经修复/Rochelle salt-based biodegradable piezoelectric devices for nerve regeneration and intestinal motility monitoring.pdf",
-                "page": 1,
-                "zoom": 1
+                "page": 7,
+                "left": 4,
+                "top": 199,
+                "zoom": 1.12
               },
               "icon": "lucide-file-text",
               "title": "Rochelle salt-based biodegradable piezoelectric devices for nerve regeneration and intestinal motility monitoring"
@@ -284,12 +286,12 @@
       "obsidian-local-images-plus:Local Images Plus  0.16.4\r\nLocalize attachments (plugin folder)": false
     }
   },
-  "active": "36dc85decfcfc806",
+  "active": "1294cc47b73a3cf1",
   "lastOpenFiles": [
+    "attachments/喉返神经修复/Rochelle salt-based biodegradable piezoelectric devices for nerve regeneration and intestinal motility monitoring.pdf",
     "周围神经修复.md",
     "压电材料.md",
     "教师节礼物.md",
-    "attachments/喉返神经修复/Rochelle salt-based biodegradable piezoelectric devices for nerve regeneration and intestinal motility monitoring.pdf",
     "dysphagia.md",
     "attachments/5ef761bbca63b5f01b3869139439129b_MD5.png",
     "attachments/9b0b5485318009063aa22ccd31dd815c_MD5.png",
@@ -316,7 +318,6 @@
     "体外抗炎实验.md",
     "diary/NOTES/2026-08-09 Sun.md",
     "药理学大纲.md",
-    "6. 化疗药.md",
     "attachments/113892b6ea37067b3d57c21cb832bb0c_MD5.png",
     "attachments/7232c64fc4f01f63e09dd9066b83c3cb_MD5.png",
     "attachments/355ac0676ecaa565db8d3d3ed4894bd5_MD5.png",
