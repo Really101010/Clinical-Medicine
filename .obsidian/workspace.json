@@ -4,28 +4,6 @@
     "type": "split",
     "children": [
       {
-        "id": "7498bb8ccfa39d0e",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "6f302799d288e4fe",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "attachments/喉返神经修复/Ultrastructural and Automated Vocal Fold Tracking Study in Recurrent Laryngeal Nerve Injury Models.pdf",
-                "page": 5,
-                "left": -6,
-                "top": 47,
-                "zoom": 0.9
-              },
-              "icon": "lucide-file-text",
-              "title": "Ultrastructural and Automated Vocal Fold Tracking Study in Recurrent Laryngeal Nerve Injury Models"
-            }
-          }
-        ]
-      },
-      {
         "id": "34c50eedce369487",
         "type": "tabs",
         "children": [
@@ -35,26 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "造模-兔子.md",
+                "file": "喉返神经修复.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "造模-兔子"
+              "title": "喉返神经修复"
             }
           },
           {
-            "id": "c9ea6adb07bd87d6",
+            "id": "d7b6acb71fc6e3ad",
             "type": "leaf",
             "state": {
               "type": "webviewer",
               "state": {
-                "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6171598/",
-                "title": "Insights into the Therapeutic Potential of Heparinized Collagen Scaffolds Loading Human Umbilical Cord Mesenchymal Stem Cells and Nerve Growth Factor for the Repair of Recurrent Laryngeal Nerve Injury - PMC",
-                "mode": "webview"
+                "url": "https://onlinelibrary.wiley.com/doi/10.1002/lary.20293",
+                "title": "Observations of recurrent laryngeal nerve injury and recovery using a rat model - Tessema - 2009 - The Laryngoscope - Wiley Online Library",
+                "mode": "blank"
               },
               "icon": "globe-2",
-              "title": "Insights into the Therapeutic Potential of Heparinized Collagen Scaffolds Loading Human Umbilical Cord Mesenchymal Stem Cells and Nerve Growth Factor for the Repair of Recurrent Laryngeal Nerve Injury - PMC"
+              "title": "Observations of recurrent laryngeal nerve injury and recovery using a rat model - Tessema - 2009 - The Laryngoscope - Wiley Online Library"
             }
           }
         ],
@@ -301,12 +279,12 @@
       "obsidian-local-images-plus:Local Images Plus  0.16.4\r\nLocalize attachments (plugin folder)": false
     }
   },
-  "active": "c9ea6adb07bd87d6",
+  "active": "d7b6acb71fc6e3ad",
   "lastOpenFiles": [
-    "造模-兔子.md",
     "喉返神经修复.md",
-    "attachments/喉返神经修复/局部应用地塞米松在喉返神经损伤后的作用探讨.pdf",
     "attachments/喉返神经修复/Ultrastructural and Automated Vocal Fold Tracking Study in Recurrent Laryngeal Nerve Injury Models.pdf",
+    "造模-兔子.md",
+    "attachments/喉返神经修复/局部应用地塞米松在喉返神经损伤后的作用探讨.pdf",
     "attachments/d17f4cba743d8d179ef3d0d2358f493c_MD5.jpg",
     "attachments/Pasted image 20260812181937.png",
     "attachments/喉返神经修复/Characteristics of Nerve Injury, Regeneration, and Vocal Fold Movement After Recurrent Laryngeal Nerve Electrocautery Injury.pdf",
