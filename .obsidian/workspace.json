@@ -35,7 +35,8 @@
               "title": "腹腔防粘连材料试剂耗材"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -277,10 +278,14 @@
       "obsidian-local-images-plus:Local Images Plus  0.16.4\r\nLocalize attachments (plugin folder)": false
     }
   },
-  "active": "66758abe3ffd80ba",
+  "active": "93aa2003fb019dcb",
   "lastOpenFiles": [
-    "diary/NOTES/2026-08-19 Wed.md",
+    "attachments/腹腔防粘连材料/~$试剂耗材.docx",
+    "attachments/腹腔防粘连材料/~WRL1444.tmp",
+    "attachments/腹腔防粘连材料/~WRD1425.tmp",
+    "attachments/腹腔防粘连材料/试剂耗材.docx",
     "diary/NOTES/2026-08-20 Thu.md",
+    "diary/NOTES/2026-08-19 Wed.md",
     "diary/NOTES/2026-08-21 Fri.md",
     "diary/NOTES/2026-08-22 Sat.md",
     "腹腔防粘连材料试剂耗材.md",
@@ -314,16 +319,13 @@
     "造模-兔子.md",
     "attachments/喉返神经修复/局部应用地塞米松在喉返神经损伤后的作用探讨.pdf",
     "attachments/d17f4cba743d8d179ef3d0d2358f493c_MD5.jpg",
-    "attachments/喉返神经修复/Characteristics of Nerve Injury, Regeneration, and Vocal Fold Movement After Recurrent Laryngeal Nerve Electrocautery Injury.pdf",
     "周围神经修复.md",
-    "attachments/喉返神经修复/Rochelle salt-based biodegradable piezoelectric devices for nerve regeneration and intestinal motility monitoring.pdf",
     "压电材料.md",
     "dysphagia.md",
     "腧穴学.md",
     "diary/NOTES/2026-08-16 Sun.md",
     "diary/NOTES/2026-08-15 Sat.md",
     "diary/NOTES/2026-08-14 Fri.md",
-    "attachments/喉返神经修复/文献分享26.7.30.pdf",
     "未命名.canvas"
   ]
 }
