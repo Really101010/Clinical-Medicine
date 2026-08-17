@@ -22,20 +22,6 @@
             }
           },
           {
-            "id": "e446768261f6fff7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "腹腔防粘连材料组图.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "腹腔防粘连材料组图"
-            }
-          },
-          {
             "id": "93aa2003fb019dcb",
             "type": "leaf",
             "state": {
@@ -55,16 +41,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "diary/NOTES/2026-08-20 Thu.md",
+                "file": "diary/NOTES/2026-08-19 Wed.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-08-20 Thu"
+              "title": "2026-08-19 Wed"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -306,20 +292,28 @@
       "obsidian-local-images-plus:Local Images Plus  0.16.4\r\nLocalize attachments (plugin folder)": false
     }
   },
-  "active": "e446768261f6fff7",
+  "active": "702b3253f5be486c",
   "lastOpenFiles": [
-    "腹腔防粘连材料试剂耗材.md",
-    "腹腔防粘连材料组图.md",
-    "diary/NOTES/腹腔防粘连材料后续安排.md",
+    "diary/NOTES/2026-08-17 Mon.md",
     "diary/NOTES/2026-08-18 Tue.md",
     "diary/NOTES/2026-08-20 Thu.md",
+    "腹腔防粘连材料试剂耗材.md",
+    "腹腔防粘连材料样本送检.md",
+    "attachments/b1880c7fc8fcf2daf465832be1edd3a2_MD5.jpg",
+    "attachments/Pasted image 20260817130229.png",
+    "attachments/腹腔防粘连材料/~$260724A47998--四川大学华西医院 陈小薇 大鼠 腹壁组织病理检测报告.doc",
+    "attachments/腹腔防粘连材料/20260724A47998--四川大学华西医院 陈小薇 大鼠 腹壁组织病理检测报告.doc",
+    "attachments/腹腔防粘连材料/20260724A47998--四川大学华西医院 陈小薇 大鼠 腹壁组织病理检测报告.doc.baiduyun.p.downloading",
+    "attachments/腹腔防粘连材料",
+    "attachments/新建文件夹",
+    "腹腔防粘连材料组图.md",
+    "diary/NOTES/腹腔防粘连材料后续安排.md",
     "diary/NOTES/2026-08-19 Wed.md",
     "diary/NOTES/2026-08-24 Mon.md",
     "diary/NOTES/2026-08-23 Sun.md",
     "diary/NOTES/2026-08-22 Sat.md",
     "diary/NOTES/2026-08-21 Fri.md",
     "diary/NOTES/2026-08-25 Tue.md",
-    "diary/NOTES/2026-08-17 Mon.md",
     "教师节礼物.md",
     "attachments/da2d6964137cf555a8569411f124a915_MD5.jpg",
     "attachments/Pasted image 20260816192354.png",
@@ -335,25 +329,16 @@
     "造模-兔子.md",
     "attachments/喉返神经修复/局部应用地塞米松在喉返神经损伤后的作用探讨.pdf",
     "attachments/d17f4cba743d8d179ef3d0d2358f493c_MD5.jpg",
-    "attachments/Pasted image 20260812181937.png",
     "attachments/喉返神经修复/Characteristics of Nerve Injury, Regeneration, and Vocal Fold Movement After Recurrent Laryngeal Nerve Electrocautery Injury.pdf",
     "周围神经修复.md",
     "attachments/喉返神经修复/Rochelle salt-based biodegradable piezoelectric devices for nerve regeneration and intestinal motility monitoring.pdf",
     "压电材料.md",
     "dysphagia.md",
-    "attachments/5ef761bbca63b5f01b3869139439129b_MD5.png",
     "腧穴学.md",
     "diary/NOTES/2026-08-16 Sun.md",
     "diary/NOTES/2026-08-15 Sat.md",
     "diary/NOTES/2026-08-14 Fri.md",
-    "diary/NOTES/2026-08-12 Wed.md",
-    "diary/NOTES/2026-08-11 Tue.md",
     "attachments/喉返神经修复/文献分享26.7.30.pdf",
-    "attachments/喉返神经修复/Supplementary material.for 文献分享26.7.30.docx",
-    "attachments/喉返神经修复/PCL Nerve Guide Conduit Coated_translated.pdf.pdf",
-    "attachments/喉返神经修复/The Laryngoscope - 2009 - Shiotani - Modulation of Myosin Heavy Chains in Rat Laryngeal Muscle.pdf",
-    "attachments/喉返神经修复/喉返神经损伤后神经肌肉变化及再生特点研究_白玉.pdf",
-    "attachments/喉返神经修复/鼠单侧喉返神经横断后喉内肌和喉返神经.pdf",
     "未命名.canvas"
   ]
 }
