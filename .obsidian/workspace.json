@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "diary/NOTES/2026-08-27 Thu.md",
+                "file": "HASSOR交接事项记录.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-08-27 Thu"
+              "title": "HASSOR交接事项记录"
             }
           }
         ],
@@ -254,7 +254,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 251.8333740234375
+    "width": 251.7222900390625
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -278,20 +278,22 @@
   },
   "active": "a29e916c0108ecd1",
   "lastOpenFiles": [
+    "attachments/6eb352bac119862ca7626682e0600567_MD5.jpg",
+    "attachments/Pasted image 20260827123815.png",
+    "attachments/48f93d0975d64d51915777ef864c4407_MD5.jpg",
+    "attachments/Pasted image 20260827123652.png",
+    "attachments/cdec695bf5f3875d4f1c0625fd052462_MD5.jpg",
+    "attachments/Pasted image 20260827123536.png",
+    "attachments/61394016bbf57da441f0be73186eec5b_MD5.jpg",
+    "attachments/Pasted image 20260827123353.png",
+    "diary/NOTES/2026-08-27 Thu.md",
+    "HASSOR交接事项记录.md",
     "diary/NOTES/腹腔防粘连材料后续安排.md",
     "diary/NOTES/attachments/2d399e8c7f0b8d49220e2341ad324b97_MD5.jpg",
     "diary/NOTES/attachments/Pasted image 20260826175038.png",
     "diary/NOTES/attachments/b5f417d635a035f73cf087d70df47c70_MD5.jpg",
-    "diary/NOTES/attachments/Pasted image 20260826173603.png",
-    "diary/NOTES/attachments/6504c3c7497059b55f25ef83d47a78b0_MD5.jpg",
-    "diary/NOTES/attachments/Pasted image 20260826173219.png",
-    "diary/NOTES/attachments/364a0978c9f7ec9135769db0fc4a004f_MD5.jpg",
-    "diary/NOTES/attachments/Pasted image 20260826172641.png",
     "diary/NOTES/2026-08-26 Wed.md",
-    "diary/NOTES/2026-08-27 Thu.md",
     "illustrator作图.md",
-    "diary/NOTES/attachments/759242818847f49ca0493635a95a75e7_MD5.jpg",
-    "diary/NOTES/attachments/Pasted image 20260826160416.png",
     "diary/DailyNote/0001/Q1.md",
     "diary/NOTES/2026-08-25 Tue.md",
     "diary/NOTES/2026-08-28 Fri.md",
@@ -322,7 +324,6 @@
     "attachments/腹腔防粘连材料/~WRD1355.tmp",
     "attachments/腹腔防粘连材料/~WRL3266.tmp",
     "腹腔防粘连材料试剂耗材.md",
-    "腹腔防粘连材料组图.md",
     "未命名.canvas"
   ]
 }
