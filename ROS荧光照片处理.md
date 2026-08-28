@@ -7,7 +7,9 @@ Date: 26-8-28
 color -> make composite
 color -> split channels
 image -> adjust -> brightness/contrast
-
+矩形选取区域，more->specify设置大小，shift + D截取新图
+analyze -> tools -> scale bar 添加标尺，注意此时是overlay
+ctrl + shift +F将overlay flatten上，保存
 
 ## Setup:
 
