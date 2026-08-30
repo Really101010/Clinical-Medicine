@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "感染"
             }
+          },
+          {
+            "id": "a29babef5a817925",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "感染性疾病（双语）大纲.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "感染性疾病（双语）大纲"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -261,8 +276,10 @@
       "obsidian-local-images-plus:Local Images Plus  0.16.4\r\nLocalize attachments (plugin folder)": false
     }
   },
-  "active": "09f3894016f35b4c",
+  "active": "a29babef5a817925",
   "lastOpenFiles": [
+    "感染性疾病（双语）大纲.md",
+    "感染.md",
     "划痕.md",
     "attachments/cfa15e72028775b0274492c547ec7551_MD5.jpg",
     "attachments/Pasted image 20260828163229.png",
@@ -297,7 +314,6 @@
     "Dr. Du.md",
     "Dr. Yang.md",
     "diary/NOTES/2026-08-21 Fri.md",
-    "diary/NOTES/2026-08-20 Thu.md",
     "attachments/腹腔防粘连材料/~$细胞实验计划.docx",
     "attachments/腹腔防粘连材料/~WRL0235.tmp",
     "attachments/腹腔防粘连材料/~WRD0223.tmp",
