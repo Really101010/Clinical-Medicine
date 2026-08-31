@@ -67,11 +67,18 @@ tags:
 
 ·   图表：
 
-（1）Table. 复发负担情况展示，可包含：是否复发；复发次数；是否多次复发；高复发负担（可选，根据不同标准，如Doyle标准：侵袭性=1—总共接受10次或以上手术，其中1年内接受3次或以上手术，和/或疾病扩散至声门下区远端；非侵袭性=0相反）；复发部位数量；是否下气道复发等；
-[The Laryngoscope - May 1994 - Doyle - Recurrent respiratory papillomatosis  Juvenile versus adult forms](The%20Laryngoscope%20-%20May%201994%20-%20Doyle%20-%20Recurrent%20respiratory%20papillomatosis%20%20Juvenile%20versus%20adult%20forms.pdf)
+（1）Table. 复发负担情况展示，可包含：是否复发；复发次数；是否多次复发；高复发负担（可选，根据不同标准，如Doyle标准：侵袭性=1—总共接受10次或以上手术，<span style="font-size: 16px; color: #FF0000">and</span>其中1年内接受3次或以上手术，和/或疾病扩散至声门下区远端；非侵袭性=0相反）；复发部位数量；是否下气道复发等；
 
 > [!PDF|yellow] [The Laryngoscope - May 1994 - Doyle - Recurrent respiratory papillomatosis  Juvenile versus adult forms, p.1](The%20Laryngoscope%20-%20May%201994%20-%20Doyle%20-%20Recurrent%20respiratory%20papillomatosis%20%20Juvenile%20versus%20adult%20forms.pdf#page=1&selection=115,0,131,42&color=yellow)
 > > Although <mark style="background-color: #705A16; color: white">subglottic involvement</mark> universally occurred in our group with aggressive disease, approximately 40% developed subglottic disease very early as compared with 20% of patients with less aggressive disease.
+
+> [!PDF|rouge] [The Laryngoscope - May 1994 - Doyle - Recurrent respiratory papillomatosis  Juvenile versus adult forms, p.2](The%20Laryngoscope%20-%20May%201994%20-%20Doyle%20-%20Recurrent%20respiratory%20papillomatosis%20%20Juvenile%20versus%20adult%20forms.pdf#page=2&selection=0,8,3,16&color=rouge)
+> > new terminology-aggressive and nonaggressive disease
+
+> [!PDF|rouge] [The Laryngoscope - May 1994 - Doyle - Recurrent respiratory papillomatosis  Juvenile versus adult forms, p.2](The%20Laryngoscope%20-%20May%201994%20-%20Doyle%20-%20Recurrent%20respiratory%20papillomatosis%20%20Juvenile%20versus%20adult%20forms.pdf#page=2&selection=172,0,201,21&color=rouge)
+> > RRP was defined as being aggressive in patients requiring greater than or equal to a total of 10 procedures and 3 or more procedures over a 1-year period or spread distal to the subglottic region
+> 
+> 标准 "and"
 
 
 （2）Table. 回归分析，把复发次数当作连续变量或分类变量（如以5次/10次为界限分类），分析与复发这个结局相关的初诊因素；
