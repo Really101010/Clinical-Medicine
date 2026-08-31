@@ -39,6 +39,9 @@ tags:
 [Open: Pasted image 20260831083340.png](attachments/c49b94629c03fdf4311d6256f6dbcec7_MD5.jpg)
 ![](attachments/c49b94629c03fdf4311d6256f6dbcec7_MD5.jpg)
 9. 是否气管切开
+> [!PDF|green] [The Laryngoscope - May 1994 - Doyle - Recurrent respiratory papillomatosis  Juvenile versus adult forms, p.1](The%20Laryngoscope%20-%20May%201994%20-%20Doyle%20-%20Recurrent%20respiratory%20papillomatosis%20%20Juvenile%20versus%20adult%20forms.pdf#page=1&selection=311,30,329,13&color=green)
+> > Some authors believe that the patients requiring tracheotomy have a more aggressive disease form which would have led to distal spread regardless of whether the patient had a tracheotomy.4
+
 
 10. 是否复发
 
