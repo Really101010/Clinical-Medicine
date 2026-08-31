@@ -22,6 +22,20 @@
             }
           },
           {
+            "id": "51fb66341eae0f6b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "感染性疾病.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "感染性疾病"
+            }
+          },
+          {
             "id": "a29babef5a817925",
             "type": "leaf",
             "state": {
@@ -276,10 +290,10 @@
       "obsidian-local-images-plus:Local Images Plus  0.16.4\r\nLocalize attachments (plugin folder)": false
     }
   },
-  "active": "a29babef5a817925",
+  "active": "51fb66341eae0f6b",
   "lastOpenFiles": [
-    "感染性疾病（双语）大纲.md",
     "感染.md",
+    "感染性疾病（双语）大纲.md",
     "划痕.md",
     "attachments/cfa15e72028775b0274492c547ec7551_MD5.jpg",
     "attachments/Pasted image 20260828163229.png",
