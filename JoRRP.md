@@ -32,6 +32,10 @@ tags:
 
 7. 首诊症状：可以直接按具体症状，若后续要分析JORRP气管切开，
 - [ ] 也可以分为是否气道受损表现，将呼吸困难、喘鸣等列为气道受损型表现
+
+> [!PDF|rouge] [The Laryngoscope - May 1994 - Doyle - Recurrent respiratory papillomatosis  Juvenile versus adult forms, p.1](The%20Laryngoscope%20-%20May%201994%20-%20Doyle%20-%20Recurrent%20respiratory%20papillomatosis%20%20Juvenile%20versus%20adult%20forms.pdf#page=1&selection=248,0,251,22&color=rouge)
+> > a change in voice, hoarseness, stridor, aphonia, and respiratory distress. 
+
 [Open: Pasted image 20260831083340.png](attachments/c49b94629c03fdf4311d6256f6dbcec7_MD5.jpg)
 ![](attachments/c49b94629c03fdf4311d6256f6dbcec7_MD5.jpg)
 9. 是否气管切开
@@ -80,3 +84,14 @@ tags:
 （2）也可根据第二步结果，进一步拓展分析，如：首诊解剖部位和复发负担相关，可进一步解析解剖部位相关数据，展示后续复发的解剖部位扩展情况；等等
 
 ·   图表
+
+
+
+---
+#### JoRRP基础知识
+> [!PDF|blueee] [The Laryngoscope - May 1994 - Doyle - Recurrent respiratory papillomatosis  Juvenile versus adult forms, p.1](The%20Laryngoscope%20-%20May%201994%20-%20Doyle%20-%20Recurrent%20respiratory%20papillomatosis%20%20Juvenile%20versus%20adult%20forms.pdf#page=1&selection=279,11,279,25&color=blueee)
+> > friable lesion
+> 
+> 松脆的，易碎的
+
+
