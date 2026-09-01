@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "药理学大纲.md",
+                "file": "药理学总论.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "药理学大纲"
+              "title": "药理学总论"
             }
           }
         ]
@@ -266,6 +266,7 @@
   },
   "active": "b073c58ce08c3748",
   "lastOpenFiles": [
+    "药理学大纲.md",
     "药理学总论.md",
     "拮抗药.md",
     "激动药.md",
@@ -273,7 +274,6 @@
     "量-效曲线.md",
     "不良反应.md",
     "表观分布容积.md",
-    "药理学大纲.md",
     "化疗药.md",
     "内脏药物.md",
     "心血管系统药.md",
