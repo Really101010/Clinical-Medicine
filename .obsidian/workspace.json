@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "437e1341c495c68c",
+        "id": "d1e306abc6d09dcb",
         "type": "tabs",
         "children": [
           {
-            "id": "296bca53c0626464",
+            "id": "e8926d0ffe2a3ad6",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "胃食管反流病.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "胃食管反流病"
             }
           }
         ]
@@ -75,8 +79,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -260,8 +263,12 @@
       "obsidian-local-images-plus:Local Images Plus  0.16.4\r\nLocalize attachments (plugin folder)": false
     }
   },
-  "active": "296bca53c0626464",
+  "active": "e8926d0ffe2a3ad6",
   "lastOpenFiles": [
+    "PPI试验性治疗.md",
+    "胃食管反流病.md",
+    "attachments/8e154dcc613567e05b0eb7e61d0c5423_MD5.jpg",
+    "attachments/Pasted image 20260901195516.png",
     "腹腔防粘连材料.md",
     "attachments/Pasted image 20260901161823.png",
     "attachments/4fa26ec0788569b69d24820f59e10ff1_MD5.jpg",
@@ -272,7 +279,6 @@
     "药理学总论.md",
     "药物代谢动力学.md",
     "青霉素G.md",
-    "胃食管反流病.md",
     "扑热息痛.md",
     "阿奇霉素.md",
     "大环内酯类.md",
@@ -296,8 +302,6 @@
     "attachments/c49b94629c03fdf4311d6256f6dbcec7_MD5.jpg",
     "attachments/Pasted image 20260831083340.png",
     "attachments/7bae289718a0c782612a9d6c79e6b6d1_MD5.jpg",
-    "attachments/Pasted image 20260831083326.png",
-    "attachments/1706c871589f44ec8cbe6a3e92baffa3_MD5.jpg",
     "attachments/JoRRP",
     "attachments/新建文件夹",
     "attachments/腹腔防粘连材料/~$细胞实验计划.docx",
