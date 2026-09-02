@@ -64,6 +64,20 @@
             }
           },
           {
+            "id": "60a98854c52bf774",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "内囊.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "内囊"
+            }
+          },
+          {
             "id": "d5270e48affbd1ce",
             "type": "leaf",
             "state": {
@@ -78,7 +92,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -320,8 +334,10 @@
       "obsidian-local-images-plus:Local Images Plus  0.16.4\r\nLocalize attachments (plugin folder)": false
     }
   },
-  "active": "0990e63daf6351cc",
+  "active": "60a98854c52bf774",
   "lastOpenFiles": [
+    "内囊.md",
+    "脑.md",
     "皮质核束.md",
     "颅神经.md",
     "神经病学概论.md",
@@ -354,8 +370,6 @@
     "喉返神经修复.md",
     "attachments/13a4a0b1c7ebb2787efd99b18a736c44_MD5.jpg",
     "attachments/Pasted image 20260902145628.png",
-    "周围神经修复.md",
-    "神经导管.md",
     "attachments/喉返神经修复/PC12-压电.pdf",
     "attachments/8e154dcc613567e05b0eb7e61d0c5423_MD5.jpg",
     "attachments/Pasted image 20260901195516.png",
