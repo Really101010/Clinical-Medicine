@@ -34,9 +34,23 @@
               "icon": "lucide-file",
               "title": "中枢神经系统药物"
             }
+          },
+          {
+            "id": "cd2b5f58aa8651e7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "抗精神失常.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "抗精神失常"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -115,7 +129,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "中枢神经系统药物.md",
+                "file": "抗精神失常.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -277,34 +291,34 @@
       "obsidian-local-images-plus:Local Images Plus  0.16.4\r\nLocalize attachments (plugin folder)": false
     }
   },
-  "active": "996f2dacd8086f81",
+  "active": "cd2b5f58aa8651e7",
   "lastOpenFiles": [
-    "莫达非尼.md",
+    "焦虑.md",
+    "抗精神失常.md",
+    "躁狂症.md",
+    "抑郁.md",
+    "丙米嗪.md",
+    "精神分裂症.md",
     "中枢神经系统药物.md",
-    "阿莫达非尼.md",
-    "多塞平.md",
-    "苯海拉明.md",
+    "镇静催眠.md",
+    "莫达非尼.md",
+    "ADHD.md",
+    "多动症.md",
     "阿戈美拉汀.md",
     "雷美替胺.md",
+    "5-HT.md",
     "丁螺环酮.md",
     "唑吡坦.md",
     "巴比妥类.md",
     "苯二氮䓬类.md",
+    "地西泮.md",
     "氟马西尼.md",
+    "呼吸困难.md",
+    "呼吸抑制.md",
+    "阿莫达非尼.md",
+    "多塞平.md",
+    "苯海拉明.md",
     "睡眠.md",
-    "普鲁卡因.md",
-    "核医学Ⅱ教学大纲.md",
-    "多巴胺.md",
-    "5-HT.md",
-    "Glu.md",
-    "GABA.md",
-    "Ach.md",
-    "NE.md",
-    "组胺.md",
-    "肾上腺髓质激素.md",
-    "药理学大纲.md",
-    "药理学总论.md",
-    "Codeine.md",
     "attachments/8e154dcc613567e05b0eb7e61d0c5423_MD5.jpg",
     "attachments/Pasted image 20260901195516.png",
     "attachments/Pasted image 20260901161823.png",
