@@ -90,9 +90,23 @@
               "icon": "lucide-file",
               "title": "皮质脊髓束"
             }
+          },
+          {
+            "id": "25686d85a53df800",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "造模-兔子.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "造模-兔子"
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -334,8 +348,13 @@
       "obsidian-local-images-plus:Local Images Plus  0.16.4\r\nLocalize attachments (plugin folder)": false
     }
   },
-  "active": "60a98854c52bf774",
+  "active": "25686d85a53df800",
   "lastOpenFiles": [
+    "attachments/c756048117093a355eeb615290bf1a18_MD5.jpg",
+    "attachments/Pasted image 20260903093744.png",
+    "造模-大鼠.md",
+    "皮质脊髓束.md",
+    "取材-大鼠.md",
     "内囊.md",
     "脑.md",
     "皮质核束.md",
@@ -344,7 +363,6 @@
     "脊髓丘脑束.md",
     "attachments/50b1098a122150efcb53222857ad1271_MD5.jpg",
     "attachments/Pasted image 20260902193123.png",
-    "皮质脊髓束.md",
     "attachments/d92cf45820009cd9d075443eef107563_MD5.jpg",
     "attachments/Pasted image 20260902192836.png",
     "attachments/dc4aa9d7217d3fa10134ca3460008a70_MD5.jpg",
@@ -365,14 +383,10 @@
     "芬太尼.md",
     "哌替啶.md",
     "美沙酮.md",
-    "中枢神经系统药物.md",
-    "药理学大纲.md",
-    "喉返神经修复.md",
     "attachments/13a4a0b1c7ebb2787efd99b18a736c44_MD5.jpg",
     "attachments/Pasted image 20260902145628.png",
     "attachments/喉返神经修复/PC12-压电.pdf",
     "attachments/8e154dcc613567e05b0eb7e61d0c5423_MD5.jpg",
-    "attachments/Pasted image 20260901195516.png",
     "attachments/JoRRP/The Laryngoscope - May 1994 - Doyle - Recurrent respiratory papillomatosis  Juvenile versus adult forms.pdf",
     "attachments/JoRRP",
     "attachments/新建文件夹",
