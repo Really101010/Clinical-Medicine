@@ -90,23 +90,9 @@
               "icon": "lucide-file",
               "title": "皮质脊髓束"
             }
-          },
-          {
-            "id": "25686d85a53df800",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "造模-兔子.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "造模-兔子"
-            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -348,8 +334,11 @@
       "obsidian-local-images-plus:Local Images Plus  0.16.4\r\nLocalize attachments (plugin folder)": false
     }
   },
-  "active": "25686d85a53df800",
+  "active": "d5270e48affbd1ce",
   "lastOpenFiles": [
+    "造模-兔子.md",
+    "attachments/cefcaf0601c73b28c7a176cc264661f7_MD5.jpg",
+    "attachments/Pasted image 20260903094418.png",
     "attachments/c756048117093a355eeb615290bf1a18_MD5.jpg",
     "attachments/Pasted image 20260903093744.png",
     "造模-大鼠.md",
@@ -383,10 +372,7 @@
     "芬太尼.md",
     "哌替啶.md",
     "美沙酮.md",
-    "attachments/13a4a0b1c7ebb2787efd99b18a736c44_MD5.jpg",
-    "attachments/Pasted image 20260902145628.png",
     "attachments/喉返神经修复/PC12-压电.pdf",
-    "attachments/8e154dcc613567e05b0eb7e61d0c5423_MD5.jpg",
     "attachments/JoRRP/The Laryngoscope - May 1994 - Doyle - Recurrent respiratory papillomatosis  Juvenile versus adult forms.pdf",
     "attachments/JoRRP",
     "attachments/新建文件夹",
