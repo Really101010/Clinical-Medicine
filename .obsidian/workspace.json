@@ -78,20 +78,6 @@
             }
           },
           {
-            "id": "6cb3ab308efc5ecf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "交感神经.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "交感神经"
-            }
-          },
-          {
             "id": "59a21e804c8c1f85",
             "type": "leaf",
             "state": {
@@ -106,7 +92,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -348,17 +334,23 @@
       "obsidian-local-images-plus:Local Images Plus  0.16.4\r\nLocalize attachments (plugin folder)": false
     }
   },
-  "active": "6cb3ab308efc5ecf",
+  "active": "5cd3978a96ec2de3",
   "lastOpenFiles": [
+    "attachments/b610a8bf9c797b799ccf5c7d54809178_MD5.jpg",
+    "attachments/Pasted image 20260904091321.png",
+    "内脏神经.md",
+    "副交感神经.md",
     "神经解剖学.md",
-    "椎前节.md",
     "交感神经.md",
+    "attachments/34226659b391dc2cc60062fa35e57e12_MD5.jpg",
+    "attachments/Pasted image 20260904091035.png",
+    "attachments/899df7c006c81578328b8e46b4dde588_MD5.jpg",
+    "attachments/Pasted image 20260904090956.png",
+    "椎前节.md",
     "椎旁节.md",
     "attachments/125a6c6b3f123314d9ed81ed308a1cc6_MD5.jpg",
     "attachments/Pasted image 20260904090016.png",
-    "副交感神经.md",
     "内脏运动神经.md",
-    "内脏神经.md",
     "神经元.md",
     "颅神经.md",
     "神经系统疾病.md",
@@ -366,7 +358,6 @@
     "attachments/214cef53854e6ebc6613a639f626fdbf_MD5.jpg",
     "attachments/Pasted image 20260904084327.png",
     "attachments/be76d204b13b2eff179d496947e2cc23_MD5.jpg",
-    "attachments/Pasted image 20260904084231.png",
     "脑.md",
     "神经束.md",
     "白质.md",
@@ -381,11 +372,6 @@
     "diary/NOTES/腹腔防粘连材料后续安排.md",
     "因果关系要素.md",
     "造模-兔子.md",
-    "attachments/cefcaf0601c73b28c7a176cc264661f7_MD5.jpg",
-    "attachments/Pasted image 20260903094418.png",
-    "attachments/c756048117093a355eeb615290bf1a18_MD5.jpg",
-    "attachments/Pasted image 20260903093744.png",
-    "造模-大鼠.md",
     "attachments/喉返神经修复/PC12-压电.pdf",
     "attachments/JoRRP/The Laryngoscope - May 1994 - Doyle - Recurrent respiratory papillomatosis  Juvenile versus adult forms.pdf",
     "attachments/JoRRP",
