@@ -11,13 +11,102 @@
             "id": "13debfa1f90d275c",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "脑.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "脑"
+            }
+          },
+          {
+            "id": "8305d1f89c1b5b4c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "脑干.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "脑干"
+            }
+          },
+          {
+            "id": "c7ebced6c604cd24",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "脑干.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "脑干"
+            }
+          },
+          {
+            "id": "e77f7c6b311742eb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "第四脑室.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "第四脑室"
+            }
+          },
+          {
+            "id": "87d09ec94268bb4c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "中脑.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "中脑"
+            }
+          },
+          {
+            "id": "0a8f609088fc28cb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "脑桥.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "脑桥"
+            }
+          },
+          {
+            "id": "c52e984ecef2bd89",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "延髓.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "延髓"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -259,8 +348,25 @@
       "obsidian-local-images-plus:Local Images Plus  0.16.4\r\nLocalize attachments (plugin folder)": false
     }
   },
-  "active": "13debfa1f90d275c",
+  "active": "e77f7c6b311742eb",
   "lastOpenFiles": [
+    "attachments/332f8a5449385d10d9dc8b193860f314_MD5.jpg",
+    "attachments/Pasted image 20260908162935.png",
+    "第四脑室.md",
+    "脑干.md",
+    "延髓.md",
+    "中脑.md",
+    "脑桥.md",
+    "attachments/ddba2c91694a2e18af4195ce16d8b919_MD5.jpg",
+    "attachments/Pasted image 20260908162737.png",
+    "attachments/2d98880aac6497180c1c38c54f6ec6a5_MD5.jpg",
+    "attachments/Pasted image 20260908162712.png",
+    "attachments/52303e1429eeedbf155c089f1443f395_MD5.jpg",
+    "attachments/Pasted image 20260908162654.png",
+    "attachments/fd50e677981163504e678a34358c07fe_MD5.jpg",
+    "attachments/Pasted image 20260908162633.png",
+    "attachments/f5d3847eb022824c372410124d396067_MD5.jpg",
+    "脑.md",
     "WB.md",
     "腹腔防粘连材料试剂耗材.md",
     "diary/NOTES/腹腔防粘连材料后续安排.md",
@@ -280,23 +386,6 @@
     "LXs.md",
     "发热.md",
     "纳曲酮.md",
-    "纳洛酮.md",
-    "二氢埃托啡.md",
-    "布桂嗪.md",
-    "曲马多.md",
-    "延胡索乙素.md",
-    "罗通定.md",
-    "喷他佐辛.md",
-    "attachments/771dd1c958b4867da1c83b0b32041990_MD5.jpg",
-    "attachments/Pasted image 20260904094433.png",
-    "attachments/f1e8014607e09897e3512a81feebf390_MD5.jpg",
-    "attachments/Pasted image 20260904094015.png",
-    "attachments/bce65547bab22b271519bbad1e7e8668_MD5.jpg",
-    "attachments/Pasted image 20260904093843.png",
-    "attachments/84c8ac1d9d208d95636b174d1c72f123_MD5.jpg",
-    "attachments/Pasted image 20260904093347.png",
-    "attachments/5093ea8a6ce01674c324d6ecf725280c_MD5.jpg",
-    "attachments/Pasted image 20260904093235.png",
     "attachments/喉返神经修复/PC12-压电.pdf",
     "attachments/JoRRP/The Laryngoscope - May 1994 - Doyle - Recurrent respiratory papillomatosis  Juvenile versus adult forms.pdf",
     "attachments/JoRRP",
