@@ -1,7 +1,6 @@
 Project: 
 Type: 
-Date:
-Location:
+Date: 26-9-8
 
 ---
 ## Summary:
@@ -9,7 +8,7 @@ Location:
 ## Setup:
 
 ## Notes:
-厚0.8-1
+厚0.8-1mm
 
 
 ---

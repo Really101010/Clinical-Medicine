@@ -8,17 +8,13 @@
         "type": "tabs",
         "children": [
           {
-            "id": "a0aa3864e887fae4",
+            "id": "13debfa1f90d275c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "WB.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "WB"
+              "title": "New tab"
             }
           }
         ]
@@ -263,10 +259,10 @@
       "obsidian-local-images-plus:Local Images Plus  0.16.4\r\nLocalize attachments (plugin folder)": false
     }
   },
-  "active": "a0aa3864e887fae4",
+  "active": "13debfa1f90d275c",
   "lastOpenFiles": [
-    "腹腔防粘连材料试剂耗材.md",
     "WB.md",
+    "腹腔防粘连材料试剂耗材.md",
     "diary/NOTES/腹腔防粘连材料后续安排.md",
     "阿司匹林.md",
     "NSAIDs.md",
