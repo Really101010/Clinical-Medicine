@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "2435eead466f5736",
+        "id": "cddf8aef5d107c58",
         "type": "tabs",
         "children": [
           {
-            "id": "c28a3866b7282fca",
+            "id": "7b7d32cc06a52f7e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "上运动神经元.md",
+                "file": "中枢神经系统药物.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "上运动神经元"
+              "title": "中枢神经系统药物"
             }
           }
         ]
@@ -101,7 +101,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "上运动神经元.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -240,7 +239,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 251.7222900390625
+    "width": 251.7222900390625,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -262,8 +262,27 @@
       "obsidian-local-images-plus:Local Images Plus  0.16.4\r\nLocalize attachments (plugin folder)": false
     }
   },
-  "active": "c28a3866b7282fca",
+  "active": "7b7d32cc06a52f7e",
   "lastOpenFiles": [
+    "中枢神经系统药物.md",
+    "NSAIDs.md",
+    "镇痛药.md",
+    "纳曲酮.md",
+    "纳洛酮.md",
+    "二氢埃托啡.md",
+    "布桂嗪.md",
+    "曲马多.md",
+    "延胡索乙素.md",
+    "罗通定.md",
+    "喷他佐辛.md",
+    "芬太尼.md",
+    "美沙酮.md",
+    "哌替啶.md",
+    "异丙嗪.md",
+    "Codeine.md",
+    "药理学大纲.md",
+    "药理学总论.md",
+    "影响药物效应的因素及合理用药原则.md",
     "上运动神经元.md",
     "Yi Zhihui.md",
     "Yi Zhihui.md",
@@ -271,25 +290,6 @@
     "脑.md",
     "枕叶.md",
     "颞叶.md",
-    "Gerstmann综合征.md",
-    "顶叶.md",
-    "延髓背外侧综合征.md",
-    "经典条件反射.md",
-    "Parkinson 病.md",
-    "步态异常.md",
-    "共济失调.md",
-    "白质.md",
-    "薄束.md",
-    "神经病学概论.md",
-    "中枢神经系统.md",
-    "水痘.md",
-    "脊神经.md",
-    "神经解剖学.md",
-    "感染性疾病.md",
-    "带状疱疹.md",
-    "划痕.md",
-    "药理学大纲.md",
-    "中枢神经系统药物.md",
     "attachments/771dd1c958b4867da1c83b0b32041990_MD5.jpg",
     "attachments/Pasted image 20260904094433.png",
     "attachments/f1e8014607e09897e3512a81feebf390_MD5.jpg",
