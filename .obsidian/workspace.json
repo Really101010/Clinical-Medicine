@@ -8,49 +8,20 @@
         "type": "tabs",
         "children": [
           {
-            "id": "7b7d32cc06a52f7e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "中枢神经系统药物.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "中枢神经系统药物"
-            }
-          },
-          {
-            "id": "ac97a73327e715f3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "NSAIDs.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "NSAIDs"
-            }
-          },
-          {
             "id": "a0aa3864e887fae4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "阿司匹林.md",
+                "file": "WB.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "阿司匹林"
+              "title": "WB"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -84,7 +55,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "皮质脊髓",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -113,7 +84,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "7d38cd1fdadcd175",
@@ -293,8 +265,11 @@
   },
   "active": "a0aa3864e887fae4",
   "lastOpenFiles": [
-    "NSAIDs.md",
+    "腹腔防粘连材料试剂耗材.md",
+    "WB.md",
+    "diary/NOTES/腹腔防粘连材料后续安排.md",
     "阿司匹林.md",
+    "NSAIDs.md",
     "PG.md",
     "PGE₂.md",
     "中枢神经系统药物.md",
@@ -316,9 +291,6 @@
     "延胡索乙素.md",
     "罗通定.md",
     "喷他佐辛.md",
-    "芬太尼.md",
-    "美沙酮.md",
-    "哌替啶.md",
     "attachments/771dd1c958b4867da1c83b0b32041990_MD5.jpg",
     "attachments/Pasted image 20260904094433.png",
     "attachments/f1e8014607e09897e3512a81feebf390_MD5.jpg",
