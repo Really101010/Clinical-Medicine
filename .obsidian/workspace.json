@@ -4,53 +4,53 @@
     "type": "split",
     "children": [
       {
-        "id": "5ded875869b10179",
+        "id": "603043f9055e332d",
         "type": "tabs",
         "children": [
           {
-            "id": "f118d429c97a9062",
+            "id": "6a1d0dc2597a3fbb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "水痘.md",
+                "file": "反射.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "水痘"
+              "title": "反射"
             }
           },
           {
-            "id": "acb84361de3b9864",
+            "id": "5b12694cafbefb70",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "感染性疾病.md",
+                "file": "脑.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "感染性疾病"
+              "title": "脑"
             }
           },
           {
-            "id": "3018c5a99fee8c7d",
+            "id": "7ec35c8827048858",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "带状疱疹.md",
+                "file": "枕叶.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "带状疱疹"
+              "title": "枕叶"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -84,7 +84,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "核上瘫",
+                "query": "皮质脊髓",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -130,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "中枢神经系统.md",
+                "file": "枕叶.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -269,8 +269,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 251.7222900390625,
-    "collapsed": true
+    "width": 251.7222900390625
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -292,18 +291,32 @@
       "obsidian-local-images-plus:Local Images Plus  0.16.4\r\nLocalize attachments (plugin folder)": false
     }
   },
-  "active": "acb84361de3b9864",
+  "active": "7ec35c8827048858",
   "lastOpenFiles": [
-    "带状疱疹.md",
+    "枕叶.md",
+    "脑.md",
+    "颞叶.md",
+    "Gerstmann综合征.md",
+    "顶叶.md",
+    "延髓背外侧综合征.md",
+    "反射.md",
+    "经典条件反射.md",
+    "Parkinson 病.md",
+    "步态异常.md",
+    "共济失调.md",
+    "白质.md",
+    "薄束.md",
+    "神经病学概论.md",
+    "中枢神经系统.md",
     "水痘.md",
+    "脊神经.md",
+    "神经解剖学.md",
     "感染性疾病.md",
+    "带状疱疹.md",
     "划痕.md",
     "药理学大纲.md",
     "中枢神经系统药物.md",
-    "神经解剖学.md",
-    "中枢神经系统.md",
     "脊髓.md",
-    "白质.md",
     "CE-MRA.md",
     "attachments/771dd1c958b4867da1c83b0b32041990_MD5.jpg",
     "attachments/Pasted image 20260904094433.png",
@@ -312,24 +325,10 @@
     "attachments/Pasted image 20260904094015.png",
     "attachments/bce65547bab22b271519bbad1e7e8668_MD5.jpg",
     "attachments/Pasted image 20260904093843.png",
-    "薄束.md",
-    "楔束.md",
-    "灰质.md",
     "attachments/84c8ac1d9d208d95636b174d1c72f123_MD5.jpg",
     "attachments/Pasted image 20260904093347.png",
     "attachments/5093ea8a6ce01674c324d6ecf725280c_MD5.jpg",
     "attachments/Pasted image 20260904093235.png",
-    "神经病学概论.md",
-    "神经系统疾病.md",
-    "内脏神经.md",
-    "内脏感觉神经.md",
-    "牵涉痛.md",
-    "冠心病.md",
-    "心绞痛.md",
-    "副交感神经.md",
-    "交感神经.md",
-    "椎前节.md",
-    "椎旁节.md",
     "attachments/喉返神经修复/PC12-压电.pdf",
     "attachments/JoRRP/The Laryngoscope - May 1994 - Doyle - Recurrent respiratory papillomatosis  Juvenile versus adult forms.pdf",
     "attachments/JoRRP",
