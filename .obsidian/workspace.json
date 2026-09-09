@@ -70,10 +70,10 @@
               "type": "pdf",
               "state": {
                 "file": "attachments/喉返神经修复/Specificity of peripheral nerve regeneration Interactions at the axon level.pdf",
-                "page": 2,
-                "left": -10,
-                "top": 381,
-                "zoom": 1.6719135325462477
+                "page": 3,
+                "left": -25,
+                "top": 374,
+                "zoom": 1.59
               },
               "icon": "lucide-file-text",
               "title": "Specificity of peripheral nerve regeneration Interactions at the axon level"
@@ -94,7 +94,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -336,11 +336,14 @@
       "obsidian-local-images-plus:Local Images Plus  0.16.4\r\nLocalize attachments (plugin folder)": false
     }
   },
-  "active": "ad253a317deb1713",
+  "active": "d5dab913940dc687",
   "lastOpenFiles": [
-    "神经再生.md",
     "attachments/喉返神经修复/Specificity of peripheral nerve regeneration Interactions at the axon level.pdf",
     "周围神经修复分子生物学.md",
+    "attachments/喉返神经修复/BDNF-TrkB signaling regulates HNK1 carbohydrate expression in regenerating motor nerves and promotes functional recovery after peripheral nerve repair.pdf",
+    "attachments/喉返神经修复/BDNF-TrkB signaling regulates HNK1 carbohydrate expression in regenerating motor nerves and promotes functional recovery after peripheral nerve repair.pdf.crdownload",
+    "神经再生.md",
+    "喉返神经修复.md",
     "神经损伤.md",
     "attachments/喉返神经修复/Specificity of peripheral nerve regeneration Interactions at the axon level.pdf.crdownload",
     "溃疡性结肠炎.md",
@@ -369,7 +372,6 @@
     "肿瘤.md",
     "核医学.md",
     "放射性衰变.md",
-    "喉返神经修复.md",
     "周围神经修复.md",
     "PET.md",
     "放射性药物.md",
@@ -381,8 +383,6 @@
     "attachments/新建文件夹",
     "attachments/腹腔防粘连材料/~$细胞实验计划.docx",
     "attachments/腹腔防粘连材料/~WRL0235.tmp",
-    "attachments/腹腔防粘连材料/~WRD0223.tmp",
-    "attachments/腹腔防粘连材料/~WRL2770.tmp",
     "未命名.canvas"
   ]
 }
