@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "核医学"
             }
+          },
+          {
+            "id": "4a12f8a119ce2fed",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "放射性衰变.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "放射性衰变"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -263,9 +278,17 @@
       "obsidian-local-images-plus:Local Images Plus  0.16.4\r\nLocalize attachments (plugin folder)": false
     }
   },
-  "active": "a7300c0b0fedef84",
+  "active": "4a12f8a119ce2fed",
   "lastOpenFiles": [
+    "放射性衰变.md",
     "核医学.md",
+    "喉返神经修复.md",
+    "周围神经修复.md",
+    "周围神经修复分子生物学.md",
+    "attachments/629a816c0bb3a62487e3111fe52783ee_MD5.jpg",
+    "attachments/cdf70bb584525ebf078cc70f12d8a0e2_MD5.jpg",
+    "attachments/Pasted image 20260909113158.png",
+    "attachments/Pasted image 20260909113017.png",
     "PET.md",
     "放射性药物.md",
     "attachments/255e9aa806fd34c04c00f22625cf6d1f_MD5.jpg",
@@ -276,14 +299,10 @@
     "attachments/1613fcdd3aa1472e923dc86b842eb3b4_MD5.jpg",
     "attachments/Pasted image 20260908183018.png",
     "attachments/e26058b8ccb4523bec6aa17684f45aef_MD5.jpg",
-    "attachments/Pasted image 20260908182951.png",
-    "attachments/b77172232c3c4e486be75953f332dfb0_MD5.jpg",
-    "attachments/Pasted image 20260908182651.png",
     "延髓.md",
     "脑桥.md",
     "中脑.md",
     "第四脑室.md",
-    "attachments/4d5748507ebb3b37b94605d7a97c1763_MD5.jpg",
     "WB.md",
     "腹腔防粘连材料试剂耗材.md",
     "diary/NOTES/腹腔防粘连材料后续安排.md",
@@ -297,10 +316,6 @@
     "PGI₂.md",
     "脂氧合酶.md",
     "LTs.md",
-    "COX.md",
-    "TXA₂.md",
-    "炎症.md",
-    "LXs.md",
     "attachments/喉返神经修复/PC12-压电.pdf",
     "attachments/JoRRP/The Laryngoscope - May 1994 - Doyle - Recurrent respiratory papillomatosis  Juvenile versus adult forms.pdf",
     "attachments/JoRRP",
