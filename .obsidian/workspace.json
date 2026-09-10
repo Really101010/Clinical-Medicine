@@ -29,15 +29,16 @@
               "state": {
                 "file": "attachments/腹腔防粘连材料/Janus网片.pdf",
                 "page": 2,
-                "left": -36,
-                "top": 43,
-                "zoom": 1.54
+                "left": -9,
+                "top": 3,
+                "zoom": 1.6719135325462477
               },
               "icon": "lucide-file-text",
               "title": "Janus网片"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -279,10 +280,10 @@
       "obsidian-local-images-plus:Local Images Plus  0.16.4\r\nLocalize attachments (plugin folder)": false
     }
   },
-  "active": "7e3bceafe24f1989",
+  "active": "3015b5cb89cedddf",
   "lastOpenFiles": [
-    "attachments/腹腔防粘连材料/Janus网片.pdf",
     "腹腔防粘连材料.md",
+    "attachments/腹腔防粘连材料/Janus网片.pdf",
     "diary/NOTES/腹腔防粘连材料后续安排.md",
     "BSA蛋白吸附.md",
     "WB.md",
