@@ -11,10 +11,16 @@
             "id": "961be5a4251e5103",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "type": "pdf",
+              "state": {
+                "file": "attachments/腹腔防粘连材料/Janus网片.pdf",
+                "page": 1,
+                "left": -10,
+                "top": 798,
+                "zoom": 1.6719135325462477
+              },
+              "icon": "lucide-file-text",
+              "title": "Janus网片"
             }
           }
         ]
