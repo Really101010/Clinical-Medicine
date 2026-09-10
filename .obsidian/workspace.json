@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "f048c0d70a65f1d4",
+        "id": "f7f2ae32c86a45de",
         "type": "tabs",
         "children": [
           {
-            "id": "55f900d1664d86a9",
+            "id": "961be5a4251e5103",
             "type": "leaf",
             "state": {
-              "type": "graph",
+              "type": "empty",
               "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -259,8 +259,10 @@
       "obsidian-local-images-plus:Local Images Plus  0.16.4\r\nLocalize attachments (plugin folder)": false
     }
   },
-  "active": "55f900d1664d86a9",
+  "active": "961be5a4251e5103",
   "lastOpenFiles": [
+    "感染.md",
+    "感染性疾病（双语）大纲.md",
     "腹腔防粘连材料.md",
     "attachments/腹腔防粘连材料/ROS染色质疑.pdf",
     "attachments/腹腔防粘连材料/Janus网片.pdf",
@@ -305,7 +307,6 @@
     "消化道溃疡.md",
     "消化系统肿瘤.md",
     "肿瘤.md",
-    "核医学.md",
     "未命名.canvas"
   ]
 }
