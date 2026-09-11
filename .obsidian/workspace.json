@@ -8,22 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "961be5a4251e5103",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "attachments/腹腔防粘连材料/Janus网片.pdf",
-                "page": 13,
-                "left": -10,
-                "top": 41,
-                "zoom": 1.36
-              },
-              "icon": "lucide-file-text",
-              "title": "Janus网片"
-            }
-          },
-          {
             "id": "23bede74360e801f",
             "type": "leaf",
             "state": {
@@ -36,9 +20,24 @@
               "icon": "lucide-file",
               "title": "腹腔防粘连材料"
             }
+          },
+          {
+            "id": "52153df47192c695",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "attachments/腹腔防粘连材料/Janus网片.pdf",
+                "page": 15,
+                "left": -10,
+                "top": 703,
+                "zoom": 1.6719135325462477
+              },
+              "icon": "lucide-file-text",
+              "title": "Janus网片"
+            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -282,9 +281,12 @@
   },
   "active": "23bede74360e801f",
   "lastOpenFiles": [
-    "attachments/腹腔防粘连材料/EGCG_oxidative and imflammation.pdf",
+    "attachments/腹腔防粘连材料/Janus网片.pdf",
     "腹腔防粘连材料.md",
     "attachments/腹腔防粘连材料/EGCG_Nrf2.pdf",
+    "attachments/腹腔防粘连材料/An anti-inflammatory chondroitin sulfate-poly.pdf",
+    "attachments/腹腔防粘连材料/An anti-inflammatory chondroitin sulfate-poly.pdf.crdownload",
+    "attachments/腹腔防粘连材料/EGCG_oxidative and imflammation.pdf",
     "attachments/腹腔防粘连材料/1-s2.0-S1385894726022515-main.pdf",
     "attachments/腹腔防粘连材料/1-s2.0-S1385894726022515-main.pdf.crdownload",
     "EGCG.md",
@@ -295,9 +297,6 @@
     "attachments/腹腔防粘连材料/未确认 725917.crdownload",
     "attachments/腹腔防粘连材料/synergistic induction of reactive oxygen species storms and EGCG release.pdf",
     "attachments/腹腔防粘连材料/未确认 805915.crdownload",
-    "attachments/腹腔防粘连材料/ROS_EGCG_Nrf2",
-    "attachments/腹腔防粘连材料/未确认 854834.crdownload",
-    "attachments/腹腔防粘连材料/EGCG_ROS_Nrf2",
     "垂体腺瘤.md",
     "attachments/2e25186e4a07f2cc9c1af74ab71c23ec_MD5.jpg",
     "attachments/Pasted image 20260911084047.png",
