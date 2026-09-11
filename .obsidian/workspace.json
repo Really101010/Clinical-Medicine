@@ -52,23 +52,37 @@
             }
           },
           {
-            "id": "da40e9604a424997",
+            "id": "756a6063fe956ede",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "EGCG.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "EGCG"
+            }
+          },
+          {
+            "id": "02f1ff122ac9c7d3",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
-                "file": "attachments/腹腔防粘连材料/synergistic induction of reactive oxygen species storms and EGCG release.pdf",
-                "page": 16,
-                "left": -10,
-                "top": 338,
-                "zoom": 1.6719135325462477
+                "file": "attachments/腹腔防粘连材料/EGCG_oxidative and imflammation.pdf",
+                "page": 1,
+                "left": -4,
+                "top": 367,
+                "zoom": 1.671913529737612
               },
               "icon": "lucide-file-text",
-              "title": "synergistic induction of reactive oxygen species storms and EGCG release"
+              "title": "EGCG_oxidative and imflammation"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -148,7 +162,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "腹腔防粘连材料.md",
+                "file": "attachments/腹腔防粘连材料/EGCG_oxidative and imflammation.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -310,16 +324,22 @@
       "obsidian-local-images-plus:Local Images Plus  0.16.4\r\nLocalize attachments (plugin folder)": false
     }
   },
-  "active": "23bede74360e801f",
+  "active": "02f1ff122ac9c7d3",
   "lastOpenFiles": [
-    "attachments/腹腔防粘连材料/synergistic induction of reactive oxygen species storms and EGCG release.pdf",
+    "医学影像学概论.md",
+    "attachments/腹腔防粘连材料/EGCG_oxidative and imflammation.pdf",
+    "EGCG.md",
     "腹腔防粘连材料.md",
+    "attachments/腹腔防粘连材料/synergistic induction of reactive oxygen species storms and EGCG release.pdf",
+    "attachments/腹腔防粘连材料/未确认 805915.crdownload",
+    "attachments/腹腔防粘连材料/ROS_EGCG_Nrf2",
+    "attachments/腹腔防粘连材料/未确认 854834.crdownload",
+    "attachments/腹腔防粘连材料/EGCG_ROS_Nrf2",
+    "attachments/腹腔防粘连材料/未确认 499841.crdownload",
+    "attachments/腹腔防粘连材料/EGCG_oxidative and imflammation.pdf.crdownload",
     "attachments/腹腔防粘连材料/synergistic induction of reactive oxygen species storms and EGCG release.pdf.crdownload",
     "attachments/腹腔防粘连材料/EGCG_reverses_muscle-derived_IL-6.pdf",
     "垂体腺瘤.md",
-    "attachments/腹腔防粘连材料/EGCG_reverses_muscle-derived_IL-6.pdf.crdownload",
-    "attachments/腹腔防粘连材料/Janus网片.pdf",
-    "医学影像学概论.md",
     "attachments/2e25186e4a07f2cc9c1af74ab71c23ec_MD5.jpg",
     "attachments/Pasted image 20260911084047.png",
     "磁共振.md",
@@ -331,16 +351,11 @@
     "attachments/Pasted image 20260911080731.png",
     "感染.md",
     "感染性疾病（双语）大纲.md",
-    "attachments/腹腔防粘连材料/ROS染色质疑.pdf",
-    "attachments/腹腔防粘连材料/ROS染色质疑.pdf.crdownload",
     "diary/NOTES/腹腔防粘连材料后续安排.md",
     "BSA蛋白吸附.md",
     "WB.md",
     "划痕.md",
     "腹腔防粘连材料组图.md",
-    "attachments/腹腔防粘连材料/Janus网片.pdf.crdownload",
-    "attachments/腹腔防粘连材料/Janus网片-No.1",
-    "attachments/腹腔防粘连材料/未确认 863924.crdownload",
     "溃疡性结肠炎.md",
     "周围神经修复分子生物学.md",
     "神经损伤.md",
@@ -356,7 +371,6 @@
     "消化系统疾病.md",
     "硬皮病.md",
     "食管癌.md",
-    "胸腺瘤.md",
     "未命名.canvas"
   ]
 }
