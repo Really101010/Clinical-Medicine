@@ -61,16 +61,16 @@
               "state": {
                 "file": "attachments/腹腔防粘连材料/EGCG_Nrf2.pdf",
                 "page": 11,
-                "left": -101,
-                "top": 595,
-                "zoom": 1.29
+                "left": -80,
+                "top": 450,
+                "zoom": 1.36
               },
               "icon": "lucide-file-text",
               "title": "EGCG_Nrf2"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -312,14 +312,14 @@
       "obsidian-local-images-plus:Local Images Plus  0.16.4\r\nLocalize attachments (plugin folder)": false
     }
   },
-  "active": "23bede74360e801f",
+  "active": "96b613d23a84674f",
   "lastOpenFiles": [
+    "腹腔防粘连材料.md",
     "attachments/腹腔防粘连材料/EGCG_Nrf2.pdf",
     "attachments/腹腔防粘连材料/EGCG_oxidative and imflammation.pdf",
     "attachments/腹腔防粘连材料/1-s2.0-S1385894726022515-main.pdf",
     "attachments/腹腔防粘连材料/1-s2.0-S1385894726022515-main.pdf.crdownload",
     "EGCG.md",
-    "腹腔防粘连材料.md",
     "细胞活死.md",
     "attachments/7936d8b089284a934b2a65940d4e0069_MD5.jpg",
     "attachments/Pasted image 20260911104334.png",
@@ -330,7 +330,6 @@
     "attachments/腹腔防粘连材料/ROS_EGCG_Nrf2",
     "attachments/腹腔防粘连材料/未确认 854834.crdownload",
     "attachments/腹腔防粘连材料/EGCG_ROS_Nrf2",
-    "attachments/腹腔防粘连材料/未确认 499841.crdownload",
     "垂体腺瘤.md",
     "attachments/2e25186e4a07f2cc9c1af74ab71c23ec_MD5.jpg",
     "attachments/Pasted image 20260911084047.png",
