@@ -50,6 +50,22 @@
               "icon": "lucide-file",
               "title": "腹腔防粘连材料"
             }
+          },
+          {
+            "id": "da40e9604a424997",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "attachments/腹腔防粘连材料/synergistic induction of reactive oxygen species storms and EGCG release.pdf",
+                "page": 16,
+                "left": -10,
+                "top": 338,
+                "zoom": 1.6719135325462477
+              },
+              "icon": "lucide-file-text",
+              "title": "synergistic induction of reactive oxygen species storms and EGCG release"
+            }
           }
         ],
         "currentTab": 2
@@ -271,7 +287,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 251.7222900390625
+    "width": 251.7222900390625,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -295,9 +312,11 @@
   },
   "active": "23bede74360e801f",
   "lastOpenFiles": [
+    "attachments/腹腔防粘连材料/synergistic induction of reactive oxygen species storms and EGCG release.pdf",
+    "腹腔防粘连材料.md",
+    "attachments/腹腔防粘连材料/synergistic induction of reactive oxygen species storms and EGCG release.pdf.crdownload",
     "attachments/腹腔防粘连材料/EGCG_reverses_muscle-derived_IL-6.pdf",
     "垂体腺瘤.md",
-    "腹腔防粘连材料.md",
     "attachments/腹腔防粘连材料/EGCG_reverses_muscle-derived_IL-6.pdf.crdownload",
     "attachments/腹腔防粘连材料/Janus网片.pdf",
     "医学影像学概论.md",
@@ -325,9 +344,7 @@
     "溃疡性结肠炎.md",
     "周围神经修复分子生物学.md",
     "神经损伤.md",
-    "attachments/喉返神经修复/Specificity of peripheral nerve regeneration Interactions at the axon level.pdf",
     "神经再生.md",
-    "attachments/喉返神经修复/BDNF-TrkB signaling regulates HNK1 carbohydrate expression in regenerating motor nerves and promotes functional recovery after peripheral nerve repair.pdf",
     "喉返神经修复.md",
     "attachments/e33b3adea3814acfb71c4e47edd8fedb_MD5.jpg",
     "attachments/Pasted image 20260909153137.png",
