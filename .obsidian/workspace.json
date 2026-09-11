@@ -50,25 +50,9 @@
               "icon": "lucide-file",
               "title": "腹腔防粘连材料"
             }
-          },
-          {
-            "id": "cb24124576dfbba1",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "attachments/腹腔防粘连材料/EGCG_reverses_muscle-derived_IL-6.pdf",
-                "page": 10,
-                "left": 21,
-                "top": 11,
-                "zoom": 1.48
-              },
-              "icon": "lucide-file-text",
-              "title": "EGCG_reverses_muscle-derived_IL-6"
-            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -148,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "attachments/腹腔防粘连材料/EGCG_reverses_muscle-derived_IL-6.pdf",
+                "file": "腹腔防粘连材料.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -309,10 +293,11 @@
       "obsidian-local-images-plus:Local Images Plus  0.16.4\r\nLocalize attachments (plugin folder)": false
     }
   },
-  "active": "cb24124576dfbba1",
+  "active": "23bede74360e801f",
   "lastOpenFiles": [
-    "腹腔防粘连材料.md",
     "attachments/腹腔防粘连材料/EGCG_reverses_muscle-derived_IL-6.pdf",
+    "垂体腺瘤.md",
+    "腹腔防粘连材料.md",
     "attachments/腹腔防粘连材料/EGCG_reverses_muscle-derived_IL-6.pdf.crdownload",
     "attachments/腹腔防粘连材料/Janus网片.pdf",
     "医学影像学概论.md",
@@ -355,7 +340,6 @@
     "硬皮病.md",
     "食管癌.md",
     "胸腺瘤.md",
-    "大肠息肉.md",
     "未命名.canvas"
   ]
 }
