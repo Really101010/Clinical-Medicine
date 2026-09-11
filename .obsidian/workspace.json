@@ -14,9 +14,9 @@
               "type": "pdf",
               "state": {
                 "file": "attachments/腹腔防粘连材料/Janus网片.pdf",
-                "page": 14,
+                "page": 13,
                 "left": -10,
-                "top": 710,
+                "top": 211,
                 "zoom": 1.36
               },
               "icon": "lucide-file-text",
@@ -37,7 +37,8 @@
               "title": "腹腔防粘连材料"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -117,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "attachments/腹腔防粘连材料/Janus网片.pdf",
+                "file": "腹腔防粘连材料.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -278,11 +279,12 @@
       "obsidian-local-images-plus:Local Images Plus  0.16.4\r\nLocalize attachments (plugin folder)": false
     }
   },
-  "active": "961be5a4251e5103",
+  "active": "593bf08c942ead39",
   "lastOpenFiles": [
-    "腹腔防粘连材料.md",
-    "CNS影像诊断学.md",
     "attachments/腹腔防粘连材料/Janus网片.pdf",
+    "腹腔防粘连材料.md",
+    "磁共振.md",
+    "CNS影像诊断学.md",
     "attachments/32063b9afa29db3e5ef771dff167880a_MD5.jpg",
     "attachments/Pasted image 20260911080854.png",
     "attachments/Pasted image 20260911080852.png",
@@ -324,7 +326,6 @@
     "食管癌.md",
     "胸腺瘤.md",
     "大肠息肉.md",
-    "结直肠息肉.md",
     "未命名.canvas"
   ]
 }
