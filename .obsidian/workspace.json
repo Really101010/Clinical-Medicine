@@ -50,9 +50,25 @@
               "icon": "lucide-file",
               "title": "腹腔防粘连材料"
             }
+          },
+          {
+            "id": "cb24124576dfbba1",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "attachments/腹腔防粘连材料/EGCG_reverses_muscle-derived_IL-6.pdf",
+                "page": 10,
+                "left": 21,
+                "top": 11,
+                "zoom": 1.48
+              },
+              "icon": "lucide-file-text",
+              "title": "EGCG_reverses_muscle-derived_IL-6"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -132,7 +148,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "腹腔防粘连材料.md",
+                "file": "attachments/腹腔防粘连材料/EGCG_reverses_muscle-derived_IL-6.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -293,10 +309,12 @@
       "obsidian-local-images-plus:Local Images Plus  0.16.4\r\nLocalize attachments (plugin folder)": false
     }
   },
-  "active": "23bede74360e801f",
+  "active": "cb24124576dfbba1",
   "lastOpenFiles": [
-    "attachments/腹腔防粘连材料/Janus网片.pdf",
     "腹腔防粘连材料.md",
+    "attachments/腹腔防粘连材料/EGCG_reverses_muscle-derived_IL-6.pdf",
+    "attachments/腹腔防粘连材料/EGCG_reverses_muscle-derived_IL-6.pdf.crdownload",
+    "attachments/腹腔防粘连材料/Janus网片.pdf",
     "医学影像学概论.md",
     "attachments/2e25186e4a07f2cc9c1af74ab71c23ec_MD5.jpg",
     "attachments/Pasted image 20260911084047.png",
@@ -325,9 +343,7 @@
     "attachments/喉返神经修复/Specificity of peripheral nerve regeneration Interactions at the axon level.pdf",
     "神经再生.md",
     "attachments/喉返神经修复/BDNF-TrkB signaling regulates HNK1 carbohydrate expression in regenerating motor nerves and promotes functional recovery after peripheral nerve repair.pdf",
-    "attachments/喉返神经修复/BDNF-TrkB signaling regulates HNK1 carbohydrate expression in regenerating motor nerves and promotes functional recovery after peripheral nerve repair.pdf.crdownload",
     "喉返神经修复.md",
-    "attachments/喉返神经修复/Specificity of peripheral nerve regeneration Interactions at the axon level.pdf.crdownload",
     "attachments/e33b3adea3814acfb71c4e47edd8fedb_MD5.jpg",
     "attachments/Pasted image 20260909153137.png",
     "炎症性肠病.md",
