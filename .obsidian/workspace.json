@@ -16,7 +16,7 @@
                 "file": "attachments/腹腔防粘连材料/Janus网片.pdf",
                 "page": 13,
                 "left": -10,
-                "top": 33,
+                "top": 41,
                 "zoom": 1.36
               },
               "icon": "lucide-file-text",
@@ -51,7 +51,8 @@
               "title": "腹腔防粘连材料"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -131,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "attachments/腹腔防粘连材料/Janus网片.pdf",
+                "file": "腹腔防粘连材料.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -292,11 +293,11 @@
       "obsidian-local-images-plus:Local Images Plus  0.16.4\r\nLocalize attachments (plugin folder)": false
     }
   },
-  "active": "961be5a4251e5103",
+  "active": "23bede74360e801f",
   "lastOpenFiles": [
-    "医学影像学概论.md",
-    "腹腔防粘连材料.md",
     "attachments/腹腔防粘连材料/Janus网片.pdf",
+    "腹腔防粘连材料.md",
+    "医学影像学概论.md",
     "attachments/2e25186e4a07f2cc9c1af74ab71c23ec_MD5.jpg",
     "attachments/Pasted image 20260911084047.png",
     "磁共振.md",
