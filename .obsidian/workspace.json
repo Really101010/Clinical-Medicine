@@ -36,9 +36,25 @@
               "icon": "lucide-file-text",
               "title": "hypoxia and adhesion"
             }
+          },
+          {
+            "id": "3bd52ef7ff0bcf60",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "attachments/腹腔防粘连材料/Polypropylene mesh coated with hyaluronic acid_polyvinyl alcohol composite hydrogel for preventing bowel adhesion.pdf",
+                "page": 1,
+                "left": -10,
+                "top": 663,
+                "zoom": 1.671913529737612
+              },
+              "icon": "lucide-file-text",
+              "title": "Polypropylene mesh coated with hyaluronic acid_polyvinyl alcohol composite hydrogel for preventing bowel adhesion"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -280,20 +296,21 @@
       "obsidian-local-images-plus:Local Images Plus  0.16.4\r\nLocalize attachments (plugin folder)": false
     }
   },
-  "active": "caeee6d798313c64",
+  "active": "3bd52ef7ff0bcf60",
   "lastOpenFiles": [
+    "attachments/腹腔防粘连材料/hypoxia and adhesion.pdf",
+    "attachments/腹腔防粘连材料/Polypropylene mesh coated with hyaluronic acid_polyvinyl alcohol composite hydrogel for preventing bowel adhesion.pdf",
+    "attachments/腹腔防粘连材料/Polypropylene mesh coated with hyaluronic acid_polyvinyl alcohol composite hydrogel for preventing bowel adhesion.pdf.crdownload",
     "attachments/腹腔防粘连材料/A Bioinspired Defect-Tolerant Hydrogel.pdf",
     "文献整理-collagen趋势.md",
     "腹腔防粘连材料.md",
     "attachments/腹腔防粘连材料/A Bioinspired Defect-Tolerant Hydrogel.pdf.crdownload",
-    "attachments/腹腔防粘连材料/hypoxia and adhesion.pdf",
     "attachments/腹腔防粘连材料/An anti-inflammatory chondroitin sulfate-poly.pdf",
     "attachments/腹腔防粘连材料/EGCG_Nrf2.pdf",
     "attachments/腹腔防粘连材料/Advanced postoperative tissue antiadhesive membranes enabled with electrospun nanofibers.pdf",
     "attachments/腹腔防粘连材料/Janus网片.pdf",
     "attachments/腹腔防粘连材料/Advanced postoperative tissue antiadhesive membranes enabled with electrospun nanofibers.pdf.crdownload",
     "attachments/腹腔防粘连材料/hypoxia and adhesion.pdf.crdownload",
-    "attachments/腹腔防粘连材料/An anti-inflammatory chondroitin sulfate-poly.pdf.crdownload",
     "EGCG.md",
     "细胞活死.md",
     "attachments/7936d8b089284a934b2a65940d4e0069_MD5.jpg",
