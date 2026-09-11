@@ -46,15 +46,31 @@
                 "file": "attachments/腹腔防粘连材料/EGCG_oxidative and imflammation.pdf",
                 "page": 1,
                 "left": -4,
-                "top": 289,
+                "top": 727,
                 "zoom": 1.671913529737612
               },
               "icon": "lucide-file-text",
               "title": "EGCG_oxidative and imflammation"
             }
+          },
+          {
+            "id": "96b613d23a84674f",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "attachments/腹腔防粘连材料/EGCG_Nrf2.pdf",
+                "page": 1,
+                "left": -10,
+                "top": 798,
+                "zoom": 1.6719135325462477
+              },
+              "icon": "lucide-file-text",
+              "title": "EGCG_Nrf2"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -134,7 +150,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "attachments/腹腔防粘连材料/EGCG_oxidative and imflammation.pdf",
+                "file": "attachments/腹腔防粘连材料/EGCG_Nrf2.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -296,8 +312,10 @@
       "obsidian-local-images-plus:Local Images Plus  0.16.4\r\nLocalize attachments (plugin folder)": false
     }
   },
-  "active": "02f1ff122ac9c7d3",
+  "active": "96b613d23a84674f",
   "lastOpenFiles": [
+    "attachments/腹腔防粘连材料/EGCG_oxidative and imflammation.pdf",
+    "attachments/腹腔防粘连材料/EGCG_Nrf2.pdf",
     "attachments/腹腔防粘连材料/1-s2.0-S1385894726022515-main.pdf",
     "attachments/腹腔防粘连材料/1-s2.0-S1385894726022515-main.pdf.crdownload",
     "EGCG.md",
@@ -307,14 +325,12 @@
     "attachments/Pasted image 20260911104334.png",
     "医学影像学概论.md",
     "attachments/腹腔防粘连材料/未确认 725917.crdownload",
-    "attachments/腹腔防粘连材料/EGCG_oxidative and imflammation.pdf",
     "attachments/腹腔防粘连材料/synergistic induction of reactive oxygen species storms and EGCG release.pdf",
     "attachments/腹腔防粘连材料/未确认 805915.crdownload",
     "attachments/腹腔防粘连材料/ROS_EGCG_Nrf2",
     "attachments/腹腔防粘连材料/未确认 854834.crdownload",
     "attachments/腹腔防粘连材料/EGCG_ROS_Nrf2",
     "attachments/腹腔防粘连材料/未确认 499841.crdownload",
-    "attachments/腹腔防粘连材料/EGCG_oxidative and imflammation.pdf.crdownload",
     "垂体腺瘤.md",
     "attachments/2e25186e4a07f2cc9c1af74ab71c23ec_MD5.jpg",
     "attachments/Pasted image 20260911084047.png",
