@@ -31,6 +31,9 @@
 > 
 > 促愈合叙述
 
+> [!PDF|blueee] [A Bioinspired Defect-Tolerant Hydrogel, p.11](A%20Bioinspired%20Defect-Tolerant%20Hydrogel.pdf#page=11&selection=177,46,196,50&color=blueee)
+> > how that <mark style="background-color: #1A4F10; color: white">collagen expression levels in the BFT patch group were significantly higher</mark> than in the other groups, highlighting its distinctive role in promoting tissue regeneration.
+
 > [!PDF|yellow] [Advanced postoperative tissue antiadhesive membranes enabled with electrospun nanofibers, p.1650](Advanced%20postoperative%20tissue%20antiadhesive%20membranes%20enabled%20with%20electrospun%20nanofibers.pdf#page=8&selection=3,28,6,36&color=yellow)
 > > Moreover, the porous structure of the nanofibers allows signaling molecules and nutrients to be exchanged through the membrane, <mark style="background-color: #1A4F10; color: white">increasing collagen levels and stimulating tendon regeneration</mark>.
 

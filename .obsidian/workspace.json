@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "腹腔防粘连材料.md",
+                "file": "文献整理-collagen趋势.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "腹腔防粘连材料"
+              "title": "文献整理-collagen趋势"
             }
           },
           {
@@ -37,7 +37,8 @@
               "title": "hypoxia and adhesion"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -279,20 +280,20 @@
       "obsidian-local-images-plus:Local Images Plus  0.16.4\r\nLocalize attachments (plugin folder)": false
     }
   },
-  "active": "23bede74360e801f",
+  "active": "caeee6d798313c64",
   "lastOpenFiles": [
+    "attachments/腹腔防粘连材料/A Bioinspired Defect-Tolerant Hydrogel.pdf",
+    "文献整理-collagen趋势.md",
+    "腹腔防粘连材料.md",
+    "attachments/腹腔防粘连材料/A Bioinspired Defect-Tolerant Hydrogel.pdf.crdownload",
     "attachments/腹腔防粘连材料/hypoxia and adhesion.pdf",
     "attachments/腹腔防粘连材料/An anti-inflammatory chondroitin sulfate-poly.pdf",
     "attachments/腹腔防粘连材料/EGCG_Nrf2.pdf",
-    "文献整理-collagen趋势.md",
-    "腹腔防粘连材料.md",
     "attachments/腹腔防粘连材料/Advanced postoperative tissue antiadhesive membranes enabled with electrospun nanofibers.pdf",
     "attachments/腹腔防粘连材料/Janus网片.pdf",
     "attachments/腹腔防粘连材料/Advanced postoperative tissue antiadhesive membranes enabled with electrospun nanofibers.pdf.crdownload",
     "attachments/腹腔防粘连材料/hypoxia and adhesion.pdf.crdownload",
     "attachments/腹腔防粘连材料/An anti-inflammatory chondroitin sulfate-poly.pdf.crdownload",
-    "attachments/腹腔防粘连材料/EGCG_oxidative and imflammation.pdf",
-    "attachments/腹腔防粘连材料/1-s2.0-S1385894726022515-main.pdf",
     "EGCG.md",
     "细胞活死.md",
     "attachments/7936d8b089284a934b2a65940d4e0069_MD5.jpg",
