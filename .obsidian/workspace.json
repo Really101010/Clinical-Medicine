@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "感染性疾病.md",
+                "file": "感染.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "感染性疾病"
+              "title": "感染"
             }
           }
         ],
@@ -294,8 +294,9 @@
   },
   "active": "2e4a3c8048059403",
   "lastOpenFiles": [
-    "感染.md",
+    "感染性疾病.md",
     "病原病学总论.md",
+    "感染.md",
     "感染性疾病（双语）大纲.md",
     "HIV.md",
     "AIDS.md",
@@ -329,7 +330,6 @@
     "attachments/527cd43db0ac3a174afe9cb18d332bb7_MD5.jpg",
     "attachments/Pasted image 20260914093103.png",
     "头部检查.md",
-    "淋巴结检查.md",
     "attachments/腹腔防粘连材料/hypoxia and adhesion.pdf",
     "attachments/腹腔防粘连材料/Polypropylene mesh coated with hyaluronic acid_polyvinyl alcohol composite hydrogel for preventing bowel adhesion.pdf",
     "attachments/腹腔防粘连材料/Polypropylene mesh coated with hyaluronic acid_polyvinyl alcohol composite hydrogel for preventing bowel adhesion.pdf.crdownload",
