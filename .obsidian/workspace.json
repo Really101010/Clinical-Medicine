@@ -62,9 +62,23 @@
               "icon": "lucide-file",
               "title": "脑梗死"
             }
+          },
+          {
+            "id": "a5e3c9dc81533690",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "脑卒中.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "脑卒中"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -144,7 +158,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "脑梗死.md",
+                "file": "失语.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -306,8 +320,10 @@
       "obsidian-local-images-plus:Local Images Plus  0.16.4\r\nLocalize attachments (plugin folder)": false
     }
   },
-  "active": "db6a1f2802916df4",
+  "active": "e47da401c738d888",
   "lastOpenFiles": [
+    "脑卒中.md",
+    "脑梗死.md",
     "失语.md",
     "神经病学概论.md",
     "脑.md",
@@ -342,8 +358,6 @@
     "皮疹.md",
     "皮肤.md",
     "霍奇金病.md",
-    "疱疹病毒.md",
-    "HSV.md",
     "attachments/腹腔防粘连材料/hypoxia and adhesion.pdf",
     "attachments/腹腔防粘连材料/Polypropylene mesh coated with hyaluronic acid_polyvinyl alcohol composite hydrogel for preventing bowel adhesion.pdf",
     "attachments/腹腔防粘连材料/Polypropylene mesh coated with hyaluronic acid_polyvinyl alcohol composite hydrogel for preventing bowel adhesion.pdf.crdownload",
