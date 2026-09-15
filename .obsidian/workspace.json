@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "溃疡性结肠炎.md",
+                "file": "BSA蛋白吸附.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "溃疡性结肠炎"
+              "title": "BSA蛋白吸附"
             }
           }
         ]
@@ -265,6 +265,7 @@
   },
   "active": "549f0575c386b119",
   "lastOpenFiles": [
+    "溃疡性结肠炎.md",
     "炎症性肠病.md",
     "肠易激综合征.md",
     "消化系统疾病.md",
@@ -292,7 +293,6 @@
     "AIDS.md",
     "抗菌药物.md",
     "细菌性痢疾.md",
-    "胃炎.md",
     "attachments/38a570e190864197b8bda6d889918813_MD5.jpg",
     "attachments/Pasted image 20260914174154.png",
     "attachments/d5315d12d348b98b26fc9efe87097d84_MD5.jpg",
