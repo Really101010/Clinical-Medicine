@@ -13,12 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BSA蛋白吸附.md",
+                "file": "腹腔防粘连材料试剂耗材.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "BSA蛋白吸附"
+              "title": "腹腔防粘连材料试剂耗材"
+            }
+          },
+          {
+            "id": "89cc690eb7334d8f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "腹腔防粘连材料试剂耗材.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "腹腔防粘连材料试剂耗材"
             }
           }
         ]
@@ -265,6 +279,9 @@
   },
   "active": "549f0575c386b119",
   "lastOpenFiles": [
+    "BSA蛋白吸附.md",
+    "腹腔防粘连材料试剂耗材.md",
+    "腹腔防粘连材料.md",
     "溃疡性结肠炎.md",
     "炎症性肠病.md",
     "肠易激综合征.md",
@@ -290,9 +307,6 @@
     "attachments/c29386d92d160450634f7f16d384b88d_MD5.jpg",
     "attachments/Pasted image 20260914201655.png",
     "HIV.md",
-    "AIDS.md",
-    "抗菌药物.md",
-    "细菌性痢疾.md",
     "attachments/38a570e190864197b8bda6d889918813_MD5.jpg",
     "attachments/Pasted image 20260914174154.png",
     "attachments/d5315d12d348b98b26fc9efe87097d84_MD5.jpg",
