@@ -3,6 +3,7 @@ aliases:
   - PD
   - 帕金森病
   - 帕金森
+  - 震颤麻痹
 tags:
   - Neurology
 ---
