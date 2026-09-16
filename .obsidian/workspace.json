@@ -35,8 +35,7 @@
               "title": "放射性核素显像术"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -277,10 +276,10 @@
       "obsidian-local-images-plus:Local Images Plus  0.16.4\r\nLocalize attachments (plugin folder)": false
     }
   },
-  "active": "02b456030b040f3d",
+  "active": "dde89a95ea8f25ba",
   "lastOpenFiles": [
-    "核医学Ⅱ教学大纲.md",
     "放射性核素显像术.md",
+    "核医学Ⅱ教学大纲.md",
     "放射性示踪技术.md",
     "医学影像学概论.md",
     "医学影像诊断学Ⅰ教学大纲.md",
