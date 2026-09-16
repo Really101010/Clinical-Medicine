@@ -13,30 +13,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "神经病学概论.md",
+                "file": "神经解剖学.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "神经病学概论"
-            }
-          },
-          {
-            "id": "7abc46d760eaf9e7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "脑.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "脑"
+              "title": "神经解剖学"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -115,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "脑.md",
+                "file": "神经解剖学.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -177,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "脑.md",
+                "file": "神经解剖学.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -192,7 +177,7 @@
             "state": {
               "type": "footnotes",
               "state": {
-                "file": "脑.md"
+                "file": "神经解剖学.md"
               },
               "icon": "lucide-file-signature",
               "title": "Footnotes"
@@ -250,12 +235,12 @@
               "title": "Calendar"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 251.7222900390625,
-    "collapsed": true
+    "width": 251.7222900390625
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -277,12 +262,20 @@
       "obsidian-local-images-plus:Local Images Plus  0.16.4\r\nLocalize attachments (plugin folder)": false
     }
   },
-  "active": "7abc46d760eaf9e7",
+  "active": "5ce180dfc9ecfea6",
   "lastOpenFiles": [
+    "神经病学概论.md",
+    "脑.md",
+    "额叶.md",
+    "attachments/da580c0c9a6536098d858d030c7cf709_MD5.jpg",
+    "attachments/Pasted image 20260916110929.png",
+    "顶叶.md",
+    "侧脑室.md",
+    "attachments/4ed6b7788d0312abcd8e40d1892e1d68_MD5.jpg",
+    "attachments/Pasted image 20260916105844.png",
     "内囊.md",
     "丘脑皮质束.md",
     "皮质核束.md",
-    "脑.md",
     "基底核.md",
     "亨廷顿舞蹈病.md",
     "神经系统变性疾病.md",
@@ -296,11 +289,7 @@
     "attachments/Pasted image 20260916101857.png",
     "催产素.md",
     "抗利尿激素.md",
-    "attachments/53f8e02256b762ad9992f78bbf425efa_MD5.jpg",
-    "attachments/Pasted image 20260916101616.png",
     "后丘脑.md",
-    "attachments/5ca36f4cc4c850789c17d43693a1a8d3_MD5.jpg",
-    "attachments/Pasted image 20260916101331.png",
     "背侧丘脑.md",
     "内侧丘系.md",
     "腹后外侧核.md",
@@ -310,11 +299,7 @@
     "第三脑室.md",
     "中枢神经系统.md",
     "神经解剖学.md",
-    "神经病学概论.md",
     "核医学Ⅱ教学大纲.md",
-    "荧光现象.md",
-    "闪烁探测器.md",
-    "电离效应.md",
     "attachments/腹腔防粘连材料/hypoxia and adhesion.pdf",
     "attachments/腹腔防粘连材料/Polypropylene mesh coated with hyaluronic acid_polyvinyl alcohol composite hydrogel for preventing bowel adhesion.pdf",
     "attachments/腹腔防粘连材料/Polypropylene mesh coated with hyaluronic acid_polyvinyl alcohol composite hydrogel for preventing bowel adhesion.pdf.crdownload",
