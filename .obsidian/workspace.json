@@ -4,38 +4,39 @@
     "type": "split",
     "children": [
       {
-        "id": "0422dce172ec2c7b",
+        "id": "cf3e9c38fa33cc75",
         "type": "tabs",
         "children": [
           {
-            "id": "549f0575c386b119",
+            "id": "dde89a95ea8f25ba",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "腹腔防粘连材料试剂耗材.md",
+                "file": "核医学Ⅱ教学大纲.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "腹腔防粘连材料试剂耗材"
+              "title": "核医学Ⅱ教学大纲"
             }
           },
           {
-            "id": "89cc690eb7334d8f",
+            "id": "02b456030b040f3d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "腹腔防粘连材料试剂耗材.md",
+                "file": "放射性核素显像术.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "腹腔防粘连材料试剂耗材"
+              "title": "放射性核素显像术"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -93,8 +94,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -277,10 +277,24 @@
       "obsidian-local-images-plus:Local Images Plus  0.16.4\r\nLocalize attachments (plugin folder)": false
     }
   },
-  "active": "549f0575c386b119",
+  "active": "02b456030b040f3d",
   "lastOpenFiles": [
-    "BSA蛋白吸附.md",
+    "核医学Ⅱ教学大纲.md",
+    "放射性核素显像术.md",
+    "放射性示踪技术.md",
+    "医学影像学概论.md",
+    "医学影像诊断学Ⅰ教学大纲.md",
+    "介入放射学.md",
+    "肌骨系统影像.md",
+    "泌尿及生殖系统影像.md",
+    "胃肠道影像.md",
+    "肝胆胰脾影像.md",
+    "循环系统影像.md",
+    "呼吸系统影像.md",
+    "头颈部影像.md",
+    "CNS影像诊断学.md",
     "腹腔防粘连材料试剂耗材.md",
+    "BSA蛋白吸附.md",
     "腹腔防粘连材料.md",
     "溃疡性结肠炎.md",
     "炎症性肠病.md",
@@ -291,22 +305,8 @@
     "感染性疾病（双语）大纲.md",
     "感染.md",
     "病原病学总论.md",
-    "感染性疾病.md",
-    "传染病.md",
-    "皮疹.md",
-    "流脑.md",
-    "丝虫病.md",
-    "斑丘疹.md",
-    "科萨奇病毒.md",
-    "风疹.md",
-    "登革热.md",
-    "玫瑰疹.md",
-    "丘疹.md",
-    "斑疹.md",
-    "乙脑.md",
     "attachments/c29386d92d160450634f7f16d384b88d_MD5.jpg",
     "attachments/Pasted image 20260914201655.png",
-    "HIV.md",
     "attachments/38a570e190864197b8bda6d889918813_MD5.jpg",
     "attachments/Pasted image 20260914174154.png",
     "attachments/d5315d12d348b98b26fc9efe87097d84_MD5.jpg",
