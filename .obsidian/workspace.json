@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "神经解剖学"
             }
+          },
+          {
+            "id": "40703bc22dd05ed0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "皮质核束.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "皮质核束"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -100,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "神经解剖学.md",
+                "file": "皮质核束.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -162,7 +177,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "神经解剖学.md",
+                "file": "皮质核束.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -177,7 +192,7 @@
             "state": {
               "type": "footnotes",
               "state": {
-                "file": "神经解剖学.md"
+                "file": "皮质核束.md"
               },
               "icon": "lucide-file-signature",
               "title": "Footnotes"
@@ -240,7 +255,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 251.7222900390625
+    "width": 251.7222900390625,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -262,8 +278,14 @@
       "obsidian-local-images-plus:Local Images Plus  0.16.4\r\nLocalize attachments (plugin folder)": false
     }
   },
-  "active": "5ce180dfc9ecfea6",
+  "active": "40703bc22dd05ed0",
   "lastOpenFiles": [
+    "神经解剖学.md",
+    "皮质核束.md",
+    "attachments/f875d369ab9983a1bb62c5e03ba56cf7_MD5.jpg",
+    "attachments/Pasted image 20260916112158.png",
+    "attachments/1cc6d3daecf1aab51116d882b401289b_MD5.jpg",
+    "attachments/Pasted image 20260916112123.png",
     "神经病学概论.md",
     "脑.md",
     "额叶.md",
@@ -275,18 +297,13 @@
     "attachments/Pasted image 20260916105844.png",
     "内囊.md",
     "丘脑皮质束.md",
-    "皮质核束.md",
     "基底核.md",
     "亨廷顿舞蹈病.md",
     "神经系统变性疾病.md",
     "Parkinson 病.md",
     "attachments/1e43c28faa061bc340404348e3f804e2_MD5.jpg",
     "attachments/Pasted image 20260916103152.png",
-    "attachments/891791287c3558d31756740b5adf7fa0_MD5.jpg",
-    "attachments/Pasted image 20260916103118.png",
     "下丘脑.md",
-    "attachments/d1ccd66408784c22cb05c5f52f830948_MD5.jpg",
-    "attachments/Pasted image 20260916101857.png",
     "催产素.md",
     "抗利尿激素.md",
     "后丘脑.md",
@@ -298,8 +315,6 @@
     "三叉丘系.md",
     "第三脑室.md",
     "中枢神经系统.md",
-    "神经解剖学.md",
-    "核医学Ⅱ教学大纲.md",
     "attachments/腹腔防粘连材料/hypoxia and adhesion.pdf",
     "attachments/腹腔防粘连材料/Polypropylene mesh coated with hyaluronic acid_polyvinyl alcohol composite hydrogel for preventing bowel adhesion.pdf",
     "attachments/腹腔防粘连材料/Polypropylene mesh coated with hyaluronic acid_polyvinyl alcohol composite hydrogel for preventing bowel adhesion.pdf.crdownload",
