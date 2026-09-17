@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "神经解剖学.md",
+                "file": "神经病学概论.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "神经解剖学"
+              "title": "神经病学概论"
             }
           }
         ]
@@ -100,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "皮质核束.md",
+                "file": "神经病学概论.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "皮质核束.md",
+                "file": "神经病学概论.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -235,8 +235,7 @@
               "title": "Calendar"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
@@ -265,6 +264,8 @@
   },
   "active": "5ce180dfc9ecfea6",
   "lastOpenFiles": [
+    "神经解剖学.md",
+    "脑脊液.md",
     "attachments/a500fea99bfea6b1de05f14f66b9289d_MD5.jpg",
     "attachments/Pasted image 20260917082215.png",
     "attachments/46380b406eef8d2e505597bde578489d_MD5.jpg",
@@ -272,7 +273,6 @@
     "attachments/beb99af529d245aeb47f4ce7ecd3f9ae_MD5.jpg",
     "attachments/Pasted image 20260917081710.png",
     "运动传导通路.md",
-    "神经解剖学.md",
     "视觉传导通路.md",
     "下运动神经元.md",
     "上运动神经元.md",
@@ -285,7 +285,6 @@
     "attachments/喉返神经修复/UVCP.pdf",
     "attachments/f875d369ab9983a1bb62c5e03ba56cf7_MD5.jpg",
     "attachments/Pasted image 20260916112158.png",
-    "attachments/1cc6d3daecf1aab51116d882b401289b_MD5.jpg",
     "神经病学概论.md",
     "脑.md",
     "额叶.md",
