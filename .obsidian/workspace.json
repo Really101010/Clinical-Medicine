@@ -20,23 +20,8 @@
               "icon": "lucide-file",
               "title": "神经解剖学"
             }
-          },
-          {
-            "id": "99fdd21cac756a9e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "皮质核束.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "皮质核束"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -278,45 +263,45 @@
       "obsidian-local-images-plus:Local Images Plus  0.16.4\r\nLocalize attachments (plugin folder)": false
     }
   },
-  "active": "99fdd21cac756a9e",
+  "active": "5ce180dfc9ecfea6",
   "lastOpenFiles": [
+    "attachments/a500fea99bfea6b1de05f14f66b9289d_MD5.jpg",
+    "attachments/Pasted image 20260917082215.png",
+    "attachments/46380b406eef8d2e505597bde578489d_MD5.jpg",
+    "attachments/Pasted image 20260917081815.png",
+    "attachments/beb99af529d245aeb47f4ce7ecd3f9ae_MD5.jpg",
+    "attachments/Pasted image 20260917081710.png",
+    "运动传导通路.md",
+    "神经解剖学.md",
+    "视觉传导通路.md",
     "下运动神经元.md",
     "上运动神经元.md",
+    "皮质脊髓束.md",
     "皮质核束.md",
-    "神经解剖学.md",
+    "attachments/e39746dcddddffdc53389d582ea9678b_MD5.jpg",
+    "attachments/Pasted image 20260917080939.png",
     "喉返神经解剖.md",
     "喉返神经损伤.md",
     "attachments/喉返神经修复/UVCP.pdf",
     "attachments/f875d369ab9983a1bb62c5e03ba56cf7_MD5.jpg",
     "attachments/Pasted image 20260916112158.png",
     "attachments/1cc6d3daecf1aab51116d882b401289b_MD5.jpg",
-    "attachments/Pasted image 20260916112123.png",
     "神经病学概论.md",
     "脑.md",
     "额叶.md",
-    "attachments/da580c0c9a6536098d858d030c7cf709_MD5.jpg",
-    "attachments/Pasted image 20260916110929.png",
     "顶叶.md",
     "侧脑室.md",
-    "attachments/4ed6b7788d0312abcd8e40d1892e1d68_MD5.jpg",
-    "attachments/Pasted image 20260916105844.png",
     "内囊.md",
     "丘脑皮质束.md",
     "基底核.md",
     "亨廷顿舞蹈病.md",
     "神经系统变性疾病.md",
     "Parkinson 病.md",
-    "attachments/1e43c28faa061bc340404348e3f804e2_MD5.jpg",
-    "attachments/Pasted image 20260916103152.png",
     "下丘脑.md",
     "催产素.md",
     "抗利尿激素.md",
     "后丘脑.md",
     "背侧丘脑.md",
-    "内侧丘系.md",
-    "腹后外侧核.md",
-    "腹后内侧核.md",
-    "孤束核.md",
     "attachments/腹腔防粘连材料/hypoxia and adhesion.pdf",
     "attachments/腹腔防粘连材料/Polypropylene mesh coated with hyaluronic acid_polyvinyl alcohol composite hydrogel for preventing bowel adhesion.pdf",
     "attachments/腹腔防粘连材料/Polypropylene mesh coated with hyaluronic acid_polyvinyl alcohol composite hydrogel for preventing bowel adhesion.pdf.crdownload",
