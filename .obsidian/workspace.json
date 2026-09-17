@@ -4,24 +4,53 @@
     "type": "split",
     "children": [
       {
-        "id": "2699fd3f770901ed",
+        "id": "84783353b77e378f",
         "type": "tabs",
         "children": [
           {
-            "id": "5ce180dfc9ecfea6",
+            "id": "8b43ffaa3fcf0d86",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "神经系统疾病.md",
+                "file": "感染性疾病（双语）大纲.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "神经系统疾病"
+              "title": "感染性疾病（双语）大纲"
+            }
+          },
+          {
+            "id": "0fab980d03f780a1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "传单.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "传单"
+            }
+          },
+          {
+            "id": "be5031e818053a56",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "巨细胞病毒.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "巨细胞病毒"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -162,7 +191,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "神经系统疾病.md",
+                "file": "巨细胞病毒.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -240,7 +269,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 251.7222900390625
+    "width": 251.7222900390625,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -262,10 +292,12 @@
       "obsidian-local-images-plus:Local Images Plus  0.16.4\r\nLocalize attachments (plugin folder)": false
     }
   },
-  "active": "5ce180dfc9ecfea6",
+  "active": "be5031e818053a56",
   "lastOpenFiles": [
-    "神经病学概论.md",
+    "传单.md",
+    "感染性疾病（双语）大纲.md",
     "神经系统疾病.md",
+    "神经病学概论.md",
     "神经解剖学.md",
     "脑脊液.md",
     "attachments/a500fea99bfea6b1de05f14f66b9289d_MD5.jpg",
@@ -299,8 +331,6 @@
     "Parkinson 病.md",
     "下丘脑.md",
     "催产素.md",
-    "抗利尿激素.md",
-    "后丘脑.md",
     "attachments/腹腔防粘连材料/hypoxia and adhesion.pdf",
     "attachments/腹腔防粘连材料/Polypropylene mesh coated with hyaluronic acid_polyvinyl alcohol composite hydrogel for preventing bowel adhesion.pdf",
     "attachments/腹腔防粘连材料/Polypropylene mesh coated with hyaluronic acid_polyvinyl alcohol composite hydrogel for preventing bowel adhesion.pdf.crdownload",
