@@ -4,53 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "84783353b77e378f",
+        "id": "00bbbbea707d531e",
         "type": "tabs",
         "children": [
           {
-            "id": "8b43ffaa3fcf0d86",
+            "id": "8f904cd6d293c9e0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "感染性疾病（双语）大纲.md",
+                "file": "医学影像学概论.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "感染性疾病（双语）大纲"
-            }
-          },
-          {
-            "id": "0fab980d03f780a1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "传单.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "传单"
-            }
-          },
-          {
-            "id": "be5031e818053a56",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "巨细胞病毒.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "巨细胞病毒"
+              "title": "医学影像学概论"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -129,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "神经系统疾病.md",
+                "file": "医学影像学概论.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -191,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "巨细胞病毒.md",
+                "file": "医学影像学概论.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -264,8 +235,7 @@
               "title": "Calendar"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
@@ -292,10 +262,17 @@
       "obsidian-local-images-plus:Local Images Plus  0.16.4\r\nLocalize attachments (plugin folder)": false
     }
   },
-  "active": "be5031e818053a56",
+  "active": "8f904cd6d293c9e0",
   "lastOpenFiles": [
-    "传单.md",
+    "医学影像诊断学Ⅰ教学大纲.md",
+    "造影剂.md",
+    "医学影像学概论.md",
+    "DSA.md",
+    "CR.md",
+    "DR.md",
     "感染性疾病（双语）大纲.md",
+    "传单.md",
+    "巨细胞病毒.md",
     "神经系统疾病.md",
     "神经病学概论.md",
     "神经解剖学.md",
@@ -324,13 +301,6 @@
     "顶叶.md",
     "侧脑室.md",
     "内囊.md",
-    "丘脑皮质束.md",
-    "基底核.md",
-    "亨廷顿舞蹈病.md",
-    "神经系统变性疾病.md",
-    "Parkinson 病.md",
-    "下丘脑.md",
-    "催产素.md",
     "attachments/腹腔防粘连材料/hypoxia and adhesion.pdf",
     "attachments/腹腔防粘连材料/Polypropylene mesh coated with hyaluronic acid_polyvinyl alcohol composite hydrogel for preventing bowel adhesion.pdf",
     "attachments/腹腔防粘连材料/Polypropylene mesh coated with hyaluronic acid_polyvinyl alcohol composite hydrogel for preventing bowel adhesion.pdf.crdownload",
