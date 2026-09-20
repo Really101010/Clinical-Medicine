@@ -115,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CT.md",
+                "file": "下运动神经元.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -250,7 +250,8 @@
               "title": "Calendar"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -279,6 +280,9 @@
   },
   "active": "d7101afd9b2bd553",
   "lastOpenFiles": [
+    "神经节.md",
+    "内脏感觉神经.md",
+    "下运动神经元.md",
     "上运动神经元.md",
     "CT.md",
     "医学影像学概论.md",
@@ -302,7 +306,6 @@
     "attachments/Pasted image 20260917081710.png",
     "运动传导通路.md",
     "视觉传导通路.md",
-    "下运动神经元.md",
     "皮质脊髓束.md",
     "皮质核束.md",
     "attachments/e39746dcddddffdc53389d582ea9678b_MD5.jpg",
@@ -314,8 +317,6 @@
     "attachments/Pasted image 20260916112158.png",
     "脑.md",
     "额叶.md",
-    "顶叶.md",
-    "侧脑室.md",
     "attachments/腹腔防粘连材料/hypoxia and adhesion.pdf",
     "attachments/腹腔防粘连材料/Polypropylene mesh coated with hyaluronic acid_polyvinyl alcohol composite hydrogel for preventing bowel adhesion.pdf",
     "attachments/腹腔防粘连材料/Polypropylene mesh coated with hyaluronic acid_polyvinyl alcohol composite hydrogel for preventing bowel adhesion.pdf.crdownload",
