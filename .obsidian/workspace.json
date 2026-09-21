@@ -34,9 +34,41 @@
               "icon": "lucide-file",
               "title": "周围神经修复"
             }
+          },
+          {
+            "id": "2aeb01376aa9b86b",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "attachments/喉返神经修复/The Laryngoscope - 2026 - Bhatt - Novel Injectable Supports Long‐Term Recurrent Laryngeal Nerve and Partial Peripheral.pdf",
+                "page": 1,
+                "left": -154,
+                "top": 231,
+                "zoom": 1.25
+              },
+              "icon": "lucide-file-text",
+              "title": "The Laryngoscope - 2026 - Bhatt - Novel Injectable Supports Long‐Term Recurrent Laryngeal Nerve and Partial Peripheral"
+            }
+          },
+          {
+            "id": "7493c610b50d40c3",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "attachments/喉返神经修复/The Laryngoscope - 2026 - Bhatt - Novel Injectable Supports Long‐Term Recurrent Laryngeal Nerve and Partial Peripheral.pdf",
+                "page": 11,
+                "left": -154,
+                "top": 416,
+                "zoom": 1.25
+              },
+              "icon": "lucide-file-text",
+              "title": "The Laryngoscope - 2026 - Bhatt - Novel Injectable Supports Long‐Term Recurrent Laryngeal Nerve and Partial Peripheral"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -279,8 +311,10 @@
       "obsidian-local-images-plus:Local Images Plus  0.16.4\r\nLocalize attachments (plugin folder)": false
     }
   },
-  "active": "951f91dcdca950f6",
+  "active": "7493c610b50d40c3",
   "lastOpenFiles": [
+    "周围神经修复.md",
+    "attachments/喉返神经修复/The Laryngoscope - 2026 - Bhatt - Novel Injectable Supports Long‐Term Recurrent Laryngeal Nerve and Partial Peripheral.pdf",
     "喉返神经修复.md",
     "喉返神经解剖.md",
     "脑小血管病.md",
@@ -314,8 +348,6 @@
     "医学影像诊断学Ⅰ教学大纲.md",
     "DSA.md",
     "CR.md",
-    "DR.md",
-    "感染性疾病（双语）大纲.md",
     "attachments/a500fea99bfea6b1de05f14f66b9289d_MD5.jpg",
     "attachments/喉返神经修复/UVCP.pdf",
     "attachments/腹腔防粘连材料/hypoxia and adhesion.pdf",
@@ -326,7 +358,6 @@
     "attachments/腹腔防粘连材料/An anti-inflammatory chondroitin sulfate-poly.pdf",
     "attachments/腹腔防粘连材料/EGCG_Nrf2.pdf",
     "attachments/腹腔防粘连材料/Advanced postoperative tissue antiadhesive membranes enabled with electrospun nanofibers.pdf",
-    "attachments/腹腔防粘连材料/Janus网片.pdf",
     "未命名.canvas"
   ]
 }
