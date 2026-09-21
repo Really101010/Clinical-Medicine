@@ -4,24 +4,67 @@
     "type": "split",
     "children": [
       {
-        "id": "6ab05d64c8b41be3",
+        "id": "bb4b160096a97eb1",
         "type": "tabs",
         "children": [
           {
-            "id": "b8abfe888ef8c3d1",
+            "id": "d3468263b6571b04",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "神经病学概论.md",
+                "file": "心电图.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "神经病学概论"
+              "title": "心电图"
+            }
+          },
+          {
+            "id": "a759cb80f0d4e5d0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "狂犬病.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "狂犬病"
+            }
+          },
+          {
+            "id": "e16b38b8569a5a47",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "吉兰-巴雷综合征.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "吉兰-巴雷综合征"
+            }
+          },
+          {
+            "id": "769f41c382334ba3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "巨细胞病毒.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "巨细胞病毒"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -55,7 +98,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "心电图",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -79,7 +122,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -263,8 +307,14 @@
       "obsidian-local-images-plus:Local Images Plus  0.16.4\r\nLocalize attachments (plugin folder)": false
     }
   },
-  "active": "b8abfe888ef8c3d1",
+  "active": "a759cb80f0d4e5d0",
   "lastOpenFiles": [
+    "巨细胞病毒.md",
+    "狂犬病.md",
+    "心电图.md",
+    "吉兰-巴雷综合征.md",
+    "包涵体.md",
+    "神经病学概论.md",
     "下运动神经元.md",
     "神经节.md",
     "内脏感觉神经.md",
@@ -278,9 +328,7 @@
     "DR.md",
     "感染性疾病（双语）大纲.md",
     "传单.md",
-    "巨细胞病毒.md",
     "神经系统疾病.md",
-    "神经病学概论.md",
     "神经解剖学.md",
     "脑脊液.md",
     "attachments/a500fea99bfea6b1de05f14f66b9289d_MD5.jpg",
@@ -295,13 +343,9 @@
     "皮质核束.md",
     "attachments/e39746dcddddffdc53389d582ea9678b_MD5.jpg",
     "attachments/Pasted image 20260917080939.png",
-    "喉返神经解剖.md",
-    "喉返神经损伤.md",
     "attachments/喉返神经修复/UVCP.pdf",
     "attachments/f875d369ab9983a1bb62c5e03ba56cf7_MD5.jpg",
     "attachments/Pasted image 20260916112158.png",
-    "脑.md",
-    "额叶.md",
     "attachments/腹腔防粘连材料/hypoxia and adhesion.pdf",
     "attachments/腹腔防粘连材料/Polypropylene mesh coated with hyaluronic acid_polyvinyl alcohol composite hydrogel for preventing bowel adhesion.pdf",
     "attachments/腹腔防粘连材料/Polypropylene mesh coated with hyaluronic acid_polyvinyl alcohol composite hydrogel for preventing bowel adhesion.pdf.crdownload",
