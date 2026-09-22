@@ -236,7 +236,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CT.md",
+                "file": "溃疡性结肠炎.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -310,12 +310,11 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 251.7222900390625,
-    "collapsed": true
+    "width": 251.7222900390625
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -339,6 +338,10 @@
   },
   "active": "5d4171234ca1502a",
   "lastOpenFiles": [
+    "attachments/1922b8d8cdea8e977bb6246cc82bfa3b_MD5.jpg",
+    "attachments/Pasted image 20260922081809.png",
+    "attachments/56fd8717c1766cdffd08ae2e6eecd10e_MD5.jpg",
+    "attachments/Pasted image 20260922080854.png",
     "炎症性肠病.md",
     "溃疡性结肠炎.md",
     "结肠癌.md",
@@ -365,8 +368,6 @@
     "attachments/Pasted image 20260921104209.png",
     "attachments/893c651e130baad87643736bd36580ec_MD5.jpg",
     "attachments/Pasted image 20260921104057.png",
-    "attachments/c5e6f3c7460f37fee6c3b95794041472_MD5.jpg",
-    "attachments/Pasted image 20260921103858.png",
     "狂犬病.md",
     "巨细胞病毒.md",
     "心电图.md",
@@ -379,8 +380,6 @@
     "CT.md",
     "医学影像学概论.md",
     "造影剂.md",
-    "医学影像诊断学Ⅰ教学大纲.md",
-    "attachments/a500fea99bfea6b1de05f14f66b9289d_MD5.jpg",
     "attachments/喉返神经修复/UVCP.pdf",
     "attachments/腹腔防粘连材料/hypoxia and adhesion.pdf",
     "attachments/腹腔防粘连材料/Polypropylene mesh coated with hyaluronic acid_polyvinyl alcohol composite hydrogel for preventing bowel adhesion.pdf",
