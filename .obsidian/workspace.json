@@ -42,33 +42,17 @@
               "type": "pdf",
               "state": {
                 "file": "attachments/喉返神经修复/The Laryngoscope - 2026 - Bhatt - Novel Injectable Supports Long‐Term Recurrent Laryngeal Nerve and Partial Peripheral.pdf",
-                "page": 1,
-                "left": -154,
-                "top": 231,
-                "zoom": 1.25
-              },
-              "icon": "lucide-file-text",
-              "title": "The Laryngoscope - 2026 - Bhatt - Novel Injectable Supports Long‐Term Recurrent Laryngeal Nerve and Partial Peripheral"
-            }
-          },
-          {
-            "id": "7493c610b50d40c3",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "attachments/喉返神经修复/The Laryngoscope - 2026 - Bhatt - Novel Injectable Supports Long‐Term Recurrent Laryngeal Nerve and Partial Peripheral.pdf",
-                "page": 11,
-                "left": -154,
-                "top": 416,
-                "zoom": 1.25
+                "page": 2,
+                "left": -9,
+                "top": 735,
+                "zoom": 1.6719135325462477
               },
               "icon": "lucide-file-text",
               "title": "The Laryngoscope - 2026 - Bhatt - Novel Injectable Supports Long‐Term Recurrent Laryngeal Nerve and Partial Peripheral"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -311,11 +295,16 @@
       "obsidian-local-images-plus:Local Images Plus  0.16.4\r\nLocalize attachments (plugin folder)": false
     }
   },
-  "active": "7493c610b50d40c3",
+  "active": "2aeb01376aa9b86b",
   "lastOpenFiles": [
-    "周围神经修复.md",
-    "attachments/喉返神经修复/The Laryngoscope - 2026 - Bhatt - Novel Injectable Supports Long‐Term Recurrent Laryngeal Nerve and Partial Peripheral.pdf",
     "喉返神经修复.md",
+    "attachments/喉返神经修复/The Laryngoscope - 2026 - Bhatt - Novel Injectable Supports Long‐Term Recurrent Laryngeal Nerve and Partial Peripheral.pdf",
+    "attachments/喉返神经修复/Otolaryngol --head neck surg - 2018 - Philips - Multi‐institutional Evaluation of Medialization Laryngoplasty in the.pdf",
+    "attachments/喉返神经修复/Vocal Fold Paresis.pdf",
+    "attachments/喉返神经修复/The Laryngoscope - 2009 - Tessema - Observations of recurrent laryngeal nerve injury and recovery using a rat model.pdf",
+    "attachments/腹腔防粘连材料/Vocal Fold Paresis.pdf",
+    "attachments/腹腔防粘连材料/Vocal Fold Paresis.pdf.crdownload",
+    "周围神经修复.md",
     "喉返神经解剖.md",
     "脑小血管病.md",
     "脑梗死.md",
@@ -353,11 +342,6 @@
     "attachments/腹腔防粘连材料/hypoxia and adhesion.pdf",
     "attachments/腹腔防粘连材料/Polypropylene mesh coated with hyaluronic acid_polyvinyl alcohol composite hydrogel for preventing bowel adhesion.pdf",
     "attachments/腹腔防粘连材料/Polypropylene mesh coated with hyaluronic acid_polyvinyl alcohol composite hydrogel for preventing bowel adhesion.pdf.crdownload",
-    "attachments/腹腔防粘连材料/A Bioinspired Defect-Tolerant Hydrogel.pdf",
-    "attachments/腹腔防粘连材料/A Bioinspired Defect-Tolerant Hydrogel.pdf.crdownload",
-    "attachments/腹腔防粘连材料/An anti-inflammatory chondroitin sulfate-poly.pdf",
-    "attachments/腹腔防粘连材料/EGCG_Nrf2.pdf",
-    "attachments/腹腔防粘连材料/Advanced postoperative tissue antiadhesive membranes enabled with electrospun nanofibers.pdf",
     "未命名.canvas"
   ]
 }
