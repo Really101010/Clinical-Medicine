@@ -84,17 +84,16 @@
               "type": "pdf",
               "state": {
                 "file": "attachments/喉返神经修复/The Laryngoscope - 2026 - Bhatt - Novel Injectable Supports Long‐Term Recurrent Laryngeal Nerve and Partial Peripheral.pdf",
-                "page": 10,
-                "left": 12,
-                "top": 406,
-                "zoom": 1.89
+                "page": 1,
+                "left": 24,
+                "top": 736,
+                "zoom": 1.99
               },
               "icon": "lucide-file-text",
               "title": "The Laryngoscope - 2026 - Bhatt - Novel Injectable Supports Long‐Term Recurrent Laryngeal Nerve and Partial Peripheral"
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "vertical"
@@ -174,7 +173,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "attachments/喉返神经修复/The Laryngoscope - 2026 - Bhatt - Novel Injectable Supports Long‐Term Recurrent Laryngeal Nerve and Partial Peripheral.pdf",
+                "file": "喉返神经修复.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -236,7 +235,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "attachments/喉返神经修复/The Laryngoscope - 2026 - Bhatt - Novel Injectable Supports Long‐Term Recurrent Laryngeal Nerve and Partial Peripheral.pdf",
+                "file": "喉返神经修复.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -251,7 +250,7 @@
             "state": {
               "type": "footnotes",
               "state": {
-                "file": "attachments/喉返神经修复/The Laryngoscope - 2026 - Bhatt - Novel Injectable Supports Long‐Term Recurrent Laryngeal Nerve and Partial Peripheral.pdf"
+                "file": "喉返神经修复.md"
               },
               "icon": "lucide-file-signature",
               "title": "Footnotes"
@@ -336,15 +335,16 @@
       "obsidian-local-images-plus:Local Images Plus  0.16.4\r\nLocalize attachments (plugin folder)": false
     }
   },
-  "active": "2aeb01376aa9b86b",
+  "active": "23da0cdde05a7cb6",
   "lastOpenFiles": [
-    "喉肌电图.md",
+    "周围神经修复分子生物学.md",
     "attachments/喉返神经修复/The Laryngoscope - 2026 - Bhatt - Novel Injectable Supports Long‐Term Recurrent Laryngeal Nerve and Partial Peripheral.pdf",
+    "attachments/喉返神经修复/supinfo-Novel Injectable Supports Long-Term Recurrent Laryngeal Nerve and Partial Peripheral Nerve Repair.docx",
+    "喉肌电图.md",
     "放射性衰变.md",
     "核医学Ⅱ教学大纲.md",
     "放射性核素显像术.md",
     "喉返神经修复.md",
-    "周围神经修复分子生物学.md",
     "周围神经修复.md",
     "甲杓肌.md",
     "腹腔防粘连材料样本送检.md",
@@ -382,7 +382,6 @@
     "attachments/喉返神经修复/UVCP.pdf",
     "attachments/腹腔防粘连材料/hypoxia and adhesion.pdf",
     "attachments/腹腔防粘连材料/Polypropylene mesh coated with hyaluronic acid_polyvinyl alcohol composite hydrogel for preventing bowel adhesion.pdf",
-    "attachments/腹腔防粘连材料/Polypropylene mesh coated with hyaluronic acid_polyvinyl alcohol composite hydrogel for preventing bowel adhesion.pdf.crdownload",
     "未命名.canvas"
   ]
 }
