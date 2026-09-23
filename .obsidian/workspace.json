@@ -70,17 +70,16 @@
               "type": "pdf",
               "state": {
                 "file": "attachments/喉返神经修复/The Laryngoscope - 2026 - Bhatt - Novel Injectable Supports Long‐Term Recurrent Laryngeal Nerve and Partial Peripheral.pdf",
-                "page": 7,
-                "left": -71,
-                "top": 338,
-                "zoom": 1.68
+                "page": 8,
+                "left": -30,
+                "top": 365,
+                "zoom": 1.89
               },
               "icon": "lucide-file-text",
               "title": "The Laryngoscope - 2026 - Bhatt - Novel Injectable Supports Long‐Term Recurrent Laryngeal Nerve and Partial Peripheral"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -323,7 +322,7 @@
       "obsidian-local-images-plus:Local Images Plus  0.16.4\r\nLocalize attachments (plugin folder)": false
     }
   },
-  "active": "321b959d0cfdb8e7",
+  "active": "23da0cdde05a7cb6",
   "lastOpenFiles": [
     "attachments/喉返神经修复/The Laryngoscope - 2026 - Bhatt - Novel Injectable Supports Long‐Term Recurrent Laryngeal Nerve and Partial Peripheral.pdf",
     "周围神经修复分子生物学.md",
