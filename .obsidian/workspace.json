@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "胃癌.md",
+                "file": "qPCR.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "胃癌"
+              "title": "qPCR"
             }
           }
         ]
@@ -266,6 +266,8 @@
   },
   "active": "4176058a9e887aea",
   "lastOpenFiles": [
+    "胃癌.md",
+    "qPCR.md",
     "attachments/b57d55ff31aa92ce6d1ca301609a35b4_MD5.jpg",
     "attachments/Pasted image 20260924083623.png",
     "attachments/f4c7885f05374f47ba60fb7f2ed9f2c7_MD5.jpg",
@@ -276,9 +278,7 @@
     "attachments/Pasted image 20260924082714.png",
     "attachments/33d8d3a99d9ce06746e602c47572afc0_MD5.jpg",
     "attachments/Pasted image 20260924082546.png",
-    "attachments/e16650aed8b37890f3061e7d33bfe72b_MD5.jpg",
     "腹水.md",
-    "胃癌.md",
     "呕吐.md",
     "JoRRP.md",
     "放射性衰变.md",
