@@ -163,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "放射性衰变.md",
+                "file": "胃癌.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -178,7 +178,7 @@
             "state": {
               "type": "footnotes",
               "state": {
-                "file": "放射性衰变.md"
+                "file": "胃癌.md"
               },
               "icon": "lucide-file-signature",
               "title": "Footnotes"
@@ -237,7 +237,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -266,8 +266,13 @@
   },
   "active": "8865c00909e50a99",
   "lastOpenFiles": [
-    "qPCR.md",
+    "attachments/257dd38b94143be6fafa84c63f3cd8d0_MD5.jpg",
+    "attachments/Pasted image 20260924101342.png",
+    "attachments/fda77c7b8cfab8a1a44722219de9d940_MD5.jpg",
+    "attachments/Pasted image 20260924101020.png",
     "胃癌.md",
+    "镇痛.md",
+    "qPCR.md",
     "attachments/b57d55ff31aa92ce6d1ca301609a35b4_MD5.jpg",
     "attachments/Pasted image 20260924083623.png",
     "attachments/f4c7885f05374f47ba60fb7f2ed9f2c7_MD5.jpg",
@@ -275,9 +280,6 @@
     "attachments/d6a5a94c2102cbf4305a8c3307fba25a_MD5.jpg",
     "attachments/Pasted image 20260924082947.png",
     "attachments/4f79e303b4a64772cd28ddcc78c0a524_MD5.jpg",
-    "attachments/Pasted image 20260924082714.png",
-    "attachments/33d8d3a99d9ce06746e602c47572afc0_MD5.jpg",
-    "attachments/Pasted image 20260924082546.png",
     "腹水.md",
     "呕吐.md",
     "JoRRP.md",
@@ -307,8 +309,6 @@
     "喉返神经解剖.md",
     "脑小血管病.md",
     "脑梗死.md",
-    "汉坦病毒.md",
-    "静脉窦血栓.md",
     "attachments/喉返神经修复/UVCP.pdf",
     "attachments/腹腔防粘连材料/hypoxia and adhesion.pdf",
     "attachments/腹腔防粘连材料/Polypropylene mesh coated with hyaluronic acid_polyvinyl alcohol composite hydrogel for preventing bowel adhesion.pdf",
