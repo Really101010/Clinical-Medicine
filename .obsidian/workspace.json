@@ -46,7 +46,7 @@
                 "file": "attachments/喉返神经修复/Co-transplantation of Schwann cells and neural stem cells in the laminin-chitosan-PLGA nerve conduit to repair the injured recurrent laryngeal nerve in SD rats.pdf",
                 "page": 2,
                 "left": -10,
-                "top": 796,
+                "top": 326,
                 "zoom": 1.6698825503355705
               },
               "icon": "lucide-file-text",
@@ -84,7 +84,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -164,7 +164,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "attachments/喉返神经修复/Co-transplantation of Schwann cells and neural stem cells in the laminin-chitosan-PLGA nerve conduit to repair the injured recurrent laryngeal nerve in SD rats.pdf",
+                "file": "动画.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -326,10 +326,10 @@
       "obsidian-local-images-plus:Local Images Plus  0.16.4\r\nLocalize attachments (plugin folder)": false
     }
   },
-  "active": "2f7b2b8d6873323c",
+  "active": "11465544e2dfdd95",
   "lastOpenFiles": [
-    "喉返神经修复.md",
     "attachments/喉返神经修复/Co-transplantation of Schwann cells and neural stem cells in the laminin-chitosan-PLGA nerve conduit to repair the injured recurrent laryngeal nerve in SD rats.pdf",
+    "喉返神经修复.md",
     "动画.md",
     "造模-大鼠.md",
     "attachments/喉返神经修复/neurorrhaphy-of-the-recurrent-laryngeal-nerve.pdf",
