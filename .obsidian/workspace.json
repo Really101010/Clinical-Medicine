@@ -55,7 +55,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "面容",
+                "query": "分离性感觉障碍",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -265,6 +265,9 @@
   },
   "active": "acdaf981a4daf747",
   "lastOpenFiles": [
+    "分离性感觉障碍.md",
+    "感觉.md",
+    "三叉神经.md",
     "霍乱.md",
     "attachments/a13e8ef4492bff64834804f5621bcadf_MD5.jpg",
     "attachments/Pasted image 20260928091549.png",
@@ -292,8 +295,6 @@
     "迷走神经.md",
     "舌咽神经.md",
     "舌下神经.md",
-    "听神经.md",
-    "面神经.md",
     "attachments/Pasted image 20260926175037.png",
     "attachments/5b198cdf77b0a6769473949a9d84fc85_MD5.jpg",
     "attachments/Pasted image 20260926174834.png",
