@@ -44,9 +44,9 @@
               "type": "pdf",
               "state": {
                 "file": "attachments/喉返神经修复/Co-transplantation of Schwann cells and neural stem cells in the laminin-chitosan-PLGA nerve conduit to repair the injured recurrent laryngeal nerve in SD rats.pdf",
-                "page": 2,
-                "left": -10,
-                "top": 651,
+                "page": 6,
+                "left": -74,
+                "top": 421,
                 "zoom": 1.6698825503355705
               },
               "icon": "lucide-file-text",
@@ -83,7 +83,8 @@
               "title": "Jov-the evolution of laryngeal reinnervation, the current state of science and thoughts for future treatments"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -163,7 +164,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "喉返神经修复.md",
+                "file": "attachments/喉返神经修复/Co-transplantation of Schwann cells and neural stem cells in the laminin-chitosan-PLGA nerve conduit to repair the injured recurrent laryngeal nerve in SD rats.pdf",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -325,10 +326,14 @@
       "obsidian-local-images-plus:Local Images Plus  0.16.4\r\nLocalize attachments (plugin folder)": false
     }
   },
-  "active": "06da246ffda52e0f",
+  "active": "2f7b2b8d6873323c",
   "lastOpenFiles": [
-    "attachments/喉返神经修复/Co-transplantation of Schwann cells and neural stem cells in the laminin-chitosan-PLGA nerve conduit to repair the injured recurrent laryngeal nerve in SD rats.pdf",
     "动画.md",
+    "取材-大鼠.md",
+    "attachments/Pasted image 20260928212036.png",
+    "attachments/c7b1cc63b553a05590e626a5108aacf1_MD5.jpg",
+    "attachments/Pasted image 20260928212024.png",
+    "attachments/喉返神经修复/Co-transplantation of Schwann cells and neural stem cells in the laminin-chitosan-PLGA nerve conduit to repair the injured recurrent laryngeal nerve in SD rats.pdf",
     "喉返神经修复.md",
     "造模-大鼠.md",
     "attachments/喉返神经修复/neurorrhaphy-of-the-recurrent-laryngeal-nerve.pdf",
@@ -369,9 +374,6 @@
     "attachments/Pasted image 20260926175037.png",
     "attachments/5b198cdf77b0a6769473949a9d84fc85_MD5.jpg",
     "attachments/Pasted image 20260926174834.png",
-    "attachments/a98e4f466e7f3e31ca2678059b625514_MD5.jpg",
-    "attachments/Pasted image 20260926174754.png",
-    "attachments/35b4d2c851712a4c2e1e323e6b46a2d4_MD5.jpg",
     "未命名.canvas"
   ]
 }
