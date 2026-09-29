@@ -56,6 +56,10 @@
 > [Open: Pasted image 20260929114221.png](attachments/9f52b9695e3f39dbd7bca9c73442838d_MD5.jpg)
 ![](attachments/9f52b9695e3f39dbd7bca9c73442838d_MD5.jpg)
 
+https://pubmed.ncbi.nlm.nih.gov/34981867/
+[Open: Pasted image 20260929134252.png](attachments/4308adb45ae2b940e1086c8a94705715_MD5.jpg)
+![](attachments/4308adb45ae2b940e1086c8a94705715_MD5.jpg)
+
 ---
 #### collagen减少
 > [!PDF|yellow] [Endogenous stimulation-driven Janus mesh with antibacterial, p.11](Endogenous%20stimulation-driven%20Janus%20mesh%20with%20antibacterial.pdf#page=11&selection=49,5,53,67&color=yellow)
@@ -67,4 +71,6 @@
 与L929划痕实验抗迁移是否矛盾？
 maybe:
 - → 抑制L929成纤维细胞的自由迁移（划痕实验：抗迁移） → 抑制成纤维细胞向周围组织浸润（体内：抗粘连） 
+> 材料降低成纤维细胞的非特异性/无序迁移和黏附，从而有助于抑制非目标组织浸润及术后粘连；
 - → 但在腹壁缺损部位，材料允许成纤维细胞在<span style="font-weight: bold; text-decoration: underline;">张力</span>引导（是腹壁缺损常见理论）下进行定向修复 → 最终形成更多、更<span style="font-weight: bold; text-decoration: underline;">有序</span>的平行胶原沉积（Masson：促修复性胶原沉积）
+> 与此同时，在腹壁缺损区域，局部机械张力及材料的结构各向异性为参与修复的成纤维细胞提供方向性机械/结构线索，促进其取向、基质重塑及有序胶原沉积。
