@@ -29,9 +29,9 @@
               "state": {
                 "file": "attachments/喉返神经修复/NC-Multichannel, biomimetic scaffolds improve functional connectivity following traumatic long-gap peripheral nerve injury.pdf",
                 "page": 1,
-                "left": -52,
-                "top": 561,
-                "zoom": 1.46
+                "left": -26,
+                "top": 338,
+                "zoom": 1.58
               },
               "icon": "lucide-file-text",
               "title": "NC-Multichannel, biomimetic scaffolds improve functional connectivity following traumatic long-gap peripheral nerve injury"
@@ -82,7 +82,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -325,8 +325,9 @@
       "obsidian-local-images-plus:Local Images Plus  0.16.4\r\nLocalize attachments (plugin folder)": false
     }
   },
-  "active": "0f26118e35ee373a",
+  "active": "104cb3d5af2bb94e",
   "lastOpenFiles": [
+    "门静脉炎.md",
     "阑尾炎.md",
     "attachments/喉返神经修复/NC-Multichannel, biomimetic scaffolds improve functional connectivity following traumatic long-gap peripheral nerve injury.pdf",
     "肠梗阻.md",
@@ -367,7 +368,6 @@
     "attachments/a13e8ef4492bff64834804f5621bcadf_MD5.jpg",
     "attachments/Pasted image 20260928091549.png",
     "伤寒.md",
-    "新斯的明.md",
     "attachments/2f02040fece73ca1eaf9774a18b32673_MD5.jpg",
     "attachments/Pasted image 20260928085736.png",
     "attachments/Pasted image 20260926175037.png",
