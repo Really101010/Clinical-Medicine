@@ -11,13 +11,52 @@
             "id": "638a04c42be5321a",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "type": "pdf",
+              "state": {
+                "file": "attachments/腹腔防粘连材料/Endogenous stimulation-driven Janus mesh with antibacterial.pdf",
+                "page": 1,
+                "left": -10,
+                "top": 547,
+                "zoom": 1.666873850672841
+              },
+              "icon": "lucide-file-text",
+              "title": "Endogenous stimulation-driven Janus mesh with antibacterial"
+            }
+          },
+          {
+            "id": "57110e27235d4957",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "attachments/腹腔防粘连材料/Zwitterion mediated anti-protein adsorption on polypropylene mesh to -2023-材料为主.pdf",
+                "page": 1,
+                "left": -10,
+                "top": 798,
+                "zoom": 1.666873850672841
+              },
+              "icon": "lucide-file-text",
+              "title": "Zwitterion mediated anti-protein adsorption on polypropylene mesh to -2023-材料为主"
+            }
+          },
+          {
+            "id": "857d07a9e8707291",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "attachments/腹腔防粘连材料/Robust adhesive Janus hydrogel reinforced by topological entanglement for -Fan Hongsong.pdf",
+                "page": 1,
+                "left": -10,
+                "top": 798,
+                "zoom": 1.666873853473011
+              },
+              "icon": "lucide-file-text",
+              "title": "Robust adhesive Janus hydrogel reinforced by topological entanglement for -Fan Hongsong"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -260,8 +299,14 @@
       "obsidian-local-images-plus:Local Images Plus  0.16.4\r\nLocalize attachments (plugin folder)": false
     }
   },
-  "active": "638a04c42be5321a",
+  "active": "857d07a9e8707291",
   "lastOpenFiles": [
+    "attachments/腹腔防粘连材料/Zwitterion mediated anti-protein adsorption on polypropylene mesh to -2023-材料为主.pdf",
+    "attachments/腹腔防粘连材料/Robust adhesive Janus hydrogel reinforced by topological entanglement for -Fan Hongsong.pdf",
+    "attachments/腹腔防粘连材料/Robust adhesive Janus hydrogel reinforced by topological entanglement for -Fan Hongsong.pdf.crdownload",
+    "attachments/腹腔防粘连材料/Endogenous stimulation-driven Janus mesh with antibacterial.pdf",
+    "attachments/腹腔防粘连材料/Zwitterion mediated anti-protein adsorption on polypropylene mesh to -2023-材料为主.pdf.crdownload",
+    "attachments/腹腔防粘连材料/Endogenous stimulation-driven Janus mesh with antibacterial.pdf.crdownload",
     "attachments/喉返神经修复/Jov-the evolution of laryngeal reinnervation, the current state of science and thoughts for future treatments.pdf",
     "喉返神经修复.md",
     "attachments/喉返神经修复/NC-Multichannel, biomimetic scaffolds improve functional connectivity following traumatic long-gap peripheral nerve injury.pdf",
@@ -290,15 +335,10 @@
     "Tissue Engineering.md",
     "SCI修复.md",
     "周围神经修复.md",
-    "attachments/喉返神经修复/魏 - 4 （Acta Biomaterialia 2026）：核心主题为压电（Piezoelectric）+ 磁-机-电级联系统.pdf",
-    "attachments/喉返神经修复/文献分享26.7.30.pdf",
-    "attachments/喉返神经修复/~$pplementary material.for 文献分享26.7.30.docx",
-    "attachments/喉返神经修复/s10856-020-06436-z.pdf",
     "脑出血.md",
     "脑血管畸形.md",
     "高血压脑病.md",
     "蛛网膜下腔出血.md",
-    "attachments/喉返神经修复/Jov-the evolution of laryngeal reinnervation, the current state of science and thoughts for future treatments.pdf.crdownload",
     "脑脊液.md",
     "反射.md",
     "感觉.md",
