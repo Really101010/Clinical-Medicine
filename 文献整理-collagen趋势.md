@@ -66,5 +66,5 @@
 要是有EGCG抗氧化，促愈合的逻辑——
 与L929划痕实验抗迁移是否矛盾？
 maybe:
-- → 抑制L929成纤维细胞的自由迁移（划痕实验：抗迁移） → 阻止成纤维细胞向周围组织浸润（体内：抗粘连） 
+- → 抑制L929成纤维细胞的自由迁移（划痕实验：抗迁移） → 抑制成纤维细胞向周围组织浸润（体内：抗粘连） 
 - → 但在腹壁缺损部位，材料允许成纤维细胞在<span style="font-weight: bold; text-decoration: underline;">张力</span>引导（是腹壁缺损常见理论）下进行定向修复 → 最终形成更多、更<span style="font-weight: bold; text-decoration: underline;">有序</span>的平行胶原沉积（Masson：促修复性胶原沉积）
