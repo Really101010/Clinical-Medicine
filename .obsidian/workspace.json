@@ -22,22 +22,6 @@
             }
           },
           {
-            "id": "0f26118e35ee373a",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "attachments/喉返神经修复/NC-Multichannel, biomimetic scaffolds improve functional connectivity following traumatic long-gap peripheral nerve injury.pdf",
-                "page": 1,
-                "left": -26,
-                "top": 338,
-                "zoom": 1.58
-              },
-              "icon": "lucide-file-text",
-              "title": "NC-Multichannel, biomimetic scaffolds improve functional connectivity following traumatic long-gap peripheral nerve injury"
-            }
-          },
-          {
             "id": "30ba579ea33595eb",
             "type": "leaf",
             "state": {
@@ -46,7 +30,7 @@
                 "file": "attachments/喉返神经修复/Jov-the evolution of laryngeal reinnervation, the current state of science and thoughts for future treatments.pdf",
                 "page": 1,
                 "left": -9,
-                "top": 471,
+                "top": 475,
                 "zoom": 1.6262254901960784
               },
               "icon": "lucide-file-text",
@@ -297,8 +281,9 @@
       "obsidian-local-images-plus:Local Images Plus  0.16.4\r\nLocalize attachments (plugin folder)": false
     }
   },
-  "active": "0f26118e35ee373a",
+  "active": "30ba579ea33595eb",
   "lastOpenFiles": [
+    "attachments/喉返神经修复/NC-Multichannel, biomimetic scaffolds improve functional connectivity following traumatic long-gap peripheral nerve injury.pdf",
     "attachments/喉返神经修复/Jov-the evolution of laryngeal reinnervation, the current state of science and thoughts for future treatments.pdf",
     "肠梗阻.md",
     "腹外疝.md",
@@ -311,7 +296,6 @@
     "attachments/Pasted image 20260929093153.png",
     "阑尾炎.md",
     "门静脉炎.md",
-    "attachments/喉返神经修复/NC-Multichannel, biomimetic scaffolds improve functional connectivity following traumatic long-gap peripheral nerve injury.pdf",
     "attachments/喉返神经修复/Co-transplantation of Schwann cells and neural stem cells in the laminin-chitosan-PLGA nerve conduit to repair the injured recurrent laryngeal nerve in SD rats.pdf",
     "细胞治疗.md",
     "动画.md",
