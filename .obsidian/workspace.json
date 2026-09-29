@@ -38,34 +38,6 @@
             }
           },
           {
-            "id": "104cb3d5af2bb94e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "阑尾炎.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "阑尾炎"
-            }
-          },
-          {
-            "id": "959a1b454e462e09",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "肠梗阻.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "肠梗阻"
-            }
-          },
-          {
             "id": "30ba579ea33595eb",
             "type": "leaf",
             "state": {
@@ -73,8 +45,8 @@
               "state": {
                 "file": "attachments/喉返神经修复/Jov-the evolution of laryngeal reinnervation, the current state of science and thoughts for future treatments.pdf",
                 "page": 1,
-                "left": -10,
-                "top": 467,
+                "left": -9,
+                "top": 471,
                 "zoom": 1.6262254901960784
               },
               "icon": "lucide-file-text",
@@ -82,7 +54,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -325,15 +297,23 @@
       "obsidian-local-images-plus:Local Images Plus  0.16.4\r\nLocalize attachments (plugin folder)": false
     }
   },
-  "active": "104cb3d5af2bb94e",
+  "active": "0f26118e35ee373a",
   "lastOpenFiles": [
-    "门静脉炎.md",
-    "阑尾炎.md",
-    "attachments/喉返神经修复/NC-Multichannel, biomimetic scaffolds improve functional connectivity following traumatic long-gap peripheral nerve injury.pdf",
+    "attachments/喉返神经修复/Jov-the evolution of laryngeal reinnervation, the current state of science and thoughts for future treatments.pdf",
     "肠梗阻.md",
+    "腹外疝.md",
+    "attachments/beb523624663320af67a085d68a8a940_MD5.jpg",
+    "attachments/Pasted image 20260929094104.png",
+    "喉返神经修复.md",
+    "attachments/8d9cb1a9f21e1ded474613f8b587e9fe_MD5.jpg",
+    "attachments/Pasted image 20260929093334.png",
+    "attachments/1d9210f9e7feb0439431b43908d77701_MD5.jpg",
+    "attachments/Pasted image 20260929093153.png",
+    "阑尾炎.md",
+    "门静脉炎.md",
+    "attachments/喉返神经修复/NC-Multichannel, biomimetic scaffolds improve functional connectivity following traumatic long-gap peripheral nerve injury.pdf",
     "attachments/喉返神经修复/Co-transplantation of Schwann cells and neural stem cells in the laminin-chitosan-PLGA nerve conduit to repair the injured recurrent laryngeal nerve in SD rats.pdf",
     "细胞治疗.md",
-    "喉返神经修复.md",
     "动画.md",
     "取材-大鼠.md",
     "attachments/Pasted image 20260928212036.png",
@@ -350,7 +330,6 @@
     "attachments/喉返神经修复/魏 - 4 （Acta Biomaterialia 2026）：核心主题为压电（Piezoelectric）+ 磁-机-电级联系统.pdf",
     "attachments/喉返神经修复/文献分享26.7.30.pdf",
     "attachments/喉返神经修复/~$pplementary material.for 文献分享26.7.30.docx",
-    "attachments/喉返神经修复/Jov-the evolution of laryngeal reinnervation, the current state of science and thoughts for future treatments.pdf",
     "attachments/喉返神经修复/s10856-020-06436-z.pdf",
     "脑出血.md",
     "脑血管畸形.md",
@@ -364,15 +343,7 @@
     "疼痛.md",
     "分离性感觉障碍.md",
     "三叉神经.md",
-    "霍乱.md",
     "attachments/a13e8ef4492bff64834804f5621bcadf_MD5.jpg",
-    "attachments/Pasted image 20260928091549.png",
-    "伤寒.md",
-    "attachments/2f02040fece73ca1eaf9774a18b32673_MD5.jpg",
-    "attachments/Pasted image 20260928085736.png",
-    "attachments/Pasted image 20260926175037.png",
-    "attachments/5b198cdf77b0a6769473949a9d84fc85_MD5.jpg",
-    "attachments/Pasted image 20260926174834.png",
     "未命名.canvas"
   ]
 }
