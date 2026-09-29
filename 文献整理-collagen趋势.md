@@ -1,4 +1,4 @@
-##### collagen
+#### collagen增加
 有胶原沉积增加的都是促愈合相关的文章
 是因为<mark style="background-color: #705A16; color: white">腹壁缺损模型</mark>吗？但防粘连材料大都用的这个模型，不论是有没有促愈合功能的。
 
@@ -45,6 +45,24 @@
 > 另一篇文章，实验组胶原沉积是更少的，也是用的腹壁缺损模型
 
 ---
+> [!PDF|green] [Robust adhesive Janus hydrogel reinforced by topological entanglement for -Fan Hongsong, p.10](Robust%20adhesive%20Janus%20hydrogel%20reinforced%20by%20topological%20entanglement%20for%20-Fan%20Hongsong.pdf#page=10&selection=216,0,216,56&color=green)
+> > The pro-healing capacity of the Janus BGMA/BPEG hydrogel
+> 
+> 也是有促愈合
+
+> [!PDF|green] [Robust adhesive Janus hydrogel reinforced by topological entanglement for -Fan Hongsong, p.10](Robust%20adhesive%20Janus%20hydrogel%20reinforced%20by%20topological%20entanglement%20for%20-Fan%20Hongsong.pdf#page=10&selection=244,14,247,61&color=green)
+> > promoted the neotissue thickness and collagen deposition compared with that the control (3.1-fold higher and 1.6-fold higher, respectively) and PP mesh group (3.0-fold higher and 1.4-fold higher, respectively), demonstrating rapid and high-quality healing. 
+> 
+> [Open: Pasted image 20260929114221.png](attachments/9f52b9695e3f39dbd7bca9c73442838d_MD5.jpg)
+![](attachments/9f52b9695e3f39dbd7bca9c73442838d_MD5.jpg)
+
+---
+#### collagen减少
+> [!PDF|yellow] [Endogenous stimulation-driven Janus mesh with antibacterial, p.11](Endogenous%20stimulation-driven%20Janus%20mesh%20with%20antibacterial.pdf#page=11&selection=49,5,53,67&color=yellow)
+> > In Masson staining images (Fig. 7e), abundant collagen fiber deposition formed by the proliferation of fibroblasts was present in the PP group, leading to the formation of adhesions [9].
+
+---
+#### 推导
 要是有EGCG抗氧化，促愈合的逻辑——
 与L929划痕实验抗迁移是否矛盾？
 maybe:
