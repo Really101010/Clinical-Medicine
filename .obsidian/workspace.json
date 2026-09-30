@@ -66,7 +66,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -309,15 +309,18 @@
       "obsidian-local-images-plus:Local Images Plus  0.16.4\r\nLocalize attachments (plugin folder)": false
     }
   },
-  "active": "bc0645dfc56c1b4c",
+  "active": "123989913c04f332",
   "lastOpenFiles": [
+    "腹腔防粘连材料试剂耗材.md",
+    "diary/NOTES/腹腔防粘连材料后续安排.md",
+    "腹腔防粘连材料.md",
+    "腹腔防粘连材料样本送检.md",
     "文献整理-collagen趋势.md",
     "attachments/4308adb45ae2b940e1086c8a94705715_MD5.jpg",
     "attachments/Pasted image 20260929134252.png",
     "EGCG.md",
     "批量修改已 Flatten 线条颜色.md",
     "划痕.md",
-    "腹腔防粘连材料.md",
     "attachments/腹腔防粘连材料/Endogenous stimulation-driven Janus mesh with antibacterial.pdf",
     "attachments/腹腔防粘连材料/Zwitterion mediated anti-protein adsorption on polypropylene mesh to -2023-材料为主.pdf",
     "BSA蛋白吸附.md",
@@ -354,8 +357,6 @@
     "脑出血.md",
     "脑血管畸形.md",
     "高血压脑病.md",
-    "蛛网膜下腔出血.md",
-    "脑脊液.md",
     "未命名.canvas"
   ]
 }
