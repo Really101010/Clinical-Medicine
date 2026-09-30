@@ -16,7 +16,7 @@
                 "file": "attachments/腹腔防粘连材料/Endogenous stimulation-driven Janus mesh with antibacterial.pdf",
                 "page": 10,
                 "left": -10,
-                "top": 22,
+                "top": 30,
                 "zoom": 1.666873850672841
               },
               "icon": "lucide-file-text",
@@ -24,49 +24,37 @@
             }
           },
           {
-            "id": "bc0645dfc56c1b4c",
+            "id": "b8da7a7823b6729a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "腹腔防粘连材料.md",
-                "mode": "source",
-                "source": false
+                "file": "attachments/喉返神经修复/thy.2013.0338.pdf",
+                "page": 3,
+                "left": -9,
+                "top": 340,
+                "zoom": 1.6213235294117647
               },
-              "icon": "lucide-file",
-              "title": "腹腔防粘连材料"
+              "icon": "lucide-file-text",
+              "title": "thy.2013.0338"
             }
           },
           {
-            "id": "123989913c04f332",
+            "id": "e2a3821142a7bf2e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "文献整理-collagen趋势.md",
+                "file": "取材-大鼠.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "文献整理-collagen趋势"
-            }
-          },
-          {
-            "id": "4c62cec1b4bc7ffe",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "EGCG.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "EGCG"
+              "title": "取材-大鼠"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -309,19 +297,27 @@
       "obsidian-local-images-plus:Local Images Plus  0.16.4\r\nLocalize attachments (plugin folder)": false
     }
   },
-  "active": "123989913c04f332",
+  "active": "b8da7a7823b6729a",
   "lastOpenFiles": [
+    "attachments/628ed5563ed27e6767fef45b25989fee_MD5.jpg",
+    "取材-大鼠.md",
+    "attachments/Pasted image 20260930082746.png",
+    "喉返神经修复.md",
+    "attachments/喉返神经修复/thy.2013.0338.pdf",
+    "attachments/腹腔防粘连材料/Endogenous stimulation-driven Janus mesh with antibacterial.pdf",
+    "腹腔防粘连材料.md",
+    "文献整理-collagen趋势.md",
+    "EGCG.md",
+    "溶血实验.md",
+    "attachments/d8b5fd9685e1c73f5814aa814a3160ce_MD5.jpg",
+    "attachments/Pasted image 20260930082427.png",
     "腹腔防粘连材料试剂耗材.md",
     "diary/NOTES/腹腔防粘连材料后续安排.md",
-    "腹腔防粘连材料.md",
     "腹腔防粘连材料样本送检.md",
-    "文献整理-collagen趋势.md",
     "attachments/4308adb45ae2b940e1086c8a94705715_MD5.jpg",
     "attachments/Pasted image 20260929134252.png",
-    "EGCG.md",
     "批量修改已 Flatten 线条颜色.md",
     "划痕.md",
-    "attachments/腹腔防粘连材料/Endogenous stimulation-driven Janus mesh with antibacterial.pdf",
     "attachments/腹腔防粘连材料/Zwitterion mediated anti-protein adsorption on polypropylene mesh to -2023-材料为主.pdf",
     "BSA蛋白吸附.md",
     "attachments/腹腔防粘连材料/Robust adhesive Janus hydrogel reinforced by topological entanglement for -Fan Hongsong.pdf",
@@ -331,32 +327,23 @@
     "attachments/腹腔防粘连材料/Zwitterion mediated anti-protein adsorption on polypropylene mesh to -2023-材料为主.pdf.crdownload",
     "attachments/腹腔防粘连材料/Endogenous stimulation-driven Janus mesh with antibacterial.pdf.crdownload",
     "attachments/喉返神经修复/Jov-the evolution of laryngeal reinnervation, the current state of science and thoughts for future treatments.pdf",
-    "喉返神经修复.md",
     "attachments/喉返神经修复/NC-Multichannel, biomimetic scaffolds improve functional connectivity following traumatic long-gap peripheral nerve injury.pdf",
     "肠梗阻.md",
     "腹外疝.md",
     "attachments/beb523624663320af67a085d68a8a940_MD5.jpg",
     "attachments/Pasted image 20260929094104.png",
     "attachments/8d9cb1a9f21e1ded474613f8b587e9fe_MD5.jpg",
-    "attachments/Pasted image 20260929093334.png",
-    "attachments/1d9210f9e7feb0439431b43908d77701_MD5.jpg",
-    "attachments/Pasted image 20260929093153.png",
     "阑尾炎.md",
     "门静脉炎.md",
     "attachments/喉返神经修复/Co-transplantation of Schwann cells and neural stem cells in the laminin-chitosan-PLGA nerve conduit to repair the injured recurrent laryngeal nerve in SD rats.pdf",
     "细胞治疗.md",
     "动画.md",
-    "取材-大鼠.md",
     "造模-大鼠.md",
-    "attachments/喉返神经修复/neurorrhaphy-of-the-recurrent-laryngeal-nerve.pdf",
     "喉返神经损伤.md",
     "喉返神经.md",
     "Tissue Engineering.md",
     "SCI修复.md",
     "周围神经修复.md",
-    "脑出血.md",
-    "脑血管畸形.md",
-    "高血压脑病.md",
     "未命名.canvas"
   ]
 }
