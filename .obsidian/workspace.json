@@ -24,22 +24,6 @@
             }
           },
           {
-            "id": "b8da7a7823b6729a",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "attachments/喉返神经修复/thy.2013.0338.pdf",
-                "page": 3,
-                "left": -9,
-                "top": 340,
-                "zoom": 1.6213235294117647
-              },
-              "icon": "lucide-file-text",
-              "title": "thy.2013.0338"
-            }
-          },
-          {
             "id": "e2a3821142a7bf2e",
             "type": "leaf",
             "state": {
@@ -297,13 +281,13 @@
       "obsidian-local-images-plus:Local Images Plus  0.16.4\r\nLocalize attachments (plugin folder)": false
     }
   },
-  "active": "b8da7a7823b6729a",
+  "active": "e2a3821142a7bf2e",
   "lastOpenFiles": [
+    "attachments/喉返神经修复/thy.2013.0338.pdf",
     "attachments/628ed5563ed27e6767fef45b25989fee_MD5.jpg",
     "取材-大鼠.md",
     "attachments/Pasted image 20260930082746.png",
     "喉返神经修复.md",
-    "attachments/喉返神经修复/thy.2013.0338.pdf",
     "attachments/腹腔防粘连材料/Endogenous stimulation-driven Janus mesh with antibacterial.pdf",
     "腹腔防粘连材料.md",
     "文献整理-collagen趋势.md",
@@ -332,7 +316,6 @@
     "腹外疝.md",
     "attachments/beb523624663320af67a085d68a8a940_MD5.jpg",
     "attachments/Pasted image 20260929094104.png",
-    "attachments/8d9cb1a9f21e1ded474613f8b587e9fe_MD5.jpg",
     "阑尾炎.md",
     "门静脉炎.md",
     "attachments/喉返神经修复/Co-transplantation of Schwann cells and neural stem cells in the laminin-chitosan-PLGA nerve conduit to repair the injured recurrent laryngeal nerve in SD rats.pdf",
