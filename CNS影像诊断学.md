@@ -133,14 +133,14 @@ i) 脊髓空洞症
 T1呈低信号，T2呈高信号。
 ##### 出血
 因血肿时期而异。<span style="font-size: 16px; color: #FAF9C6">——★★MRI的MR信号需要考虑出血期龄</span>
-（血肿内血红蛋白的演变过程为：氧合血红蛋白-脱b氧血红蛋白-高铁血红蛋白-含铁血黄素。）
-
-①急性期 T1WI和T2WI呈等或稍低信号，不易发现；
-
-②亚急性 早期：血肿T1WI信号由周围向中心逐渐增高；T2WI呈低信号
-
-晚期：T1WI和T2WI均呈高信号，周围开始出现含铁血黄素环
-
-③慢性期 TlWI呈低信号，T2WI呈高信号，周围低信号环更加明显。
+（血肿内血红蛋白的演变过程为：
+<mark style="background-color: #1A4F10; color: white">氧合血红蛋白-脱氧血红蛋白-高铁血红蛋白-含铁血黄素</mark>。）
+###### ①急性期：
+T1WI和T2WI呈<span style="font-weight: bold; text-decoration: underline;">等或稍低信号</span>，<mark style="background-color: #3F4B5E; color: white">不易发现</mark>；
+###### ②亚急性：
+- 早期：血肿T1WI信号由周围向中心逐渐增高；T2WI呈低信号
+- 晚期：T1WI和T2WI均呈高信号，周围开始出现含铁血黄素环
+###### ③慢性期：
+TlWI呈低信号，T2WI呈高信号，周围低信号环更加明显。
 
 
