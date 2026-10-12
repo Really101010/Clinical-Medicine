@@ -212,7 +212,7 @@
   "useCallout": true,
   "calloutType": "PDF",
   "calloutIcon": "highlighter",
-  "highlightBacklinksInEmbed": false,
+  "highlightBacklinksInEmbed": true,
   "highlightBacklinksInHoverPopover": false,
   "highlightBacklinksInCanvas": true,
   "clickPDFInternalLinkWithModifierKey": true,

@@ -3,10 +3,14 @@ formulas:
 views:
   - type: cards
     name: Cards1
+    filters:
+      and:
+        - todo == "0"
     order:
       - file.name
       - file.ctime
       - file.tags
+      - formula.todo
     cardSize: 170
   - type: table
     name: 表格
