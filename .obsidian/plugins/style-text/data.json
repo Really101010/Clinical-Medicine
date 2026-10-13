@@ -89,6 +89,11 @@
       "name": "bold Pink",
       "css": "font-size: 18px; color: #FFDEDE; font-weight: bold",
       "contextMenu": false
+    },
+    {
+      "name": "Red highlight",
+      "css": "background-color: #8B0000; color: white",
+      "contextMenu": false
     }
   ]
 }

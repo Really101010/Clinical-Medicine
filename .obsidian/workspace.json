@@ -13,16 +13,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CT.md",
+                "file": "星形细胞瘤.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "CT"
+              "title": "星形细胞瘤"
             }
           },
           {
-            "id": "cee5ed3ebf87f6c5",
+            "id": "522872b2b281bf4f",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -33,20 +33,6 @@
               },
               "icon": "lucide-file",
               "title": "磁共振"
-            }
-          },
-          {
-            "id": "056ac65ec60bc7c6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CNS影像诊断学.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "CNS影像诊断学"
             }
           },
           {
@@ -77,8 +63,7 @@
               "title": "喉肌电图"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -137,7 +122,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -321,55 +306,55 @@
       "obsidian-local-images-plus:Local Images Plus  0.16.4\r\nLocalize attachments (plugin folder)": false
     }
   },
-  "active": "056ac65ec60bc7c6",
+  "active": "f1ad3a0333b6e495",
   "lastOpenFiles": [
-    "磁共振.md",
+    "attachments/9c36c435686298eb7f616c65fdf7d721_MD5.jpg",
+    "attachments/Pasted image 20261013111235.png",
     "CNS影像诊断学.md",
+    "磁共振.md",
+    "多发性硬化.md",
+    "脑肿瘤.md",
+    "听神经瘤.md",
+    "垂体腺瘤.md",
+    "脑转移瘤.md",
+    "脑膜瘤.md",
+    "星形细胞瘤.md",
+    "神经系统肿瘤.md",
+    "颅脑损伤.md",
+    "脑血管病.md",
+    "脑卒中.md",
+    "颅内感染.md",
+    "脑脓肿.md",
+    "脑血管畸形.md",
+    "动静脉畸形.md",
     "CT.md",
+    "动脉瘤.md",
     "医学影像学概论.md",
-    "喉返神经修复.md",
-    "动画.md",
+    "脑梗死.md",
+    "脑出血.md",
+    "弥漫性脑损伤.md",
+    "脑震荡.md",
+    "脑内血肿.md",
     "attachments/喉返神经修复/The Laryngoscope - 2009 - Tessema - Observations of recurrent laryngeal nerve injury and recovery using a rat model.pdf",
-    "喉肌电图.md",
     "attachments/喉返神经修复/Microarray Analysis Gene Expression Profiles in Laryngeal Muscle After Recurrent Laryngeal Nerve Injury.pdf",
-    "荧光强度统计.md",
     "attachments/喉返神经修复/Influence of Netrin-1 on reinnervation of laryngeal muscles following recurrent laryngeal nerve injury.pdf",
     "attachments/喉返神经修复/Influence of Netrin-1 on reinnervation of laryngeal muscles following recurrent laryngeal nerve injury.pdf.crdownload",
     "attachments/喉返神经修复/Transcriptome analysis of left versus right intrinsic laryngeal muscles associated with innervation.pdf",
     "attachments/4f783d32c9388571e9663941813d08ff_MD5.jpg",
     "attachments/Pasted image 20261012192601.png",
-    "喉返神经损伤.md",
     "attachments/6b6125e34f9923d4ea2abd2c48bc6ea4_MD5.jpg",
     "attachments/Pasted image 20261012192438.png",
-    "喉返神经解剖.md",
-    "喉返神经.md",
-    "医学影像诊断学Ⅰ教学大纲.md",
-    "腹腔防粘连材料.md",
     "attachments/0d61c9af5284b0bc5f18e76e5802d99d_MD5.jpg",
     "attachments/Pasted image 20261012113723.png",
     "attachments/9c62a9c4dd5310a00b35d38d1688f2de_MD5.jpg",
     "attachments/Pasted image 20261012113716.png",
-    "脑血管病.md",
-    "脑血管畸形.md",
-    "梅毒.md",
     "attachments/350b33ee9394aff8c4b4e4c2de684b27_MD5.jpg",
-    "attachments/Pasted image 20261012112940.png",
-    "CE-MRA.md",
-    "霍乱.md",
-    "甲杓肌.md",
     "attachments/喉返神经修复/2df65071ed0546a2b1bb2a99c9dded69/3676d2c7db3842599c7ed357848922d1.pdf",
     "attachments/喉返神经修复/2df65071ed0546a2b1bb2a99c9dded69",
-    "喉返神经修复分子生物学.md",
     "attachments/喉返神经修复/The Laryngoscope - 2026 - Bhatt - Novel Injectable Supports Long‐Term Recurrent Laryngeal Nerve and Partial Peripheral.pdf",
     "attachments/喉返神经修复/颈襻前根修复单侧喉返神经损伤的疗效分析.pdf",
     "attachments/喉返神经修复/颈袢前根-喉返神经吻合术治疗单侧声带麻痹的疗效分析.pdf",
-    "Novel Injectable Supports Long-Term Recurrent Laryngeal Nerve and Partial Peripheral Nerve Repair.md",
-    "细菌性痢疾.md",
     "Untitled.canvas",
-    "头颈部影像.md",
-    "神经再生.md",
-    "造模-大鼠.md",
-    "Tissue Engineering.md",
     "未命名.canvas"
   ]
 }

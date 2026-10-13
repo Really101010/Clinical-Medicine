@@ -80,7 +80,7 @@ i) 脊髓空洞症
 | **血管**                                                          | 低    | 低    |
 | **钙化**                                                          | 低    | 低    |
 # 基本病变表现
-### CT
+### [CT](CT.md)
 #### CT平扫
 ##### 密度改变：
 ###### ①高密度病灶：
@@ -114,11 +114,12 @@ i) 脊髓空洞症
 见于[脑脓肿](脑脓肿.md)、[结核](结核.md)瘤、胶质瘤、转移瘤等；
 ###### ④无强化
 见于脑炎、囊肿、水肿等。
-##### CTA检查
+##### [CTA](CTA)检查
 与DSA所见类似
 ##### CT灌注检查
 ①[脑缺血](缺血性脑病.md)：<mark style="background-color: #1A4F10; color: white">CBF减低，CBV不明显或增加，MTT及TTP延长</mark>。
 ②[脑肿瘤](脑肿瘤.md)：CBF及CBV均<mark style="background-color: #1A4F10; color: white">增加</mark>
+### [MRI](磁共振.md)
 #### 普通MRI检查-信号改变
 （脑结构改变同CT）
 ##### 肿块
@@ -136,11 +137,52 @@ T1呈低信号，T2呈高信号。
 （血肿内血红蛋白的演变过程为：
 <mark style="background-color: #1A4F10; color: white">氧合血红蛋白-脱氧血红蛋白-高铁血红蛋白-含铁血黄素</mark>。）
 ###### ①急性期：
+<mark style="background-color: #1A4F10; color: white">脱氧血红蛋白</mark>为主
+红细胞完整，氧合血红蛋白变成脱氧血红蛋白。
+脱氧血红蛋白是<span style="font-size: 16px; color: #D5E0A0">顺磁性</span>物质，且仍在完整红细胞内。
 T1WI和T2WI呈<span style="font-weight: bold; text-decoration: underline;">等或稍低信号</span>，<mark style="background-color: #3F4B5E; color: white">不易发现</mark>；
-###### ②亚急性：
-- 早期：血肿T1WI信号由周围向中心逐渐增高；T2WI呈低信号
-- 晚期：T1WI和T2WI均呈高信号，周围开始出现含铁血黄素环
-###### ③慢性期：
-TlWI呈低信号，T2WI呈高信号，周围低信号环更加明显。
+###### ②亚急性：⭐️
+细胞内<mark style="background-color: #1A4F10; color: white">高铁血红蛋白</mark>形成
+高铁血红蛋白含 Fe³⁺，是<span style="font-size: 16px; color: #D5E0A0">强顺磁性</span>物质，<span style="font-weight: bold; text-decoration: underline;">能显著缩短 T1</span>。
+它<mark style="background-color: #1A4F10; color: white">首先从血肿周边形成</mark>，逐渐向中心扩展。
+- 早期：血肿T1WI信号由周围向中心逐渐增<mark style="background-color: #8B0000; color: white">高</mark>；T2WI呈<mark style="background-color: #3F4B5E; color: white">低</mark>信号（因为<mark style="background-color: #3F4B5E; color: white">高铁血红蛋白还在红细胞内</mark>，细胞内顺磁物质造成磁场不均匀，T2 缩短）
+- 晚期：T1WI和T2WI<span style="font-weight: bold; text-decoration: underline;">均呈</span><mark style="background-color: #8B0000; color: white">高</mark>信号，周围开始出现含铁血黄素环（红细胞破裂后，<mark style="background-color: #8B0000; color: white">高铁血红蛋白从细胞内释放到细胞外</mark>，区室化磁化率差异减弱，<mark style="background-color: #8B0000; color: white">同时局部水肿/自由水增加</mark>，使 T2 延长）。
+###### ③慢性期：⭐️
+TlWI呈<mark style="background-color: #3F4B5E; color: white">低</mark>信号（因为<mark style="background-color: #3F4B5E; color: white">中心为自由水/囊液</mark>，T1 延长），T2WI呈<mark style="background-color: #8B0000; color: white">高</mark>信号（因为<mark style="background-color: #8B0000; color: white">自由水</mark> T2 延长），周围低信号环更加明显（<mark style="background-color: #1A4F10; color: white">含铁血黄素</mark><span style="font-weight: bold; text-decoration: underline;">超顺磁</span>，显著缩短 T2/T2*，SWI 或 GRE 上更敏感）。
+##### 梗死：
+###### 超急性期
+平扫信号多正常；
+###### 急性期和慢性期
+脑组织缺血缺氧，继发脑<mark style="background-color: #3F4B5E; color: white">水肿</mark>、坏死和囊变，T1WI呈<mark style="background-color: #3F4B5E; color: white">低</mark>信号，T2WI呈<mark style="background-color: #8B0000; color: white">高</mark>信号。
+#### 增强检查、MRA检查
+同CT
+#### H-MRS检查
+代谢物峰的异常改变见于[脑肿瘤](脑肿瘤.md)、[脑梗死](脑梗死.md)、[脑脓肿](脑脓肿.md)等，如星形细胞肿瘤的NAA峰减低，而Cho峰明显增高甚至超过前者。
+#### [DWI](DWI.md)和DTI检查
+DWI异常表现是<mark style="background-color: #8B0000; color: white">高</mark>信号。
+i. 如超急性期脑梗死、脑肿瘤、脑脓肿等；其中，星形细胞瘤的病理级别越高，信号强度也越高；脑脓肿的脓液呈高信号，而肿瘤坏死为<mark style="background-color: #3F4B5E; color: white">低</mark>信号。
+ii. DTI的白质纤维束成像可见白质受压移位，常为占位性病变所致；也可表现破坏中断，多见于脑梗死、脱髓鞘疾病，也可为高级别星形细胞瘤。
+# CNS疾病影像学表现
+## [脑外伤](颅脑损伤.md)
+## [脑血管疾病](脑血管病.md)
+## [[颅内感染]]
+## [脑肿瘤](脑肿瘤.md)
+> 其中颅咽管瘤和脑膜瘤易<mark style="background-color: #1A4F10; color: white">钙化</mark>
+## 脱髓鞘疾病
+最常见：[[多发性硬化]]
+## 先天畸形
+- 胼胝体发育不全
+- 小脑扁桃体下疝畸形
 
-
+| 影像要素         | 具体观察内容与分类                                                                                                                                                                                                                        |
+| ------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **1. 位置**    | 病灶位于脑内还是脑外（常判断肿瘤或病变来源及定位）。                                                                                                                                                                                                       |
+| **2. 数目**    | 单发还是多发。                                                                                                                                                                                                                          |
+| **3. 分布**    | 位于白质还是灰质（对于脑部病变极具定位诊断价值）。                                                                                                                                                                                                        |
+| **4. 大小**    | 病灶的大或小（通常需要测量具体径线）。                                                                                                                                                                                                              |
+| **5. 形态**    | 规则（如类圆形、椭圆形）或不规则。                                                                                                                                                                                                                |
+| **6. 边界**    | 清楚或模糊（有助于判断病变的良恶性及侵袭性）。                                                                                                                                                                                                          |
+| **7. 密度/信号** | 在CT上表现为密度（<mark style="background-color: #8B0000; color: white">高</mark>、<mark style="background-color: #3F4B5E; color: white">低</mark>、等、<mark style="background-color: #1A4F10; color: white">混杂</mark>），在MRI上表现为信号（高、低、等、混杂）。 |
+| **8. 增强**    | 造影剂增强的程度（明显强化、轻度强化等）和方式（均匀、环形、结节状等）。                                                                                                                                                                                             |
+| **9. 周边**    | 病灶周围的伴随表现，如水肿、占位效应等。                                                                                                                                                                                                             |
+| **10. 功能**   | 特殊功能成像表现，如 DWI（弥散加权成像）、PWI（灌注加权成像）等（主要针对MRI）。                                                                                                                                                                                    |
