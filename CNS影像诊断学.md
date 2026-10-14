@@ -182,7 +182,7 @@ ii. DTI的白质纤维束成像可见白质受压移位，常为占位性病变�
 # CNS疾病影像学表现
 急性脑外伤 → 首选<mark style="background-color: #705A16; color: white"> CT</mark>（<mark style="background-color: #8B0000; color: white">快</mark>、看血、看骨）。⭐️⭐️
 亚急性/慢性脑外伤，或怀疑弥漫性轴索损伤（DAI） → 首选 <mark style="background-color: #1A4F10; color: white">MRI</mark>（SWI序列看微出血，T2/FLAIR看白质损伤）。⭐️
-急性脑梗死 → 首选<mark style="background-color: #705A16; color: white"> CT</mark>（为了排除出血，以便溶栓），但确诊超早期梗死用 MRI-DWI。⭐️
+急性脑梗死 → <mark style="background-color: #8B0000; color: white">确诊超早期梗死用 MRI-DWI</mark>。⭐️
 蛛网膜下腔出血 → 首选<mark style="background-color: #705A16; color: white"> CT</mark>，如果CT阴性但高度怀疑，做腰穿或CTA/DSA。⭐️
 ## [脑外伤](颅脑损伤.md)
 ★鉴别硬膜外血肿和硬膜下血肿
