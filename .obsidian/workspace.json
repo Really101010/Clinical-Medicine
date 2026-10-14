@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CNS影像诊断学.md",
+                "file": "脑出血.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "CNS影像诊断学"
+              "title": "脑出血"
             }
           },
           {
@@ -308,6 +308,9 @@
   },
   "active": "2e206a8e48af38ba",
   "lastOpenFiles": [
+    "脑卒中.md",
+    "脑血管病.md",
+    "CNS影像诊断学.md",
     "attachments/8069dd4fc2c8fd8766f0eebd73c074df_MD5.jpg",
     "attachments/Pasted image 20261013215301.png",
     "attachments/a7c06751aba68be59a871d346dc0ee68_MD5.jpg",
@@ -322,17 +325,13 @@
     "attachments/07afc359012c7a402f899ff97d1b4fed_MD5.jpg",
     "attachments/Pasted image 20261013211228.png",
     "脑转移瘤.md",
-    "attachments/0939e7248679ea6a61982de4147a2635_MD5.jpg",
     "脑膜瘤.md",
-    "CNS影像诊断学.md",
     "星形细胞瘤.md",
     "磁共振.md",
     "脑梗死.md",
     "多发性硬化.md",
     "神经系统肿瘤.md",
     "颅脑损伤.md",
-    "脑血管病.md",
-    "脑卒中.md",
     "颅内感染.md",
     "脑脓肿.md",
     "脑血管畸形.md",
