@@ -50,13 +50,18 @@ i) 脊髓空洞症
     
 - **MRS（磁共振波谱）**：反映<mark style="background-color: #1A4F10; color: white">组织代谢物</mark>水平。如胆碱（Cho）升高提示细胞增殖活跃，N-乙酰天冬氨酸（NAA）降低提示神经元受损。
 
+---
+- 急性[脑外伤](颅脑损伤.md) → 首选<mark style="background-color: #705A16; color: white"> CT</mark>（<mark style="background-color: #8B0000; color: white">快</mark>、看血、看骨）。⭐️⭐️
+- 亚急性/慢性[脑外伤](颅脑损伤.md)，或怀疑弥漫性轴索损伤（DAI） → 首选 <mark style="background-color: #1A4F10; color: white">MRI</mark>（SWI序列看微出血，T2/FLAIR看白质损伤）。⭐️
+- 急性[脑梗死](脑梗死.md) → <mark style="background-color: #8B0000; color: white">确诊超早期梗死用 MRI-DWI</mark>。⭐️
+- 对<mark style="background-color: #705A16; color: white">小脑、脑干病变</mark>，MRI优于CT：<mark style="background-color: #1A4F10; color: white">CT受后颅窝颅骨伪影的严重影响</mark>，小脑和脑干的病灶往往显示不清。而<mark style="background-color: #705A16; color: white">MRI</mark>没有骨伪影干扰，软组织分辨率极高，是后颅窝病变（脑干、小脑梗死、肿瘤等）的首选检查。
 ## X线
 ### 平片
 头颅平片——少用，一般用于评估颅骨<mark style="background-color: #1A4F10; color: white">骨质</mark>改变，eg：畸形、骨折、肿瘤
 ### 脑血管造影DSA
 ——[脑血管疾病](脑血管病.md)（动脉瘤、动静脉畸形）<mark style="background-color: #705A16; color: white">诊断金标准</mark>
 ## 脑CT
-颅内疾病<mark style="background-color: #1A4F10; color: white">首选！！！</mark>检查，以眦耳线为基线横断面扫描。
+颅内疾病<mark style="background-color: #705A16; color: white">首选</mark>检查，以眦耳线为基线横断面扫描。
 ### 增强检查
 对比剂<mark style="background-color: #1A4F10; color: white">有机碘</mark>，高密度影变白；
 > 使用含碘造影剂是由于其物理密度较低而影像密度较高，碘的原子序数较高（53），能有效吸收X射线，使注射造影剂的区域在CT图像中呈现高密度（亮白色）。
@@ -180,10 +185,6 @@ DWI异常表现是<mark style="background-color: #8B0000; color: white">高</mar
 i. 如超急性期脑梗死、脑肿瘤、脑脓肿等；其中，星形细胞瘤的病理级别越高，信号强度也越高；脑脓肿的脓液呈高信号，而肿瘤坏死为<mark style="background-color: #3F4B5E; color: white">低</mark>信号。
 ii. DTI的白质纤维束成像可见白质受压移位，常为占位性病变所致；也可表现破坏中断，多见于脑梗死、脱髓鞘疾病，也可为高级别星形细胞瘤。
 # CNS疾病影像学表现
-急性脑外伤 → 首选<mark style="background-color: #705A16; color: white"> CT</mark>（<mark style="background-color: #8B0000; color: white">快</mark>、看血、看骨）。⭐️⭐️
-亚急性/慢性脑外伤，或怀疑弥漫性轴索损伤（DAI） → 首选 <mark style="background-color: #1A4F10; color: white">MRI</mark>（SWI序列看微出血，T2/FLAIR看白质损伤）。⭐️
-急性脑梗死 → <mark style="background-color: #8B0000; color: white">确诊超早期梗死用 MRI-DWI</mark>。⭐️
-蛛网膜下腔出血 → 首选<mark style="background-color: #705A16; color: white"> CT</mark>，如果CT阴性但高度怀疑，做腰穿或CTA/DSA。⭐️
 ## [脑外伤](颅脑损伤.md)
 ★鉴别硬膜外血肿和硬膜下血肿
 [Open: Pasted image 20261013215203.png](attachments/3af57351ca634b15d2bdffd9c1fa1e0e_MD5.jpg)
@@ -191,7 +192,7 @@ ii. DTI的白质纤维束成像可见白质受压移位，常为占位性病变�
 [Open: Pasted image 20261013215208.png](attachments/a7c06751aba68be59a871d346dc0ee68_MD5.jpg)
 ![222](attachments/a7c06751aba68be59a871d346dc0ee68_MD5.jpg)
 [Open: Pasted image 20261013215301.png](attachments/8069dd4fc2c8fd8766f0eebd73c074df_MD5.jpg)
-![](attachments/8069dd4fc2c8fd8766f0eebd73c074df_MD5.jpg)
+![464](attachments/8069dd4fc2c8fd8766f0eebd73c074df_MD5.jpg)
 
 | 鉴别项      | 硬膜外血肿           | 硬膜下血肿                                                                  |
 | -------- | --------------- | ---------------------------------------------------------------------- |
