@@ -120,7 +120,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -262,7 +262,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "星形细胞瘤.md",
+                "file": "脑出血.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -277,7 +277,7 @@
             "state": {
               "type": "footnotes",
               "state": {
-                "file": "星形细胞瘤.md"
+                "file": "脑出血.md"
               },
               "icon": "lucide-file-signature",
               "title": "Footnotes"
@@ -363,13 +363,13 @@
       "obsidian-local-images-plus:Local Images Plus  0.16.4\r\nLocalize attachments (plugin folder)": false
     }
   },
-  "active": "d142507df30539ee",
+  "active": "269af72f79a0def7",
   "lastOpenFiles": [
+    "星形细胞瘤.md",
     "颅脑损伤.md",
     "脑挫裂伤.md",
     "attachments/d534cc65b40073c42754e59f2d27ac79_MD5.jpg",
     "attachments/Pasted image 20261014104122.png",
-    "星形细胞瘤.md",
     "磁共振.md",
     "头颈部影像.md",
     "脑出血.md",
