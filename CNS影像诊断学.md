@@ -149,7 +149,7 @@ i) 脊髓空洞症
 含粘液蛋白和类脂性囊肿，T1WI呈高信号，T2WI呈高信号
 ##### 水肿
 T1呈低信号，T2呈高信号。
-##### 出血
+##### 出血⭐️⭐️⭐️
 因血肿时期而异。<span style="font-size: 16px; color: #FAF9C6">——★★MRI的MR信号需要考虑出血期龄</span>
 （血肿内血红蛋白的演变过程为：
 <mark style="background-color: #1A4F10; color: white">氧合血红蛋白-脱氧血红蛋白-高铁血红蛋白-含铁血黄素</mark>。）

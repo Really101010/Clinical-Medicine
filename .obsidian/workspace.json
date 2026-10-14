@@ -13,12 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "脑出血.md",
+                "file": "脑梗死.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "脑出血"
+              "title": "脑梗死"
+            }
+          },
+          {
+            "id": "61dbc805729e3a98",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CNS影像诊断学.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "CNS影像诊断学"
             }
           },
           {
@@ -205,7 +219,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CNS影像诊断学.md",
+                "file": "脑梗死.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -220,7 +234,7 @@
             "state": {
               "type": "footnotes",
               "state": {
-                "file": "喉返神经修复.md"
+                "file": "脑梗死.md"
               },
               "icon": "lucide-file-signature",
               "title": "Footnotes"
@@ -283,7 +297,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 340.904541015625,
+    "width": 200,
     "collapsed": true
   },
   "left-ribbon": {
@@ -309,25 +323,33 @@
   "active": "2e206a8e48af38ba",
   "lastOpenFiles": [
     "脑卒中.md",
-    "脑血管病.md",
+    "脑出血.md",
+    "attachments/ad1025c7c28a9f23ffcd93e991991ec8_MD5.jpg",
+    "attachments/Pasted image 20261014084217.png",
+    "attachments/f3e18e951a07d7d3f8391a615d53851c_MD5.jpg",
+    "attachments/Pasted image 20261014083520.png",
     "CNS影像诊断学.md",
+    "喉返神经修复.md",
+    "硬膜外血肿.md",
+    "硬膜下血肿.md",
+    "磁共振.md",
+    "脑内血肿.md",
+    "颅内血肿.md",
+    "attachments/db13177d28c7f724e2c06412563917a1_MD5.jpg",
+    "attachments/Pasted image 20261014083004.png",
+    "热型及临床意义.md",
+    "发热.md",
+    "脑血管病.md",
     "attachments/8069dd4fc2c8fd8766f0eebd73c074df_MD5.jpg",
     "attachments/Pasted image 20261013215301.png",
     "attachments/a7c06751aba68be59a871d346dc0ee68_MD5.jpg",
     "attachments/3af57351ca634b15d2bdffd9c1fa1e0e_MD5.jpg",
-    "attachments/Pasted image 20261013215208.png",
-    "attachments/Pasted image 20261013215203.png",
     "脑肿瘤.md",
     "听神经瘤.md",
-    "attachments/426895aebbfdde8718a5b23f85400b5d_MD5.jpg",
-    "attachments/Pasted image 20261013214303.png",
     "垂体腺瘤.md",
-    "attachments/07afc359012c7a402f899ff97d1b4fed_MD5.jpg",
-    "attachments/Pasted image 20261013211228.png",
     "脑转移瘤.md",
     "脑膜瘤.md",
     "星形细胞瘤.md",
-    "磁共振.md",
     "脑梗死.md",
     "多发性硬化.md",
     "神经系统肿瘤.md",
@@ -335,14 +357,6 @@
     "颅内感染.md",
     "脑脓肿.md",
     "脑血管畸形.md",
-    "动静脉畸形.md",
-    "CT.md",
-    "动脉瘤.md",
-    "医学影像学概论.md",
-    "脑出血.md",
-    "弥漫性脑损伤.md",
-    "脑震荡.md",
-    "脑内血肿.md",
     "attachments/喉返神经修复/The Laryngoscope - 2009 - Tessema - Observations of recurrent laryngeal nerve injury and recovery using a rat model.pdf",
     "attachments/喉返神经修复/Microarray Analysis Gene Expression Profiles in Laryngeal Muscle After Recurrent Laryngeal Nerve Injury.pdf",
     "attachments/喉返神经修复/Influence of Netrin-1 on reinnervation of laryngeal muscles following recurrent laryngeal nerve injury.pdf",
