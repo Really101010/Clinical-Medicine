@@ -180,6 +180,10 @@ DWI异常表现是<mark style="background-color: #8B0000; color: white">高</mar
 i. 如超急性期脑梗死、脑肿瘤、脑脓肿等；其中，星形细胞瘤的病理级别越高，信号强度也越高；脑脓肿的脓液呈高信号，而肿瘤坏死为<mark style="background-color: #3F4B5E; color: white">低</mark>信号。
 ii. DTI的白质纤维束成像可见白质受压移位，常为占位性病变所致；也可表现破坏中断，多见于脑梗死、脱髓鞘疾病，也可为高级别星形细胞瘤。
 # CNS疾病影像学表现
+急性脑外伤 → 首选<mark style="background-color: #705A16; color: white"> CT</mark>（<mark style="background-color: #8B0000; color: white">快</mark>、看血、看骨）。⭐️⭐️
+亚急性/慢性脑外伤，或怀疑弥漫性轴索损伤（DAI） → 首选 <mark style="background-color: #1A4F10; color: white">MRI</mark>（SWI序列看微出血，T2/FLAIR看白质损伤）。⭐️
+急性脑梗死 → 首选<mark style="background-color: #705A16; color: white"> CT</mark>（为了排除出血，以便溶栓），但确诊超早期梗死用 MRI-DWI。⭐️
+蛛网膜下腔出血 → 首选<mark style="background-color: #705A16; color: white"> CT</mark>，如果CT阴性但高度怀疑，做腰穿或CTA/DSA。⭐️
 ## [脑外伤](颅脑损伤.md)
 ★鉴别硬膜外血肿和硬膜下血肿
 [Open: Pasted image 20261013215203.png](attachments/3af57351ca634b15d2bdffd9c1fa1e0e_MD5.jpg)
@@ -202,7 +206,7 @@ ii. DTI的白质纤维束成像可见白质受压移位，常为占位性病变�
 | **CT**   | 高密度影            | ①急性期：高；  <br>②亚急性/慢：高、等、低或混杂密度影；  <br>③MRI与出血期龄相关，CT上等密度血肿，T1、T2均表现为高； |
 #### 诊断与鉴别诊断
 结合外伤史，CT和MRI表现易于明确诊断颅脑损伤类型
-- 急性脑外伤脑出血：CT佳
+- 急性脑外伤脑出血：<mark style="background-color: #1A4F10; color: white">CT佳</mark>⭐️
 - 亚急性、慢性出血：MRI佳
 - 弥漫性轴索损伤微出血灶：SWI敏感
 ## [脑血管疾病](脑血管病.md)

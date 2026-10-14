@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "脑出血.md",
+                "file": "颅脑损伤.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "脑出血"
+              "title": "颅脑损伤"
             }
           },
           {
@@ -77,8 +77,7 @@
               "title": "喉肌电图"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -220,7 +219,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "脑出血.md",
+                "file": "CNS影像诊断学.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -235,7 +234,7 @@
             "state": {
               "type": "footnotes",
               "state": {
-                "file": "脑出血.md"
+                "file": "CNS影像诊断学.md"
               },
               "icon": "lucide-file-signature",
               "title": "Footnotes"
@@ -321,12 +320,17 @@
       "obsidian-local-images-plus:Local Images Plus  0.16.4\r\nLocalize attachments (plugin folder)": false
     }
   },
-  "active": "c28dd71711a2b7dd",
+  "active": "2e206a8e48af38ba",
   "lastOpenFiles": [
+    "颅脑损伤.md",
+    "硬膜下血肿.md",
+    "脑挫裂伤.md",
+    "磁共振.md",
+    "蛛网膜下腔出血.md",
+    "脑出血.md",
     "脑卒中.md",
     "脑血管病.md",
     "CNS影像诊断学.md",
-    "磁共振.md",
     "椎管内肿瘤.md",
     "室管膜肿瘤.md",
     "菊形团.md",
@@ -345,10 +349,8 @@
     "颅内感染.md",
     "脑肿瘤.md",
     "脑梗死.md",
-    "脑出血.md",
     "喉返神经修复.md",
     "硬膜外血肿.md",
-    "硬膜下血肿.md",
     "脑内血肿.md",
     "颅内血肿.md",
     "热型及临床意义.md",
@@ -356,9 +358,6 @@
     "听神经瘤.md",
     "垂体腺瘤.md",
     "脑转移瘤.md",
-    "脑膜瘤.md",
-    "星形细胞瘤.md",
-    "多发性硬化.md",
     "attachments/喉返神经修复/The Laryngoscope - 2009 - Tessema - Observations of recurrent laryngeal nerve injury and recovery using a rat model.pdf",
     "attachments/喉返神经修复/Microarray Analysis Gene Expression Profiles in Laryngeal Muscle After Recurrent Laryngeal Nerve Injury.pdf",
     "attachments/喉返神经修复/Influence of Netrin-1 on reinnervation of laryngeal muscles following recurrent laryngeal nerve injury.pdf",
