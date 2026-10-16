@@ -36,17 +36,17 @@
             }
           },
           {
-            "id": "c28dd71711a2b7dd",
+            "id": "d6caf3c872607ab9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "脑出血.md",
+                "file": "动脉瘤.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "脑出血"
+              "title": "动脉瘤"
             }
           },
           {
@@ -158,7 +158,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "脑出血.md",
+                "file": "动脉瘤.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -220,7 +220,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "脑出血.md",
+                "file": "动脉瘤.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -319,17 +319,23 @@
       "obsidian-local-images-plus:Local Images Plus  0.16.4\r\nLocalize attachments (plugin folder)": false
     }
   },
-  "active": "c28dd71711a2b7dd",
+  "active": "d6caf3c872607ab9",
   "lastOpenFiles": [
+    "磁共振.md",
+    "脑梗死.md",
+    "attachments/a1a5494982464287975275a36353df91_MD5.jpg",
+    "attachments/Pasted image 20261016082637.png",
+    "attachments/740c7496281a7638924beb82b47a7000_MD5.jpg",
+    "attachments/Pasted image 20261016082113.png",
+    "attachments/d793ea7d02a1dca2f11b998d1efb2946_MD5.jpg",
+    "attachments/Pasted image 20261016082059.png",
+    "脑出血.md",
     "脑内血肿.md",
     "颅脑损伤.md",
     "星形细胞瘤.md",
     "喉返神经修复.md",
     "CT.md",
-    "磁共振.md",
     "头颈部影像.md",
-    "脑出血.md",
-    "脑梗死.md",
     "CNS影像诊断学.md",
     "脑挫裂伤.md",
     "attachments/d534cc65b40073c42754e59f2d27ac79_MD5.jpg",
@@ -345,18 +351,11 @@
     "室管膜肿瘤.md",
     "菊形团.md",
     "神经系统肿瘤.md",
-    "attachments/931097b1329eabac3247b53edaab1d7f_MD5.jpg",
-    "attachments/Pasted image 20261014093404.png",
-    "attachments/b545b8bc0cb4bd3c9a5dad4d9371e1f9_MD5.jpg",
-    "attachments/Pasted image 20261014093342.png",
     "脑脓肿.md",
-    "attachments/bd67bf7d130901079035237d98b167d1_MD5.jpg",
-    "attachments/Pasted image 20261014092723.png",
     "颅内感染.md",
     "脑肿瘤.md",
     "硬膜外血肿.md",
     "颅内血肿.md",
-    "热型及临床意义.md",
     "attachments/喉返神经修复/The Laryngoscope - 2009 - Tessema - Observations of recurrent laryngeal nerve injury and recovery using a rat model.pdf",
     "attachments/喉返神经修复/Microarray Analysis Gene Expression Profiles in Laryngeal Muscle After Recurrent Laryngeal Nerve Injury.pdf",
     "attachments/喉返神经修复/Influence of Netrin-1 on reinnervation of laryngeal muscles following recurrent laryngeal nerve injury.pdf",
