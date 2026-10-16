@@ -78,7 +78,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -158,7 +158,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "动脉瘤.md",
+                "file": "头颈部影像.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -220,7 +220,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "动脉瘤.md",
+                "file": "头颈部影像.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -319,8 +319,13 @@
       "obsidian-local-images-plus:Local Images Plus  0.16.4\r\nLocalize attachments (plugin folder)": false
     }
   },
-  "active": "d6caf3c872607ab9",
+  "active": "026abd955824db5a",
   "lastOpenFiles": [
+    "attachments/8ce04f2a3ecfcef24b9f7f53015d528d_MD5.jpg",
+    "attachments/Pasted image 20261016090447.png",
+    "attachments/77ee2c8073b69c4fb0b213247c2c44ba_MD5.jpg",
+    "attachments/Pasted image 20261016090334.png",
+    "动脉瘤.md",
     "attachments/9ec6406856850e3b24ad524de49b56f5_MD5.jpg",
     "attachments/Pasted image 20261016083424.png",
     "磁共振.md",
@@ -330,7 +335,6 @@
     "attachments/740c7496281a7638924beb82b47a7000_MD5.jpg",
     "attachments/Pasted image 20261016082113.png",
     "attachments/d793ea7d02a1dca2f11b998d1efb2946_MD5.jpg",
-    "attachments/Pasted image 20261016082059.png",
     "脑出血.md",
     "脑内血肿.md",
     "颅脑损伤.md",
@@ -340,10 +344,7 @@
     "头颈部影像.md",
     "CNS影像诊断学.md",
     "脑挫裂伤.md",
-    "attachments/d534cc65b40073c42754e59f2d27ac79_MD5.jpg",
-    "attachments/Pasted image 20261014104122.png",
     "蛛网膜下腔出血.md",
-    "attachments/7af40f55958071c6ef639b62ea0f1fa0_MD5.jpg",
     "医学影像诊断学Ⅰ教学大纲.md",
     "硬膜下血肿.md",
     "脑卒中.md",
@@ -356,7 +357,6 @@
     "颅内感染.md",
     "脑肿瘤.md",
     "硬膜外血肿.md",
-    "颅内血肿.md",
     "attachments/喉返神经修复/The Laryngoscope - 2009 - Tessema - Observations of recurrent laryngeal nerve injury and recovery using a rat model.pdf",
     "attachments/喉返神经修复/Microarray Analysis Gene Expression Profiles in Laryngeal Muscle After Recurrent Laryngeal Nerve Injury.pdf",
     "attachments/喉返神经修复/Influence of Netrin-1 on reinnervation of laryngeal muscles following recurrent laryngeal nerve injury.pdf",
