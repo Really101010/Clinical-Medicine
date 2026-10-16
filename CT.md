@@ -10,4 +10,5 @@ CT系统主要包括扫描部分(探测器、X线球管、机架),计算机及�
 X线束断层扫描→探测器接收残余X线并转变为电信号→模/数转换器(A/D)→输入计算机处理→CT值，排列成数字矩阵→数模转换器→显示器。
 ###### 3.CT基本概念
 CT的基准物质：空气-1000、水0、骨密质1000
+<mark style="background-color: #1A4F10; color: white">新鲜的血液</mark>为<mark style="background-color: #8B0000; color: white">高</mark>密度
 

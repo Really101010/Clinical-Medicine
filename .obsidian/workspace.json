@@ -36,45 +36,17 @@
             }
           },
           {
-            "id": "d142507df30539ee",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "星形细胞瘤.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "星形细胞瘤"
-            }
-          },
-          {
             "id": "c28dd71711a2b7dd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "颅脑损伤.md",
+                "file": "脑出血.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "颅脑损伤"
-            }
-          },
-          {
-            "id": "522872b2b281bf4f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "磁共振.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "磁共振"
+              "title": "脑出血"
             }
           },
           {
@@ -106,7 +78,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -186,7 +158,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CNS影像诊断学.md",
+                "file": "脑出血.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -321,13 +293,11 @@
               "title": "Calendar"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -349,19 +319,21 @@
       "obsidian-local-images-plus:Local Images Plus  0.16.4\r\nLocalize attachments (plugin folder)": false
     }
   },
-  "active": "026abd955824db5a",
+  "active": "c28dd71711a2b7dd",
   "lastOpenFiles": [
+    "脑内血肿.md",
+    "颅脑损伤.md",
     "星形细胞瘤.md",
+    "喉返神经修复.md",
+    "CT.md",
+    "磁共振.md",
+    "头颈部影像.md",
     "脑出血.md",
     "脑梗死.md",
     "CNS影像诊断学.md",
-    "头颈部影像.md",
-    "脑内血肿.md",
-    "颅脑损伤.md",
     "脑挫裂伤.md",
     "attachments/d534cc65b40073c42754e59f2d27ac79_MD5.jpg",
     "attachments/Pasted image 20261014104122.png",
-    "磁共振.md",
     "蛛网膜下腔出血.md",
     "attachments/7af40f55958071c6ef639b62ea0f1fa0_MD5.jpg",
     "attachments/Pasted image 20261014101751.png",
@@ -382,7 +354,6 @@
     "attachments/Pasted image 20261014092723.png",
     "颅内感染.md",
     "脑肿瘤.md",
-    "喉返神经修复.md",
     "硬膜外血肿.md",
     "颅内血肿.md",
     "热型及临床意义.md",
