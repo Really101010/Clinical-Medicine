@@ -64,7 +64,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -144,7 +144,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "脑膜炎.md",
+                "file": "头颈部影像.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -206,7 +206,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "脑膜炎.md",
+                "file": "头颈部影像.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -305,8 +305,11 @@
       "obsidian-local-images-plus:Local Images Plus  0.16.4\r\nLocalize attachments (plugin folder)": false
     }
   },
-  "active": "5263f93de009aa06",
+  "active": "026abd955824db5a",
   "lastOpenFiles": [
+    "attachments/96f964e6cca955bfd82dd52110053a0f_MD5.jpg",
+    "attachments/Pasted image 20261016092732.png",
+    "脑膜炎.md",
     "attachments/e7f7c8815b3ce70ed386b121dac628b4_MD5.jpg",
     "attachments/Pasted image 20261016092017.png",
     "喉返神经修复.md",
@@ -321,8 +324,6 @@
     "attachments/0c90acd382c38cb52e6e07eaf47ca13c_MD5.jpg",
     "attachments/Pasted image 20261016091248.png",
     "attachments/8ce04f2a3ecfcef24b9f7f53015d528d_MD5.jpg",
-    "attachments/Pasted image 20261016090447.png",
-    "attachments/77ee2c8073b69c4fb0b213247c2c44ba_MD5.jpg",
     "磁共振.md",
     "脑梗死.md",
     "脑出血.md",
@@ -342,7 +343,6 @@
     "神经系统肿瘤.md",
     "颅内感染.md",
     "脑肿瘤.md",
-    "硬膜外血肿.md",
     "attachments/喉返神经修复/The Laryngoscope - 2009 - Tessema - Observations of recurrent laryngeal nerve injury and recovery using a rat model.pdf",
     "attachments/喉返神经修复/Microarray Analysis Gene Expression Profiles in Laryngeal Muscle After Recurrent Laryngeal Nerve Injury.pdf",
     "attachments/喉返神经修复/Influence of Netrin-1 on reinnervation of laryngeal muscles following recurrent laryngeal nerve injury.pdf",
