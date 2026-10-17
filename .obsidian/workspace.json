@@ -59,16 +59,32 @@
               "state": {
                 "file": "attachments/喉返神经修复/The Anatomical Record - 2014 - Hernández‐Morato - Somatotopic Changes in the Nucleus Ambiguus After Section and.pdf",
                 "page": 1,
-                "left": -11,
-                "top": 722,
-                "zoom": 1.5477941176470589
+                "left": -4,
+                "top": 534,
+                "zoom": 1.7
               },
               "icon": "lucide-file-text",
               "title": "The Anatomical Record - 2014 - Hernández‐Morato - Somatotopic Changes in the Nucleus Ambiguus After Section and"
             }
+          },
+          {
+            "id": "753a067f3c9e4334",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "attachments/喉返神经修复/The Laryngoscope - 2014 - Hernandez‐Morato - Differential expression of glial‐derived neurotrophic factor in rat laryngeal.pdf",
+                "page": 1,
+                "left": -10,
+                "top": 805,
+                "zoom": 1.570931995104364
+              },
+              "icon": "lucide-file-text",
+              "title": "The Laryngoscope - 2014 - Hernandez‐Morato - Differential expression of glial‐derived neurotrophic factor in rat laryngeal"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -210,7 +226,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "attachments/喉返神经修复/The Anatomical Record - 2014 - Hernández‐Morato - Somatotopic Changes in the Nucleus Ambiguus After Section and.pdf",
+                "file": "attachments/喉返神经修复/The Laryngoscope - 2014 - Hernandez‐Morato - Differential expression of glial‐derived neurotrophic factor in rat laryngeal.pdf",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -310,10 +326,11 @@
       "obsidian-local-images-plus:Local Images Plus  0.16.4\r\nLocalize attachments (plugin folder)": false
     }
   },
-  "active": "95c191679b8048db",
+  "active": "753a067f3c9e4334",
   "lastOpenFiles": [
-    "attachments/喉返神经修复/GFAP immunoreactivity within the rat nucleus ambiguus after laryngeal nerve injury.pdf",
     "attachments/喉返神经修复/The Anatomical Record - 2014 - Hernández‐Morato - Somatotopic Changes in the Nucleus Ambiguus After Section and.pdf",
+    "attachments/喉返神经修复/The Laryngoscope - 2014 - Hernandez‐Morato - Differential expression of glial‐derived neurotrophic factor in rat laryngeal.pdf",
+    "attachments/喉返神经修复/GFAP immunoreactivity within the rat nucleus ambiguus after laryngeal nerve injury.pdf",
     "attachments/喉返神经修复/Ultrastructural and Automated Vocal Fold Tracking Study in Recurrent Laryngeal Nerve Injury Models.pdf",
     "Xiaoyong Ren.md",
     "attachments/5cd2892adf0ff7848424fc20aaca0ab9_MD5.jpg",
@@ -357,7 +374,6 @@
     "脑挫裂伤.md",
     "蛛网膜下腔出血.md",
     "医学影像诊断学Ⅰ教学大纲.md",
-    "attachments/喉返神经修复/Microarray Analysis Gene Expression Profiles in Laryngeal Muscle After Recurrent Laryngeal Nerve Injury.pdf",
     "Untitled.canvas",
     "未命名.canvas"
   ]
