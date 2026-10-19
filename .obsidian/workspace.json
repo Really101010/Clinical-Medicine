@@ -59,8 +59,8 @@
               "state": {
                 "file": "attachments/喉返神经修复/Multi-omics technologies Novel tools and methods for assessing nerve injury and regeneration.pdf",
                 "page": 2,
-                "left": -4,
-                "top": 332,
+                "left": -30,
+                "top": 73,
                 "zoom": 1.85
               },
               "icon": "lucide-file-text",
@@ -82,16 +82,32 @@
             }
           },
           {
+            "id": "b4717c3ced5e90d5",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "attachments/喉返神经修复/The Laryngoscope - 2018 - Voss - Histone Variants as Stem Cell Biomarkers for Long‐Term Injection Medialization.pdf",
+                "page": 1,
+                "left": -8,
+                "top": 786,
+                "zoom": 2.022906580675655
+              },
+              "icon": "lucide-file-text",
+              "title": "The Laryngoscope - 2018 - Voss - Histone Variants as Stem Cell Biomarkers for Long‐Term Injection Medialization"
+            }
+          },
+          {
             "id": "6e4a8a535cfb031c",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
                 "file": "attachments/喉返神经修复/A preliminary integrated morphologic and transcriptomic analysis of denervation remodeling in rat laryngeal and hindlimb muscles.pdf",
-                "page": 1,
-                "left": -4,
-                "top": 795,
-                "zoom": 1.5912786673744619
+                "page": 26,
+                "left": -60,
+                "top": 563,
+                "zoom": 1.66
               },
               "icon": "lucide-file-text",
               "title": "A preliminary integrated morphologic and transcriptomic analysis of denervation remodeling in rat laryngeal and hindlimb muscles"
@@ -162,7 +178,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -242,7 +258,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "甲杓肌.md",
+                "file": "attachments/喉返神经修复/The Laryngoscope - 2018 - Voss - Histone Variants as Stem Cell Biomarkers for Long‐Term Injection Medialization.pdf",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -304,7 +320,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "甲杓肌.md",
+                "file": "attachments/喉返神经修复/The Laryngoscope - 2018 - Voss - Histone Variants as Stem Cell Biomarkers for Long‐Term Injection Medialization.pdf",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -403,10 +419,18 @@
       "obsidian-local-images-plus:Local Images Plus  0.16.4\r\nLocalize attachments (plugin folder)": false
     }
   },
-  "active": "d9b5789aaecfdf25",
+  "active": "b4717c3ced5e90d5",
   "lastOpenFiles": [
-    "attachments/喉返神经修复/The Laryngoscope - 2026 - Gartling - Preliminary Transcriptomic Effects of Lateralized RLN Denervation in Rat Vocal Fold.pdf",
+    "甲杓肌.md",
+    "attachments/喉返神经修复/The Laryngoscope - 2018 - Voss - Histone Variants as Stem Cell Biomarkers for Long‐Term Injection Medialization.pdf",
+    "attachments/e9403ae6a187542f35553d8b8f49ca7a_MD5.jpg",
+    "attachments/Pasted image 20261019205421.png",
+    "attachments/喉返神经修复/A preliminary integrated morphologic and transcriptomic analysis of denervation remodeling in rat laryngeal and hindlimb muscles.pdf",
+    "attachments/24777fe44d08f8b0eec61baf82e28f45_MD5.jpg",
+    "attachments/Pasted image 20261019205205.png",
+    "attachments/喉返神经修复/Multi-omics technologies Novel tools and methods for assessing nerve injury and regeneration.pdf",
     "动画.md",
+    "attachments/喉返神经修复/The Laryngoscope - 2026 - Gartling - Preliminary Transcriptomic Effects of Lateralized RLN Denervation in Rat Vocal Fold.pdf",
     "attachments/喉返神经修复/Proteomics - 2005 - Li - Proteomic analysis of rat laryngeal muscle following denervation.pdf",
     "喉返神经修复.md",
     "attachments/喉返神经修复/Transcriptome analysis of left versus right intrinsic laryngeal muscles associated with innervation.pdf",
@@ -414,10 +438,7 @@
     "attachments/Pasted image 20261019201530.png",
     "attachments/喉返神经修复/Larynx proteomics after jellyfish collagen IL Increased ECM collagen and suppressed inflammation.pdf",
     "attachments/喉返神经修复/Larynx proteomics after jellyfish collagen IL Increased ECM collagen and suppressed inflammation.pdf.crdownload",
-    "attachments/喉返神经修复/Multi-omics technologies Novel tools and methods for assessing nerve injury and regeneration.pdf",
     "attachments/喉返神经修复/Multi-omics technologies Novel tools and methods for assessing nerve injury and regeneration.pdf.crdownload",
-    "甲杓肌.md",
-    "attachments/喉返神经修复/A preliminary integrated morphologic and transcriptomic analysis of denervation remodeling in rat laryngeal and hindlimb muscles.pdf",
     "attachments/092c81a39915336649fd4bec82a327e1_MD5.jpg",
     "attachments/Pasted image 20261019112857.png",
     "attachments/喉返神经修复/The Laryngoscope - 2014 - Hernandez‐Morato - Differential expression of glial‐derived neurotrophic factor in rat laryngeal.pdf",
@@ -426,15 +447,9 @@
     "SMFD.md",
     "attachments/93a930a823b24e6526d13aa88fb65be1_MD5.jpg",
     "attachments/Pasted image 20261019110823.png",
-    "attachments/597fc5d637fcc9475ebd90fc14fdc5ce_MD5.jpg",
-    "attachments/Pasted image 20261019110250.png",
-    "attachments/d3c60a1f6d49284c6c40e727d85e3334_MD5.jpg",
-    "attachments/Pasted image 20261019105220.png",
     "Fiji图像处理.md",
     "脑膜刺激征.md",
-    "attachments/喉返神经修复/RLN修复 间质干细胞 NRR.pdf",
     "造模-兔子.md",
-    "attachments/喉返神经修复/GFAP immunoreactivity within the rat nucleus ambiguus after laryngeal nerve injury.pdf",
     "取材-大鼠.md",
     "喉返神经修复分子生物学.md",
     "伤寒.md",
