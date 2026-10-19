@@ -73,16 +73,14 @@
             "id": "0eb640f5c00c7cfe",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "attachments/喉返神经修复/RLN修复 间质干细胞 NRR.pdf",
-                "page": 5,
-                "left": -9,
-                "top": 535,
-                "zoom": 1.5912786673744619
+                "file": "脑膜刺激征.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "RLN修复 间质干细胞 NRR"
+              "icon": "lucide-file",
+              "title": "脑膜刺激征"
             }
           }
         ],
@@ -120,7 +118,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "颈项强直",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -149,8 +147,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "7d38cd1fdadcd175",
@@ -228,7 +225,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "attachments/喉返神经修复/RLN修复 间质干细胞 NRR.pdf",
+                "file": "脑膜刺激征.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -330,10 +327,10 @@
   },
   "active": "0eb640f5c00c7cfe",
   "lastOpenFiles": [
+    "attachments/喉返神经修复/RLN修复 间质干细胞 NRR.pdf",
     "造模-兔子.md",
     "attachments/822012f1cb34638bef6a309a3f00109d_MD5.jpg",
     "attachments/Pasted image 20261019094350.png",
-    "attachments/喉返神经修复/RLN修复 间质干细胞 NRR.pdf",
     "喉返神经修复.md",
     "attachments/喉返神经修复/GFAP immunoreactivity within the rat nucleus ambiguus after laryngeal nerve injury.pdf",
     "attachments/喉返神经修复/The Anatomical Record - 2014 - Hernández‐Morato - Somatotopic Changes in the Nucleus Ambiguus After Section and.pdf",
