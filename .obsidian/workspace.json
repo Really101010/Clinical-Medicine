@@ -42,10 +42,10 @@
               "type": "pdf",
               "state": {
                 "file": "attachments/喉返神经修复/Multi-omics technologies Novel tools and methods for assessing nerve injury and regeneration.pdf",
-                "page": 1,
-                "left": 20,
-                "top": 452,
-                "zoom": 1.71
+                "page": 2,
+                "left": -4,
+                "top": 332,
+                "zoom": 1.85
               },
               "icon": "lucide-file-text",
               "title": "Multi-omics technologies Novel tools and methods for assessing nerve injury and regeneration"
@@ -146,7 +146,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -288,7 +288,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "attachments/喉返神经修复/Multi-omics technologies Novel tools and methods for assessing nerve injury and regeneration.pdf",
+                "file": "动画.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -388,10 +388,10 @@
       "obsidian-local-images-plus:Local Images Plus  0.16.4\r\nLocalize attachments (plugin folder)": false
     }
   },
-  "active": "360e241ddc3f666d",
+  "active": "97ea20c35149410a",
   "lastOpenFiles": [
-    "喉返神经修复.md",
     "attachments/喉返神经修复/Multi-omics technologies Novel tools and methods for assessing nerve injury and regeneration.pdf",
+    "喉返神经修复.md",
     "动画.md",
     "attachments/喉返神经修复/Multi-omics technologies Novel tools and methods for assessing nerve injury and regeneration.pdf.crdownload",
     "甲杓肌.md",
