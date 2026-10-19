@@ -112,7 +112,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -192,7 +192,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "头颈部影像.md",
+                "file": "喉返神经修复分子生物学.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -254,7 +254,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "伤寒.md",
+                "file": "喉返神经修复分子生物学.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -327,8 +327,7 @@
               "title": "Calendar"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
@@ -354,8 +353,12 @@
       "obsidian-local-images-plus:Local Images Plus  0.16.4\r\nLocalize attachments (plugin folder)": false
     }
   },
-  "active": "bdb2cbfa50a992ee",
+  "active": "3e776789562e46e5",
   "lastOpenFiles": [
+    "取材-大鼠.md",
+    "喉返神经修复.md",
+    "RLN-TEM.md",
+    "伤寒.md",
     "attachments/喉返神经修复/The Laryngoscope - 2014 - Hernandez‐Morato - Differential expression of glial‐derived neurotrophic factor in rat laryngeal.pdf",
     "喉返神经修复分子生物学.md",
     "Fiji图像处理.md",
@@ -372,12 +375,10 @@
     "胶质母细胞瘤.md",
     "栅栏状排列.md",
     "attachments/喉返神经修复/Evaluation of PRP injection after RLN injury in rats.pdf",
-    "喉返神经修复.md",
     "CNS影像诊断学.md",
     "头颈部影像.md",
     "脑膜炎.md",
     "声带运动.md",
-    "RLN-TEM.md",
     "attachments/喉返神经修复/喉返神经损伤后神经肌肉变化及再生特点研究_白玉.pdf",
     "喉肌电图.md",
     "attachments/喉返神经修复/Placental-Derived Connective Tissue Matrix Mediates Murine RLN regeneration.pdf",
@@ -400,7 +401,6 @@
     "脑内血肿.md",
     "颅脑损伤.md",
     "CT.md",
-    "脑挫裂伤.md",
     "Untitled.canvas",
     "未命名.canvas"
   ]
