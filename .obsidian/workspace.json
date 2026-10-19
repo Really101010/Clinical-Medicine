@@ -36,6 +36,22 @@
             }
           },
           {
+            "id": "012489b6a19c4639",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "attachments/喉返神经修复/Larynx proteomics after jellyfish collagen IL Increased ECM collagen and suppressed inflammation.pdf",
+                "page": 4,
+                "left": -59,
+                "top": 661,
+                "zoom": 1.37
+              },
+              "icon": "lucide-file-text",
+              "title": "Larynx proteomics after jellyfish collagen IL Increased ECM collagen and suppressed inflammation"
+            }
+          },
+          {
             "id": "360e241ddc3f666d",
             "type": "leaf",
             "state": {
@@ -145,8 +161,7 @@
               "title": "The Laryngoscope - 2014 - Hernandez‐Morato - Differential expression of glial‐derived neurotrophic factor in rat laryngeal"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -288,7 +303,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "动画.md",
+                "file": "喉返神经修复.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -388,11 +403,15 @@
       "obsidian-local-images-plus:Local Images Plus  0.16.4\r\nLocalize attachments (plugin folder)": false
     }
   },
-  "active": "97ea20c35149410a",
+  "active": "2e206a8e48af38ba",
   "lastOpenFiles": [
-    "attachments/喉返神经修复/Multi-omics technologies Novel tools and methods for assessing nerve injury and regeneration.pdf",
-    "喉返神经修复.md",
+    "attachments/96fdccf656ce132b3016ea78169f1bdb_MD5.jpg",
+    "attachments/Pasted image 20261019201530.png",
+    "attachments/喉返神经修复/Larynx proteomics after jellyfish collagen IL Increased ECM collagen and suppressed inflammation.pdf",
     "动画.md",
+    "喉返神经修复.md",
+    "attachments/喉返神经修复/Larynx proteomics after jellyfish collagen IL Increased ECM collagen and suppressed inflammation.pdf.crdownload",
+    "attachments/喉返神经修复/Multi-omics technologies Novel tools and methods for assessing nerve injury and regeneration.pdf",
     "attachments/喉返神经修复/Multi-omics technologies Novel tools and methods for assessing nerve injury and regeneration.pdf.crdownload",
     "甲杓肌.md",
     "attachments/喉返神经修复/Proteomics - 2005 - Li - Proteomic analysis of rat laryngeal muscle following denervation.pdf",
@@ -410,18 +429,15 @@
     "attachments/d3c60a1f6d49284c6c40e727d85e3334_MD5.jpg",
     "attachments/Pasted image 20261019105220.png",
     "attachments/9179ee4677b3d4286a046c513b976a30_MD5.jpg",
-    "attachments/Pasted image 20261019105026.png",
     "Fiji图像处理.md",
     "脑膜刺激征.md",
     "attachments/喉返神经修复/RLN修复 间质干细胞 NRR.pdf",
     "造模-兔子.md",
     "attachments/喉返神经修复/GFAP immunoreactivity within the rat nucleus ambiguus after laryngeal nerve injury.pdf",
     "attachments/喉返神经修复/The Anatomical Record - 2014 - Hernández‐Morato - Somatotopic Changes in the Nucleus Ambiguus After Section and.pdf",
-    "attachments/喉返神经修复/Myelin histology a key tool in nervous system research.pdf",
     "取材-大鼠.md",
     "喉返神经修复分子生物学.md",
     "伤寒.md",
-    "attachments/喉返神经修复/Myelin histology a key tool in nervous system research.pdf.crdownload",
     "RLN-TEM.md",
     "Xiaoyong Ren.md",
     "周围神经修复.md",
