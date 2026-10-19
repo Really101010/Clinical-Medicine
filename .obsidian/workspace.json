@@ -43,9 +43,9 @@
               "state": {
                 "file": "attachments/喉返神经修复/Multi-omics technologies Novel tools and methods for assessing nerve injury and regeneration.pdf",
                 "page": 1,
-                "left": -9,
-                "top": 812,
-                "zoom": 1.5912786673744619
+                "left": 20,
+                "top": 452,
+                "zoom": 1.71
               },
               "icon": "lucide-file-text",
               "title": "Multi-omics technologies Novel tools and methods for assessing nerve injury and regeneration"
@@ -146,7 +146,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -288,7 +288,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "动画.md",
+                "file": "attachments/喉返神经修复/Multi-omics technologies Novel tools and methods for assessing nerve injury and regeneration.pdf",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -388,12 +388,12 @@
       "obsidian-local-images-plus:Local Images Plus  0.16.4\r\nLocalize attachments (plugin folder)": false
     }
   },
-  "active": "97ea20c35149410a",
+  "active": "360e241ddc3f666d",
   "lastOpenFiles": [
+    "喉返神经修复.md",
     "attachments/喉返神经修复/Multi-omics technologies Novel tools and methods for assessing nerve injury and regeneration.pdf",
     "动画.md",
     "attachments/喉返神经修复/Multi-omics technologies Novel tools and methods for assessing nerve injury and regeneration.pdf.crdownload",
-    "喉返神经修复.md",
     "甲杓肌.md",
     "attachments/喉返神经修复/Proteomics - 2005 - Li - Proteomic analysis of rat laryngeal muscle following denervation.pdf",
     "attachments/喉返神经修复/A preliminary integrated morphologic and transcriptomic analysis of denervation remodeling in rat laryngeal and hindlimb muscles.pdf",
