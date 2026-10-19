@@ -60,9 +60,9 @@
               "type": "pdf",
               "state": {
                 "file": "attachments/喉返神经修复/The Laryngoscope - 2014 - Hernandez‐Morato - Differential expression of glial‐derived neurotrophic factor in rat laryngeal.pdf",
-                "page": 4,
+                "page": 5,
                 "left": -10,
-                "top": 97,
+                "top": 731,
                 "zoom": 1.570931995104364
               },
               "icon": "lucide-file-text",
@@ -83,8 +83,7 @@
               "title": "脑膜炎"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -226,7 +225,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "脑膜炎.md",
+                "file": "喉返神经修复.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -326,8 +325,12 @@
       "obsidian-local-images-plus:Local Images Plus  0.16.4\r\nLocalize attachments (plugin folder)": false
     }
   },
-  "active": "0eb640f5c00c7cfe",
+  "active": "2e206a8e48af38ba",
   "lastOpenFiles": [
+    "attachments/092c81a39915336649fd4bec82a327e1_MD5.jpg",
+    "attachments/Pasted image 20261019112857.png",
+    "attachments/喉返神经修复/The Laryngoscope - 2014 - Hernandez‐Morato - Differential expression of glial‐derived neurotrophic factor in rat laryngeal.pdf",
+    "脑膜炎.md",
     "流脑.md",
     "SMFD.md",
     "attachments/93a930a823b24e6526d13aa88fb65be1_MD5.jpg",
@@ -339,16 +342,13 @@
     "attachments/9179ee4677b3d4286a046c513b976a30_MD5.jpg",
     "attachments/Pasted image 20261019105026.png",
     "Fiji图像处理.md",
-    "脑膜炎.md",
     "脑膜刺激征.md",
     "attachments/喉返神经修复/RLN修复 间质干细胞 NRR.pdf",
     "造模-兔子.md",
     "attachments/822012f1cb34638bef6a309a3f00109d_MD5.jpg",
-    "attachments/Pasted image 20261019094350.png",
     "喉返神经修复.md",
     "attachments/喉返神经修复/GFAP immunoreactivity within the rat nucleus ambiguus after laryngeal nerve injury.pdf",
     "attachments/喉返神经修复/The Anatomical Record - 2014 - Hernández‐Morato - Somatotopic Changes in the Nucleus Ambiguus After Section and.pdf",
-    "attachments/喉返神经修复/The Laryngoscope - 2014 - Hernandez‐Morato - Differential expression of glial‐derived neurotrophic factor in rat laryngeal.pdf",
     "attachments/喉返神经修复/Myelin histology a key tool in nervous system research.pdf",
     "取材-大鼠.md",
     "喉返神经修复分子生物学.md",
