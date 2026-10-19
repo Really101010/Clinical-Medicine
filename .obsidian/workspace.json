@@ -106,7 +106,7 @@
                 "file": "attachments/喉返神经修复/Proteomics - 2005 - Li - Proteomic analysis of rat laryngeal muscle following denervation.pdf",
                 "page": 1,
                 "left": -9,
-                "top": 798,
+                "top": 688,
                 "zoom": 1.5920168067226892
               },
               "icon": "lucide-file-text",
@@ -161,7 +161,8 @@
               "title": "The Laryngoscope - 2014 - Hernandez‐Morato - Differential expression of glial‐derived neurotrophic factor in rat laryngeal"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -241,7 +242,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "attachments/喉返神经修复/RLN修复 间质干细胞 NRR.pdf",
+                "file": "甲杓肌.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -303,7 +304,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "喉返神经修复.md",
+                "file": "甲杓肌.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -376,8 +377,7 @@
               "title": "Calendar"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
@@ -403,18 +403,20 @@
       "obsidian-local-images-plus:Local Images Plus  0.16.4\r\nLocalize attachments (plugin folder)": false
     }
   },
-  "active": "2e206a8e48af38ba",
+  "active": "d9b5789aaecfdf25",
   "lastOpenFiles": [
+    "attachments/喉返神经修复/The Laryngoscope - 2026 - Gartling - Preliminary Transcriptomic Effects of Lateralized RLN Denervation in Rat Vocal Fold.pdf",
+    "动画.md",
+    "attachments/喉返神经修复/Proteomics - 2005 - Li - Proteomic analysis of rat laryngeal muscle following denervation.pdf",
+    "喉返神经修复.md",
+    "attachments/喉返神经修复/Transcriptome analysis of left versus right intrinsic laryngeal muscles associated with innervation.pdf",
     "attachments/96fdccf656ce132b3016ea78169f1bdb_MD5.jpg",
     "attachments/Pasted image 20261019201530.png",
     "attachments/喉返神经修复/Larynx proteomics after jellyfish collagen IL Increased ECM collagen and suppressed inflammation.pdf",
-    "动画.md",
-    "喉返神经修复.md",
     "attachments/喉返神经修复/Larynx proteomics after jellyfish collagen IL Increased ECM collagen and suppressed inflammation.pdf.crdownload",
     "attachments/喉返神经修复/Multi-omics technologies Novel tools and methods for assessing nerve injury and regeneration.pdf",
     "attachments/喉返神经修复/Multi-omics technologies Novel tools and methods for assessing nerve injury and regeneration.pdf.crdownload",
     "甲杓肌.md",
-    "attachments/喉返神经修复/Proteomics - 2005 - Li - Proteomic analysis of rat laryngeal muscle following denervation.pdf",
     "attachments/喉返神经修复/A preliminary integrated morphologic and transcriptomic analysis of denervation remodeling in rat laryngeal and hindlimb muscles.pdf",
     "attachments/092c81a39915336649fd4bec82a327e1_MD5.jpg",
     "attachments/Pasted image 20261019112857.png",
@@ -428,13 +430,11 @@
     "attachments/Pasted image 20261019110250.png",
     "attachments/d3c60a1f6d49284c6c40e727d85e3334_MD5.jpg",
     "attachments/Pasted image 20261019105220.png",
-    "attachments/9179ee4677b3d4286a046c513b976a30_MD5.jpg",
     "Fiji图像处理.md",
     "脑膜刺激征.md",
     "attachments/喉返神经修复/RLN修复 间质干细胞 NRR.pdf",
     "造模-兔子.md",
     "attachments/喉返神经修复/GFAP immunoreactivity within the rat nucleus ambiguus after laryngeal nerve injury.pdf",
-    "attachments/喉返神经修复/The Anatomical Record - 2014 - Hernández‐Morato - Somatotopic Changes in the Nucleus Ambiguus After Section and.pdf",
     "取材-大鼠.md",
     "喉返神经修复分子生物学.md",
     "伤寒.md",
