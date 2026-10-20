@@ -82,22 +82,6 @@
             }
           },
           {
-            "id": "b4717c3ced5e90d5",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "attachments/喉返神经修复/The Laryngoscope - 2018 - Voss - Histone Variants as Stem Cell Biomarkers for Long‐Term Injection Medialization.pdf",
-                "page": 1,
-                "left": -8,
-                "top": 786,
-                "zoom": 2.022906580675655
-              },
-              "icon": "lucide-file-text",
-              "title": "The Laryngoscope - 2018 - Voss - Histone Variants as Stem Cell Biomarkers for Long‐Term Injection Medialization"
-            }
-          },
-          {
             "id": "6e4a8a535cfb031c",
             "type": "leaf",
             "state": {
@@ -105,9 +89,9 @@
               "state": {
                 "file": "attachments/喉返神经修复/A preliminary integrated morphologic and transcriptomic analysis of denervation remodeling in rat laryngeal and hindlimb muscles.pdf",
                 "page": 26,
-                "left": -60,
-                "top": 563,
-                "zoom": 1.66
+                "left": -8,
+                "top": 571,
+                "zoom": 1.9301470588235297
               },
               "icon": "lucide-file-text",
               "title": "A preliminary integrated morphologic and transcriptomic analysis of denervation remodeling in rat laryngeal and hindlimb muscles"
@@ -237,7 +221,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -258,7 +242,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "attachments/喉返神经修复/The Laryngoscope - 2018 - Voss - Histone Variants as Stem Cell Biomarkers for Long‐Term Injection Medialization.pdf",
+                "file": "attachments/喉返神经修复/A preliminary integrated morphologic and transcriptomic analysis of denervation remodeling in rat laryngeal and hindlimb muscles.pdf",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -320,7 +304,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "attachments/喉返神经修复/The Laryngoscope - 2018 - Voss - Histone Variants as Stem Cell Biomarkers for Long‐Term Injection Medialization.pdf",
+                "file": "attachments/喉返神经修复/A preliminary integrated morphologic and transcriptomic analysis of denervation remodeling in rat laryngeal and hindlimb muscles.pdf",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -393,7 +377,8 @@
               "title": "Calendar"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -419,10 +404,11 @@
       "obsidian-local-images-plus:Local Images Plus  0.16.4\r\nLocalize attachments (plugin folder)": false
     }
   },
-  "active": "b4717c3ced5e90d5",
+  "active": "6e4a8a535cfb031c",
   "lastOpenFiles": [
-    "甲杓肌.md",
     "attachments/喉返神经修复/The Laryngoscope - 2018 - Voss - Histone Variants as Stem Cell Biomarkers for Long‐Term Injection Medialization.pdf",
+    "喉返神经修复.md",
+    "甲杓肌.md",
     "attachments/e9403ae6a187542f35553d8b8f49ca7a_MD5.jpg",
     "attachments/Pasted image 20261019205421.png",
     "attachments/喉返神经修复/A preliminary integrated morphologic and transcriptomic analysis of denervation remodeling in rat laryngeal and hindlimb muscles.pdf",
@@ -432,7 +418,6 @@
     "动画.md",
     "attachments/喉返神经修复/The Laryngoscope - 2026 - Gartling - Preliminary Transcriptomic Effects of Lateralized RLN Denervation in Rat Vocal Fold.pdf",
     "attachments/喉返神经修复/Proteomics - 2005 - Li - Proteomic analysis of rat laryngeal muscle following denervation.pdf",
-    "喉返神经修复.md",
     "attachments/喉返神经修复/Transcriptome analysis of left versus right intrinsic laryngeal muscles associated with innervation.pdf",
     "attachments/96fdccf656ce132b3016ea78169f1bdb_MD5.jpg",
     "attachments/Pasted image 20261019201530.png",

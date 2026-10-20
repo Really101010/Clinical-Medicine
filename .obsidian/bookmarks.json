@@ -79,6 +79,25 @@
         }
       ],
       "title": "腹腔防粘连材料"
+    },
+    {
+      "type": "group",
+      "ctime": 1792459166291,
+      "items": [
+        {
+          "type": "group",
+          "ctime": 1792459171064,
+          "items": [
+            {
+              "type": "file",
+              "ctime": 1792459156001,
+              "path": "attachments/喉返神经修复/The Laryngoscope - 2018 - Voss - Histone Variants as Stem Cell Biomarkers for Long‐Term Injection Medialization.pdf"
+            }
+          ],
+          "title": "声带相关"
+        }
+      ],
+      "title": "其他误入"
     }
   ]
 }
