@@ -60,9 +60,9 @@
               "type": "pdf",
               "state": {
                 "file": "attachments/喉返神经修复/A preliminary integrated morphologic and transcriptomic analysis of denervation remodeling in rat laryngeal and hindlimb muscles.pdf",
-                "page": 5,
-                "left": 19,
-                "top": 699,
+                "page": 6,
+                "left": 15,
+                "top": 707,
                 "zoom": 1.33
               },
               "icon": "lucide-file-text",
@@ -148,7 +148,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -289,7 +289,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "喉返神经损伤.md",
+                "file": "attachments/喉返神经修复/A preliminary integrated morphologic and transcriptomic analysis of denervation remodeling in rat laryngeal and hindlimb muscles.pdf",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -389,9 +389,11 @@
       "obsidian-local-images-plus:Local Images Plus  0.16.4\r\nLocalize attachments (plugin folder)": false
     }
   },
-  "active": "f68a53c2988be9bd",
+  "active": "6e4a8a535cfb031c",
   "lastOpenFiles": [
+    "甲杓肌.md",
     "attachments/喉返神经修复/A preliminary integrated morphologic and transcriptomic analysis of denervation remodeling in rat laryngeal and hindlimb muscles.pdf",
+    "喉返神经损伤.md",
     "星形细胞瘤.md",
     "PET-CT.md",
     "喉返神经修复.md",
@@ -401,7 +403,6 @@
     "attachments/喉返神经修复/Larynx proteomics after jellyfish collagen IL Increased ECM collagen and suppressed inflammation.pdf",
     "动画.md",
     "attachments/喉返神经修复/The Laryngoscope - 2018 - Voss - Histone Variants as Stem Cell Biomarkers for Long‐Term Injection Medialization.pdf",
-    "甲杓肌.md",
     "attachments/e9403ae6a187542f35553d8b8f49ca7a_MD5.jpg",
     "attachments/Pasted image 20261019205421.png",
     "attachments/24777fe44d08f8b0eec61baf82e28f45_MD5.jpg",
@@ -435,7 +436,6 @@
     "头颈部影像.md",
     "声带运动.md",
     "喉肌电图.md",
-    "中耳乳突炎.md",
     "Untitled.canvas",
     "未命名.canvas"
   ]
