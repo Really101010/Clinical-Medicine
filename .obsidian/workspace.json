@@ -14,13 +14,29 @@
               "type": "pdf",
               "state": {
                 "file": "attachments/喉返神经修复/A preliminary integrated morphologic and transcriptomic analysis of denervation remodeling in rat laryngeal and hindlimb muscles.pdf",
-                "page": 7,
-                "left": -88,
-                "top": 128,
-                "zoom": 1.24
+                "page": 45,
+                "left": -112,
+                "top": 479,
+                "zoom": 1.17
               },
               "icon": "lucide-file-text",
               "title": "A preliminary integrated morphologic and transcriptomic analysis of denervation remodeling in rat laryngeal and hindlimb muscles"
+            }
+          },
+          {
+            "id": "233d84591381c65f",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "attachments/喉返神经修复/A Novel Method for Thyroarytenoid Myofiber Culture.pdf",
+                "page": 1,
+                "left": -11,
+                "top": 796,
+                "zoom": 1.5477941176470589
+              },
+              "icon": "lucide-file-text",
+              "title": "A Novel Method for Thyroarytenoid Myofiber Culture"
             }
           },
           {
@@ -93,7 +109,8 @@
               "title": "放射性药物"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -173,7 +190,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "attachments/喉返神经修复/A preliminary integrated morphologic and transcriptomic analysis of denervation remodeling in rat laryngeal and hindlimb muscles.pdf",
+                "file": "attachments/喉返神经修复/A Novel Method for Thyroarytenoid Myofiber Culture.pdf",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -235,7 +252,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "attachments/喉返神经修复/A preliminary integrated morphologic and transcriptomic analysis of denervation remodeling in rat laryngeal and hindlimb muscles.pdf",
+                "file": "attachments/喉返神经修复/A Novel Method for Thyroarytenoid Myofiber Culture.pdf",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -335,10 +352,12 @@
       "obsidian-local-images-plus:Local Images Plus  0.16.4\r\nLocalize attachments (plugin folder)": false
     }
   },
-  "active": "6e4a8a535cfb031c",
+  "active": "233d84591381c65f",
   "lastOpenFiles": [
-    "甲杓肌.md",
     "attachments/喉返神经修复/A preliminary integrated morphologic and transcriptomic analysis of denervation remodeling in rat laryngeal and hindlimb muscles.pdf",
+    "attachments/喉返神经修复/A Novel Method for Thyroarytenoid Myofiber Culture.pdf",
+    "attachments/喉返神经修复/A Novel Method for Thyroarytenoid Myofiber Culture.pdf.crdownload",
+    "甲杓肌.md",
     "喉返神经修复.md",
     "喉返神经修复分子生物学.md",
     "放射性药物.md",
@@ -372,7 +391,6 @@
     "PET/attachments",
     "PET",
     "动画.md",
-    "attachments/喉返神经修复/The Laryngoscope - 2018 - Voss - Histone Variants as Stem Cell Biomarkers for Long‐Term Injection Medialization.pdf",
     "attachments/e9403ae6a187542f35553d8b8f49ca7a_MD5.jpg",
     "attachments/Pasted image 20261019205421.png",
     "attachments/24777fe44d08f8b0eec61baf82e28f45_MD5.jpg",
