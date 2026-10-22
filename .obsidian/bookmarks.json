@@ -44,6 +44,17 @@
               "type": "file",
               "ctime": 1792413973358,
               "path": "attachments/喉返神经修复/A preliminary integrated morphologic and transcriptomic analysis of denervation remodeling in rat laryngeal and hindlimb muscles.pdf"
+            },
+            {
+              "type": "file",
+              "ctime": 1792627567216,
+              "path": "attachments/喉返神经修复/Multi-omics technologies Novel tools and methods for assessing nerve injury and regeneration.pdf",
+              "title": "周围神经测组学的综述（借此找文章）"
+            },
+            {
+              "type": "file",
+              "ctime": 1792627609216,
+              "path": "attachments/喉返神经修复/Larynx proteomics after jellyfish collagen IL Increased ECM collagen and suppressed inflammation.pdf"
             }
           ],
           "title": "组学"
@@ -98,6 +109,11 @@
         }
       ],
       "title": "其他误入"
+    },
+    {
+      "type": "file",
+      "ctime": 1792627632741,
+      "path": "attachments/喉返神经修复/Proteomics - 2005 - Li - Proteomic analysis of rat laryngeal muscle following denervation.pdf"
     }
   ]
 }
