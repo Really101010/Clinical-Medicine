@@ -80,7 +80,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -160,7 +160,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "核医学Ⅱ教学大纲.md",
+                "file": "放射性衰变.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -222,7 +222,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "核医学Ⅱ教学大纲.md",
+                "file": "放射性衰变.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -322,12 +322,12 @@
       "obsidian-local-images-plus:Local Images Plus  0.16.4\r\nLocalize attachments (plugin folder)": false
     }
   },
-  "active": "1e820ded907d3cb0",
+  "active": "85949490401a9829",
   "lastOpenFiles": [
-    "放射性衰变.md",
     "放射性药物.md",
-    "荧光现象.md",
     "核医学Ⅱ教学大纲.md",
+    "放射性衰变.md",
+    "荧光现象.md",
     "电离效应.md",
     "喉返神经修复.md",
     "attachments/喉返神经修复/A preliminary integrated morphologic and transcriptomic analysis of denervation remodeling in rat laryngeal and hindlimb muscles.pdf",
