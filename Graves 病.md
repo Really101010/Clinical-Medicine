@@ -3,6 +3,7 @@ aliases:
   - Grave's 眼病
   - Graves病
   - Graves眼病
+  - Grave's病
 tags:
   - imaging
 ---
