@@ -50,6 +50,22 @@
             }
           },
           {
+            "id": "c1d5472a7d5ac9d2",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "attachments/腹腔防粘连材料/zhang-et-al-2025-a-bioinspired-defect-tolerant.pdf",
+                "page": 1,
+                "left": -11,
+                "top": 805,
+                "zoom": 1.3915687643231567
+              },
+              "icon": "lucide-file-text",
+              "title": "zhang-et-al-2025-a-bioinspired-defect-tolerant"
+            }
+          },
+          {
             "id": "78512b5ab65370e7",
             "type": "leaf",
             "state": {
@@ -120,7 +136,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -262,7 +278,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "腹腔防粘连材料.md",
+                "file": "attachments/腹腔防粘连材料/zhang-et-al-2025-a-bioinspired-defect-tolerant.pdf",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -362,8 +378,12 @@
       "obsidian-local-images-plus:Local Images Plus  0.16.4\r\nLocalize attachments (plugin folder)": false
     }
   },
-  "active": "8822c58018974bab",
+  "active": "c1d5472a7d5ac9d2",
   "lastOpenFiles": [
+    "腹腔防粘连材料.md",
+    "attachments/腹腔防粘连材料/sun-et-al-2024-microenvironment-responsive-hyd.pdf",
+    "attachments/腹腔防粘连材料/Adv Healthcare Materials - 2024 - Zhao - Injec.pdf",
+    "attachments/腹腔防粘连材料/zhang-et-al-2025-a-bioinspired-defect-tolerant.pdf",
     "diary/NOTES/腹腔防粘连材料后续安排.md",
     "门脉高压.md",
     "肝功能检查.md",
@@ -381,7 +401,6 @@
     "attachments/Pasted image 20261026113517.png",
     "attachments/8ae30b471071d970a55f49e0d7cff761_MD5.jpg",
     "attachments/Pasted image 20261026113005.png",
-    "腹腔防粘连材料.md",
     "脊髓损害.md",
     "attachments/喉返神经修复/RLN修复 间质干细胞 NRR.pdf",
     "attachments/喉返神经修复/Electrical stimulation and testosterone enhance recovery from recurrent laryngeal nerve crush.pdf",
@@ -390,9 +409,6 @@
     "attachments/喉返神经修复/大鼠喉返神经挤压伤后喉肌及神经变化的初步研究.pdf",
     "attachments/喉返神经修复/PCL Nerve Guide Conduit Coated_translated.pdf.pdf",
     "attachments/喉返神经修复/PCL Nerve Guide Conduit Coated.pdf",
-    "attachments/喉返神经修复/A preliminary integrated morphologic and transcriptomic analysis of denervation remodeling in rat laryngeal and hindlimb muscles.pdf",
-    "attachments/喉返神经修复/Co-transplantation of Schwann cells and neural stem cells in the laminin-chitosan-PLGA nerve conduit to repair the injured recurrent laryngeal nerve in SD rats.pdf",
-    "attachments/喉返神经修复/Ultrastructural and Automated Vocal Fold Tracking Study in Recurrent Laryngeal Nerve Injury Models.pdf",
     "RLN-TEM.md",
     "热型及临床意义.md",
     "发热.md",
@@ -403,7 +419,6 @@
     "甲杓肌.md",
     "喉返神经修复分子生物学.md",
     "炎症.md",
-    "磁共振.md",
     "attachments/ab5370f8c0191f19497b3695ceb45b15_MD5.jpg",
     "attachments/Pasted image 20261022101122.png",
     "attachments/e9403ae6a187542f35553d8b8f49ca7a_MD5.jpg",
