@@ -50,19 +50,19 @@
             }
           },
           {
-            "id": "c1d5472a7d5ac9d2",
+            "id": "909b5baa0a3c0d93",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
-                "file": "attachments/腹腔防粘连材料/zhang-et-al-2025-a-bioinspired-defect-tolerant.pdf",
-                "page": 1,
-                "left": -11,
-                "top": 805,
-                "zoom": 1.3915687643231567
+                "file": "attachments/腹腔防粘连材料/Adv Healthcare Materials - 2024 - Zhao - Injec.pdf",
+                "page": 6,
+                "left": -8,
+                "top": 479,
+                "zoom": 1.984373635086918
               },
               "icon": "lucide-file-text",
-              "title": "zhang-et-al-2025-a-bioinspired-defect-tolerant"
+              "title": "Adv Healthcare Materials - 2024 - Zhao - Injec"
             }
           },
           {
@@ -278,7 +278,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "attachments/腹腔防粘连材料/zhang-et-al-2025-a-bioinspired-defect-tolerant.pdf",
+                "file": "attachments/腹腔防粘连材料/Adv Healthcare Materials - 2024 - Zhao - Injec.pdf",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -378,19 +378,19 @@
       "obsidian-local-images-plus:Local Images Plus  0.16.4\r\nLocalize attachments (plugin folder)": false
     }
   },
-  "active": "c1d5472a7d5ac9d2",
+  "active": "909b5baa0a3c0d93",
   "lastOpenFiles": [
     "腹腔防粘连材料.md",
+    "放射性药物.md",
+    "attachments/腹腔防粘连材料/zhang-et-al-2025-a-bioinspired-defect-tolerant.pdf",
     "attachments/腹腔防粘连材料/sun-et-al-2024-microenvironment-responsive-hyd.pdf",
     "attachments/腹腔防粘连材料/Adv Healthcare Materials - 2024 - Zhao - Injec.pdf",
-    "attachments/腹腔防粘连材料/zhang-et-al-2025-a-bioinspired-defect-tolerant.pdf",
     "diary/NOTES/腹腔防粘连材料后续安排.md",
     "门脉高压.md",
     "肝功能检查.md",
     "肝硬化.md",
     "布鲁菌病.md",
     "科研绘图.md",
-    "放射性药物.md",
     "添加标尺.md",
     "动画.md",
     "放射性碘摄取.md",
