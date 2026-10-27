@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "diary/NOTES/腹腔防粘连材料后续安排.md",
+                "file": "腹腔防粘连材料.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "腹腔防粘连材料后续安排"
+              "title": "腹腔防粘连材料"
             }
           },
           {
@@ -262,7 +262,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "diary/NOTES/腹腔防粘连材料后续安排.md",
+                "file": "腹腔防粘连材料.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -364,6 +364,7 @@
   },
   "active": "8822c58018974bab",
   "lastOpenFiles": [
+    "diary/NOTES/腹腔防粘连材料后续安排.md",
     "门脉高压.md",
     "肝功能检查.md",
     "肝硬化.md",
@@ -372,7 +373,6 @@
     "放射性药物.md",
     "添加标尺.md",
     "动画.md",
-    "diary/NOTES/腹腔防粘连材料后续安排.md",
     "放射性碘摄取.md",
     "图片裁切.md",
     "喉返神经修复.md",
