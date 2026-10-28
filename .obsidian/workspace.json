@@ -64,17 +64,17 @@
             }
           },
           {
-            "id": "8822c58018974bab",
+            "id": "4b66a0518a9d34d3",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "webviewer",
               "state": {
-                "file": "腹腔防粘连材料.md",
-                "mode": "source",
-                "source": false
+                "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9474804/#Sec7",
+                "title": "Platelet-rich plasma loaded nerve guidance conduit as implantable biocompatible materials for recurrent laryngeal nerve regeneration - PMC",
+                "mode": "webview"
               },
-              "icon": "lucide-file",
-              "title": "腹腔防粘连材料"
+              "icon": "globe-2",
+              "title": "Platelet-rich plasma loaded nerve guidance conduit as implantable biocompatible materials for recurrent laryngeal nerve regeneration - PMC"
             }
           },
           {
@@ -336,6 +336,9 @@
   },
   "active": "a231f50ccea929a9",
   "lastOpenFiles": [
+    "喉返神经修复.md",
+    "腹腔防粘连材料.md",
+    "attachments/喉返神经修复/Placental-Derived Connective Tissue Matrix Mediates Murine RLN regeneration.pdf",
     "放射性碘摄取.md",
     "qPCR.md",
     "科研绘图.md",
@@ -348,7 +351,6 @@
     "门脉高压.md",
     "肝功能检查.md",
     "attachments/腹腔防粘连材料/Adv Healthcare Materials - 2024 - Zhao - Injec.pdf",
-    "腹腔防粘连材料.md",
     "attachments/腹腔防粘连材料/zhang-et-al-2025-a-bioinspired-defect-tolerant.pdf",
     "attachments/腹腔防粘连材料/sun-et-al-2024-microenvironment-responsive-hyd.pdf",
     "diary/NOTES/腹腔防粘连材料后续安排.md",
@@ -357,7 +359,6 @@
     "添加标尺.md",
     "动画.md",
     "图片裁切.md",
-    "喉返神经修复.md",
     "取材-大鼠.md",
     "attachments/63ca9a984873db4fa98bdf1c2259c1d0_MD5.jpg",
     "attachments/Pasted image 20261026113517.png",
@@ -370,7 +371,6 @@
     "attachments/喉返神经修复/鼠单侧喉返神经横断后喉内肌和喉返神经.pdf",
     "attachments/喉返神经修复/大鼠喉返神经挤压伤后喉肌及神经变化的初步研究.pdf",
     "attachments/喉返神经修复/PCL Nerve Guide Conduit Coated_translated.pdf.pdf",
-    "attachments/喉返神经修复/PCL Nerve Guide Conduit Coated.pdf",
     "RLN-TEM.md",
     "热型及临床意义.md",
     "发热.md",
