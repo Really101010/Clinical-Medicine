@@ -78,7 +78,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -321,8 +321,9 @@
       "obsidian-local-images-plus:Local Images Plus  0.16.4\r\nLocalize attachments (plugin folder)": false
     }
   },
-  "active": "89653659f5c05f7a",
+  "active": "78512b5ab65370e7",
   "lastOpenFiles": [
+    "呼吸系统影像.md",
     "attachments/e7fdb0b01237a41bf50dddfd8a4e57e8_MD5.jpg",
     "attachments/Pasted image 20261027175318.png",
     "核医学Ⅱ教学大纲.md",
@@ -368,7 +369,6 @@
     "attachments/Pasted image 20261022101122.png",
     "attachments/e9403ae6a187542f35553d8b8f49ca7a_MD5.jpg",
     "attachments/Pasted image 20261019205421.png",
-    "attachments/24777fe44d08f8b0eec61baf82e28f45_MD5.jpg",
     "Untitled.canvas",
     "未命名.canvas"
   ]
