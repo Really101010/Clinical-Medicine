@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "喉返神经修复分子生物学.md",
+                "file": "喉返神经修复.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "喉返神经修复分子生物学"
+              "title": "喉返神经修复"
             }
           },
           {
@@ -221,7 +221,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "喉返神经修复分子生物学.md",
+                "file": "喉返神经修复.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -321,14 +321,15 @@
       "obsidian-local-images-plus:Local Images Plus  0.16.4\r\nLocalize attachments (plugin folder)": false
     }
   },
-  "active": "04b666b21309cdcf",
+  "active": "0b655e8541a8b880",
   "lastOpenFiles": [
+    "喉返神经解剖.md",
+    "喉返神经修复分子生物学.md",
     "attachments/喉返神经修复/nerve regeneration -book1993.pdf",
     "attachments/喉返神经修复/nerve regeneration -book1993.pdf.crdownload",
     "attachments/f027d27b9131ff64babd6e2245649276_MD5.jpg",
     "attachments/Pasted image 20261029160531.png",
     "attachments/喉返神经修复/Electrical stimulation and testosterone enhance recovery from recurrent laryngeal nerve crush.pdf",
-    "喉返神经修复分子生物学.md",
     "放射性碘摄取.md",
     "布鲁菌病.md",
     "attachments/喉返神经修复/The Laryngoscope - 2023 - Watanabe - Artificial Nerve Conduit for Recurrent Laryngeal Nerve Reconstruction in Thyroid.pdf",
@@ -353,7 +354,6 @@
     "attachments/Pasted image 20261028111644.png",
     "腹腔防粘连材料.md",
     "attachments/腹腔防粘连材料/Adv Healthcare Materials - 2024 - Zhao - Injec.pdf",
-    "attachments/腹腔防粘连材料/zhang-et-al-2025-a-bioinspired-defect-tolerant.pdf",
     "qPCR.md",
     "attachments/d08690aef4a80fdb94b5a894cbbd48c2_MD5.jpg",
     "attachments/e7fdb0b01237a41bf50dddfd8a4e57e8_MD5.jpg",
