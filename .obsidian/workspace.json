@@ -114,7 +114,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "NF",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -143,8 +143,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "7d38cd1fdadcd175",
@@ -322,7 +321,7 @@
       "obsidian-local-images-plus:Local Images Plus  0.16.4\r\nLocalize attachments (plugin folder)": false
     }
   },
-  "active": "0b655e8541a8b880",
+  "active": "04b666b21309cdcf",
   "lastOpenFiles": [
     "attachments/喉返神经修复/nerve regeneration -book1993.pdf",
     "attachments/喉返神经修复/nerve regeneration -book1993.pdf.crdownload",
