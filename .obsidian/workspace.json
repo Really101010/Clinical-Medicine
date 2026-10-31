@@ -86,11 +86,27 @@
                 "file": "attachments/喉返神经修复/NC-Non-muscle myosin II inhibition at the site of axon injury increases axon regeneration.pdf",
                 "page": 1,
                 "left": -11,
-                "top": 425,
+                "top": 186,
                 "zoom": 1.4879652463731112
               },
               "icon": "lucide-file-text",
               "title": "NC-Non-muscle myosin II inhibition at the site of axon injury increases axon regeneration"
+            }
+          },
+          {
+            "id": "2e574aea67b902a0",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "attachments/喉返神经修复/Neurotrophin-3 promotes peripheral nerve regeneration by maintaining a repair state of Schwann cells after chronic denervation via the TrkCERKc-Jun pathway.pdf",
+                "page": 1,
+                "left": -11,
+                "top": 667,
+                "zoom": 1.4879652463731112
+              },
+              "icon": "lucide-file-text",
+              "title": "Neurotrophin-3 promotes peripheral nerve regeneration by maintaining a repair state of Schwann cells after chronic denervation via the TrkCERKc-Jun pathway"
             }
           }
         ],
@@ -337,8 +353,9 @@
   },
   "active": "854a44a556ab1378",
   "lastOpenFiles": [
-    "喉返神经修复.md",
+    "attachments/喉返神经修复/Neurotrophin-3 promotes peripheral nerve regeneration by maintaining a repair state of Schwann cells after chronic denervation via the TrkCERKc-Jun pathway.pdf",
     "attachments/喉返神经修复/NC-Non-muscle myosin II inhibition at the site of axon injury increases axon regeneration.pdf",
+    "喉返神经修复.md",
     "attachments/喉返神经修复/TrkA inhibitor promotes motor functional regeneration of recurrent laryngeal nerve by suppression of sensory nerve regeneration.pdf",
     "diary/NOTES/腹腔防粘连材料后续安排.md",
     "腹腔防粘连材料组图.md",
