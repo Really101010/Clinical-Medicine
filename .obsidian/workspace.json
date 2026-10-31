@@ -78,19 +78,19 @@
             }
           },
           {
-            "id": "1ecd82439bdade7c",
+            "id": "854a44a556ab1378",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
-                "file": "attachments/喉返神经修复/TrkA inhibitor promotes motor functional regeneration of recurrent laryngeal nerve by suppression of sensory nerve regeneration.pdf",
-                "page": 11,
+                "file": "attachments/喉返神经修复/NC-Non-muscle myosin II inhibition at the site of axon injury increases axon regeneration.pdf",
+                "page": 1,
                 "left": -11,
-                "top": 301,
+                "top": 425,
                 "zoom": 1.4879652463731112
               },
               "icon": "lucide-file-text",
-              "title": "TrkA inhibitor promotes motor functional regeneration of recurrent laryngeal nerve by suppression of sensory nerve regeneration"
+              "title": "NC-Non-muscle myosin II inhibition at the site of axon injury increases axon regeneration"
             }
           }
         ],
@@ -152,8 +152,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -236,7 +235,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "attachments/喉返神经修复/TrkA inhibitor promotes motor functional regeneration of recurrent laryngeal nerve by suppression of sensory nerve regeneration.pdf",
+                "file": "attachments/喉返神经修复/NC-Non-muscle myosin II inhibition at the site of axon injury increases axon regeneration.pdf",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -336,9 +335,10 @@
       "obsidian-local-images-plus:Local Images Plus  0.16.4\r\nLocalize attachments (plugin folder)": false
     }
   },
-  "active": "1ecd82439bdade7c",
+  "active": "854a44a556ab1378",
   "lastOpenFiles": [
     "喉返神经修复.md",
+    "attachments/喉返神经修复/NC-Non-muscle myosin II inhibition at the site of axon injury increases axon regeneration.pdf",
     "attachments/喉返神经修复/TrkA inhibitor promotes motor functional regeneration of recurrent laryngeal nerve by suppression of sensory nerve regeneration.pdf",
     "diary/NOTES/腹腔防粘连材料后续安排.md",
     "腹腔防粘连材料组图.md",
@@ -361,7 +361,6 @@
     "attachments/喉返神经修复/Co-transplantation of Schwann cells and neural stem cells in the laminin-chitosan-PLGA nerve conduit to repair the injured recurrent laryngeal nerve in SD rats.pdf",
     "造模-兔子.md",
     "attachments/喉返神经修复/Characteristics of Nerve Injury, Regeneration, and Vocal Fold Movement After Recurrent Laryngeal Nerve Electrocautery Injury.pdf",
-    "attachments/喉返神经修复/Bioengineered nerve regeneration and muscle reinnervation.pdf",
     "attachments/1c4d643ed71ce0379546f235c90a773f_MD5.jpg",
     "attachments/Pasted image 20261029085501.png",
     "造模-大鼠.md",
