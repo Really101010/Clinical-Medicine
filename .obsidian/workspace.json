@@ -64,6 +64,20 @@
             }
           },
           {
+            "id": "5a02a85a514397b3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "喉返神经修复.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "喉返神经修复"
+            }
+          },
+          {
             "id": "2e574aea67b902a0",
             "type": "leaf",
             "state": {
@@ -78,9 +92,41 @@
               "icon": "lucide-file-text",
               "title": "Neurotrophin-3 promotes peripheral nerve regeneration by maintaining a repair state of Schwann cells after chronic denervation via the TrkCERKc-Jun pathway"
             }
+          },
+          {
+            "id": "63c543f0d442036e",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "attachments/喉返神经修复/Rochelle salt-based biodegradable piezoelectric devices for nerve regeneration and intestinal motility monitoring.pdf",
+                "page": 7,
+                "left": 145,
+                "top": 85,
+                "zoom": 1.9
+              },
+              "icon": "lucide-file-text",
+              "title": "Rochelle salt-based biodegradable piezoelectric devices for nerve regeneration and intestinal motility monitoring"
+            }
+          },
+          {
+            "id": "58ad418d838d7490",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "attachments/喉返神经修复/Mechano-bioactive hydrogel bioelectronics for mechanical-electrical-bioenergetic conversion and glia-modulating neural regeneration.pdf",
+                "page": 6,
+                "left": -4,
+                "top": 576,
+                "zoom": 1.5
+              },
+              "icon": "lucide-file-text",
+              "title": "Mechano-bioactive hydrogel bioelectronics for mechanical-electrical-bioenergetic conversion and glia-modulating neural regeneration"
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -159,7 +205,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "attachments/喉返神经修复/Proteomics - 2005 - Li - Proteomic analysis of rat laryngeal muscle following denervation.pdf",
+                "file": "attachments/喉返神经修复/Mechano-bioactive hydrogel bioelectronics for mechanical-electrical-bioenergetic conversion and glia-modulating neural regeneration.pdf",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -178,12 +224,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "淋巴造血系统肿瘤.md",
+                "file": "attachments/喉返神经修复/Mechano-bioactive hydrogel bioelectronics for mechanical-electrical-bioenergetic conversion and glia-modulating neural regeneration.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 淋巴造血系统肿瘤"
+              "title": "Outgoing links"
             }
           },
           {
@@ -221,7 +267,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "attachments/喉返神经修复/Neurotrophin-3 promotes peripheral nerve regeneration by maintaining a repair state of Schwann cells after chronic denervation via the TrkCERKc-Jun pathway.pdf",
+                "file": "attachments/喉返神经修复/Mechano-bioactive hydrogel bioelectronics for mechanical-electrical-bioenergetic conversion and glia-modulating neural regeneration.pdf",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -321,12 +367,18 @@
       "obsidian-local-images-plus:Local Images Plus  0.16.4\r\nLocalize attachments (plugin folder)": false
     }
   },
-  "active": "4dddbdaeae500337",
+  "active": "58ad418d838d7490",
   "lastOpenFiles": [
-    "attachments/喉返神经修复/NC-Non-muscle myosin II inhibition at the site of axon injury increases axon regeneration.pdf",
+    "attachments/fe61f2457bcf59db5f37cb62fe748917_MD5.jpg",
     "喉返神经修复.md",
-    "神经营养因子.md",
+    "attachments/Pasted image 20261101163323.png",
+    "attachments/喉返神经修复/Mechano-bioactive hydrogel bioelectronics for mechanical-electrical-bioenergetic conversion and glia-modulating neural regeneration.pdf",
+    "腹腔防粘连材料组图.md",
+    "Mechano-bioactive hydrogel bioelectronics for mechanical-electrical-bioenergetic conversion and glia-modulating neural regeneration.md",
+    "attachments/喉返神经修复/Rochelle salt-based biodegradable piezoelectric devices for nerve regeneration and intestinal motility monitoring.pdf",
     "attachments/喉返神经修复/Neurotrophin-3 promotes peripheral nerve regeneration by maintaining a repair state of Schwann cells after chronic denervation via the TrkCERKc-Jun pathway.pdf",
+    "attachments/喉返神经修复/NC-Non-muscle myosin II inhibition at the site of axon injury increases axon regeneration.pdf",
+    "神经营养因子.md",
     "喉返神经修复分子生物学.md",
     "attachments/d96110be4ee555e32b2b2f9b28ec8ce4_MD5.jpg",
     "attachments/Pasted image 20261101122852.png",
@@ -335,7 +387,6 @@
     "attachments/Pasted image 20261101122116.png",
     "attachments/喉返神经修复/TrkA inhibitor promotes motor functional regeneration of recurrent laryngeal nerve by suppression of sensory nerve regeneration.pdf",
     "diary/NOTES/腹腔防粘连材料后续安排.md",
-    "腹腔防粘连材料组图.md",
     "腹腔防粘连材料.md",
     "attachments/腹腔防粘连材料/Janus网片.pdf",
     "放射性碘摄取.md",
@@ -346,10 +397,8 @@
     "attachments/f027d27b9131ff64babd6e2245649276_MD5.jpg",
     "attachments/Pasted image 20261029160531.png",
     "布鲁菌病.md",
-    "attachments/喉返神经修复/The Laryngoscope - 2023 - Watanabe - Artificial Nerve Conduit for Recurrent Laryngeal Nerve Reconstruction in Thyroid.pdf",
     "呼吸系统影像.md",
     "声带运动.md",
-    "attachments/喉返神经修复/NC-Multichannel, biomimetic scaffolds improve functional connectivity following traumatic long-gap peripheral nerve injury.pdf",
     "取材.md",
     "造模-兔子.md",
     "attachments/1c4d643ed71ce0379546f235c90a773f_MD5.jpg",
@@ -358,7 +407,6 @@
     "放射性药物.md",
     "科研绘图.md",
     "attachments/62996b5198b5c217cd8b9bb09800a3fa_MD5.jpg",
-    "attachments/Pasted image 20261028112003.png",
     "qPCR.md",
     "核医学Ⅱ教学大纲.md",
     "门脉高压.md",
@@ -367,7 +415,6 @@
     "添加标尺.md",
     "动画.md",
     "图片裁切.md",
-    "脊髓损害.md",
     "Untitled.canvas",
     "未命名.canvas"
   ]
