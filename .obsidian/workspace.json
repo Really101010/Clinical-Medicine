@@ -78,22 +78,6 @@
             }
           },
           {
-            "id": "aee63bb2ea2c6a55",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "attachments/喉返神经修复/PC12-压电.pdf",
-                "page": 1,
-                "left": -8,
-                "top": 786,
-                "zoom": 1.8810602140855675
-              },
-              "icon": "lucide-file-text",
-              "title": "PC12-压电"
-            }
-          },
-          {
             "id": "854a44a556ab1378",
             "type": "leaf",
             "state": {
@@ -267,7 +251,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "attachments/喉返神经修复/PC12-压电.pdf",
+                "file": "attachments/喉返神经修复/NC-Non-muscle myosin II inhibition at the site of axon injury increases axon regeneration.pdf",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -367,9 +351,12 @@
       "obsidian-local-images-plus:Local Images Plus  0.16.4\r\nLocalize attachments (plugin folder)": false
     }
   },
-  "active": "aee63bb2ea2c6a55",
+  "active": "854a44a556ab1378",
   "lastOpenFiles": [
+    "attachments/喉返神经修复/PC12-压电.pdf",
     "喉返神经修复.md",
+    "attachments/b05745260efaa8373236e8d1a7b79f18_MD5.jpg",
+    "attachments/Pasted image 20261101122116.png",
     "attachments/喉返神经修复/NC-Non-muscle myosin II inhibition at the site of axon injury increases axon regeneration.pdf",
     "attachments/喉返神经修复/Neurotrophin-3 promotes peripheral nerve regeneration by maintaining a repair state of Schwann cells after chronic denervation via the TrkCERKc-Jun pathway.pdf",
     "attachments/喉返神经修复/TrkA inhibitor promotes motor functional regeneration of recurrent laryngeal nerve by suppression of sensory nerve regeneration.pdf",
@@ -391,7 +378,6 @@
     "声带运动.md",
     "attachments/喉返神经修复/NC-Multichannel, biomimetic scaffolds improve functional connectivity following traumatic long-gap peripheral nerve injury.pdf",
     "取材.md",
-    "attachments/喉返神经修复/Co-transplantation of Schwann cells and neural stem cells in the laminin-chitosan-PLGA nerve conduit to repair the injured recurrent laryngeal nerve in SD rats.pdf",
     "造模-兔子.md",
     "attachments/1c4d643ed71ce0379546f235c90a773f_MD5.jpg",
     "attachments/Pasted image 20261029085501.png",
@@ -403,8 +389,6 @@
     "attachments/6eb69d416801ea191e0c33fd48f5d864_MD5.jpg",
     "attachments/Pasted image 20261028111644.png",
     "qPCR.md",
-    "attachments/d08690aef4a80fdb94b5a894cbbd48c2_MD5.jpg",
-    "attachments/e7fdb0b01237a41bf50dddfd8a4e57e8_MD5.jpg",
     "核医学Ⅱ教学大纲.md",
     "门脉高压.md",
     "肝功能检查.md",
