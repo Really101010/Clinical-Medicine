@@ -9,9 +9,40 @@
           "ctime": 1793513222789,
           "items": [
             {
-              "type": "file",
-              "ctime": 1793513203942,
-              "path": "attachments/喉返神经修复/NC-Non-muscle myosin II inhibition at the site of axon injury increases axon regeneration.pdf"
+              "type": "group",
+              "ctime": 1793524021187,
+              "items": [
+                {
+                  "type": "file",
+                  "ctime": 1793524082524,
+                  "path": "attachments/喉返神经修复/Ca2+ signaling–mediated low-intensity pulsed ultrasound–induced proliferation and activation of motor neuron cells.pdf",
+                  "title": "NSCs"
+                },
+                {
+                  "type": "file",
+                  "ctime": 1793524013122,
+                  "path": "attachments/喉返神经修复/Mechano-bioactive hydrogel bioelectronics for mechanical-electrical-bioenergetic conversion and glia-modulating neural regeneration.pdf"
+                },
+                {
+                  "type": "file",
+                  "ctime": 1793524073201,
+                  "path": "attachments/喉返神经修复/Rochelle salt-based biodegradable piezoelectric devices for nerve regeneration and intestinal motility monitoring.pdf",
+                  "title": "SH-SY5Y cells"
+                }
+              ],
+              "title": "钙通道"
+            },
+            {
+              "type": "group",
+              "ctime": 1793524060929,
+              "items": [
+                {
+                  "type": "file",
+                  "ctime": 1793513203942,
+                  "path": "attachments/喉返神经修复/NC-Non-muscle myosin II inhibition at the site of axon injury increases axon regeneration.pdf"
+                }
+              ],
+              "title": "损伤再生"
             }
           ],
           "title": "细胞实验"

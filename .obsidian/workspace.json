@@ -86,7 +86,7 @@
                 "file": "attachments/喉返神经修复/Neurotrophin-3 promotes peripheral nerve regeneration by maintaining a repair state of Schwann cells after chronic denervation via the TrkCERKc-Jun pathway.pdf",
                 "page": 1,
                 "left": -12,
-                "top": 795,
+                "top": 741,
                 "zoom": 1.297717361358429
               },
               "icon": "lucide-file-text",
@@ -101,32 +101,32 @@
               "state": {
                 "file": "attachments/喉返神经修复/Rochelle salt-based biodegradable piezoelectric devices for nerve regeneration and intestinal motility monitoring.pdf",
                 "page": 7,
-                "left": 145,
-                "top": 83,
-                "zoom": 1.9
+                "left": -12,
+                "top": 534,
+                "zoom": 1.3
               },
               "icon": "lucide-file-text",
               "title": "Rochelle salt-based biodegradable piezoelectric devices for nerve regeneration and intestinal motility monitoring"
             }
           },
           {
-            "id": "58ad418d838d7490",
+            "id": "e47ae3ea7f0b3810",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
                 "file": "attachments/喉返神经修复/Mechano-bioactive hydrogel bioelectronics for mechanical-electrical-bioenergetic conversion and glia-modulating neural regeneration.pdf",
-                "page": 6,
-                "left": 34,
-                "top": 569,
-                "zoom": 3
+                "page": 1,
+                "left": -12,
+                "top": 699,
+                "zoom": 1.297717361358429
               },
               "icon": "lucide-file-text",
               "title": "Mechano-bioactive hydrogel bioelectronics for mechanical-electrical-bioenergetic conversion and glia-modulating neural regeneration"
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -205,7 +205,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "attachments/喉返神经修复/Rochelle salt-based biodegradable piezoelectric devices for nerve regeneration and intestinal motility monitoring.pdf",
+                "file": "attachments/喉返神经修复/Mechano-bioactive hydrogel bioelectronics for mechanical-electrical-bioenergetic conversion and glia-modulating neural regeneration.pdf",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -224,7 +224,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "attachments/喉返神经修复/Rochelle salt-based biodegradable piezoelectric devices for nerve regeneration and intestinal motility monitoring.pdf",
+                "file": "attachments/喉返神经修复/Mechano-bioactive hydrogel bioelectronics for mechanical-electrical-bioenergetic conversion and glia-modulating neural regeneration.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -267,7 +267,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "attachments/喉返神经修复/Rochelle salt-based biodegradable piezoelectric devices for nerve regeneration and intestinal motility monitoring.pdf",
+                "file": "attachments/喉返神经修复/Mechano-bioactive hydrogel bioelectronics for mechanical-electrical-bioenergetic conversion and glia-modulating neural regeneration.pdf",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -367,17 +367,19 @@
       "obsidian-local-images-plus:Local Images Plus  0.16.4\r\nLocalize attachments (plugin folder)": false
     }
   },
-  "active": "63c543f0d442036e",
+  "active": "e47ae3ea7f0b3810",
   "lastOpenFiles": [
+    "attachments/喉返神经修复/Rochelle salt-based biodegradable piezoelectric devices for nerve regeneration and intestinal motility monitoring.pdf",
+    "attachments/喉返神经修复/Ca2+ signaling–mediated low-intensity pulsed ultrasound–induced proliferation and activation of motor neuron cells.pdf",
+    "attachments/喉返神经修复/Neurotrophin-3 promotes peripheral nerve regeneration by maintaining a repair state of Schwann cells after chronic denervation via the TrkCERKc-Jun pathway.pdf",
+    "attachments/喉返神经修复/NC-Non-muscle myosin II inhibition at the site of axon injury increases axon regeneration.pdf",
     "attachments/喉返神经修复/Mechano-bioactive hydrogel bioelectronics for mechanical-electrical-bioenergetic conversion and glia-modulating neural regeneration.pdf",
+    "attachments/喉返神经修复/Ca2+ signaling–mediated low-intensity pulsed ultrasound–induced proliferation and activation of motor neuron cells.pdf.crdownload",
     "attachments/fe61f2457bcf59db5f37cb62fe748917_MD5.jpg",
     "喉返神经修复.md",
     "attachments/Pasted image 20261101163323.png",
     "腹腔防粘连材料组图.md",
     "Mechano-bioactive hydrogel bioelectronics for mechanical-electrical-bioenergetic conversion and glia-modulating neural regeneration.md",
-    "attachments/喉返神经修复/Rochelle salt-based biodegradable piezoelectric devices for nerve regeneration and intestinal motility monitoring.pdf",
-    "attachments/喉返神经修复/Neurotrophin-3 promotes peripheral nerve regeneration by maintaining a repair state of Schwann cells after chronic denervation via the TrkCERKc-Jun pathway.pdf",
-    "attachments/喉返神经修复/NC-Non-muscle myosin II inhibition at the site of axon injury increases axon regeneration.pdf",
     "神经营养因子.md",
     "喉返神经修复分子生物学.md",
     "attachments/d96110be4ee555e32b2b2f9b28ec8ce4_MD5.jpg",
@@ -393,7 +395,6 @@
     "attachments/喉返神经修复/Electrical stimulation and testosterone enhance recovery from recurrent laryngeal nerve crush.pdf",
     "喉返神经解剖.md",
     "attachments/喉返神经修复/nerve regeneration -book1993.pdf",
-    "attachments/喉返神经修复/nerve regeneration -book1993.pdf.crdownload",
     "attachments/f027d27b9131ff64babd6e2245649276_MD5.jpg",
     "attachments/Pasted image 20261029160531.png",
     "布鲁菌病.md",
