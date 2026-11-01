@@ -94,39 +94,23 @@
             }
           },
           {
-            "id": "63c543f0d442036e",
+            "id": "af2a2e27f6cc6c8d",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
-                "file": "attachments/喉返神经修复/Rochelle salt-based biodegradable piezoelectric devices for nerve regeneration and intestinal motility monitoring.pdf",
-                "page": 7,
-                "left": -12,
-                "top": 534,
-                "zoom": 1.3
-              },
-              "icon": "lucide-file-text",
-              "title": "Rochelle salt-based biodegradable piezoelectric devices for nerve regeneration and intestinal motility monitoring"
-            }
-          },
-          {
-            "id": "e47ae3ea7f0b3810",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "attachments/喉返神经修复/Mechano-bioactive hydrogel bioelectronics for mechanical-electrical-bioenergetic conversion and glia-modulating neural regeneration.pdf",
+                "file": "attachments/喉返神经修复/Switching myelination on and off.pdf",
                 "page": 1,
-                "left": -12,
-                "top": 699,
-                "zoom": 1.297717361358429
+                "left": 50,
+                "top": 796,
+                "zoom": 1.8
               },
               "icon": "lucide-file-text",
-              "title": "Mechano-bioactive hydrogel bioelectronics for mechanical-electrical-bioenergetic conversion and glia-modulating neural regeneration"
+              "title": "Switching myelination on and off"
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -205,7 +189,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "attachments/喉返神经修复/Mechano-bioactive hydrogel bioelectronics for mechanical-electrical-bioenergetic conversion and glia-modulating neural regeneration.pdf",
+                "file": "attachments/喉返神经修复/Neurotrophin-3 promotes peripheral nerve regeneration by maintaining a repair state of Schwann cells after chronic denervation via the TrkCERKc-Jun pathway.pdf",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -224,7 +208,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "attachments/喉返神经修复/Mechano-bioactive hydrogel bioelectronics for mechanical-electrical-bioenergetic conversion and glia-modulating neural regeneration.pdf",
+                "file": "attachments/喉返神经修复/Neurotrophin-3 promotes peripheral nerve regeneration by maintaining a repair state of Schwann cells after chronic denervation via the TrkCERKc-Jun pathway.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -267,7 +251,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "attachments/喉返神经修复/Mechano-bioactive hydrogel bioelectronics for mechanical-electrical-bioenergetic conversion and glia-modulating neural regeneration.pdf",
+                "file": "attachments/喉返神经修复/Neurotrophin-3 promotes peripheral nerve regeneration by maintaining a repair state of Schwann cells after chronic denervation via the TrkCERKc-Jun pathway.pdf",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -367,13 +351,15 @@
       "obsidian-local-images-plus:Local Images Plus  0.16.4\r\nLocalize attachments (plugin folder)": false
     }
   },
-  "active": "e47ae3ea7f0b3810",
+  "active": "2e574aea67b902a0",
   "lastOpenFiles": [
+    "attachments/喉返神经修复/Switching myelination on and off.pdf",
+    "attachments/喉返神经修复/Mechano-bioactive hydrogel bioelectronics for mechanical-electrical-bioenergetic conversion and glia-modulating neural regeneration.pdf",
     "attachments/喉返神经修复/Rochelle salt-based biodegradable piezoelectric devices for nerve regeneration and intestinal motility monitoring.pdf",
+    "attachments/喉返神经修复/Switching myelination on and off.pdf.crdownload",
     "attachments/喉返神经修复/Ca2+ signaling–mediated low-intensity pulsed ultrasound–induced proliferation and activation of motor neuron cells.pdf",
     "attachments/喉返神经修复/Neurotrophin-3 promotes peripheral nerve regeneration by maintaining a repair state of Schwann cells after chronic denervation via the TrkCERKc-Jun pathway.pdf",
     "attachments/喉返神经修复/NC-Non-muscle myosin II inhibition at the site of axon injury increases axon regeneration.pdf",
-    "attachments/喉返神经修复/Mechano-bioactive hydrogel bioelectronics for mechanical-electrical-bioenergetic conversion and glia-modulating neural regeneration.pdf",
     "attachments/喉返神经修复/Ca2+ signaling–mediated low-intensity pulsed ultrasound–induced proliferation and activation of motor neuron cells.pdf.crdownload",
     "attachments/fe61f2457bcf59db5f37cb62fe748917_MD5.jpg",
     "喉返神经修复.md",
@@ -392,9 +378,7 @@
     "腹腔防粘连材料.md",
     "attachments/腹腔防粘连材料/Janus网片.pdf",
     "放射性碘摄取.md",
-    "attachments/喉返神经修复/Electrical stimulation and testosterone enhance recovery from recurrent laryngeal nerve crush.pdf",
     "喉返神经解剖.md",
-    "attachments/喉返神经修复/nerve regeneration -book1993.pdf",
     "attachments/f027d27b9131ff64babd6e2245649276_MD5.jpg",
     "attachments/Pasted image 20261029160531.png",
     "布鲁菌病.md",

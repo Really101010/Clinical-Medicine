@@ -21,13 +21,14 @@
                 {
                   "type": "file",
                   "ctime": 1793524013122,
-                  "path": "attachments/喉返神经修复/Mechano-bioactive hydrogel bioelectronics for mechanical-electrical-bioenergetic conversion and glia-modulating neural regeneration.pdf"
+                  "path": "attachments/喉返神经修复/Mechano-bioactive hydrogel bioelectronics for mechanical-electrical-bioenergetic conversion and glia-modulating neural regeneration.pdf",
+                  "title": "2025NC-SCs"
                 },
                 {
                   "type": "file",
                   "ctime": 1793524073201,
                   "path": "attachments/喉返神经修复/Rochelle salt-based biodegradable piezoelectric devices for nerve regeneration and intestinal motility monitoring.pdf",
-                  "title": "SH-SY5Y cells"
+                  "title": "2026NC-SH-SY5Y cells"
                 }
               ],
               "title": "钙通道"
@@ -43,6 +44,25 @@
                 }
               ],
               "title": "损伤再生"
+            },
+            {
+              "type": "group",
+              "ctime": 1793524319981,
+              "items": [
+                {
+                  "type": "group",
+                  "ctime": 1793524326748,
+                  "items": [
+                    {
+                      "type": "file",
+                      "ctime": 1793524349374,
+                      "path": "attachments/喉返神经修复/Switching myelination on and off.pdf"
+                    }
+                  ],
+                  "title": "表型"
+                }
+              ],
+              "title": "SCs"
             }
           ],
           "title": "细胞实验"
