@@ -102,7 +102,7 @@
                 "file": "attachments/喉返神经修复/Rochelle salt-based biodegradable piezoelectric devices for nerve regeneration and intestinal motility monitoring.pdf",
                 "page": 7,
                 "left": 145,
-                "top": 85,
+                "top": 83,
                 "zoom": 1.9
               },
               "icon": "lucide-file-text",
@@ -117,16 +117,16 @@
               "state": {
                 "file": "attachments/喉返神经修复/Mechano-bioactive hydrogel bioelectronics for mechanical-electrical-bioenergetic conversion and glia-modulating neural regeneration.pdf",
                 "page": 6,
-                "left": -4,
-                "top": 576,
-                "zoom": 1.5
+                "left": 34,
+                "top": 569,
+                "zoom": 3
               },
               "icon": "lucide-file-text",
               "title": "Mechano-bioactive hydrogel bioelectronics for mechanical-electrical-bioenergetic conversion and glia-modulating neural regeneration"
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -205,7 +205,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "attachments/喉返神经修复/Mechano-bioactive hydrogel bioelectronics for mechanical-electrical-bioenergetic conversion and glia-modulating neural regeneration.pdf",
+                "file": "attachments/喉返神经修复/Rochelle salt-based biodegradable piezoelectric devices for nerve regeneration and intestinal motility monitoring.pdf",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -224,7 +224,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "attachments/喉返神经修复/Mechano-bioactive hydrogel bioelectronics for mechanical-electrical-bioenergetic conversion and glia-modulating neural regeneration.pdf",
+                "file": "attachments/喉返神经修复/Rochelle salt-based biodegradable piezoelectric devices for nerve regeneration and intestinal motility monitoring.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -267,7 +267,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "attachments/喉返神经修复/Mechano-bioactive hydrogel bioelectronics for mechanical-electrical-bioenergetic conversion and glia-modulating neural regeneration.pdf",
+                "file": "attachments/喉返神经修复/Rochelle salt-based biodegradable piezoelectric devices for nerve regeneration and intestinal motility monitoring.pdf",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -367,12 +367,12 @@
       "obsidian-local-images-plus:Local Images Plus  0.16.4\r\nLocalize attachments (plugin folder)": false
     }
   },
-  "active": "58ad418d838d7490",
+  "active": "63c543f0d442036e",
   "lastOpenFiles": [
+    "attachments/喉返神经修复/Mechano-bioactive hydrogel bioelectronics for mechanical-electrical-bioenergetic conversion and glia-modulating neural regeneration.pdf",
     "attachments/fe61f2457bcf59db5f37cb62fe748917_MD5.jpg",
     "喉返神经修复.md",
     "attachments/Pasted image 20261101163323.png",
-    "attachments/喉返神经修复/Mechano-bioactive hydrogel bioelectronics for mechanical-electrical-bioenergetic conversion and glia-modulating neural regeneration.pdf",
     "腹腔防粘连材料组图.md",
     "Mechano-bioactive hydrogel bioelectronics for mechanical-electrical-bioenergetic conversion and glia-modulating neural regeneration.md",
     "attachments/喉返神经修复/Rochelle salt-based biodegradable piezoelectric devices for nerve regeneration and intestinal motility monitoring.pdf",
@@ -406,7 +406,6 @@
     "造模-大鼠.md",
     "放射性药物.md",
     "科研绘图.md",
-    "attachments/62996b5198b5c217cd8b9bb09800a3fa_MD5.jpg",
     "qPCR.md",
     "核医学Ⅱ教学大纲.md",
     "门脉高压.md",
