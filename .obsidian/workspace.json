@@ -84,13 +84,27 @@
               "type": "pdf",
               "state": {
                 "file": "attachments/喉返神经修复/PTEN在大鼠喉返神经损伤修复过程中作用机制的初步研究_陈歆维.pdf",
-                "page": 1,
-                "left": -11,
-                "top": 826,
-                "zoom": 1.375681162517363
+                "page": 20,
+                "left": -221,
+                "top": 363,
+                "zoom": 0.8
               },
               "icon": "lucide-file-text",
               "title": "PTEN在大鼠喉返神经损伤修复过程中作用机制的初步研究_陈歆维"
+            }
+          },
+          {
+            "id": "04562c865b3e50c4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "RLN-TEM.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "RLN-TEM"
             }
           }
         ],
@@ -337,8 +351,11 @@
   },
   "active": "abe172d67a1f6ee4",
   "lastOpenFiles": [
-    "喉返神经修复.md",
+    "RLN-TEM.md",
+    "attachments/41aa696bb193ec3bbd581de0102be833_MD5.jpg",
+    "attachments/Pasted image 20261101181153.png",
     "attachments/喉返神经修复/PTEN在大鼠喉返神经损伤修复过程中作用机制的初步研究_陈歆维.pdf",
+    "喉返神经修复.md",
     "attachments/喉返神经修复/Switching myelination on and off.pdf",
     "attachments/喉返神经修复/Neurotrophin-3 promotes peripheral nerve regeneration by maintaining a repair state of Schwann cells after chronic denervation via the TrkCERKc-Jun pathway.pdf",
     "attachments/喉返神经修复/Mechano-bioactive hydrogel bioelectronics for mechanical-electrical-bioenergetic conversion and glia-modulating neural regeneration.pdf",
@@ -369,8 +386,6 @@
     "声带运动.md",
     "取材.md",
     "造模-兔子.md",
-    "attachments/1c4d643ed71ce0379546f235c90a773f_MD5.jpg",
-    "attachments/Pasted image 20261029085501.png",
     "造模-大鼠.md",
     "放射性药物.md",
     "科研绘图.md",

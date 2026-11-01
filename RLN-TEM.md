@@ -8,3 +8,9 @@ tags:
 > [Open: Pasted image 20261010204317.png](attachments/c85b865d1ee52cf753914f0e8894ff1c_MD5.jpg)
 ![](attachments/c85b865d1ee52cf753914f0e8894ff1c_MD5.jpg)
 
+> [!PDF|rouge] [PTEN在大鼠喉返神经损伤修复过程中作用机制的初步研究_陈歆维, p.20](PTEN在大鼠喉返神经损伤修复过程中作用机制的初步研究_陈歆维.pdf#page=20&selection=727,0,739,1&color=rouge)
+> > 透射电镜检查
+> 
+> [Open: Pasted image 20261101181153.png](attachments/41aa696bb193ec3bbd581de0102be833_MD5.jpg)
+![](attachments/41aa696bb193ec3bbd581de0102be833_MD5.jpg)
+
