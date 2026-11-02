@@ -122,7 +122,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -263,7 +263,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "喉返神经修复.md",
+                "file": "动画.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -363,11 +363,11 @@
       "obsidian-local-images-plus:Local Images Plus  0.16.4\r\nLocalize attachments (plugin folder)": false
     }
   },
-  "active": "5a02a85a514397b3",
+  "active": "9d1c797fc101796e",
   "lastOpenFiles": [
+    "喉返神经修复.md",
     "attachments/喉返神经修复/Ciba Foundation Symposium 138 ‐ Plasticity of the Neuromuscular System - 2007 - Evered - Distinct Roles of Neurofilament.pdf",
     "网站待办.md",
-    "喉返神经修复.md",
     "动画.md",
     "喉肌电图.md",
     "attachments/喉返神经修复/Evaluation of Functional Recovery of Recurrent Laryngeal Nerve Using Transoral Laryngeal Bipolar Electromyography A Rat Model.pdf",
