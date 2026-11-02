@@ -178,7 +178,7 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -319,7 +319,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "取材.md",
+                "file": "喉返神经修复.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -419,8 +419,11 @@
       "obsidian-local-images-plus:Local Images Plus  0.16.4\r\nLocalize attachments (plugin folder)": false
     }
   },
-  "active": "9f9ecd1a136844b7",
+  "active": "5a02a85a514397b3",
   "lastOpenFiles": [
+    "腹腔防粘连材料组图.md",
+    "取材.md",
+    "attachments/喉返神经修复/脑卒中后吞咽障碍动物模型的研究进展_吕永旭.pdf",
     "网站待办.md",
     "attachments/喉返神经修复/The Laryngoscope - 2019 - Yoshimatsu - Recurrent laryngeal nerve regeneration using a self‐assembling peptide hydrogel.pdf",
     "声带运动.md",
@@ -428,7 +431,6 @@
     "喉返神经修复.md",
     "attachments/喉返神经修复/The Laryngoscope - 2016 - Hernandez‐Morato - Blockade of glial‐derived neurotrophic factor in laryngeal muscles promotes.pdf",
     "喉肌电图.md",
-    "取材.md",
     "attachments/391aca594e001545ed9003212b2aaecb_MD5.jpg",
     "attachments/Pasted image 20261102103256.png",
     "attachments/bac686b9e9234b1621dd2806e2ea7cea_MD5.jpg",
@@ -444,13 +446,11 @@
     "attachments/Pasted image 20261102084637.png",
     "attachments/喉返神经修复/Comparison of Conventional, Revascularized, and Bioengineered Methods of Recurrent Laryngeal Nerve Reconstruction.pdf",
     "attachments/喉返神经修复/Comparison of Conventional, Revascularized, and Bioengineered Methods of Recurrent Laryngeal Nerve Reconstruction.pdf.crdownload",
-    "attachments/喉返神经修复/microflutic.pdf",
     "神经营养因子.md",
     "甲杓肌.md",
     "RLN-TEM.md",
     "attachments/41aa696bb193ec3bbd581de0102be833_MD5.jpg",
     "attachments/Pasted image 20261101181153.png",
-    "腹腔防粘连材料组图.md",
     "Mechano-bioactive hydrogel bioelectronics for mechanical-electrical-bioenergetic conversion and glia-modulating neural regeneration.md",
     "diary/NOTES/腹腔防粘连材料后续安排.md",
     "腹腔防粘连材料.md",
