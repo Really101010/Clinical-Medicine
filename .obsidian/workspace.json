@@ -92,22 +92,6 @@
             }
           },
           {
-            "id": "abe172d67a1f6ee4",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "attachments/喉返神经修复/PTEN在大鼠喉返神经损伤修复过程中作用机制的初步研究_陈歆维.pdf",
-                "page": 86,
-                "left": -28,
-                "top": 107,
-                "zoom": 1.3
-              },
-              "icon": "lucide-file-text",
-              "title": "PTEN在大鼠喉返神经损伤修复过程中作用机制的初步研究_陈歆维"
-            }
-          },
-          {
             "id": "90ba81cfb41ce6de",
             "type": "leaf",
             "state": {
@@ -201,7 +185,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "attachments/喉返神经修复/PTEN在大鼠喉返神经损伤修复过程中作用机制的初步研究_陈歆维.pdf",
+                "file": "神经营养因子.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -220,7 +204,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "attachments/喉返神经修复/PTEN在大鼠喉返神经损伤修复过程中作用机制的初步研究_陈歆维.pdf",
+                "file": "神经营养因子.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -263,7 +247,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "attachments/喉返神经修复/PTEN在大鼠喉返神经损伤修复过程中作用机制的初步研究_陈歆维.pdf",
+                "file": "神经营养因子.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -341,7 +325,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 281.64404296875
+    "width": 281.64404296875,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -363,11 +348,11 @@
       "obsidian-local-images-plus:Local Images Plus  0.16.4\r\nLocalize attachments (plugin folder)": false
     }
   },
-  "active": "abe172d67a1f6ee4",
+  "active": "90ba81cfb41ce6de",
   "lastOpenFiles": [
+    "attachments/喉返神经修复/PTEN在大鼠喉返神经损伤修复过程中作用机制的初步研究_陈歆维.pdf",
     "喉返神经修复分子生物学.md",
     "喉返神经修复.md",
-    "attachments/喉返神经修复/PTEN在大鼠喉返神经损伤修复过程中作用机制的初步研究_陈歆维.pdf",
     "神经营养因子.md",
     "甲杓肌.md",
     "RLN-TEM.md",
