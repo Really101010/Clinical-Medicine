@@ -78,38 +78,6 @@
             }
           },
           {
-            "id": "c6a67be2bd1a9d6d",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "attachments/喉返神经修复/Muscle and Nerve - 2008 - Hydman - Collateral reinnervation by the superior laryngeal nerve after recurrent laryngeal nerve.pdf",
-                "page": 7,
-                "left": -2,
-                "top": 65,
-                "zoom": 1.38
-              },
-              "icon": "lucide-file-text",
-              "title": "Muscle and Nerve - 2008 - Hydman - Collateral reinnervation by the superior laryngeal nerve after recurrent laryngeal nerve"
-            }
-          },
-          {
-            "id": "7bd83612b2e79bb5",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "attachments/喉返神经修复/Influence of Netrin-1 on reinnervation of laryngeal muscles following recurrent laryngeal nerve injury.pdf",
-                "page": 6,
-                "left": 163,
-                "top": 802,
-                "zoom": 1.68
-              },
-              "icon": "lucide-file-text",
-              "title": "Influence of Netrin-1 on reinnervation of laryngeal muscles following recurrent laryngeal nerve injury"
-            }
-          },
-          {
             "id": "493588aa21942654",
             "type": "leaf",
             "state": {
@@ -152,7 +120,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -293,7 +261,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "attachments/喉返神经修复/Muscle and Nerve - 2008 - Hydman - Collateral reinnervation by the superior laryngeal nerve after recurrent laryngeal nerve.pdf",
+                "file": "喉返神经修复.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -393,20 +361,20 @@
       "obsidian-local-images-plus:Local Images Plus  0.16.4\r\nLocalize attachments (plugin folder)": false
     }
   },
-  "active": "c6a67be2bd1a9d6d",
+  "active": "5a02a85a514397b3",
   "lastOpenFiles": [
+    "网站待办.md",
+    "attachments/喉返神经修复/Influence of Netrin-1 on reinnervation of laryngeal muscles following recurrent laryngeal nerve injury.pdf",
     "喉返神经修复.md",
+    "attachments/喉返神经修复/Muscle and Nerve - 2008 - Hydman - Collateral reinnervation by the superior laryngeal nerve after recurrent laryngeal nerve.pdf",
     "attachments/1548a49538ea01f5dec69b30814b9db6_MD5.jpg",
     "attachments/Pasted image 20261102084637.png",
-    "attachments/喉返神经修复/Muscle and Nerve - 2008 - Hydman - Collateral reinnervation by the superior laryngeal nerve after recurrent laryngeal nerve.pdf",
     "attachments/喉返神经修复/Comparison of Conventional, Revascularized, and Bioengineered Methods of Recurrent Laryngeal Nerve Reconstruction.pdf",
     "attachments/喉返神经修复/Comparison of Conventional, Revascularized, and Bioengineered Methods of Recurrent Laryngeal Nerve Reconstruction.pdf.crdownload",
     "attachments/喉返神经修复/microflutic.pdf",
     "attachments/喉返神经修复/microflutic.pdf.crdownload",
-    "attachments/喉返神经修复/Influence of Netrin-1 on reinnervation of laryngeal muscles following recurrent laryngeal nerve injury.pdf",
     "attachments/喉返神经修复/Netrin-1 induces the migration of Schwann cells via p38 MAPK and PI3K-Akt signaling pathway mediated by the UNC5B receptor.pdf",
     "attachments/喉返神经修复/Netrin-1 induces the migration of Schwann cells via p38 MAPK and PI3K-Akt signaling pathway mediated by the UNC5B receptor.pdf.crdownload",
-    "网站待办.md",
     "神经营养因子.md",
     "attachments/喉返神经修复/PTEN在大鼠喉返神经损伤修复过程中作用机制的初步研究_陈歆维.pdf",
     "喉返神经修复分子生物学.md",
