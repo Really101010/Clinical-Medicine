@@ -78,22 +78,6 @@
             }
           },
           {
-            "id": "425071a0fd196bd2",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "attachments/喉返神经修复/Proteomics - 2005 - Li - Proteomic analysis of rat laryngeal muscle following denervation.pdf",
-                "page": 4,
-                "left": -12,
-                "top": 181,
-                "zoom": 1.2983193277310925
-              },
-              "icon": "lucide-file-text",
-              "title": "Proteomics - 2005 - Li - Proteomic analysis of rat laryngeal muscle following denervation"
-            }
-          },
-          {
             "id": "493588aa21942654",
             "type": "leaf",
             "state": {
@@ -105,6 +89,18 @@
               },
               "icon": "lucide-file",
               "title": "网站待办"
+            }
+          },
+          {
+            "id": "0aeb1d3c1c80aa03",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "attachments/喉返神经修复/Proteomics - 2005 - Li - Proteomic analysis of rat laryngeal muscle following denervation.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "Proteomics - 2005 - Li - Proteomic analysis of rat laryngeal muscle following denervation"
             }
           },
           {
@@ -136,7 +132,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -377,19 +373,20 @@
       "obsidian-local-images-plus:Local Images Plus  0.16.4\r\nLocalize attachments (plugin folder)": false
     }
   },
-  "active": "425071a0fd196bd2",
+  "active": "0aeb1d3c1c80aa03",
   "lastOpenFiles": [
+    "网站待办.md",
+    "attachments/喉返神经修复/Proteomics - 2005 - Li - Proteomic analysis of rat laryngeal muscle following denervation.pdf",
+    "attachments/喉返神经修复/A preliminary integrated morphologic and transcriptomic analysis of denervation remodeling in rat laryngeal and hindlimb muscles.pdf",
     "喉返神经修复分子生物学.md",
     "喉肌电图.md",
     "attachments/喉返神经修复/The Laryngoscope - 2016 - Hernandez‐Morato - Blockade of glial‐derived neurotrophic factor in laryngeal muscles promotes.pdf",
-    "attachments/喉返神经修复/Proteomics - 2005 - Li - Proteomic analysis of rat laryngeal muscle following denervation.pdf",
     "attachments/喉返神经修复/Multi-omics technologies Novel tools and methods for assessing nerve injury and regeneration.pdf",
     "attachments/喉返神经修复/PTEN在大鼠喉返神经损伤修复过程中作用机制的初步研究_陈歆维.pdf",
     "喉返神经修复.md",
     "腹腔防粘连材料组图.md",
     "取材.md",
     "attachments/喉返神经修复/脑卒中后吞咽障碍动物模型的研究进展_吕永旭.pdf",
-    "网站待办.md",
     "attachments/喉返神经修复/The Laryngoscope - 2019 - Yoshimatsu - Recurrent laryngeal nerve regeneration using a self‐assembling peptide hydrogel.pdf",
     "声带运动.md",
     "attachments/喉返神经修复/lary28434-sup-0001-movies1.mp4",
@@ -401,7 +398,6 @@
     "attachments/06bdc39536fc7452eabea3ed1264fbd1_MD5.jpg",
     "attachments/Pasted image 20261102093740.png",
     "attachments/喉返神经修复/Journal of Anatomy - 2013 - Hernández‐Morato - Reorganization of laryngeal motoneurons after crush injury in the recurrent.pdf",
-    "attachments/喉返神经修复/Influence of Netrin-1 on reinnervation of laryngeal muscles following recurrent laryngeal nerve injury.pdf",
     "attachments/1548a49538ea01f5dec69b30814b9db6_MD5.jpg",
     "attachments/Pasted image 20261102084637.png",
     "神经营养因子.md",
