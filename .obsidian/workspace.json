@@ -39,14 +39,16 @@
             "id": "493588aa21942654",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "网站待办.md",
-                "mode": "source",
-                "source": false
+                "file": "attachments/腹腔防粘连材料/Injectable and tissue adhesive EGCG-laden hyaluronic acid hydrogel depot.pdf",
+                "page": 1,
+                "left": -14,
+                "top": 797,
+                "zoom": 1.1099893140157016
               },
-              "icon": "lucide-file",
-              "title": "网站待办"
+              "icon": "lucide-file-text",
+              "title": "Injectable and tissue adhesive EGCG-laden hyaluronic acid hydrogel depot"
             }
           }
         ],
@@ -191,7 +193,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "网站待办.md",
+                "file": "attachments/腹腔防粘连材料/Injectable and tissue adhesive EGCG-laden hyaluronic acid hydrogel depot.pdf",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -293,8 +295,8 @@
   },
   "active": "493588aa21942654",
   "lastOpenFiles": [
-    "腹腔防粘连材料.md",
     "网站待办.md",
+    "腹腔防粘连材料.md",
     "动画.md",
     "喉返神经损伤.md",
     "取材.md",
