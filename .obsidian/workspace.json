@@ -4,24 +4,6 @@
     "type": "split",
     "children": [
       {
-        "id": "c0d60580ae4f3a45",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "4db439c647bb5d2b",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "attachments/喉返神经修复/Vocal Fold Paresis.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "Vocal Fold Paresis"
-            }
-          }
-        ]
-      },
-      {
         "id": "75d0911c95586dea",
         "type": "tabs",
         "children": [
@@ -265,7 +247,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "attachments/喉返神经修复/Vocal Fold Paresis.pdf",
+                "file": "喉返神经修复.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -365,8 +347,9 @@
       "obsidian-local-images-plus:Local Images Plus  0.16.4\r\nLocalize attachments (plugin folder)": false
     }
   },
-  "active": "4db439c647bb5d2b",
+  "active": "5a02a85a514397b3",
   "lastOpenFiles": [
+    "attachments/喉返神经修复/Vocal Fold Paresis.pdf",
     "attachments/喉返神经修复/Strategies to prevent bilateral vocal fold paralysis in thyroid surgery.pdf",
     "attachments/喉返神经修复/Strategies to prevent bilateral vocal fold paralysis in thyroid surgery.pdf.crdownload",
     "喉返神经修复.md",
@@ -390,7 +373,6 @@
     "甲杓肌.md",
     "attachments/喉返神经修复/The Laryngoscope - 2009 - Tessema - Observations of recurrent laryngeal nerve injury and recovery using a rat model.pdf",
     "科研绘图.md",
-    "attachments/喉返神经修复/The Laryngoscope - 2019 - Yoshimatsu - Recurrent laryngeal nerve regeneration using a self‐assembling peptide hydrogel.pdf",
     "取材.md",
     "声带运动.md",
     "attachments/391aca594e001545ed9003212b2aaecb_MD5.jpg",
