@@ -50,23 +50,23 @@
             }
           },
           {
-            "id": "0549b9c3dadf3a4a",
+            "id": "879aa022e6c756ce",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
-                "file": "attachments/喉返神经修复/The Laryngoscope - 2023 - Watanabe - Artificial Nerve Conduit for Recurrent Laryngeal Nerve Reconstruction in Thyroid.pdf",
-                "page": 1,
-                "left": -14,
-                "top": 786,
-                "zoom": 1.131543300047779
+                "file": "attachments/喉返神经修复/The Laryngoscope - 2016 - Chitose - Recurrent laryngeal nerve regeneration using an oriented collagen scaffold containing.pdf",
+                "page": 3,
+                "left": 152,
+                "top": 637,
+                "zoom": 1.52
               },
               "icon": "lucide-file-text",
-              "title": "The Laryngoscope - 2023 - Watanabe - Artificial Nerve Conduit for Recurrent Laryngeal Nerve Reconstruction in Thyroid"
+              "title": "The Laryngoscope - 2016 - Chitose - Recurrent laryngeal nerve regeneration using an oriented collagen scaffold containing"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -207,7 +207,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "attachments/喉返神经修复/The Laryngoscope - 2023 - Watanabe - Artificial Nerve Conduit for Recurrent Laryngeal Nerve Reconstruction in Thyroid.pdf",
+                "file": "喉返神经修复.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -307,9 +307,13 @@
       "obsidian-local-images-plus:Local Images Plus  0.16.4\r\nLocalize attachments (plugin folder)": false
     }
   },
-  "active": "0549b9c3dadf3a4a",
+  "active": "493588aa21942654",
   "lastOpenFiles": [
+    "attachments/喉返神经修复/The Laryngoscope - 2016 - Chitose - Recurrent laryngeal nerve regeneration using an oriented collagen scaffold containing.pdf",
+    "喉返神经修复分子生物学.md",
     "喉返神经修复.md",
+    "attachments/喉返神经修复/The Laryngoscope - 2019 - Yoshimatsu - Recurrent laryngeal nerve regeneration using a self‐assembling peptide hydrogel.pdf",
+    "attachments/喉返神经修复/The Laryngoscope - 2023 - Watanabe - Artificial Nerve Conduit for Recurrent Laryngeal Nerve Reconstruction in Thyroid.pdf",
     "attachments/喉返神经修复/REHABILITATION OF BILATERALLY PARALYZED CANINE LARYNX WITH IMPLANTABLE STIMULATOR.pdf",
     "attachments/腹腔防粘连材料/Injectable and tissue adhesive EGCG-laden hyaluronic acid hydrogel depot.pdf",
     "腹腔防粘连材料.md",
@@ -320,14 +324,10 @@
     "attachments/喉返神经修复/Vocal Fold Paresis.pdf",
     "attachments/喉返神经修复/Strategies to prevent bilateral vocal fold paralysis in thyroid surgery.pdf",
     "attachments/喉返神经修复/Strategies to prevent bilateral vocal fold paralysis in thyroid surgery.pdf.crdownload",
-    "喉返神经修复分子生物学.md",
     "attachments/喉返神经修复/UVCP.pdf",
     "attachments/喉返神经修复/A narrative review of current therapies in unilateral recurrent laryngeal nerve injury caused by thyroid surgery.pdf",
-    "attachments/喉返神经修复/A narrative review of current therapies in unilateral recurrent laryngeal nerve injury caused by thyroid surgery.pdf.crdownload",
-    "attachments/喉返神经修复/Ciba Foundation Symposium 138 ‐ Plasticity of the Neuromuscular System - 2007 - Evered - Distinct Roles of Neurofilament.pdf",
     "腹腔防粘连材料组图.md",
     "喉肌电图.md",
-    "attachments/喉返神经修复/Evaluation of Functional Recovery of Recurrent Laryngeal Nerve Using Transoral Laryngeal Bipolar Electromyography A Rat Model.pdf",
     "attachments/1ba34fb1e98d9dcc37f8e02f84333534_MD5.jpg",
     "attachments/Pasted image 20261102194535.png",
     "神经营养因子.md",
