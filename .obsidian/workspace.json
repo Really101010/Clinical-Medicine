@@ -39,16 +39,14 @@
             "id": "493588aa21942654",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "attachments/腹腔防粘连材料/Injectable and tissue adhesive EGCG-laden hyaluronic acid hydrogel depot.pdf",
-                "page": 6,
-                "left": -14,
-                "top": 183,
-                "zoom": 1.1099893140157016
+                "file": "喉返神经修复.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "Injectable and tissue adhesive EGCG-laden hyaluronic acid hydrogel depot"
+              "icon": "lucide-file",
+              "title": "喉返神经修复"
             }
           }
         ],
@@ -193,7 +191,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "attachments/腹腔防粘连材料/Injectable and tissue adhesive EGCG-laden hyaluronic acid hydrogel depot.pdf",
+                "file": "喉返神经修复.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -295,13 +293,14 @@
   },
   "active": "493588aa21942654",
   "lastOpenFiles": [
-    "腹腔防粘连材料.md",
+    "attachments/喉返神经修复/REHABILITATION OF BILATERALLY PARALYZED CANINE LARYNX WITH IMPLANTABLE STIMULATOR.pdf",
+    "喉返神经修复.md",
     "attachments/腹腔防粘连材料/Injectable and tissue adhesive EGCG-laden hyaluronic acid hydrogel depot.pdf",
+    "腹腔防粘连材料.md",
     "网站待办.md",
     "动画.md",
     "喉返神经损伤.md",
     "取材.md",
-    "喉返神经修复.md",
     "attachments/喉返神经修复/Vocal Fold Paresis.pdf",
     "attachments/喉返神经修复/Strategies to prevent bilateral vocal fold paralysis in thyroid surgery.pdf",
     "attachments/喉返神经修复/Strategies to prevent bilateral vocal fold paralysis in thyroid surgery.pdf.crdownload",
