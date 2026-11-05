@@ -48,9 +48,25 @@
               "icon": "lucide-file",
               "title": "喉返神经修复"
             }
+          },
+          {
+            "id": "0549b9c3dadf3a4a",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "attachments/喉返神经修复/The Laryngoscope - 2023 - Watanabe - Artificial Nerve Conduit for Recurrent Laryngeal Nerve Reconstruction in Thyroid.pdf",
+                "page": 1,
+                "left": -14,
+                "top": 786,
+                "zoom": 1.131543300047779
+              },
+              "icon": "lucide-file-text",
+              "title": "The Laryngoscope - 2023 - Watanabe - Artificial Nerve Conduit for Recurrent Laryngeal Nerve Reconstruction in Thyroid"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -191,7 +207,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "喉返神经修复.md",
+                "file": "attachments/喉返神经修复/The Laryngoscope - 2023 - Watanabe - Artificial Nerve Conduit for Recurrent Laryngeal Nerve Reconstruction in Thyroid.pdf",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -291,10 +307,10 @@
       "obsidian-local-images-plus:Local Images Plus  0.16.4\r\nLocalize attachments (plugin folder)": false
     }
   },
-  "active": "493588aa21942654",
+  "active": "0549b9c3dadf3a4a",
   "lastOpenFiles": [
-    "attachments/喉返神经修复/REHABILITATION OF BILATERALLY PARALYZED CANINE LARYNX WITH IMPLANTABLE STIMULATOR.pdf",
     "喉返神经修复.md",
+    "attachments/喉返神经修复/REHABILITATION OF BILATERALLY PARALYZED CANINE LARYNX WITH IMPLANTABLE STIMULATOR.pdf",
     "attachments/腹腔防粘连材料/Injectable and tissue adhesive EGCG-laden hyaluronic acid hydrogel depot.pdf",
     "腹腔防粘连材料.md",
     "网站待办.md",
@@ -314,7 +330,6 @@
     "attachments/喉返神经修复/Evaluation of Functional Recovery of Recurrent Laryngeal Nerve Using Transoral Laryngeal Bipolar Electromyography A Rat Model.pdf",
     "attachments/1ba34fb1e98d9dcc37f8e02f84333534_MD5.jpg",
     "attachments/Pasted image 20261102194535.png",
-    "attachments/喉返神经修复/Evaluation of Functional Recovery of Recurrent Laryngeal Nerve Using Transoral Laryngeal Bipolar Electromyography A Rat Model.pdf.crdownload",
     "神经营养因子.md",
     "甲杓肌.md",
     "科研绘图.md",
