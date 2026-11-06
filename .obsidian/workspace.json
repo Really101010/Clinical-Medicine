@@ -34,39 +34,9 @@
               "icon": "lucide-file",
               "title": "放射性药物"
             }
-          },
-          {
-            "id": "493588aa21942654",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "喉返神经修复.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "喉返神经修复"
-            }
-          },
-          {
-            "id": "879aa022e6c756ce",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "attachments/喉返神经修复/The Laryngoscope - 2016 - Chitose - Recurrent laryngeal nerve regeneration using an oriented collagen scaffold containing.pdf",
-                "page": 3,
-                "left": 152,
-                "top": 637,
-                "zoom": 1.52
-              },
-              "icon": "lucide-file-text",
-              "title": "The Laryngoscope - 2016 - Chitose - Recurrent laryngeal nerve regeneration using an oriented collagen scaffold containing"
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -129,7 +99,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "7d38cd1fdadcd175",
@@ -207,7 +178,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "喉返神经修复.md",
+                "file": "放射性药物.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -285,7 +256,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 281.64404296875
+    "width": 281.64404296875,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -307,12 +279,15 @@
       "obsidian-local-images-plus:Local Images Plus  0.16.4\r\nLocalize attachments (plugin folder)": false
     }
   },
-  "active": "493588aa21942654",
+  "active": "78512b5ab65370e7",
   "lastOpenFiles": [
+    "放射免疫分析.md",
+    "放射性药物.md",
+    "核医学Ⅱ教学大纲.md",
+    "attachments/喉返神经修复/The Laryngoscope - 2016 - Chitose - Recurrent laryngeal nerve regeneration using an oriented collagen scaffold containing.pdf",
+    "喉返神经修复.md",
     "喉返神经解剖.md",
     "Berry 韧带.md",
-    "喉返神经修复.md",
-    "attachments/喉返神经修复/The Laryngoscope - 2016 - Chitose - Recurrent laryngeal nerve regeneration using an oriented collagen scaffold containing.pdf",
     "喉返神经修复分子生物学.md",
     "attachments/喉返神经修复/The Laryngoscope - 2019 - Yoshimatsu - Recurrent laryngeal nerve regeneration using a self‐assembling peptide hydrogel.pdf",
     "attachments/喉返神经修复/The Laryngoscope - 2023 - Watanabe - Artificial Nerve Conduit for Recurrent Laryngeal Nerve Reconstruction in Thyroid.pdf",
@@ -352,9 +327,6 @@
     "呼吸系统影像.md",
     "造模-兔子.md",
     "造模-大鼠.md",
-    "放射性药物.md",
-    "qPCR.md",
-    "核医学Ⅱ教学大纲.md",
     "Untitled.canvas",
     "未命名.canvas"
   ]
