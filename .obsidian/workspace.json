@@ -70,7 +70,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "放射性活度",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -95,7 +95,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -281,8 +281,10 @@
   },
   "active": "78512b5ab65370e7",
   "lastOpenFiles": [
-    "放射免疫分析.md",
+    "放射性活度.md",
     "放射性药物.md",
+    "放射性衰变.md",
+    "放射免疫分析.md",
     "核医学Ⅱ教学大纲.md",
     "attachments/喉返神经修复/The Laryngoscope - 2016 - Chitose - Recurrent laryngeal nerve regeneration using an oriented collagen scaffold containing.pdf",
     "喉返神经修复.md",
@@ -325,8 +327,6 @@
     "放射性碘摄取.md",
     "布鲁菌病.md",
     "呼吸系统影像.md",
-    "造模-兔子.md",
-    "造模-大鼠.md",
     "Untitled.canvas",
     "未命名.canvas"
   ]
