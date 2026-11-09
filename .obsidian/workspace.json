@@ -4,28 +4,6 @@
     "type": "split",
     "children": [
       {
-        "id": "7c1156f69c514319",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "a4b89ab31a16ae47",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "attachments/喉返神经修复/Placental-Derived Connective Tissue Matrix Mediates Murine RLN regeneration.pdf",
-                "page": 7,
-                "left": -19,
-                "top": 26,
-                "zoom": 0.8050887319495496
-              },
-              "icon": "lucide-file-text",
-              "title": "Placental-Derived Connective Tissue Matrix Mediates Murine RLN regeneration"
-            }
-          }
-        ]
-      },
-      {
         "id": "75d0911c95586dea",
         "type": "tabs",
         "children": [
@@ -112,9 +90,23 @@
               "icon": "lucide-file",
               "title": "喉肌电图"
             }
+          },
+          {
+            "id": "0c82cf2e30230e15",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "动画.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "动画"
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -256,7 +248,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "喉肌电图.md",
+                "file": "喉返神经修复.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -356,10 +348,11 @@
       "obsidian-local-images-plus:Local Images Plus  0.16.4\r\nLocalize attachments (plugin folder)": false
     }
   },
-  "active": "9585ea8402a6472f",
+  "active": "814ff4419a0e3de2",
   "lastOpenFiles": [
-    "attachments/喉返神经修复/Placental-Derived Connective Tissue Matrix Mediates Murine RLN regeneration.pdf",
+    "动画.md",
     "喉肌电图.md",
+    "attachments/喉返神经修复/Placental-Derived Connective Tissue Matrix Mediates Murine RLN regeneration.pdf",
     "attachments/f042c96d-63bc-4649-80f3-b1b845f96b0c.png",
     "attachments/a006d0338fa5e5d1dea6282a96d81e5a_MD5.jpg",
     "attachments/喉返神经修复/Evaluation of PRP injection after RLN injury in rats.pdf",
@@ -403,7 +396,6 @@
     "attachments/喉返神经修复/REHABILITATION OF BILATERALLY PARALYZED CANINE LARYNX WITH IMPLANTABLE STIMULATOR.pdf",
     "attachments/腹腔防粘连材料/Injectable and tissue adhesive EGCG-laden hyaluronic acid hydrogel depot.pdf",
     "attachments/喉返神经修复/Vocal Fold Paresis.pdf",
-    "attachments/喉返神经修复/Strategies to prevent bilateral vocal fold paralysis in thyroid surgery.pdf",
     "Untitled.canvas",
     "未命名.canvas"
   ]
