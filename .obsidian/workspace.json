@@ -36,20 +36,6 @@
             }
           },
           {
-            "id": "9c119fb4d7bc9646",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "疟疾.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "疟疾"
-            }
-          },
-          {
             "id": "2d2d49064205c22d",
             "type": "leaf",
             "state": {
@@ -307,12 +293,13 @@
       "obsidian-local-images-plus:Local Images Plus  0.16.4\r\nLocalize attachments (plugin folder)": false
     }
   },
-  "active": "9c119fb4d7bc9646",
+  "active": "2d2d49064205c22d",
   "lastOpenFiles": [
+    "白血病.md",
+    "疟疾.md",
     "黑热病.md",
     "diary/NOTES/腹腔防粘连材料后续安排.md",
     "腹腔防粘连材料.md",
-    "疟疾.md",
     "attachments/b4b61cd97946fd24888ca6c3c4089fc5_MD5.jpg",
     "attachments/Pasted image 20261109080912.png",
     "发热.md",
@@ -354,7 +341,6 @@
     "科研绘图.md",
     "声带运动.md",
     "RLN-TEM.md",
-    "Mechano-bioactive hydrogel bioelectronics for mechanical-electrical-bioenergetic conversion and glia-modulating neural regeneration.md",
     "Untitled.canvas",
     "未命名.canvas"
   ]
