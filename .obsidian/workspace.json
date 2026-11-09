@@ -144,7 +144,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "喉返神经修复.md",
+                "file": "疟疾.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "喉返神经修复.md",
+                "file": "疟疾.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -206,7 +206,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "放射性药物.md",
+                "file": "疟疾.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -284,8 +284,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 281.64404296875,
-    "collapsed": true
+    "width": 281.64404296875
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -310,15 +309,33 @@
   "active": "6693a79b51e045f0",
   "lastOpenFiles": [
     "黑热病.md",
-    "平板计数.md",
-    "白血病.md",
+    "昏迷.md",
+    "支气管肺炎.md",
+    "体征.md",
+    "神经内分泌肿瘤.md",
+    "内脏药物.md",
+    "脑出血.md",
+    "吗啡.md",
+    "颅内血肿.md",
+    "颅脑损伤.md",
+    "流脑.md",
+    "狂犬病.md",
+    "黄疸.md",
+    "低血糖.md",
+    "地西泮.md",
+    "阿司匹林.md",
     "疟疾.md",
-    "diary/NOTES/腹腔防粘连材料后续安排.md",
-    "腹腔防粘连材料.md",
+    "意识障碍.md",
+    "HSV.md",
+    "带状疱疹.md",
+    "皮疹.md",
+    "脾大.md",
+    "肾功能检查.md",
+    "肾功能衰竭.md",
+    "急性肾功能衰竭.md",
+    "急性肾炎.md",
     "attachments/b4b61cd97946fd24888ca6c3c4089fc5_MD5.jpg",
     "attachments/Pasted image 20261109080912.png",
-    "发热.md",
-    "放射性药物.md",
     "attachments/b65128d34748659ec1c86bc75b16c0e2_MD5.jpg",
     "attachments/Pasted image 20261106102452.png",
     "attachments/91fbaf0f0f25ca7527e3393df3dedb8c_MD5.jpg",
@@ -327,34 +344,16 @@
     "attachments/Pasted image 20261106092031.png",
     "attachments/57be8214f9d172a53e7ad3514201df2c_MD5.jpg",
     "attachments/Pasted image 20261106091625.png",
-    "放射性活度.md",
-    "放射性衰变.md",
-    "放射免疫分析.md",
-    "核医学Ⅱ教学大纲.md",
     "attachments/喉返神经修复/The Laryngoscope - 2016 - Chitose - Recurrent laryngeal nerve regeneration using an oriented collagen scaffold containing.pdf",
-    "喉返神经修复.md",
-    "喉返神经解剖.md",
-    "Berry 韧带.md",
-    "喉返神经修复分子生物学.md",
     "attachments/喉返神经修复/The Laryngoscope - 2019 - Yoshimatsu - Recurrent laryngeal nerve regeneration using a self‐assembling peptide hydrogel.pdf",
     "attachments/喉返神经修复/The Laryngoscope - 2023 - Watanabe - Artificial Nerve Conduit for Recurrent Laryngeal Nerve Reconstruction in Thyroid.pdf",
     "attachments/喉返神经修复/REHABILITATION OF BILATERALLY PARALYZED CANINE LARYNX WITH IMPLANTABLE STIMULATOR.pdf",
     "attachments/腹腔防粘连材料/Injectable and tissue adhesive EGCG-laden hyaluronic acid hydrogel depot.pdf",
-    "网站待办.md",
-    "动画.md",
-    "喉返神经损伤.md",
-    "取材.md",
     "attachments/喉返神经修复/Vocal Fold Paresis.pdf",
     "attachments/喉返神经修复/Strategies to prevent bilateral vocal fold paralysis in thyroid surgery.pdf",
     "attachments/喉返神经修复/Strategies to prevent bilateral vocal fold paralysis in thyroid surgery.pdf.crdownload",
     "attachments/喉返神经修复/UVCP.pdf",
     "attachments/喉返神经修复/A narrative review of current therapies in unilateral recurrent laryngeal nerve injury caused by thyroid surgery.pdf",
-    "腹腔防粘连材料组图.md",
-    "喉肌电图.md",
-    "神经营养因子.md",
-    "甲杓肌.md",
-    "科研绘图.md",
-    "声带运动.md",
     "Untitled.canvas",
     "未命名.canvas"
   ]
