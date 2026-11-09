@@ -8,19 +8,19 @@
         "type": "tabs",
         "children": [
           {
-            "id": "c6c75cc72a7c1005",
+            "id": "efa9d70fc2099fb2",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
-                "file": "attachments/喉返神经修复/The Laryngoscope - 2019 - Yoshimatsu - Recurrent laryngeal nerve regeneration using a self‐assembling peptide hydrogel.pdf",
-                "page": 2,
-                "left": 251,
-                "top": 217,
-                "zoom": 1.51
+                "file": "attachments/喉返神经修复/Evaluation of PRP injection after RLN injury in rats.pdf",
+                "page": 3,
+                "left": 22,
+                "top": 605,
+                "zoom": 1.36
               },
               "icon": "lucide-file-text",
-              "title": "The Laryngoscope - 2019 - Yoshimatsu - Recurrent laryngeal nerve regeneration using a self‐assembling peptide hydrogel"
+              "title": "Evaluation of PRP injection after RLN injury in rats"
             }
           }
         ]
@@ -256,7 +256,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "attachments/喉返神经修复/The Laryngoscope - 2019 - Yoshimatsu - Recurrent laryngeal nerve regeneration using a self‐assembling peptide hydrogel.pdf",
+                "file": "喉肌电图.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -356,13 +356,15 @@
       "obsidian-local-images-plus:Local Images Plus  0.16.4\r\nLocalize attachments (plugin folder)": false
     }
   },
-  "active": "c6c75cc72a7c1005",
+  "active": "9585ea8402a6472f",
   "lastOpenFiles": [
+    "attachments/喉返神经修复/Evaluation of PRP injection after RLN injury in rats.pdf",
     "喉肌电图.md",
+    "attachments/喉返神经修复/The Laryngoscope - 2026 - Bhatt - Novel Injectable Supports Long‐Term Recurrent Laryngeal Nerve and Partial Peripheral.pdf",
+    "attachments/喉返神经修复/Evaluation of Functional Recovery of Recurrent Laryngeal Nerve Using Transoral Laryngeal Bipolar Electromyography A Rat Model.pdf",
     "attachments/喉返神经修复/The Laryngoscope - 2019 - Yoshimatsu - Recurrent laryngeal nerve regeneration using a self‐assembling peptide hydrogel.pdf",
     "attachments/22a79ad7ba48f6bfc81b3b4b3b8d5607_MD5.jpg",
     "attachments/Pasted image 20261109172859.png",
-    "attachments/喉返神经修复/Evaluation of Functional Recovery of Recurrent Laryngeal Nerve Using Transoral Laryngeal Bipolar Electromyography A Rat Model.pdf",
     "喉返神经修复.md",
     "疟疾.md",
     "黑热病.md",
@@ -402,7 +404,6 @@
     "attachments/喉返神经修复/Vocal Fold Paresis.pdf",
     "attachments/喉返神经修复/Strategies to prevent bilateral vocal fold paralysis in thyroid surgery.pdf",
     "attachments/喉返神经修复/Strategies to prevent bilateral vocal fold paralysis in thyroid surgery.pdf.crdownload",
-    "attachments/喉返神经修复/UVCP.pdf",
     "Untitled.canvas",
     "未命名.canvas"
   ]
