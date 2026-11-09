@@ -8,19 +8,19 @@
         "type": "tabs",
         "children": [
           {
-            "id": "efa9d70fc2099fb2",
+            "id": "a4b89ab31a16ae47",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
-                "file": "attachments/喉返神经修复/Evaluation of PRP injection after RLN injury in rats.pdf",
-                "page": 3,
-                "left": 22,
-                "top": 605,
-                "zoom": 1.36
+                "file": "attachments/喉返神经修复/Placental-Derived Connective Tissue Matrix Mediates Murine RLN regeneration.pdf",
+                "page": 1,
+                "left": 97,
+                "top": 302,
+                "zoom": 1.1
               },
               "icon": "lucide-file-text",
-              "title": "Evaluation of PRP injection after RLN injury in rats"
+              "title": "Placental-Derived Connective Tissue Matrix Mediates Murine RLN regeneration"
             }
           }
         ]
@@ -358,8 +358,11 @@
   },
   "active": "9585ea8402a6472f",
   "lastOpenFiles": [
-    "attachments/喉返神经修复/Evaluation of PRP injection after RLN injury in rats.pdf",
+    "attachments/喉返神经修复/Placental-Derived Connective Tissue Matrix Mediates Murine RLN regeneration.pdf",
     "喉肌电图.md",
+    "attachments/f042c96d-63bc-4649-80f3-b1b845f96b0c.png",
+    "attachments/a006d0338fa5e5d1dea6282a96d81e5a_MD5.jpg",
+    "attachments/喉返神经修复/Evaluation of PRP injection after RLN injury in rats.pdf",
     "attachments/喉返神经修复/The Laryngoscope - 2026 - Bhatt - Novel Injectable Supports Long‐Term Recurrent Laryngeal Nerve and Partial Peripheral.pdf",
     "attachments/喉返神经修复/Evaluation of Functional Recovery of Recurrent Laryngeal Nerve Using Transoral Laryngeal Bipolar Electromyography A Rat Model.pdf",
     "attachments/喉返神经修复/The Laryngoscope - 2019 - Yoshimatsu - Recurrent laryngeal nerve regeneration using a self‐assembling peptide hydrogel.pdf",
@@ -395,15 +398,12 @@
     "attachments/Pasted image 20261106102452.png",
     "attachments/91fbaf0f0f25ca7527e3393df3dedb8c_MD5.jpg",
     "attachments/Pasted image 20261106092201.png",
-    "attachments/92591e2618a115b5a4416d4690c72be0_MD5.jpg",
-    "attachments/Pasted image 20261106092031.png",
     "attachments/喉返神经修复/The Laryngoscope - 2016 - Chitose - Recurrent laryngeal nerve regeneration using an oriented collagen scaffold containing.pdf",
     "attachments/喉返神经修复/The Laryngoscope - 2023 - Watanabe - Artificial Nerve Conduit for Recurrent Laryngeal Nerve Reconstruction in Thyroid.pdf",
     "attachments/喉返神经修复/REHABILITATION OF BILATERALLY PARALYZED CANINE LARYNX WITH IMPLANTABLE STIMULATOR.pdf",
     "attachments/腹腔防粘连材料/Injectable and tissue adhesive EGCG-laden hyaluronic acid hydrogel depot.pdf",
     "attachments/喉返神经修复/Vocal Fold Paresis.pdf",
     "attachments/喉返神经修复/Strategies to prevent bilateral vocal fold paralysis in thyroid surgery.pdf",
-    "attachments/喉返神经修复/Strategies to prevent bilateral vocal fold paralysis in thyroid surgery.pdf.crdownload",
     "Untitled.canvas",
     "未命名.canvas"
   ]
