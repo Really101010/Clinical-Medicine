@@ -264,12 +264,12 @@
               "title": "Calendar"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 281.64404296875,
-    "collapsed": true
+    "width": 281.64404296875
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -291,7 +291,7 @@
       "obsidian-local-images-plus:Local Images Plus  0.16.4\r\nLocalize attachments (plugin folder)": false
     }
   },
-  "active": "74274ec36ab2f4cf",
+  "active": "e6e347921cdbdc96",
   "lastOpenFiles": [
     "消化系统疾病.md",
     "胃食管反流病.md",
