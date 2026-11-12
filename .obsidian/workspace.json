@@ -69,12 +69,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "幽门螺杆菌.md",
+                "file": "科研绘图.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "幽门螺杆菌"
+              "title": "科研绘图"
             }
           }
         ],
@@ -323,9 +323,9 @@
   },
   "active": "97aa4068ed61235e",
   "lastOpenFiles": [
+    "幽门螺杆菌.md",
     "荧光强度统计.md",
     "慢性胃炎.md",
-    "幽门螺杆菌.md",
     "胃炎.md",
     "急性胃炎.md",
     "NSAIDs.md",
