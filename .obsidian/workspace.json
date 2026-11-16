@@ -6,6 +6,7 @@
       {
         "id": "82a374e66fa371c8",
         "type": "tabs",
+        "dimension": 65.39162112932605,
         "children": [
           {
             "id": "305ee58729f21ece",
@@ -37,6 +38,27 @@
           }
         ],
         "currentTab": 1
+      },
+      {
+        "id": "18ceb7a5edfe7097",
+        "type": "tabs",
+        "dimension": 34.60837887067395,
+        "children": [
+          {
+            "id": "9cdba07d33e1689f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "动画.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "动画"
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -256,8 +278,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 281.64404296875,
-    "collapsed": true
+    "width": 281.64404296875
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -281,9 +302,10 @@
   },
   "active": "9c50dd910a67306e",
   "lastOpenFiles": [
+    "动画.md",
+    "感染.md",
     "attachments/Pasted image 20261116093453.png",
     "感染性疾病.md",
-    "感染.md",
     "乙脑.md",
     "皮疹.md",
     "感染性疾病（双语）大纲.md",
@@ -321,7 +343,6 @@
     "attachments/Pasted image 20261109172859.png",
     "attachments/b4b61cd97946fd24888ca6c3c4089fc5_MD5.jpg",
     "attachments/Pasted image 20261109080912.png",
-    "attachments/b65128d34748659ec1c86bc75b16c0e2_MD5.jpg",
     "attachments/喉返神经修复/The Laryngoscope - 2016 - Chitose - Recurrent laryngeal nerve regeneration using an oriented collagen scaffold containing.pdf",
     "attachments/喉返神经修复/The Laryngoscope - 2023 - Watanabe - Artificial Nerve Conduit for Recurrent Laryngeal Nerve Reconstruction in Thyroid.pdf",
     "attachments/喉返神经修复/REHABILITATION OF BILATERALLY PARALYZED CANINE LARYNX WITH IMPLANTABLE STIMULATOR.pdf",
