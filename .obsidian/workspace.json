@@ -200,7 +200,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "动画.md",
+                "file": "感染.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -300,10 +300,10 @@
       "obsidian-local-images-plus:Local Images Plus  0.16.4\r\nLocalize attachments (plugin folder)": false
     }
   },
-  "active": "9cdba07d33e1689f",
+  "active": "9c50dd910a67306e",
   "lastOpenFiles": [
-    "感染.md",
     "动画.md",
+    "感染.md",
     "流行性出血热.md",
     "乙脑.md",
     "伤寒.md",
