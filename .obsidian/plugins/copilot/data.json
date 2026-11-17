@@ -346,7 +346,8 @@
       "stream": true,
       "displayName": "Dr. DS",
       "openAIOrgId": "",
-      "enableCors": true
+      "enableCors": true,
+      "maxTokens": 12300
     }
   ],
   "activeEmbeddingModels": [
