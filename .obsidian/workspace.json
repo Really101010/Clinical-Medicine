@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "肝功能检查.md",
+                "file": "急性重型肝炎.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "肝功能检查"
+              "title": "急性重型肝炎"
             }
           }
         ],
@@ -191,7 +191,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "肝功能检查.md",
+                "file": "急性重型肝炎.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -291,10 +291,10 @@
       "obsidian-local-images-plus:Local Images Plus  0.16.4\r\nLocalize attachments (plugin folder)": false
     }
   },
-  "active": "e6e347921cdbdc96",
+  "active": "4e2a11224623faa7",
   "lastOpenFiles": [
-    "尿三胆.md",
     "肝功能检查.md",
+    "尿三胆.md",
     "copilot/copilot-conversations/笔记标题格式修改@20261117_103241.md",
     "重型肝炎.md",
     "病毒性肝炎.md",
