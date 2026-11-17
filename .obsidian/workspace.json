@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "18ceb7a5edfe7097",
+        "id": "79e5f08f2c613df7",
         "type": "tabs",
         "children": [
           {
-            "id": "9cdba07d33e1689f",
+            "id": "39a7a9545ce5370f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "动画.md",
+                "file": "消化系统疾病.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "动画"
+              "title": "消化系统疾病"
             }
           }
         ]
@@ -163,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "动画.md",
+                "file": "消化系统疾病.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -263,8 +263,9 @@
       "obsidian-local-images-plus:Local Images Plus  0.16.4\r\nLocalize attachments (plugin folder)": false
     }
   },
-  "active": "9cdba07d33e1689f",
+  "active": "39a7a9545ce5370f",
   "lastOpenFiles": [
+    "动画.md",
     "感染.md",
     "感染性疾病（双语）大纲.md",
     "流行性出血热.md",
@@ -272,7 +273,6 @@
     "流脑.md",
     "乙脑.md",
     "登革热.md",
-    "动画.md",
     "脑脊液.md",
     "伤寒.md",
     "attachments/Pasted image 20261116093453.png",
