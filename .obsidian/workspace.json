@@ -36,7 +36,7 @@
             }
           },
           {
-            "id": "0297b20840f999e0",
+            "id": "2511a2cb0bf14b5c",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -113,7 +113,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "7d38cd1fdadcd175",
@@ -129,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "乙肝.md",
+                "file": "重型肝炎.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,7 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "乙肝.md",
+                "file": "重型肝炎.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -264,8 +265,7 @@
               "title": "Calendar"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
@@ -291,35 +291,36 @@
       "obsidian-local-images-plus:Local Images Plus  0.16.4\r\nLocalize attachments (plugin folder)": false
     }
   },
-  "active": "0297b20840f999e0",
+  "active": "2511a2cb0bf14b5c",
   "lastOpenFiles": [
+    "急性重型肝炎.md",
+    "重型肝炎.md",
+    "乙肝.md",
+    "干扰素.md",
+    "拉米夫定.md",
+    "肝炎.md",
+    "肝性脑病.md",
+    "慢性普通型肝炎.md",
+    "肝硬化.md",
+    "黄疸.md",
+    "病毒性肝炎.md",
+    "酒精性肝病.md",
+    "淤胆型肝炎.md",
     "attachments/ffa9d894608892d9a9c7ba7e9e1a5236_MD5.apng",
     "attachments/d22eeb711a5400fc1ea4312929bda19a_MD5.apng",
-    "急性重型肝炎.md",
     "肝功能检查.md",
     "急性普通型肝炎.md",
     "丙肝.md",
-    "乙肝.md",
     "感染性疾病.md",
-    "重型肝炎.md",
-    "肝炎.md",
-    "病毒性肝炎.md",
     "抗病毒药.md",
     "金刚烷胺.md",
     "奥司他韦.md",
     "利巴韦林.md",
     "齐多夫定.md",
-    "拉米夫定.md",
     "碘苷.md",
     "更昔洛韦.md",
     "阿昔洛韦.md",
     "化疗药.md",
-    "肝衰竭.md",
-    "化疗.md",
-    "替诺福韦.md",
-    "干扰素.md",
-    "copilot/copilot-conversations/干扰素抗病毒要点@20261118_090845.md",
-    "发热.md",
     "attachments/Pasted image 20261116093453.png",
     "attachments/756b1aba033154b58364604b59b001c4_MD5.jpg",
     "attachments/Pasted image 20261110112607.png",
@@ -338,7 +339,6 @@
     "attachments/喉返神经修复/The Laryngoscope - 2016 - Chitose - Recurrent laryngeal nerve regeneration using an oriented collagen scaffold containing.pdf",
     "attachments/喉返神经修复/The Laryngoscope - 2023 - Watanabe - Artificial Nerve Conduit for Recurrent Laryngeal Nerve Reconstruction in Thyroid.pdf",
     "attachments/喉返神经修复/REHABILITATION OF BILATERALLY PARALYZED CANINE LARYNX WITH IMPLANTABLE STIMULATOR.pdf",
-    "attachments/腹腔防粘连材料/Injectable and tissue adhesive EGCG-laden hyaluronic acid hydrogel depot.pdf",
     "Untitled.canvas",
     "未命名.canvas"
   ]
