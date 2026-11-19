@@ -34,23 +34,9 @@
               "icon": "lucide-file",
               "title": "感染性疾病"
             }
-          },
-          {
-            "id": "ada183fa82e99ea9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "病毒性肝炎.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "病毒性肝炎"
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -191,7 +177,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "病毒性肝炎.md",
+                "file": "感染性疾病.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -291,12 +277,13 @@
       "obsidian-local-images-plus:Local Images Plus  0.16.4\r\nLocalize attachments (plugin folder)": false
     }
   },
-  "active": "ada183fa82e99ea9",
+  "active": "e34d2b9d7a27aade",
   "lastOpenFiles": [
+    "重型肝炎.md",
     "肝炎.md",
+    "病毒性肝炎.md",
     "乙肝.md",
     "抗病毒药.md",
-    "重型肝炎.md",
     "金刚烷胺.md",
     "奥司他韦.md",
     "利巴韦林.md",
@@ -314,7 +301,6 @@
     "copilot/copilot-conversations/干扰素抗病毒要点@20261118_090845.md",
     "发热.md",
     "肝性脑病.md",
-    "病毒性肝炎.md",
     "消化系统疾病.md",
     "肝硬化.md",
     "感染性疾病.md",
