@@ -56,10 +56,10 @@
               "type": "pdf",
               "state": {
                 "file": "file:G:/大学/学习/专业课程/学中/感染/传染病学学习指导与习题集-第3版-全书签.pdf",
-                "page": 55,
-                "left": -17,
-                "top": 722,
-                "zoom": 0.895690796680128
+                "page": 53,
+                "left": 551,
+                "top": 43,
+                "zoom": 1.03
               },
               "icon": "lucide-file-text",
               "title": "传染病学学习指导与习题集-第3版-全书签"
@@ -71,12 +71,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "重型肝炎.md",
+                "file": "肝性脑病.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "重型肝炎"
+              "title": "肝性脑病"
             }
           }
         ],
@@ -325,8 +325,10 @@
   },
   "active": "4fa877b489570f1c",
   "lastOpenFiles": [
-    "重型肝炎.md",
+    "肝性脑病.md",
     "file:G:/大学/学习/专业课程/学中/感染/传染病学学习指导与习题集-第3版-全书签.pdf",
+    "异丙嗪.md",
+    "重型肝炎.md",
     "病毒性肝炎.md",
     "肝炎.md",
     "肝硬化.md",
@@ -339,7 +341,6 @@
     "荧光强度统计.md",
     "急性重型肝炎.md",
     "拉米夫定.md",
-    "肝性脑病.md",
     "慢性普通型肝炎.md",
     "黄疸.md",
     "酒精性肝病.md",
@@ -352,7 +353,6 @@
     "金刚烷胺.md",
     "奥司他韦.md",
     "利巴韦林.md",
-    "齐多夫定.md",
     "attachments/Pasted image 20261116093453.png",
     "attachments/756b1aba033154b58364604b59b001c4_MD5.jpg",
     "attachments/Pasted image 20261110112607.png",
