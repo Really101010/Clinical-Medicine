@@ -56,13 +56,27 @@
               "type": "pdf",
               "state": {
                 "file": "file:G:/大学/学习/专业课程/学中/感染/传染病学学习指导与习题集-第3版-全书签.pdf",
-                "page": 1,
-                "left": -9,
-                "top": 732,
-                "zoom": 1.9295157259651459
+                "page": 53,
+                "left": 78,
+                "top": -4,
+                "zoom": 1
               },
               "icon": "lucide-file-text",
               "title": "传染病学学习指导与习题集-第3版-全书签"
+            }
+          },
+          {
+            "id": "9b45543a60711037",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "肝硬化.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "肝硬化"
             }
           }
         ],
@@ -208,7 +222,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "丙肝.md",
+                "file": "file:G:/大学/学习/专业课程/学中/感染/传染病学学习指导与习题集-第3版-全书签.pdf",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -311,13 +325,14 @@
   },
   "active": "4fa877b489570f1c",
   "lastOpenFiles": [
+    "肝硬化.md",
+    "file:G:/大学/学习/专业课程/学中/感染/传染病学学习指导与习题集-第3版-全书签.pdf",
     "丙肝.md",
     "斑疹.md",
     "斑疹伤寒.md",
     "感染性疾病.md",
     "乙肝.md",
     "荧光强度统计.md",
-    "肝硬化.md",
     "重型肝炎.md",
     "急性重型肝炎.md",
     "干扰素.md",
@@ -338,7 +353,6 @@
     "奥司他韦.md",
     "利巴韦林.md",
     "齐多夫定.md",
-    "碘苷.md",
     "attachments/Pasted image 20261116093453.png",
     "attachments/756b1aba033154b58364604b59b001c4_MD5.jpg",
     "attachments/Pasted image 20261110112607.png",
@@ -356,7 +370,6 @@
     "attachments/Pasted image 20261109080912.png",
     "attachments/喉返神经修复/The Laryngoscope - 2016 - Chitose - Recurrent laryngeal nerve regeneration using an oriented collagen scaffold containing.pdf",
     "attachments/喉返神经修复/The Laryngoscope - 2023 - Watanabe - Artificial Nerve Conduit for Recurrent Laryngeal Nerve Reconstruction in Thyroid.pdf",
-    "attachments/喉返神经修复/REHABILITATION OF BILATERALLY PARALYZED CANINE LARYNX WITH IMPLANTABLE STIMULATOR.pdf",
     "Untitled.canvas",
     "未命名.canvas"
   ]
