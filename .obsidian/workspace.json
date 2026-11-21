@@ -80,7 +80,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -222,7 +222,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "肝硬化.md",
+                "file": "file:G:/大学/学习/专业课程/学中/感染/传染病学学习指导与习题集-第3版-全书签.pdf",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -323,10 +323,10 @@
       "obsidian-local-images-plus:Local Images Plus  0.16.4\r\nLocalize attachments (plugin folder)": false
     }
   },
-  "active": "9b45543a60711037",
+  "active": "4fa877b489570f1c",
   "lastOpenFiles": [
-    "file:G:/大学/学习/专业课程/学中/感染/传染病学学习指导与习题集-第3版-全书签.pdf",
     "肝硬化.md",
+    "file:G:/大学/学习/专业课程/学中/感染/传染病学学习指导与习题集-第3版-全书签.pdf",
     "丙肝.md",
     "斑疹.md",
     "斑疹伤寒.md",
