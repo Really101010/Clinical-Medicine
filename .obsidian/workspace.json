@@ -56,27 +56,27 @@
               "type": "pdf",
               "state": {
                 "file": "file:G:/大学/学习/专业课程/学中/感染/传染病学学习指导与习题集-第3版-全书签.pdf",
-                "page": 1,
-                "left": -16,
-                "top": 795,
-                "zoom": 0.8927827096779197
+                "page": 55,
+                "left": 245,
+                "top": 45,
+                "zoom": 1.17
               },
               "icon": "lucide-file-text",
               "title": "传染病学学习指导与习题集-第3版-全书签"
             }
           },
           {
-            "id": "9bfb1054a437a881",
+            "id": "5c0357265aea92b9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "乙肝.md",
+                "file": "急性重型肝炎.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "乙肝"
+              "title": "急性重型肝炎"
             }
           }
         ],
@@ -114,7 +114,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "INR",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -324,9 +324,12 @@
   },
   "active": "4fa877b489570f1c",
   "lastOpenFiles": [
+    "急性重型肝炎.md",
+    "肝硬化.md",
+    "file:G:/大学/学习/专业课程/学中/感染/传染病学学习指导与习题集-第3版-全书签.pdf",
+    "重型肝炎.md",
     "乙肝.md",
     "添加标尺.md",
-    "file:G:/大学/学习/专业课程/学中/感染/传染病学学习指导与习题集-第3版-全书签.pdf",
     "病毒性肝炎.md",
     "肝炎.md",
     "肝衰竭.md",
@@ -335,22 +338,18 @@
     "内脏药物.md",
     "异烟肼.md",
     "脂肪肝.md",
-    "肝硬化.md",
     "肝性脑病.md",
     "异丙嗪.md",
-    "重型肝炎.md",
     "干扰素.md",
     "丙肝.md",
     "斑疹.md",
     "斑疹伤寒.md",
     "感染性疾病.md",
     "荧光强度统计.md",
-    "急性重型肝炎.md",
     "拉米夫定.md",
     "慢性普通型肝炎.md",
     "黄疸.md",
     "酒精性肝病.md",
-    "淤胆型肝炎.md",
     "attachments/ffa9d894608892d9a9c7ba7e9e1a5236_MD5.apng",
     "attachments/d22eeb711a5400fc1ea4312929bda19a_MD5.apng",
     "attachments/Pasted image 20261116093453.png",
