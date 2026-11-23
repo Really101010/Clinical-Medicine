@@ -80,6 +80,20 @@
             }
           },
           {
+            "id": "d40b04cb1ca21b53",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "荧光强度统计.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "荧光强度统计"
+            }
+          },
+          {
             "id": "8459d1ef932718dc",
             "type": "leaf",
             "state": {
@@ -94,7 +108,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -236,7 +250,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "乙肝.md",
+                "file": "荧光强度统计.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -314,7 +328,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 281.64404296875
+    "width": 281.64404296875,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -336,8 +351,9 @@
       "obsidian-local-images-plus:Local Images Plus  0.16.4\r\nLocalize attachments (plugin folder)": false
     }
   },
-  "active": "e6e347921cdbdc96",
+  "active": "d40b04cb1ca21b53",
   "lastOpenFiles": [
+    "乙肝.md",
     "file:G:/大学/学习/专业课程/学中/感染/传染病学学习指导与习题集-第3版-全书签.pdf",
     "重型肝炎.md",
     "肝衰竭.md",
@@ -360,7 +376,6 @@
     "小脑病变.md",
     "抽搐.md",
     "肝硬化.md",
-    "乙肝.md",
     "添加标尺.md",
     "病毒性肝炎.md",
     "肝炎.md",
