@@ -71,6 +71,20 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "化疗药.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "化疗药"
+            }
+          },
+          {
+            "id": "c70541a694e7bf02",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "震颤.md",
                 "mode": "source",
                 "source": false
@@ -78,23 +92,9 @@
               "icon": "lucide-file",
               "title": "震颤"
             }
-          },
-          {
-            "id": "5c0357265aea92b9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "急性重型肝炎.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "急性重型肝炎"
-            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -128,7 +128,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "INR",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -336,10 +336,24 @@
       "obsidian-local-images-plus:Local Images Plus  0.16.4\r\nLocalize attachments (plugin folder)": false
     }
   },
-  "active": "8cc3494a1a806fb6",
+  "active": "c70541a694e7bf02",
   "lastOpenFiles": [
-    "file:G:/大学/学习/专业课程/学中/感染/传染病学学习指导与习题集-第3版-全书签.pdf",
+    "神经系统检查.md",
+    "内脏药物.md",
+    "脑干.md",
+    "弥漫性毒性甲状腺肿.md",
+    "狂犬病.md",
+    "周围神经病.md",
+    "化疗药.md",
+    "共济失调.md",
+    "儿科检查.md",
+    "动脉导管未闭.md",
+    "低血糖.md",
+    "震颤.md",
+    "小脑病变.md",
     "急性重型肝炎.md",
+    "抽搐.md",
+    "file:G:/大学/学习/专业课程/学中/感染/传染病学学习指导与习题集-第3版-全书签.pdf",
     "肝硬化.md",
     "重型肝炎.md",
     "乙肝.md",
@@ -347,23 +361,10 @@
     "病毒性肝炎.md",
     "肝炎.md",
     "肝衰竭.md",
-    "化疗药.md",
     "抗结核药.md",
-    "内脏药物.md",
     "异烟肼.md",
     "脂肪肝.md",
     "肝性脑病.md",
-    "异丙嗪.md",
-    "干扰素.md",
-    "丙肝.md",
-    "斑疹.md",
-    "斑疹伤寒.md",
-    "感染性疾病.md",
-    "荧光强度统计.md",
-    "拉米夫定.md",
-    "慢性普通型肝炎.md",
-    "黄疸.md",
-    "酒精性肝病.md",
     "attachments/ffa9d894608892d9a9c7ba7e9e1a5236_MD5.apng",
     "attachments/d22eeb711a5400fc1ea4312929bda19a_MD5.apng",
     "attachments/Pasted image 20261116093453.png",
