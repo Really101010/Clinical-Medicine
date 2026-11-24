@@ -57,8 +57,8 @@
               "state": {
                 "file": "file:G:/大学/学习/专业课程/学中/感染/传染病学学习指导与习题集-第3版-全书签.pdf",
                 "page": 58,
-                "left": 325,
-                "top": 45,
+                "left": 522,
+                "top": 49,
                 "zoom": 1.05
               },
               "icon": "lucide-file-text",
@@ -71,16 +71,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "黄疸.md",
+                "file": "重型肝炎.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "黄疸"
+              "title": "重型肝炎"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -323,7 +323,7 @@
       "obsidian-local-images-plus:Local Images Plus  0.16.4\r\nLocalize attachments (plugin folder)": false
     }
   },
-  "active": "4fa877b489570f1c",
+  "active": "0b43e3436b3322e0",
   "lastOpenFiles": [
     "黄疸.md",
     "file:G:/大学/学习/专业课程/学中/感染/传染病学学习指导与习题集-第3版-全书签.pdf",
