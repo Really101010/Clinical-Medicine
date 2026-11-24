@@ -57,7 +57,7 @@
               "state": {
                 "file": "file:G:/大学/学习/专业课程/学中/感染/传染病学学习指导与习题集-第3版-全书签.pdf",
                 "page": 58,
-                "left": 266,
+                "left": 325,
                 "top": 45,
                 "zoom": 1.05
               },
@@ -66,7 +66,7 @@
             }
           },
           {
-            "id": "5e9d6255224af286",
+            "id": "0b43e3436b3322e0",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -80,7 +80,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -323,11 +323,11 @@
       "obsidian-local-images-plus:Local Images Plus  0.16.4\r\nLocalize attachments (plugin folder)": false
     }
   },
-  "active": "5e9d6255224af286",
+  "active": "4fa877b489570f1c",
   "lastOpenFiles": [
-    "超声检查.md",
     "黄疸.md",
     "file:G:/大学/学习/专业课程/学中/感染/传染病学学习指导与习题集-第3版-全书签.pdf",
+    "超声检查.md",
     "肝功能检查.md",
     "5-HT.md",
     "抗抑郁药.md",
@@ -353,7 +353,6 @@
     "内脏药物.md",
     "脑干.md",
     "弥漫性毒性甲状腺肿.md",
-    "狂犬病.md",
     "attachments/ffa9d894608892d9a9c7ba7e9e1a5236_MD5.apng",
     "attachments/d22eeb711a5400fc1ea4312929bda19a_MD5.apng",
     "attachments/Pasted image 20261116093453.png",
