@@ -4,139 +4,83 @@
     "type": "split",
     "children": [
       {
-        "id": "7b83dee5caa7f3e1",
-        "type": "split",
+        "id": "79e5f08f2c613df7",
+        "type": "tabs",
         "children": [
           {
-            "id": "79e5f08f2c613df7",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "39a7a9545ce5370f",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "消化系统疾病.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "消化系统疾病"
-                }
+            "id": "39a7a9545ce5370f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "消化系统疾病.md",
+                "mode": "source",
+                "source": false
               },
-              {
-                "id": "e34d2b9d7a27aade",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "感染性疾病.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "感染性疾病"
-                }
-              },
-              {
-                "id": "f8f9cf60a71a8684",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "科研绘图.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "科研绘图"
-                }
-              },
-              {
-                "id": "4fa877b489570f1c",
-                "type": "leaf",
-                "state": {
-                  "type": "pdf",
-                  "state": {
-                    "file": "file:G:/大学/学习/专业课程/学中/感染/传染病学学习指导与习题集-第3版-全书签.pdf",
-                    "page": 62,
-                    "left": 40,
-                    "top": -17,
-                    "zoom": 0.8924418604651163
-                  },
-                  "icon": "lucide-file-text",
-                  "title": "传染病学学习指导与习题集-第3版-全书签"
-                }
-              }
-            ],
-            "currentTab": 3
+              "icon": "lucide-file",
+              "title": "消化系统疾病"
+            }
           },
           {
-            "id": "3ab2a6b4c6fc90f0",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "0b43e3436b3322e0",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "脊髓灰质炎.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "脊髓灰质炎"
-                }
+            "id": "e34d2b9d7a27aade",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "感染性疾病.md",
+                "mode": "source",
+                "source": false
               },
-              {
-                "id": "6fba024ff76b8ed5",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "放射性核素治疗.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "放射性核素治疗"
-                }
+              "icon": "lucide-file",
+              "title": "感染性疾病"
+            }
+          },
+          {
+            "id": "f8f9cf60a71a8684",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "科研绘图.md",
+                "mode": "source",
+                "source": false
               },
-              {
-                "id": "5f2f362fb9ff0aeb",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "甲状腺肿瘤.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "甲状腺肿瘤"
-                }
+              "icon": "lucide-file",
+              "title": "科研绘图"
+            }
+          },
+          {
+            "id": "4fa877b489570f1c",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "file:G:/大学/学习/专业课程/学中/感染/传染病学学习指导与习题集-第3版-全书签.pdf",
+                "page": 62,
+                "left": 82,
+                "top": 33,
+                "zoom": 1.01
               },
-              {
-                "id": "757f0355040ca40b",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "弥漫性毒性甲状腺肿.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "弥漫性毒性甲状腺肿"
-                }
-              }
-            ],
-            "currentTab": 3
+              "icon": "lucide-file-text",
+              "title": "传染病学学习指导与习题集-第3版-全书签"
+            }
+          },
+          {
+            "id": "0b43e3436b3322e0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "脊髓灰质炎.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "脊髓灰质炎"
+            }
           }
         ],
-        "direction": "horizontal"
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -216,7 +160,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "弥漫性毒性甲状腺肿.md",
+                "file": "脊髓灰质炎.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -278,7 +222,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "弥漫性毒性甲状腺肿.md",
+                "file": "脊髓灰质炎.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -378,20 +322,25 @@
       "obsidian-local-images-plus:Local Images Plus  0.16.4\r\nLocalize attachments (plugin folder)": false
     }
   },
-  "active": "757f0355040ca40b",
+  "active": "0b43e3436b3322e0",
   "lastOpenFiles": [
-    "内分泌系统疾病.md",
-    "弥漫性毒性甲状腺肿.md",
+    "file:G:/大学/学习/专业课程/学中/感染/传染病学学习指导与习题集-第3版-全书签.pdf",
+    "脊髓灰质炎.md",
+    "放射性核素治疗.md",
     "甲状腺肿瘤.md",
+    "内分泌系统疾病.md",
+    "Plummer病.md",
+    "弥漫性毒性甲状腺肿.md",
+    "Graves 病.md",
+    "头颈部影像.md",
+    "甲亢.md",
+    "核医学Ⅱ教学大纲.md",
+    "弥漫性非毒性甲状腺肿.md",
+    "胰岛细胞瘤.md",
     "结节性甲状腺肿.md",
     "甲状腺炎.md",
-    "放射性核素治疗.md",
-    "Graves 病.md",
-    "脊髓灰质炎.md",
     "放射性药物.md",
-    "核医学Ⅱ教学大纲.md",
     "病毒.md",
-    "file:G:/大学/学习/专业课程/学中/感染/传染病学学习指导与习题集-第3版-全书签.pdf",
     "呼吸困难.md",
     "呼吸抑制.md",
     "diary/NOTES/2026-11-24 Tue.md",
@@ -401,14 +350,8 @@
     "超声检查.md",
     "肝功能检查.md",
     "5-HT.md",
-    "抗抑郁药.md",
-    "动画.md",
-    "EBV.md",
-    "巨细胞病毒.md",
-    "戊肝.md",
     "attachments/d582d1226ff035ae642dba14d04c8341_MD5.jpg",
     "attachments/Pasted image 20261123212240.png",
-    "丙肝.md",
     "attachments/ffa9d894608892d9a9c7ba7e9e1a5236_MD5.apng",
     "attachments/d22eeb711a5400fc1ea4312929bda19a_MD5.apng",
     "attachments/Pasted image 20261116093453.png",
