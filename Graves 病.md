@@ -4,6 +4,7 @@ aliases:
   - Graves病
   - Graves眼病
   - Grave's病
+  - GD
 tags:
   - imaging
 ---
