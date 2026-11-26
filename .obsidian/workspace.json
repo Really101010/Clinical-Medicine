@@ -78,7 +78,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -320,10 +320,11 @@
       "obsidian-local-images-plus:Local Images Plus  0.16.4\r\nLocalize attachments (plugin folder)": false
     }
   },
-  "active": "0235d9e3cc69d8f8",
+  "active": "e29bb6be4a4688da",
   "lastOpenFiles": [
-    "抗生素.md",
     "化疗药.md",
+    "抗生素.md",
+    "喹诺酮.md",
     "file:G:/大学/学习/专业课程/学中/感染/传染病学学习指导与习题集-第3版-全书签.pdf",
     "腹腔防粘连材料.md",
     "attachments/腹腔防粘连材料/Bioinspired Janus Mesh with Mechanical Support and Side-specific Biofunctions for Hernia Repair.pdf",
@@ -351,7 +352,6 @@
     "胰岛细胞瘤.md",
     "结节性甲状腺肿.md",
     "甲状腺炎.md",
-    "放射性药物.md",
     "attachments/d582d1226ff035ae642dba14d04c8341_MD5.jpg",
     "attachments/Pasted image 20261123212240.png",
     "attachments/ffa9d894608892d9a9c7ba7e9e1a5236_MD5.apng",
