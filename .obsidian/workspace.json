@@ -64,6 +64,20 @@
             }
           },
           {
+            "id": "0ead3bc3579c1eb4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "钩体病.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "钩体病"
+            }
+          },
+          {
             "id": "0235d9e3cc69d8f8",
             "type": "leaf",
             "state": {
@@ -80,7 +94,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -322,11 +336,11 @@
       "obsidian-local-images-plus:Local Images Plus  0.16.4\r\nLocalize attachments (plugin folder)": false
     }
   },
-  "active": "7e8c3b46fd3fdf9e",
+  "active": "0ead3bc3579c1eb4",
   "lastOpenFiles": [
+    "流脑.md",
     "file:G:/大学/学习/专业课程/学中/感染/传染病学学习指导与习题集-第3版-全书签.pdf",
     "脑疝.md",
-    "流脑.md",
     "细菌性痢疾.md",
     "霍乱.md",
     "急性肾功能衰竭.md",
