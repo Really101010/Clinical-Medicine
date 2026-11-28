@@ -38,17 +38,17 @@
             }
           },
           {
-            "id": "f8f9cf60a71a8684",
+            "id": "78f3558772eadf3e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "病毒性肝炎.md",
+                "file": "流感.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "病毒性肝炎"
+              "title": "流感"
             }
           }
         ],
@@ -132,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "病毒性肝炎.md",
+                "file": "流感.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -194,7 +194,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "病毒性肝炎.md",
+                "file": "流感.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -295,10 +295,14 @@
       "obsidian-local-images-plus:Local Images Plus  0.16.4\r\nLocalize attachments (plugin folder)": false
     }
   },
-  "active": "f8f9cf60a71a8684",
+  "active": "78f3558772eadf3e",
   "lastOpenFiles": [
-    "拉米夫定.md",
+    "发热.md",
+    "流感.md",
+    "感染性疾病（双语）大纲.md",
+    "消化系统疾病.md",
     "病毒性肝炎.md",
+    "拉米夫定.md",
     "乙肝.md",
     "attachments/3f933a45eb5c589967129afc0cf7a32b_MD5.jpg",
     "attachments/Pasted image 20261128170611.png",
@@ -322,15 +326,11 @@
     "AIDS.md",
     "file:G:/大学/学习/专业课程/学中/感染/传染病学学习指导与习题集-第3版-全书签.pdf",
     "肝细胞癌.md",
-    "感染性疾病（双语）大纲.md",
     "传染病.md",
     "布鲁菌病.md",
     "四环素类与氯霉素.md",
     "四环素.md",
     "磺胺药.md",
-    "人工合成抗菌药.md",
-    "喹诺酮.md",
-    "化疗药.md",
     "attachments/腹腔防粘连材料/Bioinspired Janus Mesh with Mechanical Support and Side-specific Biofunctions for Hernia Repair.pdf",
     "attachments/腹腔防粘连材料/Bioinspired Janus Mesh with Mechanical Support and Side-specific Biofunctions for Hernia Repair.pdf.crdownload",
     "attachments/腹腔防粘连材料/A Bioinspired Defect-Tolerant Hydrogel.pdf",
