@@ -22,20 +22,6 @@
             }
           },
           {
-            "id": "e34d2b9d7a27aade",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "霍乱.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "霍乱"
-            }
-          },
-          {
             "id": "f8f9cf60a71a8684",
             "type": "leaf",
             "state": {
@@ -55,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "布鲁菌病.md",
+                "file": "感染性疾病（双语）大纲.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "布鲁菌病"
+              "title": "感染性疾病（双语）大纲"
             }
           },
           {
@@ -71,16 +57,16 @@
               "state": {
                 "file": "file:G:/大学/学习/专业课程/学中/感染/传染病学学习指导与习题集-第3版-全书签.pdf",
                 "page": 71,
-                "left": 716,
-                "top": -17,
-                "zoom": 0.8924418604651163
+                "left": 713,
+                "top": -31,
+                "zoom": 0.48255813953488375
               },
               "icon": "lucide-file-text",
               "title": "传染病学学习指导与习题集-第3版-全书签"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -160,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "手足口病.md",
+                "file": "感染性疾病（双语）大纲.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -222,7 +208,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "手足口病.md",
+                "file": "感染性疾病（双语）大纲.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -295,7 +281,8 @@
               "title": "Calendar"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -324,9 +311,14 @@
   },
   "active": "a1d3fec32b8bb3a1",
   "lastOpenFiles": [
-    "file:G:/大学/学习/专业课程/学中/感染/传染病学学习指导与习题集-第3版-全书签.pdf",
-    "磺胺药.md",
+    "科研绘图.md",
+    "霍乱.md",
+    "感染性疾病（双语）大纲.md",
     "布鲁菌病.md",
+    "file:G:/大学/学习/专业课程/学中/感染/传染病学学习指导与习题集-第3版-全书签.pdf",
+    "四环素类与氯霉素.md",
+    "四环素.md",
+    "磺胺药.md",
     "人工合成抗菌药.md",
     "喹诺酮.md",
     "化疗药.md",
@@ -346,10 +338,6 @@
     "奎尼丁.md",
     "局部麻醉药.md",
     "抗帕金森病药与抗老年痴呆药.md",
-    "抗癫痫药与抗惊厥药.md",
-    "中枢神经递质与受体.md",
-    "抗真菌药.md",
-    "抗恶性肿瘤药.md",
     "attachments/腹腔防粘连材料/Bioinspired Janus Mesh with Mechanical Support and Side-specific Biofunctions for Hernia Repair.pdf",
     "attachments/腹腔防粘连材料/Bioinspired Janus Mesh with Mechanical Support and Side-specific Biofunctions for Hernia Repair.pdf.crdownload",
     "attachments/腹腔防粘连材料/A Bioinspired Defect-Tolerant Hydrogel.pdf",

@@ -7,4 +7,5 @@ tags:
 ### topical
 ###### delivery
 > *Seifelnasr A, Si XA, Xi J. Visualization and Estimation of Nasal Spray Delivery to Olfactory Mucosa in an Image-Based Transparent Nasal Model. Pharmaceutics. 2023 Jun 5;15(6):1657. doi: 10.3390/pharmaceutics15061657. PMID: 37376105; PMCID: PMC10303528.* 各种方式的鼻喷激素到达OL（嗅觉）区域的模型
+
 Corticosteroid-eluting stents (CESs)
