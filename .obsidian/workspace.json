@@ -8,6 +8,22 @@
         "type": "tabs",
         "children": [
           {
+            "id": "0235d9e3cc69d8f8",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "file:G:/大学/学习/专业课程/学中/感染/传染病学学习指导与习题集-第3版-全书签.pdf",
+                "page": 71,
+                "left": 710,
+                "top": -17,
+                "zoom": 0.8924418604651163
+              },
+              "icon": "lucide-file-text",
+              "title": "传染病学学习指导与习题集-第3版-全书签"
+            }
+          },
+          {
             "id": "39a7a9545ce5370f",
             "type": "leaf",
             "state": {
@@ -41,32 +57,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "甲肝.md",
+                "file": "病毒性肝炎.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "甲肝"
+              "title": "病毒性肝炎"
             }
           },
           {
-            "id": "0235d9e3cc69d8f8",
+            "id": "79c40525d2e30250",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "file:G:/大学/学习/专业课程/学中/感染/传染病学学习指导与习题集-第3版-全书签.pdf",
-                "page": 71,
-                "left": 713,
-                "top": -31,
-                "zoom": 0.48255813953488375
+                "file": "AIDS.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "传染病学学习指导与习题集-第3版-全书签"
+              "icon": "lucide-file",
+              "title": "AIDS"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -146,7 +160,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "甲肝.md",
+                "file": "AIDS.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -208,7 +222,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "甲肝.md",
+                "file": "AIDS.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -309,14 +323,20 @@
       "obsidian-local-images-plus:Local Images Plus  0.16.4\r\nLocalize attachments (plugin folder)": false
     }
   },
-  "active": "a1d3fec32b8bb3a1",
+  "active": "79c40525d2e30250",
   "lastOpenFiles": [
     "病毒性肝炎.md",
-    "霍乱.md",
+    "丁肝.md",
+    "丙肝.md",
+    "乙肝.md",
+    "file:G:/大学/学习/专业课程/学中/感染/传染病学学习指导与习题集-第3版-全书签.pdf",
+    "肝细胞癌.md",
+    "甲肝.md",
     "感染性疾病（双语）大纲.md",
+    "传染病.md",
+    "霍乱.md",
     "科研绘图.md",
     "布鲁菌病.md",
-    "file:G:/大学/学习/专业课程/学中/感染/传染病学学习指导与习题集-第3版-全书签.pdf",
     "四环素类与氯霉素.md",
     "四环素.md",
     "磺胺药.md",
@@ -332,12 +352,6 @@
     "可待因.md",
     "吲达帕胺.md",
     "氢氯噻嗪.md",
-    "维拉帕米.md",
-    "胺碘酮.md",
-    "美西律.md",
-    "普鲁卡因胺.md",
-    "奎尼丁.md",
-    "局部麻醉药.md",
     "attachments/腹腔防粘连材料/Bioinspired Janus Mesh with Mechanical Support and Side-specific Biofunctions for Hernia Repair.pdf",
     "attachments/腹腔防粘连材料/Bioinspired Janus Mesh with Mechanical Support and Side-specific Biofunctions for Hernia Repair.pdf.crdownload",
     "attachments/腹腔防粘连材料/A Bioinspired Defect-Tolerant Hydrogel.pdf",
