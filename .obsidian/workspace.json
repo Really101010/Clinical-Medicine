@@ -108,7 +108,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -188,7 +188,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "水痘.md",
+                "file": "带状疱疹.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -250,7 +250,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "水痘.md",
+                "file": "带状疱疹.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -351,11 +351,11 @@
       "obsidian-local-images-plus:Local Images Plus  0.16.4\r\nLocalize attachments (plugin folder)": false
     }
   },
-  "active": "116ca7bebf60f757",
+  "active": "dec07c1d821cf672",
   "lastOpenFiles": [
+    "水痘.md",
     "水痘-带状疱疹病毒.md",
     "带状疱疹.md",
-    "水痘.md",
     "麻疹.md",
     "皮疹.md",
     "感染性疾病（双语）大纲.md",
