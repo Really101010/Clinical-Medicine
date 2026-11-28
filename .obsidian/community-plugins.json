@@ -5,5 +5,6 @@
   "style-text",
   "calendar",
   "pdf-plus",
-  "obsidian-local-images-plus"
+  "obsidian-local-images-plus",
+  "obsidian-local-rest-api"
 ]
