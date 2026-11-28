@@ -71,12 +71,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AIDS.md",
+                "file": "霍乱.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "AIDS"
+              "title": "霍乱"
             }
           }
         ],
@@ -160,7 +160,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AIDS.md",
+                "file": "霍乱.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -222,7 +222,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AIDS.md",
+                "file": "霍乱.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -325,6 +325,7 @@
   },
   "active": "79c40525d2e30250",
   "lastOpenFiles": [
+    "AIDS.md",
     "病毒性肝炎.md",
     "丁肝.md",
     "丙肝.md",
@@ -351,7 +352,6 @@
     "甲硝唑.md",
     "可待因.md",
     "吲达帕胺.md",
-    "氢氯噻嗪.md",
     "attachments/腹腔防粘连材料/Bioinspired Janus Mesh with Mechanical Support and Side-specific Biofunctions for Hernia Repair.pdf",
     "attachments/腹腔防粘连材料/Bioinspired Janus Mesh with Mechanical Support and Side-specific Biofunctions for Hernia Repair.pdf.crdownload",
     "attachments/腹腔防粘连材料/A Bioinspired Defect-Tolerant Hydrogel.pdf",
