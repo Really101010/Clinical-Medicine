@@ -64,31 +64,17 @@
             }
           },
           {
-            "id": "41e8918ae2fd5172",
+            "id": "a1d3fec32b8bb3a1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "休克.md",
+                "file": "布鲁菌病.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "休克"
-            }
-          },
-          {
-            "id": "6d72140098a23d61",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "全身炎症反应综合征.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "全身炎症反应综合征"
+              "title": "布鲁菌病"
             }
           },
           {
@@ -108,7 +94,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -350,11 +336,20 @@
       "obsidian-local-images-plus:Local Images Plus  0.16.4\r\nLocalize attachments (plugin folder)": false
     }
   },
-  "active": "41e8918ae2fd5172",
+  "active": "7e8c3b46fd3fdf9e",
   "lastOpenFiles": [
+    "呼吸衰竭.md",
+    "DIC.md",
+    "缺氧.md",
+    "酸碱平衡紊乱.md",
+    "钾代谢障碍.md",
+    "水钠代谢紊乱.md",
+    "病理生理学绪论.md",
+    "布鲁菌病.md",
     "感染性休克.md",
-    "败血症.md",
     "全身炎症反应综合征.md",
+    "休克.md",
+    "败血症.md",
     "成人Still病.md",
     "流脑.md",
     "file:G:/大学/学习/专业课程/学中/感染/传染病学学习指导与习题集-第3版-全书签.pdf",
@@ -370,18 +365,9 @@
     "青霉素.md",
     "氧氟沙星.md",
     "抗菌药物.md",
-    "抗生素.md",
-    "阿莫西林.md",
-    "氨苄西林.md",
-    "面容.md",
-    "科研绘图.md",
-    "感染性疾病（双语）大纲.md",
-    "腹腔防粘连材料.md",
     "attachments/腹腔防粘连材料/Bioinspired Janus Mesh with Mechanical Support and Side-specific Biofunctions for Hernia Repair.pdf",
-    "手足口病.md",
     "attachments/腹腔防粘连材料/Bioinspired Janus Mesh with Mechanical Support and Side-specific Biofunctions for Hernia Repair.pdf.crdownload",
     "attachments/腹腔防粘连材料/A Bioinspired Defect-Tolerant Hydrogel.pdf",
-    "柯萨奇病毒.md",
     "attachments/d582d1226ff035ae642dba14d04c8341_MD5.jpg",
     "attachments/Pasted image 20261123212240.png",
     "attachments/ffa9d894608892d9a9c7ba7e9e1a5236_MD5.apng",
